@@ -1,5 +1,11 @@
 # Weather Stations
 A weather station is a location where meteorological data is measured. Most countries operate public weather station networks in order to monitor weather and climate. This repository provides a list of public weather stations everyone can contribute to. The data is maintained by the [Meteostat project](https://meteostat.net/en).
+
+You can download the list of weather stations in JSON format:
+* [**Full dump**](https://bulk.meteostat.net/stations/full.json.gz) with Meteostat inventory data
+* [**Lite dump**](https://bulk.meteostat.net/stations/lite.json.gz) without historical locations and inventory data
+
+Additional information about the Meteostat bulk data interface is available in the [documentation](https://dev.meteostat.net/bulk).
 ## Data Structure
 The `stations` directory contains one JSON file per weather station. The files are named after the station's Meteostat ID and hold one JSON object which describes the respective weather station.
 ### Properties
@@ -7,7 +13,7 @@ Each weather station must provide the following properties. Missing values are d
 * `id`: The Meteostat ID of the weather station
 * `name`: Object containing the name of the weather station in different languages
 * `country`: ISO 3166-1 alpha-2 country code of the weather station (e.g. CA for Canada)
-* `region`: The state or region code of the weather station (e.g. TX for Texas)
+* `region`: The ISO 3166-2 state or region code of the weather station (e.g. TX for Texas)
 * `identifiers`: Object containing different identifiers of the weather station
     * `national`: The national ID of the weather station
     * `wmo`: The WMO ID of the weather station
