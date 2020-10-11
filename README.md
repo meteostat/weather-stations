@@ -1,9 +1,9 @@
 # Weather Stations
 A weather station is a location where meteorological data is measured. Most countries operate public weather station networks in order to monitor weather and climate. This repository provides a list of public weather stations everyone can contribute to. The data is maintained by the [Meteostat project](https://meteostat.net/en).
 
-You can download the list of weather stations in JSON format:
-* [**Full dump**](https://bulk.meteostat.net/stations/full.json.gz) with Meteostat inventory data
-* [**Lite dump**](https://bulk.meteostat.net/stations/lite.json.gz) without historical locations and inventory data
+You can download the list of weather stations, including Meteostat inventory data, in JSON format:
+* [**Full dump**](https://bulk.meteostat.net/stations/full.json.gz) with all weather stations
+* [**Lite dump**](https://bulk.meteostat.net/stations/lite.json.gz) with weather stations which did report at least one observation to Meteostat
 
 Additional information about the Meteostat bulk data interface is available in the [documentation](https://dev.meteostat.net/bulk).
 ## Data Structure
