@@ -1,10 +1,12 @@
 {
     "id": "01310",
     "name": {
-        "en": "Floro"
+        "de": "Floro Flughafen",
+        "en": "Floro Airport",
+        "no": "Floro Flughavn"
     },
     "country": "NO",
-    "region": null,
+    "region": "46",
     "identifiers": {
         "national": null,
         "wmo": "01310",
@@ -18,7 +20,7 @@
     "location": {
         "latitude": 61.5833,
         "longitude": 5.0333,
-        "elevation": 0
+        "elevation": 11
     },
     "timezone": "Europe\/Oslo",
     "history": []
