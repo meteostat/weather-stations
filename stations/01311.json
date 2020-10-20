@@ -1,10 +1,12 @@
 {
     "id": "01311",
     "name": {
-        "en": "Bergen \/ Flesland"
+        "de": "Bergen Flughafen",
+        "en": "Bergen Airport",
+        "no": "Bergen Flughavn"
     },
     "country": "NO",
-    "region": null,
+    "region": "46",
     "identifiers": {
         "national": null,
         "wmo": "01311",
@@ -18,7 +20,7 @@
     "location": {
         "latitude": 60.2833,
         "longitude": 5.2333,
-        "elevation": 5
+        "elevation": 52
     },
     "timezone": "Europe\/Oslo",
     "history": []
