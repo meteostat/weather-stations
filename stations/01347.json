@@ -1,10 +1,12 @@
 {
     "id": "01347",
     "name": {
-        "en": "Sogndal \/ Haukasen"
+        "de": "Sogndal Flughafen",
+        "en": "Sogndal Airport",
+        "no": "Sogndal Flughavn"
     },
     "country": "NO",
-    "region": null,
+    "region": "46",
     "identifiers": {
         "national": null,
         "wmo": "01347",
@@ -18,7 +20,7 @@
     "location": {
         "latitude": 61.15,
         "longitude": 7.1333,
-        "elevation": 49
+        "elevation": 498
     },
     "timezone": "Europe\/Oslo",
     "history": []
