@@ -40,8 +40,8 @@ Each weather station must provide the following properties. Missing values are d
       * `start`: First day (YYYY-MM-DD) of daily data (_String_)
       * `end`: Last day (YYYY-MM-DD) of daily data (_String_)
     * `monthly`: Monthly inventory data (_Object_)
-      * `start`: First day (YYYY-MM-DD) of monthly data (_String_)
-      * `end`: Last day (YYYY-MM-DD) of monthly data (_String_)
+      * `start`: First year (YYYY) of monthly data (_String_)
+      * `end`: Last year (YYYY) of monthly data (_String_)
 
 ## Formatting
 
