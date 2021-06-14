@@ -25,23 +25,12 @@ Each weather station must provide the following properties. Missing values are d
     * `national`: National ID (_String_)
     * `wmo`: WMO ID (_String_)
     * `icao`: ICAO ID (_String_)
-    * `iata`: IATA ID (_String_)
 * `location`: Geographic location (_Object_)
     * `latitude`: Latitude (_Float_)
     * `longitude`: Longitude (_Float_)
     * `elevation`: Elevation in meters (_Integer_)
 * `timezone`: Time zone (_String_)
 * `history`: Previous locations, identifiers or names (_Array_)
-* `inventory`: Available data by frequency (_Object_)
-    * `hourly`: Hourly inventory data (_Object_)
-      * `start`: First day (YYYY-MM-DD) of hourly data (_String_)
-      * `end`: Last day (YYYY-MM-DD) of hourly data (_String_)
-    * `daily`: Daily inventory data (_Object_)
-      * `start`: First day (YYYY-MM-DD) of daily data (_String_)
-      * `end`: Last day (YYYY-MM-DD) of daily data (_String_)
-    * `monthly`: Monthly inventory data (_Object_)
-      * `start`: First year (YYYY) of monthly data (_String_)
-      * `end`: Last year (YYYY) of monthly data (_String_)
 
 ## Formatting
 
