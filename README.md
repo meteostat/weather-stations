@@ -30,7 +30,6 @@ Each weather station must provide the following properties. Missing values are d
     * `longitude`: Longitude (_Float_)
     * `elevation`: Elevation in meters (_Integer_)
 * `timezone`: Time zone (_String_)
-* `history`: Previous locations, identifiers or names (_Array_)
 
 ## Formatting
 
