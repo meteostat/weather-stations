@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LENA",
-        "iata": null
+        "icao": "LENA"
     },
     "location": {
         "latitude": 42.0228,
         "longitude": 0.4822,
         "elevation": 747
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

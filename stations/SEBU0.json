@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SEBU",
-        "iata": null
+        "icao": "SEBU"
     },
     "location": {
         "latitude": -2.1914,
         "longitude": -76.7839,
         "elevation": 274
     },
-    "timezone": "America/Guayaquil",
-    "history": []
+    "timezone": "America/Guayaquil"
 }

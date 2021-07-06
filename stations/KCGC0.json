@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "00235",
-        "usaf": "720655",
-        "mosmix": null,
-        "icao": "KCGC",
-        "iata": null
+        "icao": "KCGC"
     },
     "location": {
         "latitude": 28.8673,
         "longitude": -82.5713,
         "elevation": 2
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

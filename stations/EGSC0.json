@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "035715",
-        "mosmix": null,
-        "icao": "EGSC",
-        "iata": "CBG"
+        "icao": "EGSC"
     },
     "location": {
         "latitude": 52.2,
         "longitude": 0.1833,
         "elevation": 15
     },
-    "timezone": "Europe/London",
-    "history": []
+    "timezone": "Europe/London"
 }

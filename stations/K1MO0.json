@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "K1MO",
-        "iata": null
+        "icao": "K1MO"
     },
     "location": {
         "latitude": 37.1207,
         "longitude": -92.3112,
         "elevation": 450
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

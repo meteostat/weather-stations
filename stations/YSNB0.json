@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YSNB",
-        "iata": "SNB"
+        "icao": "YSNB"
     },
     "location": {
         "latitude": -11.4228,
         "longitude": 130.654,
         "elevation": 53
     },
-    "timezone": "Australia/Darwin",
-    "history": []
+    "timezone": "Australia/Darwin"
 }

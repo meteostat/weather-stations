@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "60511",
-        "ghcn": "AGM00060511",
-        "wban": null,
-        "usaf": "605110",
-        "mosmix": null,
-        "icao": "DAOB",
-        "iata": "TID"
+        "icao": "DAOB"
     },
     "location": {
         "latitude": 35.25,
         "longitude": 1.4333,
         "elevation": 1127
     },
-    "timezone": "Africa/Algiers",
-    "history": []
+    "timezone": "Africa/Algiers"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LEBC",
-        "iata": null
+        "icao": "LEBC"
     },
     "location": {
         "latitude": 41.8077,
         "longitude": 3.0372,
         "elevation": 13
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

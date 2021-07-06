@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "OPPC",
-        "iata": "PAJ"
+        "icao": "OPPC"
     },
     "location": {
         "latitude": 33.9021,
         "longitude": 70.0716,
         "elevation": 1768
     },
-    "timezone": "Asia/Karachi",
-    "history": []
+    "timezone": "Asia/Karachi"
 }

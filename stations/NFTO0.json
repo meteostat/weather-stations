@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NFTO",
-        "iata": "NFO"
+        "icao": "NFTO"
     },
     "location": {
         "latitude": -15.5708,
         "longitude": -175.633,
         "elevation": 49
     },
-    "timezone": "Pacific/Tongatapu",
-    "history": []
+    "timezone": "Pacific/Tongatapu"
 }

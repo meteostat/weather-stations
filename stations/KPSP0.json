@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "93138",
-        "usaf": "722868",
-        "mosmix": null,
-        "icao": "KPSP",
-        "iata": "PSP"
+        "icao": "KPSP"
     },
     "location": {
         "latitude": 33.8297,
         "longitude": -116.5067,
         "elevation": 145
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

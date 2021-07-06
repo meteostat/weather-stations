@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "91190",
-        "ghcn": "USW00022516",
-        "wban": "22516",
-        "usaf": "911900",
-        "mosmix": "91190",
-        "icao": "PHOG",
-        "iata": "OGG"
+        "icao": "PHOG"
     },
     "location": {
         "latitude": 20.9,
         "longitude": -156.4333,
         "elevation": 16
     },
-    "timezone": "Pacific/Honolulu",
-    "history": []
+    "timezone": "Pacific/Honolulu"
 }

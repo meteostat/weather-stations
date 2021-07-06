@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YFLI",
-        "iata": "FLS"
+        "icao": "YFLI"
     },
     "location": {
         "latitude": -40.0917,
         "longitude": 147.993,
         "elevation": 3
     },
-    "timezone": "Australia/Hobart",
-    "history": []
+    "timezone": "Australia/Hobart"
 }

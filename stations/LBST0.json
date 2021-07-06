@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LBST",
-        "iata": null
+        "icao": "LBST"
     },
     "location": {
         "latitude": 42.5403,
         "longitude": 24.8252,
         "elevation": 279
     },
-    "timezone": "Europe/Sofia",
-    "history": []
+    "timezone": "Europe/Sofia"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SMOL",
-        "iata": null
+        "icao": "SMOL"
     },
     "location": {
         "latitude": 3.1086,
         "longitude": -54.1086,
         "elevation": 156
     },
-    "timezone": "America/Cayenne",
-    "history": []
+    "timezone": "America/Cayenne"
 }

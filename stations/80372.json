@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80372",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "803720",
-        "mosmix": null,
-        "icao": "SKAS",
-        "iata": "PUU"
+        "icao": "SKAS"
     },
     "location": {
         "latitude": 0.5,
         "longitude": -76.5,
         "elevation": 254
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

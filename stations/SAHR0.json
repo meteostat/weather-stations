@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SAHR",
-        "iata": "GNR"
+        "icao": "SAHR"
     },
     "location": {
         "latitude": -39.0007,
         "longitude": -67.6205,
         "elevation": 260
     },
-    "timezone": "America/Argentina/Salta",
-    "history": []
+    "timezone": "America/Argentina/Salta"
 }

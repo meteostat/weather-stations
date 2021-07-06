@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LETI",
-        "iata": null
+        "icao": "LETI"
     },
     "location": {
         "latitude": 40.2439,
         "longitude": -4.7944,
         "elevation": 427
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

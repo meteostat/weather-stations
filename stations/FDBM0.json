@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FDBM",
-        "iata": null
+        "icao": "FDBM"
     },
     "location": {
         "latitude": -26.867,
         "longitude": 31.933,
         "elevation": 152
     },
-    "timezone": "Africa/Mbabane",
-    "history": []
+    "timezone": "Africa/Mbabane"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYHN",
-        "iata": "YHN"
+        "icao": "CYHN"
     },
     "location": {
         "latitude": 49.2,
         "longitude": -84.7667,
         "elevation": 335
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

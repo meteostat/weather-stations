@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "52203",
-        "ghcn": "CHM00052203",
-        "wban": null,
-        "usaf": "522030",
-        "mosmix": null,
-        "icao": "ZWHM",
-        "iata": "HMI"
+        "icao": "ZWHM"
     },
     "location": {
         "latitude": 42.8167,
         "longitude": 93.5167,
         "elevation": 739
     },
-    "timezone": "Asia/Urumqi",
-    "history": []
+    "timezone": "Asia/Urumqi"
 }

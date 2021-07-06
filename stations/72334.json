@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72334",
-        "ghcn": "USW00013893",
-        "wban": "13893",
-        "usaf": "723340",
-        "mosmix": "72334",
-        "icao": "KMEM",
-        "iata": "MEM"
+        "icao": "KMEM"
     },
     "location": {
         "latitude": 35.0333,
         "longitude": -89.9833,
         "elevation": 102
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

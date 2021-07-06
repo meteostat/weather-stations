@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KJRA",
-        "iata": null
+        "icao": "KJRA"
     },
     "location": {
         "latitude": 40.7545,
         "longitude": -74.0071,
         "elevation": 2
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

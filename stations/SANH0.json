@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SANH",
-        "iata": "RHD"
+        "icao": "SANH"
     },
     "location": {
         "latitude": -27.4737,
         "longitude": -64.9055,
         "elevation": 82
     },
-    "timezone": "America/Argentina/Cordoba",
-    "history": []
+    "timezone": "America/Argentina/Cordoba"
 }

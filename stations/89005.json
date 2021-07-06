@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "89005",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": -74.2,
         "longitude": -9.75,
         "elevation": 0
     },
-    "timezone": "Antarctica/South_Pole",
-    "history": []
+    "timezone": "Antarctica/South_Pole"
 }

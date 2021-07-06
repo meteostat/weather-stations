@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YMCO",
-        "iata": "XMC"
+        "icao": "YMCO"
     },
     "location": {
         "latitude": -37.5983,
         "longitude": 149.72,
         "elevation": 9
     },
-    "timezone": "Australia/Melbourne",
-    "history": []
+    "timezone": "Australia/Melbourne"
 }

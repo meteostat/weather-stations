@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KSTX",
-        "iata": null
+        "icao": "KSTX"
     },
     "location": {
         "latitude": 17.7016,
         "longitude": -64.8017,
         "elevation": 23
     },
-    "timezone": "America/St_Thomas",
-    "history": []
+    "timezone": "America/St_Thomas"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "11652",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "116520",
-        "mosmix": "11652",
-        "icao": "LKPD",
-        "iata": "PED"
+        "icao": "LKPD"
     },
     "location": {
         "latitude": 50.0167,
         "longitude": 15.7333,
         "elevation": 225
     },
-    "timezone": "Europe/Prague",
-    "history": []
+    "timezone": "Europe/Prague"
 }

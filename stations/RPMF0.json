@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "RPMF",
-        "iata": "BPH"
+        "icao": "RPMF"
     },
     "location": {
         "latitude": 8.2167,
         "longitude": 126.3167,
         "elevation": 3
     },
-    "timezone": "Asia/Manila",
-    "history": []
+    "timezone": "Asia/Manila"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SASL",
-        "iata": null
+        "icao": "SASL"
     },
     "location": {
         "latitude": -24.0192,
         "longitude": -66.7972,
         "elevation": 3962
     },
-    "timezone": "America/Argentina/Jujuy",
-    "history": []
+    "timezone": "America/Argentina/Jujuy"
 }

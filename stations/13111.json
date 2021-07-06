@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "13111",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 45.5667,
         "longitude": 14.25,
         "elevation": 413
     },
-    "timezone": "Europe/Bratislava",
-    "history": []
+    "timezone": "Europe/Bratislava"
 }

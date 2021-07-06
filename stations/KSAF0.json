@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "23049",
-        "usaf": "723656",
-        "mosmix": null,
-        "icao": "KSAF",
-        "iata": "SAF"
+        "icao": "KSAF"
     },
     "location": {
         "latitude": 35.6171,
         "longitude": -106.0894,
         "elevation": 1935
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MYBG",
-        "iata": "GHC"
+        "icao": "MYBG"
     },
     "location": {
         "latitude": 25.7383,
         "longitude": -77.8401,
         "elevation": 5
     },
-    "timezone": "America/Nassau",
-    "history": []
+    "timezone": "America/Nassau"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HUKM",
-        "iata": null
+        "icao": "HUKM"
     },
     "location": {
         "latitude": 0.5172,
         "longitude": 33.8769,
         "elevation": 1080
     },
-    "timezone": "Africa/Kampala",
-    "history": []
+    "timezone": "Africa/Kampala"
 }

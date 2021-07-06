@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "22524",
-        "usaf": "911905",
-        "mosmix": null,
-        "icao": "PHNY",
-        "iata": "LNY"
+        "icao": "PHNY"
     },
     "location": {
         "latitude": 20.7856,
         "longitude": -156.9514,
         "elevation": 399
     },
-    "timezone": "Pacific/Honolulu",
-    "history": []
+    "timezone": "Pacific/Honolulu"
 }

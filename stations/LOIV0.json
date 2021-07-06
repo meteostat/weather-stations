@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LOIV",
-        "iata": null
+        "icao": "LOIV"
     },
     "location": {
         "latitude": 47.1625,
         "longitude": 10.5931,
         "elevation": 776
     },
-    "timezone": "Europe/Vienna",
-    "history": []
+    "timezone": "Europe/Vienna"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "10702",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "107275",
-        "mosmix": null,
-        "icao": "EDSB",
-        "iata": "FKB"
+        "icao": "EDSB"
     },
     "location": {
         "latitude": 48.7847,
         "longitude": 8.082,
         "elevation": 125
     },
-    "timezone": "Europe/Berlin",
-    "history": []
+    "timezone": "Europe/Berlin"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YRTP",
-        "iata": "RTP"
+        "icao": "YRTP"
     },
     "location": {
         "latitude": -15.6433,
         "longitude": 141.843,
         "elevation": 5
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

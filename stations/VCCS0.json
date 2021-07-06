@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VCCS",
-        "iata": "GIU"
+        "icao": "VCCS"
     },
     "location": {
         "latitude": 7.9567,
         "longitude": 80.7285,
         "elevation": 192
     },
-    "timezone": "Asia/Colombo",
-    "history": []
+    "timezone": "Asia/Colombo"
 }

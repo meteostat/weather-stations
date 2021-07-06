@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72223",
-        "ghcn": "USW00013894",
-        "wban": "13894",
-        "usaf": "722230",
-        "mosmix": "72223",
-        "icao": "KMOB",
-        "iata": "MOB"
+        "icao": "KMOB"
     },
     "location": {
         "latitude": 30.6833,
         "longitude": -88.0667,
         "elevation": 66
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

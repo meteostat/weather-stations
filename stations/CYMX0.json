@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "719050",
-        "mosmix": null,
-        "icao": "CYMX",
-        "iata": "YMX"
+        "icao": "CYMX"
     },
     "location": {
         "latitude": 45.6667,
         "longitude": -74.0333,
         "elevation": 82
     },
-    "timezone": "America/Montreal",
-    "history": []
+    "timezone": "America/Montreal"
 }

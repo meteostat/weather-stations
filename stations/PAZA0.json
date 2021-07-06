@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PAZA",
-        "iata": null
+        "icao": "PAZA"
     },
     "location": {
         "latitude": 61.2297,
         "longitude": -149.7809,
         "elevation": 55
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

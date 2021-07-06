@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZPB",
-        "iata": "ZPB"
+        "icao": "CZPB"
     },
     "location": {
         "latitude": 53.8911,
         "longitude": -92.1964,
         "elevation": 267
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

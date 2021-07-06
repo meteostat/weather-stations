@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SAEA",
-        "iata": null
+        "icao": "SAEA"
     },
     "location": {
         "latitude": -37.4008,
         "longitude": -64.6128,
         "elevation": 277
     },
-    "timezone": "America/Argentina/Salta",
-    "history": []
+    "timezone": "America/Argentina/Salta"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "86011",
-        "ghcn": "PAM00086011",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": -19.5333,
         "longitude": -59.3667,
         "elevation": 150
     },
-    "timezone": "America/Asuncion",
-    "history": []
+    "timezone": "America/Asuncion"
 }

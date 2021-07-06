@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "64706",
-        "usaf": "725175",
-        "mosmix": null,
-        "icao": "KIDI",
-        "iata": null
+        "icao": "KIDI"
     },
     "location": {
         "latitude": 40.6322,
         "longitude": -79.1055,
         "elevation": 428
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

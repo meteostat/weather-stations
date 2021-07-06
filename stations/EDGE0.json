@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EDGE",
-        "iata": "EIB"
+        "icao": "EDGE"
     },
     "location": {
         "latitude": 50.9917,
         "longitude": 10.4819,
         "elevation": 334
     },
-    "timezone": "Europe/Berlin",
-    "history": []
+    "timezone": "Europe/Berlin"
 }

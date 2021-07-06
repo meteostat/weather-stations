@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YCBP",
-        "iata": "CPD"
+        "icao": "YCBP"
     },
     "location": {
         "latitude": -29.04,
         "longitude": 134.721,
         "elevation": 226
     },
-    "timezone": "Australia/Adelaide",
-    "history": []
+    "timezone": "Australia/Adelaide"
 }

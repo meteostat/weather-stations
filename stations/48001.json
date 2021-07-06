@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "48001",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "480010",
-        "mosmix": null,
-        "icao": "VBPT",
-        "iata": "PUT"
+        "icao": "VBPT"
     },
     "location": {
         "latitude": 27.3333,
         "longitude": 97.4167,
         "elevation": 409
     },
-    "timezone": "Asia/Rangoon",
-    "history": []
+    "timezone": "Asia/Rangoon"
 }

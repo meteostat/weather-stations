@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EDON",
-        "iata": null
+        "icao": "EDON"
     },
     "location": {
         "latitude": 52.6131,
         "longitude": 14.2428,
         "elevation": 12
     },
-    "timezone": "Europe/Berlin",
-    "history": []
+    "timezone": "Europe/Berlin"
 }

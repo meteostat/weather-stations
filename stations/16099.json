@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "16099",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "160990",
-        "mosmix": null,
-        "icao": "LIPH",
-        "iata": "TSF"
+        "icao": "LIPH"
     },
     "location": {
         "latitude": 45.65,
         "longitude": 12.1833,
         "elevation": 18
     },
-    "timezone": "Europe/Rome",
-    "history": []
+    "timezone": "Europe/Rome"
 }

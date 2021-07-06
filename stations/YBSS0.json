@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YBSS",
-        "iata": null
+        "icao": "YBSS"
     },
     "location": {
         "latitude": -37.7333,
         "longitude": 144.422,
         "elevation": 48
     },
-    "timezone": "Australia/Melbourne",
-    "history": []
+    "timezone": "Australia/Melbourne"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SHET",
-        "iata": null
+        "icao": "SHET"
     },
     "location": {
         "latitude": -35.7022,
         "longitude": -71.5722,
         "elevation": 165
     },
-    "timezone": "America/Santiago",
-    "history": []
+    "timezone": "America/Santiago"
 }

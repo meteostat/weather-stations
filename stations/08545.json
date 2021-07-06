@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "08545",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "085450",
-        "mosmix": "08545",
-        "icao": "LPPR",
-        "iata": "OPO"
+        "icao": "LPPR"
     },
     "location": {
         "latitude": 41.2333,
         "longitude": -8.6833,
         "elevation": 69
     },
-    "timezone": "Europe/Lisbon",
-    "history": []
+    "timezone": "Europe/Lisbon"
 }

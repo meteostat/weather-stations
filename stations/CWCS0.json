@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "716245",
-        "mosmix": null,
-        "icao": "CWCS",
-        "iata": null
+        "icao": "CWCS"
     },
     "location": {
         "latitude": 45.4167,
         "longitude": -73.5667,
         "elevation": 17
     },
-    "timezone": "America/Montreal",
-    "history": []
+    "timezone": "America/Montreal"
 }

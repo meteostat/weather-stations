@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72317",
-        "ghcn": "USW00013723",
-        "wban": "13723",
-        "usaf": "723170",
-        "mosmix": null,
-        "icao": "KGSO",
-        "iata": "GSO"
+        "icao": "KGSO"
     },
     "location": {
         "latitude": 36.1,
         "longitude": -79.95,
         "elevation": 282
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

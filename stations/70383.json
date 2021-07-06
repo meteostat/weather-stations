@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70383",
-        "ghcn": "USC00500310",
-        "wban": "25310",
-        "usaf": "703830",
-        "mosmix": null,
-        "icao": "PAGN",
-        "iata": "AGN"
+        "icao": "PAGN"
     },
     "location": {
         "latitude": 57.5,
         "longitude": -134.5833,
         "elevation": 0
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HAMO",
-        "iata": "OTA"
+        "icao": "HAMO"
     },
     "location": {
         "latitude": 11.0667,
         "longitude": 37.8833,
         "elevation": 2400
     },
-    "timezone": "Africa/Addis_Ababa",
-    "history": []
+    "timezone": "Africa/Addis_Ababa"
 }

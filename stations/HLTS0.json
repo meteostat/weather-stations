@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HLTS",
-        "iata": null
+        "icao": "HLTS"
     },
     "location": {
         "latitude": 28.5867,
         "longitude": 19.3031,
         "elevation": 156
     },
-    "timezone": "Africa/Tripoli",
-    "history": []
+    "timezone": "Africa/Tripoli"
 }

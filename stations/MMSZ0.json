@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MMSZ",
-        "iata": "SCX"
+        "icao": "MMSZ"
     },
     "location": {
         "latitude": 16.1667,
         "longitude": -95.2,
         "elevation": 0
     },
-    "timezone": "America/Mexico_City",
-    "history": []
+    "timezone": "America/Mexico_City"
 }

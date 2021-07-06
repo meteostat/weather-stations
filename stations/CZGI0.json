@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZGI",
-        "iata": "ZGI"
+        "icao": "CZGI"
     },
     "location": {
         "latitude": 54.8397,
         "longitude": -94.0786,
         "elevation": 191
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

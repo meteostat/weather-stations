@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FMSB",
-        "iata": "WBO"
+        "icao": "FMSB"
     },
     "location": {
         "latitude": -21.6,
         "longitude": 45.133,
         "elevation": 250
     },
-    "timezone": "Indian/Antananarivo",
-    "history": []
+    "timezone": "Indian/Antananarivo"
 }

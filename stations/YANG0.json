@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YANG",
-        "iata": null
+        "icao": "YANG"
     },
     "location": {
         "latitude": -23.1356,
         "longitude": 118.7075,
         "elevation": 687
     },
-    "timezone": "Australia/Perth",
-    "history": []
+    "timezone": "Australia/Perth"
 }

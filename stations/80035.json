@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80035",
-        "ghcn": "COM00080035",
-        "wban": null,
-        "usaf": "800350",
-        "mosmix": null,
-        "icao": "SKRH",
-        "iata": "RCH"
+        "icao": "SKRH"
     },
     "location": {
         "latitude": 11.5333,
         "longitude": -72.9333,
         "elevation": 4
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

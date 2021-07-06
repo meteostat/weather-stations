@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SVON",
-        "iata": "CBS"
+        "icao": "SVON"
     },
     "location": {
         "latitude": 10.3307,
         "longitude": -71.3225,
         "elevation": 50
     },
-    "timezone": "America/Caracas",
-    "history": []
+    "timezone": "America/Caracas"
 }

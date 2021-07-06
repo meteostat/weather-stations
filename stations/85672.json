@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "85672",
-        "ghcn": "CIM00085672",
-        "wban": null,
-        "usaf": "856720",
-        "mosmix": null,
-        "icao": "SCCH",
-        "iata": "YAI"
+        "icao": "SCCH"
     },
     "location": {
         "latitude": -36.5667,
         "longitude": -72.0333,
         "elevation": 124
     },
-    "timezone": "America/Santiago",
-    "history": []
+    "timezone": "America/Santiago"
 }

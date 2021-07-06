@@ -10,18 +10,12 @@
     "identifiers": {
         "national": null,
         "wmo": "02535",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "025350",
-        "mosmix": null,
-        "icao": "ESGR",
-        "iata": "KVB"
+        "icao": "ESGR"
     },
     "location": {
         "latitude": 58.45,
         "longitude": 13.9667,
         "elevation": 98
     },
-    "timezone": "Europe/Stockholm",
-    "history": []
+    "timezone": "Europe/Stockholm"
 }

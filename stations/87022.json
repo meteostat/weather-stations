@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "87022",
-        "ghcn": "ARM00087022",
-        "wban": null,
-        "usaf": "870220",
-        "mosmix": null,
-        "icao": "SAST",
-        "iata": "TTG"
+        "icao": "SAST"
     },
     "location": {
         "latitude": -22.65,
         "longitude": -63.8167,
         "elevation": 450
     },
-    "timezone": "America/Argentina/Jujuy",
-    "history": []
+    "timezone": "America/Argentina/Jujuy"
 }

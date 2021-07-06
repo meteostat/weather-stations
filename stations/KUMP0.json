@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KUMP",
-        "iata": null
+        "icao": "KUMP"
     },
     "location": {
         "latitude": 39.9352,
         "longitude": -86.045,
         "elevation": 247
     },
-    "timezone": "America/Indiana/Indianapolis",
-    "history": []
+    "timezone": "America/Indiana/Indianapolis"
 }

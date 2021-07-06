@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LIVG",
-        "iata": null
+        "icao": "LIVG"
     },
     "location": {
         "latitude": 45.8667,
         "longitude": 11.8,
         "elevation": 1775
     },
-    "timezone": "Europe/Rome",
-    "history": []
+    "timezone": "Europe/Rome"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "95951",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": "ZON"
+        "icao": null
     },
     "location": {
         "latitude": -42.0667,
         "longitude": 145.5667,
         "elevation": 187
     },
-    "timezone": "Australia/Hobart",
-    "history": []
+    "timezone": "Australia/Hobart"
 }

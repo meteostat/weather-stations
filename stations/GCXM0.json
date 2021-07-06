@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "GCXM",
-        "iata": null
+        "icao": "GCXM"
     },
     "location": {
         "latitude": 28.4839,
         "longitude": -16.3514,
         "elevation": 634
     },
-    "timezone": "Atlantic/Canary",
-    "history": []
+    "timezone": "Atlantic/Canary"
 }

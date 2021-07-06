@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HSMR",
-        "iata": "MWE"
+        "icao": "HSMR"
     },
     "location": {
         "latitude": 18.45,
         "longitude": 31.833,
         "elevation": 258
     },
-    "timezone": "Africa/Khartoum",
-    "history": []
+    "timezone": "Africa/Khartoum"
 }

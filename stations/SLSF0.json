@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SLSF",
-        "iata": null
+        "icao": "SLSF"
     },
     "location": {
         "latitude": -14.9667,
         "longitude": -65.6333,
         "elevation": 220
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

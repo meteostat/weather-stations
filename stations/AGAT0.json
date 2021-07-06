@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "AGAT",
-        "iata": "ATD"
+        "icao": "AGAT"
     },
     "location": {
         "latitude": -8.8733,
         "longitude": 161.011,
         "elevation": 18
     },
-    "timezone": "Pacific/Guadalcanal",
-    "history": []
+    "timezone": "Pacific/Guadalcanal"
 }

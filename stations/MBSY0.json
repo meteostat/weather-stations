@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MBSY",
-        "iata": "SLX"
+        "icao": "MBSY"
     },
     "location": {
         "latitude": 21.333,
         "longitude": -71.2,
         "elevation": 1
     },
-    "timezone": "America/Grand_Turk",
-    "history": []
+    "timezone": "America/Grand_Turk"
 }

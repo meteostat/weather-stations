@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKAP",
-        "iata": "API"
+        "icao": "SKAP"
     },
     "location": {
         "latitude": 4.0761,
         "longitude": -73.5627,
         "elevation": 368
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

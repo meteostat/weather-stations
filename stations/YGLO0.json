@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YGLO",
-        "iata": "GLM"
+        "icao": "YGLO"
     },
     "location": {
         "latitude": -22.8883,
         "longitude": 138.825,
         "elevation": 48
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

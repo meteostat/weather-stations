@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LPBR",
-        "iata": "BGZ"
+        "icao": "LPBR"
     },
     "location": {
         "latitude": 41.5871,
         "longitude": -8.4451,
         "elevation": 75
     },
-    "timezone": "Europe/Lisbon",
-    "history": []
+    "timezone": "Europe/Lisbon"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YTBR",
-        "iata": "TBK"
+        "icao": "YTBR"
     },
     "location": {
         "latitude": -15.62,
         "longitude": 130.445,
         "elevation": 5
     },
-    "timezone": "Australia/Darwin",
-    "history": []
+    "timezone": "Australia/Darwin"
 }

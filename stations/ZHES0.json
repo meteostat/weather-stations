@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZHES",
-        "iata": "ENH"
+        "icao": "ZHES"
     },
     "location": {
         "latitude": 30.3203,
         "longitude": 109.485,
         "elevation": 484
     },
-    "timezone": "Asia/Shanghai",
-    "history": []
+    "timezone": "Asia/Shanghai"
 }

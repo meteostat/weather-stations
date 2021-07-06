@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NTTE",
-        "iata": "TTI"
+        "icao": "NTTE"
     },
     "location": {
         "latitude": -17.0133,
         "longitude": -149.587,
         "elevation": 2
     },
-    "timezone": "Pacific/Tahiti",
-    "history": []
+    "timezone": "Pacific/Tahiti"
 }

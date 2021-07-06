@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72401",
-        "ghcn": "USW00013740",
-        "wban": "13740",
-        "usaf": "724010",
-        "mosmix": null,
-        "icao": "KRIC",
-        "iata": "RIC"
+        "icao": "KRIC"
     },
     "location": {
         "latitude": 37.5167,
         "longitude": -77.3167,
         "elevation": 51
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

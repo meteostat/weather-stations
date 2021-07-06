@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MDCR",
-        "iata": "CBJ"
+        "icao": "MDCR"
     },
     "location": {
         "latitude": 17.929,
         "longitude": -71.6448,
         "elevation": 80
     },
-    "timezone": "America/Santo_Domingo",
-    "history": []
+    "timezone": "America/Santo_Domingo"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "725186",
-        "mosmix": null,
-        "icao": "KOGS",
-        "iata": "OGS"
+        "icao": "KOGS"
     },
     "location": {
         "latitude": 44.6819,
         "longitude": -75.4655,
         "elevation": 91
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

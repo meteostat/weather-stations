@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "01088",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "010880",
-        "mosmix": null,
-        "icao": "ENVD",
-        "iata": "VDS"
+        "icao": "ENVD"
     },
     "location": {
         "latitude": 70.0667,
         "longitude": 29.85,
         "elevation": 3
     },
-    "timezone": "Europe/Oslo",
-    "history": []
+    "timezone": "Europe/Oslo"
 }

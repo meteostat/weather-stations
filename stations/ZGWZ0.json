@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZGWZ",
-        "iata": "WUZ"
+        "icao": "ZGWZ"
     },
     "location": {
         "latitude": 23.4567,
         "longitude": 111.248,
         "elevation": 27
     },
-    "timezone": "Asia/Chongqing",
-    "history": []
+    "timezone": "Asia/Chongqing"
 }

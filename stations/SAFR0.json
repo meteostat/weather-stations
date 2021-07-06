@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SAFR",
-        "iata": null
+        "icao": "SAFR"
     },
     "location": {
         "latitude": -31.2825,
         "longitude": -61.5017,
         "elevation": 99
     },
-    "timezone": "America/Argentina/Cordoba",
-    "history": []
+    "timezone": "America/Argentina/Cordoba"
 }

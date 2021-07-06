@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKDU",
-        "iata": null
+        "icao": "SKDU"
     },
     "location": {
         "latitude": 5.1725,
         "longitude": -71.1419,
         "elevation": 135
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

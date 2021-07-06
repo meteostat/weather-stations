@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "82099",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": "82099",
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 0.05,
         "longitude": -51.0667,
         "elevation": 16
     },
-    "timezone": "America/Belem",
-    "history": []
+    "timezone": "America/Belem"
 }

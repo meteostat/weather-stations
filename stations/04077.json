@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "04077",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "040770",
-        "mosmix": null,
-        "icao": "BIRG",
-        "iata": "RFN"
+        "icao": "BIRG"
     },
     "location": {
         "latitude": 66.45,
         "longitude": -15.95,
         "elevation": 8
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

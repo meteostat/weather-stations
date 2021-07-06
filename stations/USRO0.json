@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "USRO",
-        "iata": null
+        "icao": "USRO"
     },
     "location": {
         "latitude": 63.1833,
         "longitude": 78.2667,
         "elevation": 136
     },
-    "timezone": "Asia/Yekaterinburg",
-    "history": []
+    "timezone": "Asia/Yekaterinburg"
 }

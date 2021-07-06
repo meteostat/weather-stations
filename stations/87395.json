@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "87395",
-        "ghcn": "ARM00087395",
-        "wban": null,
-        "usaf": "873950",
-        "mosmix": null,
-        "icao": "SAAC",
-        "iata": "COC"
+        "icao": "SAAC"
     },
     "location": {
         "latitude": -31.3,
         "longitude": -58.0167,
         "elevation": 35
     },
-    "timezone": "America/Argentina/Buenos_Aires",
-    "history": []
+    "timezone": "America/Argentina/Buenos_Aires"
 }

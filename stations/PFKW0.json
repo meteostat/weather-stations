@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PFKW",
-        "iata": null
+        "icao": "PFKW"
     },
     "location": {
         "latitude": 60.7903,
         "longitude": -161.4437,
         "elevation": 8
     },
-    "timezone": "America/Nome",
-    "history": []
+    "timezone": "America/Nome"
 }

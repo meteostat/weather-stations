@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "DIOF",
-        "iata": "OFI"
+        "icao": "DIOF"
     },
     "location": {
         "latitude": 9.6,
         "longitude": -4.05,
         "elevation": 297
     },
-    "timezone": "Africa/Abidjan",
-    "history": []
+    "timezone": "Africa/Abidjan"
 }

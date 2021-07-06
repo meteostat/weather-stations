@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "34545",
-        "ghcn": "RSM00034545",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 48.35,
         "longitude": 41.8667,
         "elevation": 90
     },
-    "timezone": "Europe/Volgograd",
-    "history": []
+    "timezone": "Europe/Volgograd"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KERR",
-        "iata": null
+        "icao": "KERR"
     },
     "location": {
         "latitude": 44.7925,
         "longitude": -71.1642,
         "elevation": 380
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

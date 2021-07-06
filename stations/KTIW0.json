@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "94274",
-        "usaf": "727938",
-        "mosmix": null,
-        "icao": "KTIW",
-        "iata": "TIW"
+        "icao": "KTIW"
     },
     "location": {
         "latitude": 47.2679,
         "longitude": -122.5781,
         "elevation": 90
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "24087",
-        "usaf": "726676",
-        "mosmix": null,
-        "icao": "KGDV",
-        "iata": "GDV"
+        "icao": "KGDV"
     },
     "location": {
         "latitude": 47.1387,
         "longitude": -104.8072,
         "elevation": 749
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

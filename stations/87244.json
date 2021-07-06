@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "87244",
-        "ghcn": "ARM00087244",
-        "wban": null,
-        "usaf": "872440",
-        "mosmix": null,
-        "icao": "SACV",
-        "iata": null
+        "icao": "SACV"
     },
     "location": {
         "latitude": -29.9,
         "longitude": -63.6833,
         "elevation": 341
     },
-    "timezone": "America/Argentina/Cordoba",
-    "history": []
+    "timezone": "America/Argentina/Cordoba"
 }

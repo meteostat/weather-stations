@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKYG",
-        "iata": null
+        "icao": "SKYG"
     },
     "location": {
         "latitude": 0.6217,
         "longitude": -70.3517,
         "elevation": 174
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

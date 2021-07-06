@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "25205",
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CIUM",
-        "iata": null
+        "icao": "CIUM"
     },
     "location": {
         "latitude": 58.65,
         "longitude": -124.6333,
         "elevation": 1295
     },
-    "timezone": "America/Vancouver",
-    "history": []
+    "timezone": "America/Vancouver"
 }

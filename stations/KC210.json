@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KC21",
-        "iata": null
+        "icao": "KC21"
     },
     "location": {
         "latitude": 15.2097,
         "longitude": 145.7214,
         "elevation": 5
     },
-    "timezone": "Pacific/Saipan",
-    "history": []
+    "timezone": "Pacific/Saipan"
 }

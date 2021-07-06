@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "84001",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "840010",
-        "mosmix": null,
-        "icao": "SEGS",
-        "iata": "GPS"
+        "icao": "SEGS"
     },
     "location": {
         "latitude": -0.45,
         "longitude": -90.2667,
         "elevation": 16
     },
-    "timezone": "Pacific/Galapagos",
-    "history": []
+    "timezone": "Pacific/Galapagos"
 }

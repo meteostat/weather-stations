@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "04850",
-        "usaf": "724298",
-        "mosmix": null,
-        "icao": "KAOH",
-        "iata": null
+        "icao": "KAOH"
     },
     "location": {
         "latitude": 40.7075,
         "longitude": -84.0271,
         "elevation": 297
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SBTR",
-        "iata": "TSQ"
+        "icao": "SBTR"
     },
     "location": {
         "latitude": -29.4149,
         "longitude": -49.81,
         "elevation": 8
     },
-    "timezone": "America/Sao_Paulo",
-    "history": []
+    "timezone": "America/Sao_Paulo"
 }

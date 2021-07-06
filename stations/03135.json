@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "03135",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "031350",
-        "mosmix": "03135",
-        "icao": "EGPK",
-        "iata": "PIK"
+        "icao": "EGPK"
     },
     "location": {
         "latitude": 55.5,
         "longitude": -4.5833,
         "elevation": 20
     },
-    "timezone": "Europe/London",
-    "history": []
+    "timezone": "Europe/London"
 }

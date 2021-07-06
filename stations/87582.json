@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "87582",
-        "ghcn": "ARM00087582",
-        "wban": null,
-        "usaf": "875820",
-        "mosmix": null,
-        "icao": "SABE",
-        "iata": "AEP"
+        "icao": "SABE"
     },
     "location": {
         "latitude": -34.5667,
         "longitude": -58.4167,
         "elevation": 6
     },
-    "timezone": "America/Argentina/Buenos_Aires",
-    "history": []
+    "timezone": "America/Argentina/Buenos_Aires"
 }

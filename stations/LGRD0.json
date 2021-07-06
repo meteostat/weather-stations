@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LGRD",
-        "iata": null
+        "icao": "LGRD"
     },
     "location": {
         "latitude": 36.3833,
         "longitude": 28.1167,
         "elevation": 62
     },
-    "timezone": "Europe/Athens",
-    "history": []
+    "timezone": "Europe/Athens"
 }

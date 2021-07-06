@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KFRR",
-        "iata": null
+        "icao": "KFRR"
     },
     "location": {
         "latitude": 38.9175,
         "longitude": -78.2535,
         "elevation": 214
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

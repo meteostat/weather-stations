@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "WMBI",
-        "iata": "TPG"
+        "icao": "WMBI"
     },
     "location": {
         "latitude": 4.867,
         "longitude": 100.717,
         "elevation": 12
     },
-    "timezone": "Asia/Kuala_Lumpur",
-    "history": []
+    "timezone": "Asia/Kuala_Lumpur"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "00169",
-        "usaf": "720545",
-        "mosmix": null,
-        "icao": "KSNC",
-        "iata": "SNC"
+        "icao": "KSNC"
     },
     "location": {
         "latitude": 41.3839,
         "longitude": -72.5059,
         "elevation": 127
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

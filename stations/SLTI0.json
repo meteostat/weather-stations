@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "852100",
-        "mosmix": null,
-        "icao": "SLTI",
-        "iata": "MQK"
+        "icao": "SLTI"
     },
     "location": {
         "latitude": -16.3392,
         "longitude": -58.4019,
         "elevation": 123
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

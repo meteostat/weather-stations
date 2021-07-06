@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SEEP",
-        "iata": null
+        "icao": "SEEP"
     },
     "location": {
         "latitude": -2.3433,
         "longitude": -79.2786,
         "elevation": 42
     },
-    "timezone": "America/Guayaquil",
-    "history": []
+    "timezone": "America/Guayaquil"
 }

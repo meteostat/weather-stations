@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "718443",
-        "mosmix": null,
-        "icao": "CZEM",
-        "iata": "ZEM"
+        "icao": "CZEM"
     },
     "location": {
         "latitude": 52.2333,
         "longitude": -78.5167,
         "elevation": 7
     },
-    "timezone": "America/Montreal",
-    "history": []
+    "timezone": "America/Montreal"
 }

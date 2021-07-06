@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NFCI",
-        "iata": "ICI"
+        "icao": "NFCI"
     },
     "location": {
         "latitude": -17.7433,
         "longitude": -179.342,
         "elevation": 4
     },
-    "timezone": "Pacific/Fiji",
-    "history": []
+    "timezone": "Pacific/Fiji"
 }

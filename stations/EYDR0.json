@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EYDR",
-        "iata": null
+        "icao": "EYDR"
     },
     "location": {
         "latitude": 54.0153,
         "longitude": 23.9431,
         "elevation": 92
     },
-    "timezone": "Europe/Vilnius",
-    "history": []
+    "timezone": "Europe/Vilnius"
 }

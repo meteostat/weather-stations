@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZUBD",
-        "iata": "BPX"
+        "icao": "ZUBD"
     },
     "location": {
         "latitude": 30.5536,
         "longitude": 97.1083,
         "elevation": 4334
     },
-    "timezone": "Asia/Chongqing",
-    "history": []
+    "timezone": "Asia/Chongqing"
 }

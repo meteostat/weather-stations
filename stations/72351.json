@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72351",
-        "ghcn": "USW00013966",
-        "wban": "13966",
-        "usaf": "723510",
-        "mosmix": "72351",
-        "icao": "KSPS",
-        "iata": "SPS"
+        "icao": "KSPS"
     },
     "location": {
         "latitude": 33.9833,
         "longitude": -98,
         "elevation": 309
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

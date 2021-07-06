@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "DFEP",
-        "iata": "XPA"
+        "icao": "DFEP"
     },
     "location": {
         "latitude": 11.25,
         "longitude": 0.7,
         "elevation": 213
     },
-    "timezone": "Africa/Ouagadougou",
-    "history": []
+    "timezone": "Africa/Ouagadougou"
 }

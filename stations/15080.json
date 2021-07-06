@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "15080",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "150800",
-        "mosmix": "15080",
-        "icao": "LROD",
-        "iata": "OMR"
+        "icao": "LROD"
     },
     "location": {
         "latitude": 47.05,
         "longitude": 21.9333,
         "elevation": 135
     },
-    "timezone": "Europe/Bucharest",
-    "history": []
+    "timezone": "Europe/Bucharest"
 }

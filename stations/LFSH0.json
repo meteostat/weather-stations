@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LFSH",
-        "iata": null
+        "icao": "LFSH"
     },
     "location": {
         "latitude": 48.7943,
         "longitude": 7.8176,
         "elevation": 150
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

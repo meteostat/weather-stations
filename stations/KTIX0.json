@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "12898",
-        "usaf": "722046",
-        "mosmix": null,
-        "icao": "KTIX",
-        "iata": "TIX"
+        "icao": "KTIX"
     },
     "location": {
         "latitude": 28.5148,
         "longitude": -80.7992,
         "elevation": 10
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

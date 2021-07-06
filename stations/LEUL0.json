@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LEUL",
-        "iata": null
+        "icao": "LEUL"
     },
     "location": {
         "latitude": 41.5243,
         "longitude": 1.9716,
         "elevation": 137
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

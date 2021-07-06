@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "04013",
-        "ghcn": "IC000004013",
-        "wban": null,
-        "usaf": "040130",
-        "mosmix": null,
-        "icao": "BIST",
-        "iata": "SYK"
+        "icao": "BIST"
     },
     "location": {
         "latitude": 65.0833,
         "longitude": -22.7333,
         "elevation": 8
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

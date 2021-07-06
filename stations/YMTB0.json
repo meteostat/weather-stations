@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YMTB",
-        "iata": "UTB"
+        "icao": "YMTB"
     },
     "location": {
         "latitude": -22.5833,
         "longitude": 144.533,
         "elevation": 70
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

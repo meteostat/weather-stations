@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "94745",
-        "usaf": "725037",
-        "mosmix": null,
-        "icao": "KHPN",
-        "iata": "HPN"
+        "icao": "KHPN"
     },
     "location": {
         "latitude": 41.0669,
         "longitude": -73.7076,
         "elevation": 134
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

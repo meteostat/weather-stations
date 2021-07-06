@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LOBA",
-        "iata": null
+        "icao": "LOBA"
     },
     "location": {
         "latitude": 48.2217,
         "longitude": 16.3461,
         "elevation": 210
     },
-    "timezone": "Europe/Vienna",
-    "history": []
+    "timezone": "Europe/Vienna"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "BITN",
-        "iata": "THO"
+        "icao": "BITN"
     },
     "location": {
         "latitude": 66.2185,
         "longitude": -15.3356,
         "elevation": 20
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HTMP",
-        "iata": null
+        "icao": "HTMP"
     },
     "location": {
         "latitude": -6.35,
         "longitude": 31.083,
         "elevation": 1073
     },
-    "timezone": "Africa/Dar_es_Salaam",
-    "history": []
+    "timezone": "Africa/Dar_es_Salaam"
 }

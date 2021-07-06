@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "14443",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "144430",
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 42.4,
         "longitude": 16.2667,
         "elevation": 97
     },
-    "timezone": "Europe/Zagreb",
-    "history": []
+    "timezone": "Europe/Zagreb"
 }

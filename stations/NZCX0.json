@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NZCX",
-        "iata": "CMV"
+        "icao": "NZCX"
     },
     "location": {
         "latitude": -36.7917,
         "longitude": 175.509,
         "elevation": 3
     },
-    "timezone": "Pacific/Auckland",
-    "history": []
+    "timezone": "Pacific/Auckland"
 }

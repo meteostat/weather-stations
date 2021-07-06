@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SAVS",
-        "iata": "SGV"
+        "icao": "SAVS"
     },
     "location": {
         "latitude": -41.5917,
         "longitude": -65.3394,
         "elevation": 210
     },
-    "timezone": "America/Argentina/Salta",
-    "history": []
+    "timezone": "America/Argentina/Salta"
 }

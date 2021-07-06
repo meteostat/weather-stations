@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MUBS",
-        "iata": null
+        "icao": "MUBS"
     },
     "location": {
         "latitude": 56.9403,
         "longitude": -75.7289,
         "elevation": 180
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

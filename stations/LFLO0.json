@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LFLO",
-        "iata": "RNE"
+        "icao": "LFLO"
     },
     "location": {
         "latitude": 46.0583,
         "longitude": 4.0014,
         "elevation": 337
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

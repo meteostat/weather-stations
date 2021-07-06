@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "89659",
-        "ghcn": "AYM00089659",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": -73.6392,
         "longitude": 160.6456,
         "elevation": 1924
     },
-    "timezone": "Antarctica/McMurdo",
-    "history": []
+    "timezone": "Antarctica/McMurdo"
 }

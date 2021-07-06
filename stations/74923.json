@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "74923",
-        "ghcn": null,
-        "wban": "00393",
-        "usaf": "749230",
-        "mosmix": null,
-        "icao": "PATE",
-        "iata": "TLA"
+        "icao": "PATE"
     },
     "location": {
         "latitude": 65.2404,
         "longitude": -166.3393,
         "elevation": 90
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

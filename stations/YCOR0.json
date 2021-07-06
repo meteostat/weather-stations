@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YCOR",
-        "iata": "CWW"
+        "icao": "YCOR"
     },
     "location": {
         "latitude": -35.9947,
         "longitude": 146.357,
         "elevation": 143
     },
-    "timezone": "Australia/Sydney",
-    "history": []
+    "timezone": "Australia/Sydney"
 }

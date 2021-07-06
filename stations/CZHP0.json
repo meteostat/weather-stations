@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZHP",
-        "iata": "ZHP"
+        "icao": "CZHP"
     },
     "location": {
         "latitude": 55.4,
         "longitude": -116.4833,
         "elevation": 602
     },
-    "timezone": "America/Edmonton",
-    "history": []
+    "timezone": "America/Edmonton"
 }

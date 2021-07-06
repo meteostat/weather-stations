@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "UKLI",
-        "iata": "IFO"
+        "icao": "UKLI"
     },
     "location": {
         "latitude": 48.8833,
         "longitude": 24.6833,
         "elevation": 280
     },
-    "timezone": "Europe/Uzhgorod",
-    "history": []
+    "timezone": "Europe/Uzhgorod"
 }

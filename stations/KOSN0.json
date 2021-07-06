@@ -1,25 +1,19 @@
 {
     "id": "KOSN0",
     "name": {
-        "en": "Ocean Station November \/ 4YN"
+        "en": "Ocean Station November / 4YN"
     },
     "country": "XP",
     "region": null,
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KOSN",
-        "iata": null
+        "icao": "KOSN"
     },
     "location": {
         "latitude": 30,
         "longitude": -140,
         "elevation": 0
     },
-    "timezone": null,
-    "history": []
+    "timezone": null
 }

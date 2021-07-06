@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70316",
-        "ghcn": "USW00025624",
-        "wban": "25624",
-        "usaf": "703160",
-        "mosmix": null,
-        "icao": "PACD",
-        "iata": "CDB"
+        "icao": "PACD"
     },
     "location": {
         "latitude": 55.2167,
         "longitude": -162.7333,
         "elevation": 30
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

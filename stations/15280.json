@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "15280",
-        "ghcn": "ROM00015280",
-        "wban": null,
-        "usaf": "152800",
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 45.45,
         "longitude": 25.45,
         "elevation": 2504
     },
-    "timezone": "Europe/Bucharest",
-    "history": []
+    "timezone": "Europe/Bucharest"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72785",
-        "ghcn": "USW00024157",
-        "wban": "24157",
-        "usaf": "727850",
-        "mosmix": "72785",
-        "icao": "KGEG",
-        "iata": "GEG"
+        "icao": "KGEG"
     },
     "location": {
         "latitude": 47.6167,
         "longitude": -117.5333,
         "elevation": 723
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

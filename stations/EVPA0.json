@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EVPA",
-        "iata": null
+        "icao": "EVPA"
     },
     "location": {
         "latitude": 56.815,
         "longitude": 24.5278,
         "elevation": 20
     },
-    "timezone": "Europe/Riga",
-    "history": []
+    "timezone": "Europe/Riga"
 }

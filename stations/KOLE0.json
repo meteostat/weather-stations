@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "00465",
-        "usaf": "725283",
-        "mosmix": null,
-        "icao": "KOLE",
-        "iata": "OLE"
+        "icao": "KOLE"
     },
     "location": {
         "latitude": 42.2413,
         "longitude": -78.3714,
         "elevation": 651
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

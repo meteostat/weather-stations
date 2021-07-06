@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWVJ",
-        "iata": null
+        "icao": "CWVJ"
     },
     "location": {
         "latitude": 49.8833,
         "longitude": -96.4667,
         "elevation": 290
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

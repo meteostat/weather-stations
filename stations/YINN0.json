@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YINN",
-        "iata": "INM"
+        "icao": "YINN"
     },
     "location": {
         "latitude": -27.7,
         "longitude": 140.733,
         "elevation": 16
     },
-    "timezone": "Australia/Adelaide",
-    "history": []
+    "timezone": "Australia/Adelaide"
 }

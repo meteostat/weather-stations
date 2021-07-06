@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "51777",
-        "ghcn": "CHM00051777",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 39.0333,
         "longitude": 88.1667,
         "elevation": 889
     },
-    "timezone": "Asia/Urumqi",
-    "history": []
+    "timezone": "Asia/Urumqi"
 }

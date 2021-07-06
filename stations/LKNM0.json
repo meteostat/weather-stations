@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LKNM",
-        "iata": null
+        "icao": "LKNM"
     },
     "location": {
         "latitude": 50.3642,
         "longitude": 16.1136,
         "elevation": 305
     },
-    "timezone": "Europe/Prague",
-    "history": []
+    "timezone": "Europe/Prague"
 }

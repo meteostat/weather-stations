@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LFCC",
-        "iata": "ZAO"
+        "icao": "LFCC"
     },
     "location": {
         "latitude": 44.35,
         "longitude": 1.4833,
         "elevation": 278
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

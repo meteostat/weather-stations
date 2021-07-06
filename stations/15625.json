@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "15625",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "156250",
-        "mosmix": "15625",
-        "icao": "LBPD",
-        "iata": "PDV"
+        "icao": "LBPD"
     },
     "location": {
         "latitude": 42.1333,
         "longitude": 24.75,
         "elevation": 179
     },
-    "timezone": "Europe/Sofia",
-    "history": []
+    "timezone": "Europe/Sofia"
 }

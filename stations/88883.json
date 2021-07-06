@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "88883",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": -51.9,
         "longitude": -60.9167,
         "elevation": 17
     },
-    "timezone": "Atlantic/South_Georgia",
-    "history": []
+    "timezone": "Atlantic/South_Georgia"
 }

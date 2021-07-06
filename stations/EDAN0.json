@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EDAN",
-        "iata": "QGW"
+        "icao": "EDAN"
     },
     "location": {
         "latitude": 53.3625,
         "longitude": 11.6167,
         "elevation": 35
     },
-    "timezone": "Europe/Berlin",
-    "history": []
+    "timezone": "Europe/Berlin"
 }

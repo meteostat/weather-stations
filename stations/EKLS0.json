@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EKLS",
-        "iata": "BYR"
+        "icao": "EKLS"
     },
     "location": {
         "latitude": 57.2772,
         "longitude": 11.0001,
         "elevation": 8
     },
-    "timezone": "Europe/Copenhagen",
-    "history": []
+    "timezone": "Europe/Copenhagen"
 }

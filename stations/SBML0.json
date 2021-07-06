@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "820305",
-        "mosmix": null,
-        "icao": "SBML",
-        "iata": "MII"
+        "icao": "SBML"
     },
     "location": {
         "latitude": -22.1966,
         "longitude": -49.9264,
         "elevation": 647
     },
-    "timezone": "America/Sao_Paulo",
-    "history": []
+    "timezone": "America/Sao_Paulo"
 }

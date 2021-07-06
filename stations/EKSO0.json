@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EKSO",
-        "iata": null
+        "icao": "EKSO"
     },
     "location": {
         "latitude": 62.2767,
         "longitude": -6.3415,
         "elevation": 9
     },
-    "timezone": "Atlantic/Faroe",
-    "history": []
+    "timezone": "Atlantic/Faroe"
 }

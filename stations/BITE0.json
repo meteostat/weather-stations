@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "BITE",
-        "iata": "TEY"
+        "icao": "BITE"
     },
     "location": {
         "latitude": 65.8703,
         "longitude": -23.56,
         "elevation": 20
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

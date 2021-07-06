@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SBAS",
-        "iata": "AIF"
+        "icao": "SBAS"
     },
     "location": {
         "latitude": -22.6386,
         "longitude": -50.4558,
         "elevation": 548
     },
-    "timezone": "America/Sao_Paulo",
-    "history": []
+    "timezone": "America/Sao_Paulo"
 }

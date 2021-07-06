@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LFNC",
-        "iata": "SCP"
+        "icao": "LFNC"
     },
     "location": {
         "latitude": 44.7,
         "longitude": 6.6,
         "elevation": 903
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

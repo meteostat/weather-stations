@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HEOC",
-        "iata": null
+        "icao": "HEOC"
     },
     "location": {
         "latitude": 29.8121,
         "longitude": 30.8234,
         "elevation": 246
     },
-    "timezone": "Africa/Cairo",
-    "history": []
+    "timezone": "Africa/Cairo"
 }

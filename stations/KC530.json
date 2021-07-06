@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KC53",
-        "iata": null
+        "icao": "KC53"
     },
     "location": {
         "latitude": 44.8087,
         "longitude": -114.8087,
         "elevation": 1280
     },
-    "timezone": "America/Boise",
-    "history": []
+    "timezone": "America/Boise"
 }

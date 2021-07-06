@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "89576",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": -70.8333,
         "longitude": 77.0667,
         "elevation": 1850
     },
-    "timezone": "Antarctica/Davis",
-    "history": []
+    "timezone": "Antarctica/Davis"
 }

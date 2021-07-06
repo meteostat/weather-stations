@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72302",
-        "ghcn": "USW00013748",
-        "wban": "13748",
-        "usaf": "723013",
-        "mosmix": null,
-        "icao": "KILM",
-        "iata": "ILM"
+        "icao": "KILM"
     },
     "location": {
         "latitude": 34.2706,
         "longitude": -77.9026,
         "elevation": 10
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

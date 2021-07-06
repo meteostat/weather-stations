@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "00466",
-        "usaf": "720468",
-        "mosmix": null,
-        "icao": "KOPL",
-        "iata": null
+        "icao": "KOPL"
     },
     "location": {
         "latitude": 30.5584,
         "longitude": -92.0994,
         "elevation": 23
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

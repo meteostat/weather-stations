@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LEDO",
-        "iata": null
+        "icao": "LEDO"
     },
     "location": {
         "latitude": 40.3939,
         "longitude": -3.6967,
         "elevation": 600
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

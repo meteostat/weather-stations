@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZBA",
-        "iata": null
+        "icao": "CZBA"
     },
     "location": {
         "latitude": 43.32,
         "longitude": -79.8,
         "elevation": 105
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

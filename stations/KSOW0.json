@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03101",
-        "usaf": "723747",
-        "mosmix": null,
-        "icao": "KSOW",
-        "iata": "SOW"
+        "icao": "KSOW"
     },
     "location": {
         "latitude": 34.25,
         "longitude": -110.0333,
         "elevation": 1962
     },
-    "timezone": "America/Phoenix",
-    "history": []
+    "timezone": "America/Phoenix"
 }

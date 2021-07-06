@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "06080",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "060800",
-        "mosmix": "06080",
-        "icao": "EKEB",
-        "iata": "EBJ"
+        "icao": "EKEB"
     },
     "location": {
         "latitude": 55.5333,
         "longitude": 8.5667,
         "elevation": 30
     },
-    "timezone": "Europe/Copenhagen",
-    "history": []
+    "timezone": "Europe/Copenhagen"
 }

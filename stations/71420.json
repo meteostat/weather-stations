@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "71420",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "716279",
-        "mosmix": null,
-        "icao": "CYND",
-        "iata": "YND"
+        "icao": "CYND"
     },
     "location": {
         "latitude": 45.5167,
         "longitude": -75.5667,
         "elevation": 64
     },
-    "timezone": "America/Montreal",
-    "history": []
+    "timezone": "America/Montreal"
 }

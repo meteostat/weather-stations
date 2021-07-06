@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FAIS",
-        "iata": null
+        "icao": "FAIS"
     },
     "location": {
         "latitude": -29.1056,
         "longitude": 31.4075,
         "elevation": 95
     },
-    "timezone": "Africa/Johannesburg",
-    "history": []
+    "timezone": "Africa/Johannesburg"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YELD",
-        "iata": "ELC"
+        "icao": "YELD"
     },
     "location": {
         "latitude": -12.0194,
         "longitude": 135.571,
         "elevation": 31
     },
-    "timezone": "Australia/Darwin",
-    "history": []
+    "timezone": "Australia/Darwin"
 }

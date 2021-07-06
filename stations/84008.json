@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "84008",
-        "ghcn": "ECM00084008",
-        "wban": null,
-        "usaf": "840080",
-        "mosmix": "84008",
-        "icao": "SEST",
-        "iata": "SCY"
+        "icao": "SEST"
     },
     "location": {
         "latitude": -0.9,
         "longitude": -89.6,
         "elevation": 6
     },
-    "timezone": "Pacific/Galapagos",
-    "history": []
+    "timezone": "Pacific/Galapagos"
 }

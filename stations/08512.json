@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "08512",
-        "ghcn": "POM00008512",
-        "wban": null,
-        "usaf": "085120",
-        "mosmix": null,
-        "icao": "LPPD",
-        "iata": "PDL"
+        "icao": "LPPD"
     },
     "location": {
         "latitude": 37.7333,
         "longitude": -25.7,
         "elevation": 71
     },
-    "timezone": "Atlantic/Azores",
-    "history": []
+    "timezone": "Atlantic/Azores"
 }

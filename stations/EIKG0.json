@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EIKG",
-        "iata": null
+        "icao": "EIKG"
     },
     "location": {
         "latitude": 51.32,
         "longitude": -7.98,
         "elevation": 30
     },
-    "timezone": "Europe/Dublin",
-    "history": []
+    "timezone": "Europe/Dublin"
 }

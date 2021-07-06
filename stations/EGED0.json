@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EGED",
-        "iata": "EOI"
+        "icao": "EGED"
     },
     "location": {
         "latitude": 59.1906,
         "longitude": -2.7722,
         "elevation": 3
     },
-    "timezone": "Europe/London",
-    "history": []
+    "timezone": "Europe/London"
 }

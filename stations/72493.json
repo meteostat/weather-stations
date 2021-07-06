@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72493",
-        "ghcn": "USW00023230",
-        "wban": "23230",
-        "usaf": "724930",
-        "mosmix": "72493",
-        "icao": "KOAK",
-        "iata": "OAK"
+        "icao": "KOAK"
     },
     "location": {
         "latitude": 37.7167,
         "longitude": -122.2333,
         "elevation": 2
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

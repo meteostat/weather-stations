@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SUTG",
-        "iata": null
+        "icao": "SUTG"
     },
     "location": {
         "latitude": -30.4367,
         "longitude": -57.4467,
         "elevation": 79
     },
-    "timezone": "America/Montevideo",
-    "history": []
+    "timezone": "America/Montevideo"
 }

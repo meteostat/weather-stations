@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "71628",
-        "ghcn": "CA006106000",
-        "wban": null,
-        "usaf": "716280",
-        "mosmix": "71628",
-        "icao": "CYOW",
-        "iata": "YOW"
+        "icao": "CYOW"
     },
     "location": {
         "latitude": 45.3167,
         "longitude": -75.6667,
         "elevation": 116
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

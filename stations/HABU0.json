@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HABU",
-        "iata": "BCY"
+        "icao": "HABU"
     },
     "location": {
         "latitude": 6.2167,
         "longitude": 36.6667,
         "elevation": 1865
     },
-    "timezone": "Africa/Addis_Ababa",
-    "history": []
+    "timezone": "Africa/Addis_Ababa"
 }

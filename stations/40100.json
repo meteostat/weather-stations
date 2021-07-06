@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "40100",
-        "ghcn": "LEM00040100",
-        "wban": null,
-        "usaf": "401000",
-        "mosmix": "40100",
-        "icao": "OLBA",
-        "iata": "BEY"
+        "icao": "OLBA"
     },
     "location": {
         "latitude": 33.8167,
         "longitude": 35.4833,
         "elevation": 29
     },
-    "timezone": "Asia/Beirut",
-    "history": []
+    "timezone": "Asia/Beirut"
 }

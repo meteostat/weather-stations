@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KUSE",
-        "iata": null
+        "icao": "KUSE"
     },
     "location": {
         "latitude": 41.6101,
         "longitude": -84.1272,
         "elevation": 238
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "85201",
-        "ghcn": "BLM00085201",
-        "wban": null,
-        "usaf": "852010",
-        "mosmix": "85201",
-        "icao": "SLLP",
-        "iata": "LPB"
+        "icao": "SLLP"
     },
     "location": {
         "latitude": -16.5167,
         "longitude": -68.1833,
         "elevation": 4058
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

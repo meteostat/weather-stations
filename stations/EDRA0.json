@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EDRA",
-        "iata": null
+        "icao": "EDRA"
     },
     "location": {
         "latitude": 50.5597,
         "longitude": 7.1375,
         "elevation": 205
     },
-    "timezone": "Europe/Berlin",
-    "history": []
+    "timezone": "Europe/Berlin"
 }

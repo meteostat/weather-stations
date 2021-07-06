@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "07240",
-        "ghcn": "FRM00007240",
-        "wban": null,
-        "usaf": "072400",
-        "mosmix": "07240",
-        "icao": "LFOT",
-        "iata": "TUF"
+        "icao": "LFOT"
     },
     "location": {
         "latitude": 47.45,
         "longitude": 0.7167,
         "elevation": 108
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

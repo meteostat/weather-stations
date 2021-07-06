@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "16221",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "162210",
-        "mosmix": null,
-        "icao": "LIQN",
-        "iata": "QRT"
+        "icao": "LIQN"
     },
     "location": {
         "latitude": 42.4167,
         "longitude": 12.85,
         "elevation": 389
     },
-    "timezone": "Europe/Rome",
-    "history": []
+    "timezone": "Europe/Rome"
 }

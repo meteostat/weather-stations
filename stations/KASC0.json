@@ -1,25 +1,19 @@
 {
     "id": "KASC0",
     "name": {
-        "en": "Ocean Station Charlie \/ 4YC"
+        "en": "Ocean Station Charlie / 4YC"
     },
     "country": "XA",
     "region": null,
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KASC",
-        "iata": null
+        "icao": "KASC"
     },
     "location": {
         "latitude": 52.75,
         "longitude": -35.5,
         "elevation": 0
     },
-    "timezone": null,
-    "history": []
+    "timezone": null
 }

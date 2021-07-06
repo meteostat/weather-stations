@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FAZU",
-        "iata": null
+        "icao": "FAZU"
     },
     "location": {
         "latitude": -32.7647,
         "longitude": 26.4444,
         "elevation": 669
     },
-    "timezone": "Africa/Johannesburg",
-    "history": []
+    "timezone": "Africa/Johannesburg"
 }

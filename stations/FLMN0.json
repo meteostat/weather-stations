@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FLMN",
-        "iata": null
+        "icao": "FLMN"
     },
     "location": {
         "latitude": -14.6172,
         "longitude": 30.0139,
         "elevation": 424
     },
-    "timezone": "Africa/Lusaka",
-    "history": []
+    "timezone": "Africa/Lusaka"
 }

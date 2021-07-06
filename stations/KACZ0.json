@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KACZ",
-        "iata": null
+        "icao": "KACZ"
     },
     "location": {
         "latitude": 34.7179,
         "longitude": -78.0036,
         "elevation": 12
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

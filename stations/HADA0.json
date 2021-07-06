@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HADA",
-        "iata": null
+        "icao": "HADA"
     },
     "location": {
         "latitude": 12,
         "longitude": 35.1667,
         "elevation": 507
     },
-    "timezone": "Africa/Khartoum",
-    "history": []
+    "timezone": "Africa/Khartoum"
 }

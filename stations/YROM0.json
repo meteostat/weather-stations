@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YROM",
-        "iata": "RMA"
+        "icao": "YROM"
     },
     "location": {
         "latitude": -26.545,
         "longitude": 148.775,
         "elevation": 315
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

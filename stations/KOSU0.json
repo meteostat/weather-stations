@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "04804",
-        "usaf": "724288",
-        "mosmix": null,
-        "icao": "KOSU",
-        "iata": "OSU"
+        "icao": "KOSU"
     },
     "location": {
         "latitude": 40.0798,
         "longitude": -83.073,
         "elevation": 276
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

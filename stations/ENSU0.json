@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ENSU",
-        "iata": null
+        "icao": "ENSU"
     },
     "location": {
         "latitude": 62.6583,
         "longitude": 8.665,
         "elevation": 76
     },
-    "timezone": "Europe/Oslo",
-    "history": []
+    "timezone": "Europe/Oslo"
 }

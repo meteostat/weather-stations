@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MBMC",
-        "iata": "MDS"
+        "icao": "MBMC"
     },
     "location": {
         "latitude": 21.833,
         "longitude": -71.817,
         "elevation": 3
     },
-    "timezone": "America/Grand_Turk",
-    "history": []
+    "timezone": "America/Grand_Turk"
 }

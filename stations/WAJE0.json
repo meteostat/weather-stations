@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "WAJE",
-        "iata": "RUF"
+        "icao": "WAJE"
     },
     "location": {
         "latitude": -3.9333,
         "longitude": 140.9333,
         "elevation": 128
     },
-    "timezone": "Pacific/Port_Moresby",
-    "history": []
+    "timezone": "Pacific/Port_Moresby"
 }

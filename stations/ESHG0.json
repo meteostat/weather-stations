@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ESHG",
-        "iata": null
+        "icao": "ESHG"
     },
     "location": {
         "latitude": 59.3272,
         "longitude": 18.0703,
         "elevation": 16
     },
-    "timezone": "Europe/Stockholm",
-    "history": []
+    "timezone": "Europe/Stockholm"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LETZ",
-        "iata": null
+        "icao": "LETZ"
     },
     "location": {
         "latitude": 41.7853,
         "longitude": -4.8647,
         "elevation": 849
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

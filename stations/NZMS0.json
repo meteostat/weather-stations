@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NZMS",
-        "iata": "MRO"
+        "icao": "NZMS"
     },
     "location": {
         "latitude": -40.9733,
         "longitude": 175.634,
         "elevation": 111
     },
-    "timezone": "Pacific/Auckland",
-    "history": []
+    "timezone": "Pacific/Auckland"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKAD",
-        "iata": "ACD"
+        "icao": "SKAD"
     },
     "location": {
         "latitude": 8.4981,
         "longitude": -77.2739,
         "elevation": 4
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CPMB",
-        "iata": null
+        "icao": "CPMB"
     },
     "location": {
         "latitude": 49.3639,
         "longitude": -110.6781,
         "elevation": 927
     },
-    "timezone": "America/Edmonton",
-    "history": []
+    "timezone": "America/Edmonton"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SVDP",
-        "iata": null
+        "icao": "SVDP"
     },
     "location": {
         "latitude": 4.73,
         "longitude": -60.965,
         "elevation": 787
     },
-    "timezone": "America/Caracas",
-    "history": []
+    "timezone": "America/Caracas"
 }

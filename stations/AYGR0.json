@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "AYGR",
-        "iata": "PNP"
+        "icao": "AYGR"
     },
     "location": {
         "latitude": -8.8045,
         "longitude": 148.309,
         "elevation": 95
     },
-    "timezone": "Pacific/Port_Moresby",
-    "history": []
+    "timezone": "Pacific/Port_Moresby"
 }

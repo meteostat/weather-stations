@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FQNC",
-        "iata": "MNC"
+        "icao": "FQNC"
     },
     "location": {
         "latitude": -14.4882,
         "longitude": 40.7122,
         "elevation": 125
     },
-    "timezone": "Africa/Maputo",
-    "history": []
+    "timezone": "Africa/Maputo"
 }

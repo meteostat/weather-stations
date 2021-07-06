@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "WASM",
-        "iata": "RDE"
+        "icao": "WASM"
     },
     "location": {
         "latitude": -1.5833,
         "longitude": 133.333,
         "elevation": 130
     },
-    "timezone": "Asia/Jayapura",
-    "history": []
+    "timezone": "Asia/Jayapura"
 }

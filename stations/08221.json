@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "08221",
-        "ghcn": "SPE00120278",
-        "wban": null,
-        "usaf": "082210",
-        "mosmix": "08221",
-        "icao": "LEMD",
-        "iata": "MAD"
+        "icao": "LEMD"
     },
     "location": {
         "latitude": 40.45,
         "longitude": -3.55,
         "elevation": 609
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

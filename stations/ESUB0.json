@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ESUB",
-        "iata": null
+        "icao": "ESUB"
     },
     "location": {
         "latitude": 61.5125,
         "longitude": 16.3725,
         "elevation": 92
     },
-    "timezone": "Europe/Stockholm",
-    "history": []
+    "timezone": "Europe/Stockholm"
 }

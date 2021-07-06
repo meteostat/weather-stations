@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KOKS",
-        "iata": null
+        "icao": "KOKS"
     },
     "location": {
         "latitude": 41.4019,
         "longitude": -102.3564,
         "elevation": 1035
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

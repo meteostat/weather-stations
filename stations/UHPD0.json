@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "UHPD",
-        "iata": null
+        "icao": "UHPD"
     },
     "location": {
         "latitude": 59.2167,
         "longitude": 163.05,
         "elevation": 3
     },
-    "timezone": "Asia/Kamchatka",
-    "history": []
+    "timezone": "Asia/Kamchatka"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MHOA",
-        "iata": "OAN"
+        "icao": "MHOA"
     },
     "location": {
         "latitude": 15.5,
         "longitude": -86.5667,
         "elevation": 185
     },
-    "timezone": "America/Tegucigalpa",
-    "history": []
+    "timezone": "America/Tegucigalpa"
 }

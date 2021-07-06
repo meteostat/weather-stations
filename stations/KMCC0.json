@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "23208",
-        "usaf": "724836",
-        "mosmix": null,
-        "icao": "KMCC",
-        "iata": "MCC"
+        "icao": "KMCC"
     },
     "location": {
         "latitude": 38.6676,
         "longitude": -121.4006,
         "elevation": 23
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

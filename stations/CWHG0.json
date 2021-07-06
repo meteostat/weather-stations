@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWHG",
-        "iata": null
+        "icao": "CWHG"
     },
     "location": {
         "latitude": 68.8353,
         "longitude": -116.9994,
         "elevation": 90
     },
-    "timezone": "America/Cambridge_Bay",
-    "history": []
+    "timezone": "America/Cambridge_Bay"
 }

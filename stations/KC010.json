@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KC01",
-        "iata": null
+        "icao": "KC01"
     },
     "location": {
         "latitude": 39.6556,
         "longitude": -75.0144,
         "elevation": 44
     },
-    "timezone": "America/Detroit",
-    "history": []
+    "timezone": "America/Detroit"
 }

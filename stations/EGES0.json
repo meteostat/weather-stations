@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EGES",
-        "iata": "NDY"
+        "icao": "EGES"
     },
     "location": {
         "latitude": 59.2503,
         "longitude": -2.5767,
         "elevation": 21
     },
-    "timezone": "Europe/London",
-    "history": []
+    "timezone": "Europe/London"
 }

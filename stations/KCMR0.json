@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "00221",
-        "usaf": "720635",
-        "mosmix": null,
-        "icao": "KCMR",
-        "iata": null
+        "icao": "KCMR"
     },
     "location": {
         "latitude": 35.3055,
         "longitude": -112.1944,
         "elevation": 2039
     },
-    "timezone": "America/Phoenix",
-    "history": []
+    "timezone": "America/Phoenix"
 }

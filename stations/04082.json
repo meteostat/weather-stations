@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "04082",
-        "ghcn": "ICM00004082",
-        "wban": null,
-        "usaf": "040820",
-        "mosmix": null,
-        "icao": "BIHN",
-        "iata": "HFN"
+        "icao": "BIHN"
     },
     "location": {
         "latitude": 64.3,
         "longitude": -15.2167,
         "elevation": 17
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

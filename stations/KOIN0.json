@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KOIN",
-        "iata": null
+        "icao": "KOIN"
     },
     "location": {
         "latitude": 39.8339,
         "longitude": -100.5393,
         "elevation": 824
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

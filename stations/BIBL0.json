@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "BIBL",
-        "iata": "BLO"
+        "icao": "BIBL"
     },
     "location": {
         "latitude": 65.645,
         "longitude": -20.2875,
         "elevation": 40
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

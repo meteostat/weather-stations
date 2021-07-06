@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MBSC",
-        "iata": "XSC"
+        "icao": "MBSC"
     },
     "location": {
         "latitude": 21.5157,
         "longitude": -71.5285,
         "elevation": 2
     },
-    "timezone": "America/Grand_Turk",
-    "history": []
+    "timezone": "America/Grand_Turk"
 }

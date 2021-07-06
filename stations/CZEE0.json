@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZEE",
-        "iata": "KES"
+        "icao": "CZEE"
     },
     "location": {
         "latitude": 56.0374,
         "longitude": -96.5097,
         "elevation": 183
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

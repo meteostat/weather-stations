@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MREC",
-        "iata": null
+        "icao": "MREC"
     },
     "location": {
         "latitude": 10.202,
         "longitude": -83.4722,
         "elevation": 17
     },
-    "timezone": "America/Costa_Rica",
-    "history": []
+    "timezone": "America/Costa_Rica"
 }

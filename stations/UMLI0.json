@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "UMLI",
-        "iata": null
+        "icao": "UMLI"
     },
     "location": {
         "latitude": 53.7667,
         "longitude": 27.5667,
         "elevation": 214
     },
-    "timezone": "Europe/Minsk",
-    "history": []
+    "timezone": "Europe/Minsk"
 }

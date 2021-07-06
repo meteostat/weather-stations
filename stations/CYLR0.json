@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYLR",
-        "iata": "YLR"
+        "icao": "CYLR"
     },
     "location": {
         "latitude": 44.4852,
         "longitude": -79.5555,
         "elevation": 295
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

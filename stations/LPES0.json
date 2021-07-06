@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LPES",
-        "iata": null
+        "icao": "LPES"
     },
     "location": {
         "latitude": 37.7528,
         "longitude": -25.6761,
         "elevation": 88
     },
-    "timezone": "Atlantic/Azores",
-    "history": []
+    "timezone": "Atlantic/Azores"
 }

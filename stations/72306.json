@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72306",
-        "ghcn": "USW00013722",
-        "wban": "13722",
-        "usaf": "723060",
-        "mosmix": "72306",
-        "icao": "KRDU",
-        "iata": "RDU"
+        "icao": "KRDU"
     },
     "location": {
         "latitude": 35.9,
         "longitude": -78.7667,
         "elevation": 133
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

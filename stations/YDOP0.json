@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YDOP",
-        "iata": null
+        "icao": "YDOP"
     },
     "location": {
         "latitude": -19.6117,
         "longitude": 146.84,
         "elevation": 23
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

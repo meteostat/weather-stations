@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "OYMF",
-        "iata": null
+        "icao": "OYMF"
     },
     "location": {
         "latitude": 13.3611,
         "longitude": 43.5778,
         "elevation": 300
     },
-    "timezone": "Asia/Aden",
-    "history": []
+    "timezone": "Asia/Aden"
 }

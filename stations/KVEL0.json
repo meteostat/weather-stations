@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "94030",
-        "usaf": "725705",
-        "mosmix": null,
-        "icao": "KVEL",
-        "iata": "VEL"
+        "icao": "KVEL"
     },
     "location": {
         "latitude": 40.4409,
         "longitude": -109.5099,
         "elevation": 1609
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

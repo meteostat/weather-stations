@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MMPD",
-        "iata": null
+        "icao": "MMPD"
     },
     "location": {
         "latitude": 16.9108,
         "longitude": -99.9886,
         "elevation": 0
     },
-    "timezone": "America/Mexico_City",
-    "history": []
+    "timezone": "America/Mexico_City"
 }

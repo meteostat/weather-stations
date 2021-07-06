@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80259",
-        "ghcn": "CO000080259",
-        "wban": null,
-        "usaf": "802590",
-        "mosmix": "80259",
-        "icao": "SKCL",
-        "iata": "CLO"
+        "icao": "SKCL"
     },
     "location": {
         "latitude": 3.55,
         "longitude": -76.3833,
         "elevation": 961
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

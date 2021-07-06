@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FBLV",
-        "iata": "TLD"
+        "icao": "FBLV"
     },
     "location": {
         "latitude": -22.1903,
         "longitude": 29.1264,
         "elevation": 530
     },
-    "timezone": "Africa/Gaborone",
-    "history": []
+    "timezone": "Africa/Gaborone"
 }

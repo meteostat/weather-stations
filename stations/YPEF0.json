@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YPEF",
-        "iata": null
+        "icao": "YPEF"
     },
     "location": {
         "latitude": -37.5097,
         "longitude": 144.7011,
         "elevation": 352
     },
-    "timezone": "Australia/Melbourne",
-    "history": []
+    "timezone": "Australia/Melbourne"
 }

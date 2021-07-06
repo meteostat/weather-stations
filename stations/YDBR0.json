@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YDBR",
-        "iata": "DNB"
+        "icao": "YDBR"
     },
     "location": {
         "latitude": -16.05,
         "longitude": 142.4,
         "elevation": 5
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72524",
-        "ghcn": "USW00014820",
-        "wban": "14820",
-        "usaf": "725240",
-        "mosmix": "72524",
-        "icao": "KCLE",
-        "iata": "CLE"
+        "icao": "KCLE"
     },
     "location": {
         "latitude": 41.4,
         "longitude": -81.85,
         "elevation": 241
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "010014",
-        "mosmix": null,
-        "icao": "ENSO",
-        "iata": "SRP"
+        "icao": "ENSO"
     },
     "location": {
         "latitude": 59.8,
         "longitude": 5.35,
         "elevation": 49
     },
-    "timezone": "Europe/Oslo",
-    "history": []
+    "timezone": "Europe/Oslo"
 }

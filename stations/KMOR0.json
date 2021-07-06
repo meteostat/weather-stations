@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KMOR",
-        "iata": null
+        "icao": "KMOR"
     },
     "location": {
         "latitude": 36.1794,
         "longitude": -83.3754,
         "elevation": 400
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

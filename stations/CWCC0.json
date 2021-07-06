@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWCC",
-        "iata": null
+        "icao": "CWCC"
     },
     "location": {
         "latitude": 52.0667,
         "longitude": -127.95,
         "elevation": 7
     },
-    "timezone": "America/Vancouver",
-    "history": []
+    "timezone": "America/Vancouver"
 }

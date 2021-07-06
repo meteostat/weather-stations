@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KJMC",
-        "iata": null
+        "icao": "KJMC"
     },
     "location": {
         "latitude": 37.8791,
         "longitude": -122.5136,
         "elevation": 1
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

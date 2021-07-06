@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "21508",
-        "usaf": "911977",
-        "mosmix": null,
-        "icao": "PHSF",
-        "iata": "BSF"
+        "icao": "PHSF"
     },
     "location": {
         "latitude": 19.76,
         "longitude": -155.5538,
         "elevation": 1887
     },
-    "timezone": "Pacific/Honolulu",
-    "history": []
+    "timezone": "Pacific/Honolulu"
 }

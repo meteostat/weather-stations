@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "07222",
-        "ghcn": "FRM00007222",
-        "wban": null,
-        "usaf": "072220",
-        "mosmix": "07222",
-        "icao": "LFRS",
-        "iata": "NTE"
+        "icao": "LFRS"
     },
     "location": {
         "latitude": 47.1667,
         "longitude": -1.6,
         "elevation": 27
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

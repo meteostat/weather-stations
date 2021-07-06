@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "AGGR",
-        "iata": "RNL"
+        "icao": "AGGR"
     },
     "location": {
         "latitude": -11.5339,
         "longitude": 160.063,
         "elevation": 11
     },
-    "timezone": "Pacific/Guadalcanal",
-    "history": []
+    "timezone": "Pacific/Guadalcanal"
 }

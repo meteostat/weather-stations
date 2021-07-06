@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HANJ",
-        "iata": "NEJ"
+        "icao": "HANJ"
     },
     "location": {
         "latitude": 9.55,
         "longitude": 35.467,
         "elevation": 1875
     },
-    "timezone": "Africa/Addis_Ababa",
-    "history": []
+    "timezone": "Africa/Addis_Ababa"
 }

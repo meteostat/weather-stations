@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HEAL",
-        "iata": "DBB"
+        "icao": "HEAL"
     },
     "location": {
         "latitude": 30.9245,
         "longitude": 28.4614,
         "elevation": 44
     },
-    "timezone": "Africa/Cairo",
-    "history": []
+    "timezone": "Africa/Cairo"
 }

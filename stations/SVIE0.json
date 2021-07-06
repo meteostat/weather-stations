@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SVIE",
-        "iata": null
+        "icao": "SVIE"
     },
     "location": {
         "latitude": 10.7944,
         "longitude": -63.9816,
         "elevation": 3
     },
-    "timezone": "America/Caracas",
-    "history": []
+    "timezone": "America/Caracas"
 }

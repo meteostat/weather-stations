@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NTGR",
-        "iata": "RKA"
+        "icao": "NTGR"
     },
     "location": {
         "latitude": -15.6333,
         "longitude": -145.5,
         "elevation": 2
     },
-    "timezone": "Pacific/Tahiti",
-    "history": []
+    "timezone": "Pacific/Tahiti"
 }

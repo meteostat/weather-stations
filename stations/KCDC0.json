@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "93129",
-        "usaf": "724755",
-        "mosmix": null,
-        "icao": "KCDC",
-        "iata": "CDC"
+        "icao": "KCDC"
     },
     "location": {
         "latitude": 37.701,
         "longitude": -113.0988,
         "elevation": 1714
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80002",
-        "ghcn": "COM00080002",
-        "wban": null,
-        "usaf": "800020",
-        "mosmix": null,
-        "icao": "SKPV",
-        "iata": "PVA"
+        "icao": "SKPV"
     },
     "location": {
         "latitude": 13.3667,
         "longitude": -81.35,
         "elevation": 6
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

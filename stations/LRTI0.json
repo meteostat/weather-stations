@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LRTI",
-        "iata": null
+        "icao": "LRTI"
     },
     "location": {
         "latitude": 44.6433,
         "longitude": 25.61,
         "elevation": 137
     },
-    "timezone": "Europe/Bucharest",
-    "history": []
+    "timezone": "Europe/Bucharest"
 }

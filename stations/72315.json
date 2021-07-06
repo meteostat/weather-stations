@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72315",
-        "ghcn": "USW00003812",
-        "wban": "03812",
-        "usaf": "723150",
-        "mosmix": "72315",
-        "icao": "KAVL",
-        "iata": "AVL"
+        "icao": "KAVL"
     },
     "location": {
         "latitude": 35.4333,
         "longitude": -82.0333,
         "elevation": 660
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

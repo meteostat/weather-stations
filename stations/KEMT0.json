@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03165",
-        "usaf": "747043",
-        "mosmix": null,
-        "icao": "KEMT",
-        "iata": "EMT"
+        "icao": "KEMT"
     },
     "location": {
         "latitude": 34.086,
         "longitude": -118.0348,
         "elevation": 90
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

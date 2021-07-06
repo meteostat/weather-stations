@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "BIHV",
-        "iata": null
+        "icao": "BIHV"
     },
     "location": {
         "latitude": 65.2664,
         "longitude": -20.8469,
         "elevation": 50
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

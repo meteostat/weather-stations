@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "23167",
-        "usaf": "723897",
-        "mosmix": null,
-        "icao": "KFCH",
-        "iata": null
+        "icao": "KFCH"
     },
     "location": {
         "latitude": 36.7321,
         "longitude": -119.8203,
         "elevation": 85
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

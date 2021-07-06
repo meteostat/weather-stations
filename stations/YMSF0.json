@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YMSF",
-        "iata": "MTD"
+        "icao": "YMSF"
     },
     "location": {
         "latitude": -16.9783,
         "longitude": 130.555,
         "elevation": 70
     },
-    "timezone": "Australia/Darwin",
-    "history": []
+    "timezone": "Australia/Darwin"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LFGA",
-        "iata": "CMR"
+        "icao": "LFGA"
     },
     "location": {
         "latitude": 48.1099,
         "longitude": 7.359,
         "elevation": 191
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

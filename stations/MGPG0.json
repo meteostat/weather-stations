@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MGPG",
-        "iata": "PKJ"
+        "icao": "MGPG"
     },
     "location": {
         "latitude": 15.9983,
         "longitude": -90.7419,
         "elevation": 180
     },
-    "timezone": "America/Guatemala",
-    "history": []
+    "timezone": "America/Guatemala"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EGST",
-        "iata": null
+        "icao": "EGST"
     },
     "location": {
         "latitude": 52.0772,
         "longitude": 0.9775,
         "elevation": 75
     },
-    "timezone": "Europe/London",
-    "history": []
+    "timezone": "Europe/London"
 }

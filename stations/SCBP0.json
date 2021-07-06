@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SCBP",
-        "iata": null
+        "icao": "SCBP"
     },
     "location": {
         "latitude": -62.4789,
         "longitude": -59.6642,
         "elevation": 787
     },
-    "timezone": "Antarctica/Palmer",
-    "history": []
+    "timezone": "Antarctica/Palmer"
 }

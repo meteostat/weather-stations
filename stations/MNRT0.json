@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MNRT",
-        "iata": "RFS"
+        "icao": "MNRT"
     },
     "location": {
         "latitude": 13.8897,
         "longitude": -84.4089,
         "elevation": 59
     },
-    "timezone": "America/Managua",
-    "history": []
+    "timezone": "America/Managua"
 }

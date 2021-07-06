@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KAJR",
-        "iata": null
+        "icao": "KAJR"
     },
     "location": {
         "latitude": 34.4998,
         "longitude": -83.5567,
         "elevation": 441
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

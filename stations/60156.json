@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "60156",
-        "ghcn": "MO000060156",
-        "wban": null,
-        "usaf": "601560",
-        "mosmix": "60156",
-        "icao": "GMMN",
-        "iata": "CMN"
+        "icao": "GMMN"
     },
     "location": {
         "latitude": 33.3667,
         "longitude": -7.5833,
         "elevation": 200
     },
-    "timezone": "Africa/Casablanca",
-    "history": []
+    "timezone": "Africa/Casablanca"
 }

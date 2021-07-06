@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72597",
-        "ghcn": "USW00024225",
-        "wban": "24225",
-        "usaf": "725970",
-        "mosmix": null,
-        "icao": "KMFR",
-        "iata": "MFR"
+        "icao": "KMFR"
     },
     "location": {
         "latitude": 42.3833,
         "longitude": -122.8833,
         "elevation": 406
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

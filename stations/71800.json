@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "71800",
-        "ghcn": "CA008401000",
-        "wban": null,
-        "usaf": "718000",
-        "mosmix": null,
-        "icao": "CWRA",
-        "iata": null
+        "icao": "CWRA"
     },
     "location": {
         "latitude": 46.65,
         "longitude": -53.0667,
         "elevation": 27
     },
-    "timezone": "America/St_Johns",
-    "history": []
+    "timezone": "America/St_Johns"
 }

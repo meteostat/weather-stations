@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "15023",
-        "ghcn": "ROM00015023",
-        "wban": null,
-        "usaf": "150230",
-        "mosmix": null,
-        "icao": "LRSV",
-        "iata": "SCV"
+        "icao": "LRSV"
     },
     "location": {
         "latitude": 47.65,
         "longitude": 26.25,
         "elevation": 351
     },
-    "timezone": "Europe/Bucharest",
-    "history": []
+    "timezone": "Europe/Bucharest"
 }

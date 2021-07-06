@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03031",
-        "usaf": "722648",
-        "mosmix": null,
-        "icao": "KODO",
-        "iata": null
+        "icao": "KODO"
     },
     "location": {
         "latitude": 31.9214,
         "longitude": -102.3871,
         "elevation": 916
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

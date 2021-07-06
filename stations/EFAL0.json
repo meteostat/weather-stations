@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EFAL",
-        "iata": null
+        "icao": "EFAL"
     },
     "location": {
         "latitude": 62.5547,
         "longitude": 23.5733,
         "elevation": 124
     },
-    "timezone": "Europe/Helsinki",
-    "history": []
+    "timezone": "Europe/Helsinki"
 }

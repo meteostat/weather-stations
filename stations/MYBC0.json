@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MYBC",
-        "iata": "CCZ"
+        "icao": "MYBC"
     },
     "location": {
         "latitude": 25.4171,
         "longitude": -77.8809,
         "elevation": 2
     },
-    "timezone": "America/Nassau",
-    "history": []
+    "timezone": "America/Nassau"
 }

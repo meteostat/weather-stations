@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPOY",
-        "iata": null
+        "icao": "SPOY"
     },
     "location": {
         "latitude": -16.2322,
         "longitude": -73.6119,
         "elevation": 3
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

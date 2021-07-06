@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SARO",
-        "iata": null
+        "icao": "SARO"
     },
     "location": {
         "latitude": -27.5261,
         "longitude": -56.6333,
         "elevation": 19
     },
-    "timezone": "America/Argentina/Cordoba",
-    "history": []
+    "timezone": "America/Argentina/Cordoba"
 }

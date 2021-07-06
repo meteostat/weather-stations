@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZWAT",
-        "iata": "AAT"
+        "icao": "ZWAT"
     },
     "location": {
         "latitude": 47.7569,
         "longitude": 88.0739,
         "elevation": 747
     },
-    "timezone": "Asia/Urumqi",
-    "history": []
+    "timezone": "Asia/Urumqi"
 }

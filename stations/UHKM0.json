@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "UHKM",
-        "iata": "GVN"
+        "icao": "UHKM"
     },
     "location": {
         "latitude": 48.9333,
         "longitude": 140.0333,
         "elevation": 234
     },
-    "timezone": "Asia/Sakhalin",
-    "history": []
+    "timezone": "Asia/Sakhalin"
 }

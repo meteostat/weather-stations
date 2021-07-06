@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "23293",
-        "usaf": "724945",
-        "mosmix": null,
-        "icao": "KSJC",
-        "iata": "SJC"
+        "icao": "KSJC"
     },
     "location": {
         "latitude": 37.3627,
         "longitude": -121.9291,
         "elevation": 19
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

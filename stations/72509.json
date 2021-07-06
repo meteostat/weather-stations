@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72509",
-        "ghcn": "USW00014739",
-        "wban": "14739",
-        "usaf": "725090",
-        "mosmix": "72509",
-        "icao": "KBOS",
-        "iata": "BOS"
+        "icao": "KBOS"
     },
     "location": {
         "latitude": 42.3667,
         "longitude": -71.0167,
         "elevation": 6
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

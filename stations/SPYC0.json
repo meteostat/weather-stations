@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPYC",
-        "iata": null
+        "icao": "SPYC"
     },
     "location": {
         "latitude": -8.3333,
         "longitude": -74.6,
         "elevation": 143
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

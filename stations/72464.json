@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72464",
-        "ghcn": "USW00093058",
-        "wban": "93058",
-        "usaf": "724640",
-        "mosmix": null,
-        "icao": "KPUB",
-        "iata": "PUB"
+        "icao": "KPUB"
     },
     "location": {
         "latitude": 38.2833,
         "longitude": -104.5,
         "elevation": 1440
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

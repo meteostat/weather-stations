@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "WADT",
-        "iata": "TMC"
+        "icao": "WADT"
     },
     "location": {
         "latitude": -9.4097,
         "longitude": 119.244,
         "elevation": 49
     },
-    "timezone": "Asia/Makassar",
-    "history": []
+    "timezone": "Asia/Makassar"
 }

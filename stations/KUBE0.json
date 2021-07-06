@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "00316",
-        "usaf": "720929",
-        "mosmix": null,
-        "icao": "KUBE",
-        "iata": null
+        "icao": "KUBE"
     },
     "location": {
         "latitude": 45.506,
         "longitude": -91.9811,
         "elevation": 379
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

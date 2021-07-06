@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NTTP",
-        "iata": "MAU"
+        "icao": "NTTP"
     },
     "location": {
         "latitude": -16.4265,
         "longitude": -152.244,
         "elevation": 5
     },
-    "timezone": "Pacific/Tahiti",
-    "history": []
+    "timezone": "Pacific/Tahiti"
 }

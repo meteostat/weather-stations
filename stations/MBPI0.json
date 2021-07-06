@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MBPI",
-        "iata": "PIC"
+        "icao": "MBPI"
     },
     "location": {
         "latitude": 21.9,
         "longitude": -72.1,
         "elevation": 1
     },
-    "timezone": "America/Grand_Turk",
-    "history": []
+    "timezone": "America/Grand_Turk"
 }

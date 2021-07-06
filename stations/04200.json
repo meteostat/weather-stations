@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "04200",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 76.5,
         "longitude": -69,
         "elevation": 20
     },
-    "timezone": "America/Thule",
-    "history": []
+    "timezone": "America/Thule"
 }

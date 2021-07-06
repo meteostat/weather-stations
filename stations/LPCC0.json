@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LPCC",
-        "iata": null
+        "icao": "LPCC"
     },
     "location": {
         "latitude": 32.6475,
         "longitude": -16.9239,
         "elevation": 68
     },
-    "timezone": "Atlantic/Madeira",
-    "history": []
+    "timezone": "Atlantic/Madeira"
 }

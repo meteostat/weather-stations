@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "00280",
-        "usaf": "720852",
-        "mosmix": null,
-        "icao": "KFLY",
-        "iata": null
+        "icao": "KFLY"
     },
     "location": {
         "latitude": 38.9457,
         "longitude": -104.5699,
         "elevation": 2095
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

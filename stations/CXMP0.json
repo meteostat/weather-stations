@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CXMP",
-        "iata": null
+        "icao": "CXMP"
     },
     "location": {
         "latitude": 46.3028,
         "longitude": -63.5756,
         "elevation": 46
     },
-    "timezone": "America/Halifax",
-    "history": []
+    "timezone": "America/Halifax"
 }

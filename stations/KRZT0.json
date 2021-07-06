@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KRZT",
-        "iata": null
+        "icao": "KRZT"
     },
     "location": {
         "latitude": 39.4404,
         "longitude": -83.0231,
         "elevation": 221
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

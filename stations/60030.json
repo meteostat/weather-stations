@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "60030",
-        "ghcn": "SPE00120215",
-        "wban": null,
-        "usaf": "600300",
-        "mosmix": "60030",
-        "icao": "GCLP",
-        "iata": "LPA"
+        "icao": "GCLP"
     },
     "location": {
         "latitude": 27.9333,
         "longitude": -15.3833,
         "elevation": 23
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

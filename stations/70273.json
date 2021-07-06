@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70273",
-        "ghcn": "USW00026451",
-        "wban": "26451",
-        "usaf": "702730",
-        "mosmix": "70273",
-        "icao": "PANC",
-        "iata": "MRI"
+        "icao": "PANC"
     },
     "location": {
         "latitude": 61.1667,
         "longitude": -150.0333,
         "elevation": 44
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

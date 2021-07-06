@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "94732",
-        "usaf": "724085",
-        "mosmix": null,
-        "icao": "KPNE",
-        "iata": "PNE"
+        "icao": "KPNE"
     },
     "location": {
         "latitude": 40.0819,
         "longitude": -75.0106,
         "elevation": 37
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SGVM",
-        "iata": "VMI"
+        "icao": "SGVM"
     },
     "location": {
         "latitude": -22.1589,
         "longitude": -57.9428,
         "elevation": 87
     },
-    "timezone": "America/Asuncion",
-    "history": []
+    "timezone": "America/Asuncion"
 }

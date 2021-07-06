@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KAGO",
-        "iata": null
+        "icao": "KAGO"
     },
     "location": {
         "latitude": 33.2275,
         "longitude": -93.217,
         "elevation": 97
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

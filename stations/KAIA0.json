@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "24044",
-        "usaf": "725635",
-        "mosmix": null,
-        "icao": "KAIA",
-        "iata": "AIA"
+        "icao": "KAIA"
     },
     "location": {
         "latitude": 42.0532,
         "longitude": -102.8038,
         "elevation": 1198
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

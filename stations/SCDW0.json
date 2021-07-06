@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SCDW",
-        "iata": null
+        "icao": "SCDW"
     },
     "location": {
         "latitude": -53.6019,
         "longitude": -70.4772,
         "elevation": 49
     },
-    "timezone": "America/Punta_Arenas",
-    "history": []
+    "timezone": "America/Punta_Arenas"
 }

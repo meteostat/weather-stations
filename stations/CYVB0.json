@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYVB",
-        "iata": "YVB"
+        "icao": "CYVB"
     },
     "location": {
         "latitude": 48.0711,
         "longitude": -65.4602,
         "elevation": 38
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

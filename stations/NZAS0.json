@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NZAS",
-        "iata": "ASG"
+        "icao": "NZAS"
     },
     "location": {
         "latitude": -43.9033,
         "longitude": 171.797,
         "elevation": 92
     },
-    "timezone": "Pacific/Auckland",
-    "history": []
+    "timezone": "Pacific/Auckland"
 }

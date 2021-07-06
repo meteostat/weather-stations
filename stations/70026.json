@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70026",
-        "ghcn": "USW00027502",
-        "wban": "27502",
-        "usaf": "700260",
-        "mosmix": "70026",
-        "icao": "PABR",
-        "iata": "BRW"
+        "icao": "PABR"
     },
     "location": {
         "latitude": 71.2833,
         "longitude": -156.7667,
         "elevation": 13
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

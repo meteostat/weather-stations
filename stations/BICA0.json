@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "BICA",
-        "iata": null
+        "icao": "BICA"
     },
     "location": {
         "latitude": 64.1326,
         "longitude": -21.9186,
         "elevation": 17
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

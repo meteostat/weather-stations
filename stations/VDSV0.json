@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VDSV",
-        "iata": "KOS"
+        "icao": "VDSV"
     },
     "location": {
         "latitude": 10.5797,
         "longitude": 103.637,
         "elevation": 10
     },
-    "timezone": "Asia/Phnom_Penh",
-    "history": []
+    "timezone": "Asia/Phnom_Penh"
 }

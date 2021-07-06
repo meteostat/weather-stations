@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "85862",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "858620",
-        "mosmix": null,
-        "icao": "SCAS",
-        "iata": "WPA"
+        "icao": "SCAS"
     },
     "location": {
         "latitude": -45.4,
         "longitude": -72.6667,
         "elevation": 11
     },
-    "timezone": "America/Santiago",
-    "history": []
+    "timezone": "America/Santiago"
 }

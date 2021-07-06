@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "71200",
-        "ghcn": "CA001018610",
-        "wban": null,
-        "usaf": "712000",
-        "mosmix": null,
-        "icao": "CWLM",
-        "iata": null
+        "icao": "CWLM"
     },
     "location": {
         "latitude": 48.4167,
         "longitude": -123.3167,
         "elevation": 70
     },
-    "timezone": "America/Vancouver",
-    "history": []
+    "timezone": "America/Vancouver"
 }

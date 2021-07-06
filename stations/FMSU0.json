@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FMSU",
-        "iata": "VND"
+        "icao": "FMSU"
     },
     "location": {
         "latitude": -23.3517,
         "longitude": 47.5789,
         "elevation": 4
     },
-    "timezone": "Indian/Antananarivo",
-    "history": []
+    "timezone": "Indian/Antananarivo"
 }

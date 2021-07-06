@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "95930",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": "MIM"
+        "icao": null
     },
     "location": {
         "latitude": -36.9,
         "longitude": 149.9,
         "elevation": 2
     },
-    "timezone": "Australia/Sydney",
-    "history": []
+    "timezone": "Australia/Sydney"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "99545",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 28.5,
         "longitude": -80.2,
         "elevation": 0
     },
-    "timezone": "America/Kentucky/Monticello",
-    "history": []
+    "timezone": "America/Kentucky/Monticello"
 }

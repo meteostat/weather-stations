@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LPFE",
-        "iata": null
+        "icao": "LPFE"
     },
     "location": {
         "latitude": 41.4564,
         "longitude": -8.1381,
         "elevation": 422
     },
-    "timezone": "Europe/Lisbon",
-    "history": []
+    "timezone": "Europe/Lisbon"
 }

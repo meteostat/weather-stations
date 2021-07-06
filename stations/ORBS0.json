@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ORBS",
-        "iata": null
+        "icao": "ORBS"
     },
     "location": {
         "latitude": 33.2667,
         "longitude": 44.2333,
         "elevation": 34
     },
-    "timezone": "Asia/Baghdad",
-    "history": []
+    "timezone": "Asia/Baghdad"
 }

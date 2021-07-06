@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "26647",
-        "usaf": "702005",
-        "mosmix": null,
-        "icao": "PASM",
-        "iata": "KSM"
+        "icao": "PASM"
     },
     "location": {
         "latitude": 62.0608,
         "longitude": -163.3018,
         "elevation": 95
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "71590",
-        "ghcn": "CA008101303",
-        "wban": null,
-        "usaf": "715900",
-        "mosmix": null,
-        "icao": "CERM",
-        "iata": null
+        "icao": "CERM"
     },
     "location": {
         "latitude": 47.4167,
         "longitude": -68.3245,
         "elevation": 154
     },
-    "timezone": "America/Moncton",
-    "history": []
+    "timezone": "America/Moncton"
 }

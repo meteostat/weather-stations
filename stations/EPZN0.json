@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EPZN",
-        "iata": null
+        "icao": "EPZN"
     },
     "location": {
         "latitude": 51.6275,
         "longitude": 15.4083,
         "elevation": 140
     },
-    "timezone": "Europe/Warsaw",
-    "history": []
+    "timezone": "Europe/Warsaw"
 }

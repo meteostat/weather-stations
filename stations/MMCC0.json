@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MMCC",
-        "iata": "ACN"
+        "icao": "MMCC"
     },
     "location": {
         "latitude": 29.3329,
         "longitude": -101.099,
         "elevation": 430
     },
-    "timezone": "America/Matamoros",
-    "history": []
+    "timezone": "America/Matamoros"
 }

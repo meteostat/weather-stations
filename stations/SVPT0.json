@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SVPT",
-        "iata": "PTM"
+        "icao": "SVPT"
     },
     "location": {
         "latitude": 7.5667,
         "longitude": -70.1833,
         "elevation": 106
     },
-    "timezone": "America/Caracas",
-    "history": []
+    "timezone": "America/Caracas"
 }

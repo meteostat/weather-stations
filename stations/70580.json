@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70580",
-        "ghcn": null,
-        "wban": "24121",
-        "usaf": "725825",
-        "mosmix": null,
-        "icao": "KEKO",
-        "iata": "EKO"
+        "icao": "KEKO"
     },
     "location": {
         "latitude": 40.8249,
         "longitude": -115.7917,
         "elevation": 1567
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

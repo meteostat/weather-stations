@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72466",
-        "ghcn": "USW00093037",
-        "wban": "93037",
-        "usaf": "724660",
-        "mosmix": "72466",
-        "icao": "KCOS",
-        "iata": "COS"
+        "icao": "KCOS"
     },
     "location": {
         "latitude": 38.8167,
         "longitude": -104.7167,
         "elevation": 1885
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

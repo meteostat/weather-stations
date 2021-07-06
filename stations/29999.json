@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "29999",
-        "ghcn": "RSM00029999",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 52.5,
         "longitude": 99.8167,
         "elevation": 1570
     },
-    "timezone": "Asia/Irkutsk",
-    "history": []
+    "timezone": "Asia/Irkutsk"
 }

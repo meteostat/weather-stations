@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80214",
-        "ghcn": "COM00080214",
-        "wban": null,
-        "usaf": "802140",
-        "mosmix": null,
-        "icao": "SKIB",
-        "iata": "IBE"
+        "icao": "SKIB"
     },
     "location": {
         "latitude": 4.4333,
         "longitude": -75.15,
         "elevation": 928
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

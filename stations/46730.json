@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "46730",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "467300",
-        "mosmix": null,
-        "icao": "RCNO",
-        "iata": null
+        "icao": "RCNO"
     },
     "location": {
         "latitude": 23.2667,
         "longitude": 119.6667,
         "elevation": 45
     },
-    "timezone": "Asia/Taipei",
-    "history": []
+    "timezone": "Asia/Taipei"
 }

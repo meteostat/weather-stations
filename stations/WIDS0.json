@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "WIDS",
-        "iata": "SIQ"
+        "icao": "WIDS"
     },
     "location": {
         "latitude": -0.4792,
         "longitude": 104.579,
         "elevation": 29
     },
-    "timezone": "Asia/Jakarta",
-    "history": []
+    "timezone": "Asia/Jakarta"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZAM",
-        "iata": "YSN"
+        "icao": "CZAM"
     },
     "location": {
         "latitude": 50.6828,
         "longitude": -119.229,
         "elevation": 534
     },
-    "timezone": "America/Vancouver",
-    "history": []
+    "timezone": "America/Vancouver"
 }

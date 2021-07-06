@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "60001",
-        "ghcn": "SPE00120431",
-        "wban": null,
-        "usaf": "600010",
-        "mosmix": null,
-        "icao": "GCHI",
-        "iata": "VDE"
+        "icao": "GCHI"
     },
     "location": {
         "latitude": 27.8167,
         "longitude": -17.8833,
         "elevation": 32
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

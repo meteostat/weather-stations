@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "40401",
-        "ghcn": "SAM00040401",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 26.4833,
         "longitude": 38.1167,
         "elevation": 624
     },
-    "timezone": "Asia/Riyadh",
-    "history": []
+    "timezone": "Asia/Riyadh"
 }

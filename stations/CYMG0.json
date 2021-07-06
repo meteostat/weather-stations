@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYMG",
-        "iata": "YMG"
+        "icao": "CYMG"
     },
     "location": {
         "latitude": 49.0839,
         "longitude": -85.8606,
         "elevation": 365
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

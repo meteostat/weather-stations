@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "07055",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "070550",
-        "mosmix": "07055",
-        "icao": "LFOB",
-        "iata": "BVA"
+        "icao": "LFOB"
     },
     "location": {
         "latitude": 49.4667,
         "longitude": 2.1167,
         "elevation": 109
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

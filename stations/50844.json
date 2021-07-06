@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "50844",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 46.4,
         "longitude": 123.4167,
         "elevation": 150
     },
-    "timezone": "Asia/Harbin",
-    "history": []
+    "timezone": "Asia/Harbin"
 }

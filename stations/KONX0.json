@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03737",
-        "usaf": "723626",
-        "mosmix": null,
-        "icao": "KONX",
-        "iata": "ONX"
+        "icao": "KONX"
     },
     "location": {
         "latitude": 36.3999,
         "longitude": -76.0154,
         "elevation": 5
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

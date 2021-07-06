@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "066580",
-        "mosmix": null,
-        "icao": "LSMA",
-        "iata": null
+        "icao": "LSMA"
     },
     "location": {
         "latitude": 46.9425,
         "longitude": 8.2856,
         "elevation": 440
     },
-    "timezone": "Europe/Zurich",
-    "history": []
+    "timezone": "Europe/Zurich"
 }

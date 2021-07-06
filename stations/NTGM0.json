@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NTGM",
-        "iata": "MKP"
+        "icao": "NTGM"
     },
     "location": {
         "latitude": -16.5839,
         "longitude": -143.658,
         "elevation": 1
     },
-    "timezone": "Pacific/Tahiti",
-    "history": []
+    "timezone": "Pacific/Tahiti"
 }

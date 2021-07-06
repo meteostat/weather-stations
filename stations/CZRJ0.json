@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZRJ",
-        "iata": "ZRJ"
+        "icao": "CZRJ"
     },
     "location": {
         "latitude": 52.9436,
         "longitude": -91.3128,
         "elevation": 297
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

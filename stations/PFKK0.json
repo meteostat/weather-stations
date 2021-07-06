@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PFKK",
-        "iata": null
+        "icao": "PFKK"
     },
     "location": {
         "latitude": 59.4333,
         "longitude": -154.8026,
         "elevation": 35
     },
-    "timezone": "America/Anchorage",
-    "history": []
+    "timezone": "America/Anchorage"
 }

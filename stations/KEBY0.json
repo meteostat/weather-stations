@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KEBY",
-        "iata": null
+        "icao": "KEBY"
     },
     "location": {
         "latitude": 48.3704,
         "longitude": -124.5981,
         "elevation": 7
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

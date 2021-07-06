@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "87532",
-        "ghcn": "ARM00087532",
-        "wban": null,
-        "usaf": "875320",
-        "mosmix": null,
-        "icao": "SAZG",
-        "iata": "GPO"
+        "icao": "SAZG"
     },
     "location": {
         "latitude": -35.7,
         "longitude": -63.75,
         "elevation": 139
     },
-    "timezone": "America/Argentina/San_Luis",
-    "history": []
+    "timezone": "America/Argentina/San_Luis"
 }

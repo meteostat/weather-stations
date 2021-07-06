@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "702195",
-        "mosmix": null,
-        "icao": "PANA",
-        "iata": "WNA"
+        "icao": "PANA"
     },
     "location": {
         "latitude": 60.6903,
         "longitude": -161.9785,
         "elevation": 5
     },
-    "timezone": "America/Nome",
-    "history": []
+    "timezone": "America/Nome"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPOA",
-        "iata": "SQU"
+        "icao": "SPOA"
     },
     "location": {
         "latitude": -6.96,
         "longitude": -76.7684,
         "elevation": 299
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

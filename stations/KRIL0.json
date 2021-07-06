@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03016",
-        "usaf": "725717",
-        "mosmix": null,
-        "icao": "KRIL",
-        "iata": "RIL"
+        "icao": "KRIL"
     },
     "location": {
         "latitude": 39.5263,
         "longitude": -107.7269,
         "elevation": 1688
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

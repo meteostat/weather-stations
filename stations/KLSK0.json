@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KLSK",
-        "iata": null
+        "icao": "KLSK"
     },
     "location": {
         "latitude": 42.7538,
         "longitude": -104.4046,
         "elevation": 1514
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

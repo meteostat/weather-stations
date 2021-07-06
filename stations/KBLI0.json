@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "24217",
-        "usaf": "727976",
-        "mosmix": null,
-        "icao": "KBLI",
-        "iata": "BLI"
+        "icao": "KBLI"
     },
     "location": {
         "latitude": 48.7927,
         "longitude": -122.5375,
         "elevation": 52
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

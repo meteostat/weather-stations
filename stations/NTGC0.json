@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NTGC",
-        "iata": "TIH"
+        "icao": "NTGC"
     },
     "location": {
         "latitude": -15.1196,
         "longitude": -148.231,
         "elevation": 2
     },
-    "timezone": "Pacific/Tahiti",
-    "history": []
+    "timezone": "Pacific/Tahiti"
 }

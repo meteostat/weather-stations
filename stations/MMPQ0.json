@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MMPQ",
-        "iata": "PQM"
+        "icao": "MMPQ"
     },
     "location": {
         "latitude": 17.5334,
         "longitude": -91.9845,
         "elevation": 61
     },
-    "timezone": "America/Mexico_City",
-    "history": []
+    "timezone": "America/Mexico_City"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03713",
-        "usaf": "722131",
-        "mosmix": null,
-        "icao": "KJNX",
-        "iata": null
+        "icao": "KJNX"
     },
     "location": {
         "latitude": 35.5409,
         "longitude": -78.3903,
         "elevation": 50
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70086",
-        "ghcn": "USW00027401",
-        "wban": "27401",
-        "usaf": "700860",
-        "mosmix": null,
-        "icao": "PABA",
-        "iata": "BTI"
+        "icao": "PABA"
     },
     "location": {
         "latitude": 70.1333,
         "longitude": -143.5667,
         "elevation": 2
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

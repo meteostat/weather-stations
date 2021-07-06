@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YCAH",
-        "iata": "CLH"
+        "icao": "YCAH"
     },
     "location": {
         "latitude": -31.7733,
         "longitude": 149.61,
         "elevation": 154
     },
-    "timezone": "Australia/Sydney",
-    "history": []
+    "timezone": "Australia/Sydney"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KRIF",
-        "iata": null
+        "icao": "KRIF"
     },
     "location": {
         "latitude": 38.7364,
         "longitude": -112.0989,
         "elevation": 1616
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

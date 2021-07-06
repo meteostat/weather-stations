@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72594",
-        "ghcn": "USW00024213",
-        "wban": "24213",
-        "usaf": "725940",
-        "mosmix": "72594",
-        "icao": "KEKA",
-        "iata": "EKA"
+        "icao": "KEKA"
     },
     "location": {
         "latitude": 40.8,
         "longitude": -124.1667,
         "elevation": 13
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "BIKR",
-        "iata": "SAK"
+        "icao": "BIKR"
     },
     "location": {
         "latitude": 65.7317,
         "longitude": -19.5728,
         "elevation": 2
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

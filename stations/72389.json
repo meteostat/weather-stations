@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72389",
-        "ghcn": "USW00093193",
-        "wban": "93193",
-        "usaf": "723890",
-        "mosmix": "72389",
-        "icao": "KFAT",
-        "iata": "FAT"
+        "icao": "KFAT"
     },
     "location": {
         "latitude": 36.7833,
         "longitude": -119.7167,
         "elevation": 101
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HASM",
-        "iata": "SZE"
+        "icao": "HASM"
     },
     "location": {
         "latitude": 11.7881,
         "longitude": 40.9911,
         "elevation": 413
     },
-    "timezone": "Africa/Addis_Ababa",
-    "history": []
+    "timezone": "Africa/Addis_Ababa"
 }

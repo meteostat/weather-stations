@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VHSS",
-        "iata": "HHP"
+        "icao": "VHSS"
     },
     "location": {
         "latitude": 22.2889,
         "longitude": 114.1519,
         "elevation": 3
     },
-    "timezone": "Asia/Hong_Kong",
-    "history": []
+    "timezone": "Asia/Hong_Kong"
 }

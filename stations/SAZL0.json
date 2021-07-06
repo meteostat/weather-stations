@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SAZL",
-        "iata": "SST"
+        "icao": "SAZL"
     },
     "location": {
         "latitude": -36.5423,
         "longitude": -56.7218,
         "elevation": 3
     },
-    "timezone": "America/Argentina/Buenos_Aires",
-    "history": []
+    "timezone": "America/Argentina/Buenos_Aires"
 }

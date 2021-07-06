@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EYKL",
-        "iata": null
+        "icao": "EYKL"
     },
     "location": {
         "latitude": 55.7119,
         "longitude": 21.2428,
         "elevation": 18
     },
-    "timezone": "Europe/Vilnius",
-    "history": []
+    "timezone": "Europe/Vilnius"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWAI",
-        "iata": null
+        "icao": "CWAI"
     },
     "location": {
         "latitude": 56.9508,
         "longitude": -117.6442,
         "elevation": 491
     },
-    "timezone": "America/Edmonton",
-    "history": []
+    "timezone": "America/Edmonton"
 }

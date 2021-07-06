@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "24180",
-        "usaf": "720567",
-        "mosmix": null,
-        "icao": "KBMC",
-        "iata": null
+        "icao": "KBMC"
     },
     "location": {
         "latitude": 41.5524,
         "longitude": -112.0622,
         "elevation": 1289
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

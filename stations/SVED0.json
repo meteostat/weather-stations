@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SVED",
-        "iata": "EOR"
+        "icao": "SVED"
     },
     "location": {
         "latitude": 6.7333,
         "longitude": -61.5833,
         "elevation": 97
     },
-    "timezone": "America/Caracas",
-    "history": []
+    "timezone": "America/Caracas"
 }

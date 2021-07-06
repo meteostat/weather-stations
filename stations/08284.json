@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "08284",
-        "ghcn": "SPM00008284",
-        "wban": null,
-        "usaf": "082840",
-        "mosmix": "08284",
-        "icao": "LEVC",
-        "iata": "VLC"
+        "icao": "LEVC"
     },
     "location": {
         "latitude": 39.5,
         "longitude": -0.4667,
         "elevation": 69
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

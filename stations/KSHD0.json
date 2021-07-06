@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "93760",
-        "usaf": "724105",
-        "mosmix": null,
-        "icao": "KSHD",
-        "iata": "SHD"
+        "icao": "KSHD"
     },
     "location": {
         "latitude": 38.2638,
         "longitude": -78.8964,
         "elevation": 366
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

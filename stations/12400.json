@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "12400",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "123120",
-        "mosmix": "12400",
-        "icao": "EPZG",
-        "iata": "IEG"
+        "icao": "EPZG"
     },
     "location": {
         "latitude": 51.9333,
         "longitude": 15.5333,
         "elevation": 192
     },
-    "timezone": "Europe/Warsaw",
-    "history": []
+    "timezone": "Europe/Warsaw"
 }

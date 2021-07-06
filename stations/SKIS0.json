@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKIS",
-        "iata": null
+        "icao": "SKIS"
     },
     "location": {
         "latitude": 4.3019,
         "longitude": -73.3697,
         "elevation": 308
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

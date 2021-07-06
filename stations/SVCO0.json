@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SVCO",
-        "iata": "VCR"
+        "icao": "SVCO"
     },
     "location": {
         "latitude": 10.1756,
         "longitude": -70.0652,
         "elevation": 438
     },
-    "timezone": "America/Caracas",
-    "history": []
+    "timezone": "America/Caracas"
 }

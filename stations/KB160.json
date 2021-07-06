@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KB16",
-        "iata": null
+        "icao": "KB16"
     },
     "location": {
         "latitude": 43.0803,
         "longitude": -76.5384,
         "elevation": 122
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

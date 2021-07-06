@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "04089",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "040890",
-        "mosmix": null,
-        "icao": "BIEG",
-        "iata": "EGS"
+        "icao": "BIEG"
     },
     "location": {
         "latitude": 65.2833,
         "longitude": -14.4,
         "elevation": 23
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

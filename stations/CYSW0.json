@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYSW",
-        "iata": null
+        "icao": "CYSW"
     },
     "location": {
         "latitude": 49.8333,
         "longitude": -114.883,
         "elevation": 1158
     },
-    "timezone": "America/Edmonton",
-    "history": []
+    "timezone": "America/Edmonton"
 }

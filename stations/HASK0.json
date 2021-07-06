@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HASK",
-        "iata": "SKR"
+        "icao": "HASK"
     },
     "location": {
         "latitude": 5.7333,
         "longitude": 38.9167,
         "elevation": 1736
     },
-    "timezone": "Africa/Addis_Ababa",
-    "history": []
+    "timezone": "Africa/Addis_Ababa"
 }

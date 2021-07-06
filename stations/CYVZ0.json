@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYVZ",
-        "iata": "YVZ"
+        "icao": "CYVZ"
     },
     "location": {
         "latitude": 52.6558,
         "longitude": -94.0614,
         "elevation": 333
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

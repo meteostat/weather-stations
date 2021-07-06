@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72286",
-        "ghcn": "USW00023119",
-        "wban": "23119",
-        "usaf": "722860",
-        "mosmix": null,
-        "icao": "KRIV",
-        "iata": "RIV"
+        "icao": "KRIV"
     },
     "location": {
         "latitude": 33.9,
         "longitude": -117.25,
         "elevation": 469
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YRID",
-        "iata": null
+        "icao": "YRID"
     },
     "location": {
         "latitude": -37.48,
         "longitude": 144.718,
         "elevation": 338
     },
-    "timezone": "Australia/Melbourne",
-    "history": []
+    "timezone": "Australia/Melbourne"
 }

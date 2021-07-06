@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZFD",
-        "iata": "ZFD"
+        "icao": "CZFD"
     },
     "location": {
         "latitude": 59.3344,
         "longitude": -107.1819,
         "elevation": 248
     },
-    "timezone": "America/Regina",
-    "history": []
+    "timezone": "America/Regina"
 }

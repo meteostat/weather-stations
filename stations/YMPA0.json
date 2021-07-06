@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YMPA",
-        "iata": "MIN"
+        "icao": "YMPA"
     },
     "location": {
         "latitude": -32.8433,
         "longitude": 135.145,
         "elevation": 47
     },
-    "timezone": "Australia/Adelaide",
-    "history": []
+    "timezone": "Australia/Adelaide"
 }

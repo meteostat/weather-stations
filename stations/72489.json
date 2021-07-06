@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72489",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KREV",
-        "iata": null
+        "icao": "KREV"
     },
     "location": {
         "latitude": 39.5667,
         "longitude": -119.8,
         "elevation": 1463
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

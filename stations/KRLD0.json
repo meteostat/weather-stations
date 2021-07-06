@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "727884",
-        "mosmix": null,
-        "icao": "KRLD",
-        "iata": "RLD"
+        "icao": "KRLD"
     },
     "location": {
         "latitude": 46.3056,
         "longitude": -119.3042,
         "elevation": 120
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

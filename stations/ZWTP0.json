@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZWTP",
-        "iata": "TLQ"
+        "icao": "ZWTP"
     },
     "location": {
         "latitude": 43.0303,
         "longitude": 89.0972,
         "elevation": 260
     },
-    "timezone": "Asia/Urumqi",
-    "history": []
+    "timezone": "Asia/Urumqi"
 }

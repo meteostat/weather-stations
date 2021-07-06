@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NWWB",
-        "iata": null
+        "icao": "NWWB"
     },
     "location": {
         "latitude": -21.6097,
         "longitude": 165.397,
         "elevation": 2
     },
-    "timezone": "Pacific/Noumea",
-    "history": []
+    "timezone": "Pacific/Noumea"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ESNY",
-        "iata": "SOO"
+        "icao": "ESNY"
     },
     "location": {
         "latitude": 61.25,
         "longitude": 17.1,
         "elevation": 28
     },
-    "timezone": "Europe/Stockholm",
-    "history": []
+    "timezone": "Europe/Stockholm"
 }

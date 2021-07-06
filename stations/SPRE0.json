@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPRE",
-        "iata": null
+        "icao": "SPRE"
     },
     "location": {
         "latitude": -11.3833,
         "longitude": -74.1667,
         "elevation": 358
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

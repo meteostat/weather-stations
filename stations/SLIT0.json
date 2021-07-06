@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SLIT",
-        "iata": null
+        "icao": "SLIT"
     },
     "location": {
         "latitude": -19.7775,
         "longitude": -63.0878,
         "elevation": 487
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

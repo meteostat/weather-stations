@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "60025",
-        "ghcn": "SPE00120476",
-        "wban": null,
-        "usaf": "600250",
-        "mosmix": "60025",
-        "icao": "GCTS",
-        "iata": "TFS"
+        "icao": "GCTS"
     },
     "location": {
         "latitude": 28.05,
         "longitude": -16.5667,
         "elevation": 64
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72688",
-        "ghcn": "USW00024155",
-        "wban": "24155",
-        "usaf": "726880",
-        "mosmix": null,
-        "icao": "KPDT",
-        "iata": "PDT"
+        "icao": "KPDT"
     },
     "location": {
         "latitude": 46.1667,
         "longitude": -119.3833,
         "elevation": 455
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

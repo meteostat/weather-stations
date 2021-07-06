@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "91162",
-        "ghcn": "USW00022501",
-        "wban": "22501",
-        "usaf": "911620",
-        "mosmix": null,
-        "icao": "PHBK",
-        "iata": "BKH"
+        "icao": "PHBK"
     },
     "location": {
         "latitude": 22.0333,
         "longitude": -159.7833,
         "elevation": 4
     },
-    "timezone": "Pacific/Honolulu",
-    "history": []
+    "timezone": "Pacific/Honolulu"
 }

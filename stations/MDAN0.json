@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MDAN",
-        "iata": null
+        "icao": "MDAN"
     },
     "location": {
         "latitude": 19.1316,
         "longitude": -70.2216,
         "elevation": 61
     },
-    "timezone": "America/Santo_Domingo",
-    "history": []
+    "timezone": "America/Santo_Domingo"
 }

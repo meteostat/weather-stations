@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LECX",
-        "iata": null
+        "icao": "LECX"
     },
     "location": {
         "latitude": 40.9031,
         "longitude": -4.5203,
         "elevation": 1022
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

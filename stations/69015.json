@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "69015",
-        "ghcn": "USW00093121",
-        "wban": "93121",
-        "usaf": "690150",
-        "mosmix": null,
-        "icao": "KNXP",
-        "iata": null
+        "icao": "KNXP"
     },
     "location": {
         "latitude": 34.2962,
         "longitude": -116.1622,
         "elevation": 625
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

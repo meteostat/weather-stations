@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VLOT",
-        "iata": null
+        "icao": "VLOT"
     },
     "location": {
         "latitude": 22.12,
         "longitude": 101.8,
         "elevation": 738
     },
-    "timezone": "Asia/Vientiane",
-    "history": []
+    "timezone": "Asia/Vientiane"
 }

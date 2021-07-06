@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LFCA",
-        "iata": "XCX"
+        "icao": "LFCA"
     },
     "location": {
         "latitude": 46.7814,
         "longitude": 0.5519,
         "elevation": 63
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

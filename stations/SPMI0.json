@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPMI",
-        "iata": null
+        "icao": "SPMI"
     },
     "location": {
         "latitude": -11.35,
         "longitude": -74.4167,
         "elevation": 1280
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

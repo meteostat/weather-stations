@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "710514",
-        "mosmix": null,
-        "icao": "CYSP",
-        "iata": "YSP"
+        "icao": "CYSP"
     },
     "location": {
         "latitude": 48.7553,
         "longitude": -86.3444,
         "elevation": 316
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "838830",
-        "mosmix": null,
-        "icao": "SBCH",
-        "iata": "XAP"
+        "icao": "SBCH"
     },
     "location": {
         "latitude": -27.1342,
         "longitude": -52.6566,
         "elevation": 650
     },
-    "timezone": "America/Sao_Paulo",
-    "history": []
+    "timezone": "America/Sao_Paulo"
 }

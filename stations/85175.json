@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "85175",
-        "ghcn": "BLM00085175",
-        "wban": null,
-        "usaf": "851750",
-        "mosmix": null,
-        "icao": "SLAS",
-        "iata": "ASC"
+        "icao": "SLAS"
     },
     "location": {
         "latitude": -15.7167,
         "longitude": -63.1,
         "elevation": 247
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ELNT",
-        "iata": null
+        "icao": "ELNT"
     },
     "location": {
         "latitude": 49.9811,
         "longitude": 5.9178,
         "elevation": 464
     },
-    "timezone": "Europe/Luxembourg",
-    "history": []
+    "timezone": "Europe/Luxembourg"
 }

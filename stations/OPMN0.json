@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "OPMN",
-        "iata": null
+        "icao": "OPMN"
     },
     "location": {
         "latitude": 32.9833,
         "longitude": 70.1167,
         "elevation": 921
     },
-    "timezone": "Asia/Karachi",
-    "history": []
+    "timezone": "Asia/Karachi"
 }

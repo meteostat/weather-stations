@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03103",
-        "usaf": "723750",
-        "mosmix": null,
-        "icao": "KFLG",
-        "iata": "FLG"
+        "icao": "KFLG"
     },
     "location": {
         "latitude": 35.1403,
         "longitude": -111.6693,
         "elevation": 2138
     },
-    "timezone": "America/Phoenix",
-    "history": []
+    "timezone": "America/Phoenix"
 }

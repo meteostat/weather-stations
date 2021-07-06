@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "25625",
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PAAL",
-        "iata": "PML"
+        "icao": "PAAL"
     },
     "location": {
         "latitude": 56,
         "longitude": -160.5667,
         "elevation": 8
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

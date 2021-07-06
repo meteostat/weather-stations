@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FAUR",
-        "iata": null
+        "icao": "FAUR"
     },
     "location": {
         "latitude": -27.6805,
         "longitude": 30.3168,
         "elevation": 1250
     },
-    "timezone": "Africa/Johannesburg",
-    "history": []
+    "timezone": "Africa/Johannesburg"
 }

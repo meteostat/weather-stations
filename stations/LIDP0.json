@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LIDP",
-        "iata": null
+        "icao": "LIDP"
     },
     "location": {
         "latitude": 44.3224,
         "longitude": 10.8317,
         "elevation": 684
     },
-    "timezone": "Europe/Rome",
-    "history": []
+    "timezone": "Europe/Rome"
 }

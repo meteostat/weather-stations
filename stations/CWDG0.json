@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWDG",
-        "iata": null
+        "icao": "CWDG"
     },
     "location": {
         "latitude": 80,
         "longitude": -115,
         "elevation": 0
     },
-    "timezone": null,
-    "history": []
+    "timezone": null
 }

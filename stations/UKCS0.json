@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "UKCS",
-        "iata": "SEV"
+        "icao": "UKCS"
     },
     "location": {
         "latitude": 48.9003,
         "longitude": 38.5417,
         "elevation": 72
     },
-    "timezone": "Europe/Zaporozhye",
-    "history": []
+    "timezone": "Europe/Zaporozhye"
 }

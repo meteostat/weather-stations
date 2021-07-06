@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYCZ",
-        "iata": "YCZ"
+        "icao": "CYCZ"
     },
     "location": {
         "latitude": 50.3303,
         "longitude": -115.8733,
         "elevation": 811
     },
-    "timezone": "America/Vancouver",
-    "history": []
+    "timezone": "America/Vancouver"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LOXI",
-        "iata": null
+        "icao": "LOXI"
     },
     "location": {
         "latitude": 47.335,
         "longitude": 11.6975,
         "elevation": 541
     },
-    "timezone": "Europe/Vienna",
-    "history": []
+    "timezone": "Europe/Vienna"
 }

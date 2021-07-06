@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LDHE",
-        "iata": null
+        "icao": "LDHE"
     },
     "location": {
         "latitude": 44.9656,
         "longitude": 14.3986,
         "elevation": 19
     },
-    "timezone": "Europe/Zagreb",
-    "history": []
+    "timezone": "Europe/Zagreb"
 }

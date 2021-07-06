@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "07057",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "070570",
-        "mosmix": null,
-        "icao": "LFPC",
-        "iata": "CSF"
+        "icao": "LFPC"
     },
     "location": {
         "latitude": 49.25,
         "longitude": 2.5167,
         "elevation": 88
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

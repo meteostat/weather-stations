@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KOBI",
-        "iata": null
+        "icao": "KOBI"
     },
     "location": {
         "latitude": 39.2191,
         "longitude": -74.7948,
         "elevation": 13
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "08175",
-        "ghcn": "SPE00120530",
-        "wban": null,
-        "usaf": "081750",
-        "mosmix": "08175",
-        "icao": "LERS",
-        "iata": "REU"
+        "icao": "LERS"
     },
     "location": {
         "latitude": 41.15,
         "longitude": 1.1667,
         "elevation": 71
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

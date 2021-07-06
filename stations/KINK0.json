@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "23040",
-        "usaf": "722656",
-        "mosmix": null,
-        "icao": "KINK",
-        "iata": "INK"
+        "icao": "KINK"
     },
     "location": {
         "latitude": 31.7798,
         "longitude": -103.2017,
         "elevation": 860
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

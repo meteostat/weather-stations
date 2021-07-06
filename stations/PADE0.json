@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "26643",
-        "usaf": "701333",
-        "mosmix": null,
-        "icao": "PADE",
-        "iata": "DRG"
+        "icao": "PADE"
     },
     "location": {
         "latitude": 66.0696,
         "longitude": -162.7664,
         "elevation": 9
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

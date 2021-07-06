@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03960",
-        "usaf": "725314",
-        "mosmix": null,
-        "icao": "KCPS",
-        "iata": null
+        "icao": "KCPS"
     },
     "location": {
         "latitude": 38.5707,
         "longitude": -90.1562,
         "elevation": 126
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

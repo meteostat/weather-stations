@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPIN",
-        "iata": null
+        "icao": "SPIN"
     },
     "location": {
         "latitude": -10.979,
         "longitude": -69.5594,
         "elevation": 280
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

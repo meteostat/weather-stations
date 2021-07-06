@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MURC",
-        "iata": null
+        "icao": "MURC"
     },
     "location": {
         "latitude": 22.3025,
         "longitude": -80.8019,
         "elevation": 17
     },
-    "timezone": "America/Havana",
-    "history": []
+    "timezone": "America/Havana"
 }

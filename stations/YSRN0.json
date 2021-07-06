@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YSRN",
-        "iata": "SRN"
+        "icao": "YSRN"
     },
     "location": {
         "latitude": -42.155,
         "longitude": 145.292,
         "elevation": 6
     },
-    "timezone": "Australia/Hobart",
-    "history": []
+    "timezone": "Australia/Hobart"
 }

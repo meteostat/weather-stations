@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "41140",
-        "ghcn": "SAM00041140",
-        "wban": null,
-        "usaf": "411400",
-        "mosmix": null,
-        "icao": "OEGN",
-        "iata": "GIZ"
+        "icao": "OEGN"
     },
     "location": {
         "latitude": 16.9,
         "longitude": 42.5833,
         "elevation": 6
     },
-    "timezone": "Asia/Riyadh",
-    "history": []
+    "timezone": "Asia/Riyadh"
 }

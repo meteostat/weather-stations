@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HABB",
-        "iata": "XBL"
+        "icao": "HABB"
     },
     "location": {
         "latitude": 8.45,
         "longitude": 36.3333,
         "elevation": 1920
     },
-    "timezone": "Africa/Addis_Ababa",
-    "history": []
+    "timezone": "Africa/Addis_Ababa"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YMDY",
-        "iata": null
+        "icao": "YMDY"
     },
     "location": {
         "latitude": -12.89,
         "longitude": 131.908,
         "elevation": 46
     },
-    "timezone": "Australia/Darwin",
-    "history": []
+    "timezone": "Australia/Darwin"
 }

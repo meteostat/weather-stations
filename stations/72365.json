@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72365",
-        "ghcn": "USW00023050",
-        "wban": "23050",
-        "usaf": "723650",
-        "mosmix": "72365",
-        "icao": "KABQ",
-        "iata": "ABQ"
+        "icao": "KABQ"
     },
     "location": {
         "latitude": 35.0333,
         "longitude": -106.6,
         "elevation": 1631
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

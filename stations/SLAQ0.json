@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SLAQ",
-        "iata": null
+        "icao": "SLAQ"
     },
     "location": {
         "latitude": -18.2154,
         "longitude": -65.1878,
         "elevation": 2197
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

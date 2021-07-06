@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KAVO",
-        "iata": null
+        "icao": "KAVO"
     },
     "location": {
         "latitude": 27.5913,
         "longitude": -81.529,
         "elevation": 49
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

@@ -10,18 +10,12 @@
     "identifiers": {
         "national": null,
         "wmo": "01336",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "013360",
-        "mosmix": null,
-        "icao": "ENBM",
-        "iata": null
+        "icao": "ENBM"
     },
     "location": {
         "latitude": 60.65,
         "longitude": 6.5,
         "elevation": 125
     },
-    "timezone": "Europe/Oslo",
-    "history": []
+    "timezone": "Europe/Oslo"
 }

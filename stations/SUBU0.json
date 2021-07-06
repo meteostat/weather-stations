@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SUBU",
-        "iata": "BUV"
+        "icao": "SUBU"
     },
     "location": {
         "latitude": -30.3333,
         "longitude": -57.0833,
         "elevation": 21
     },
-    "timezone": "America/Montevideo",
-    "history": []
+    "timezone": "America/Montevideo"
 }

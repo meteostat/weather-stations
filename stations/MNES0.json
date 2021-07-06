@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MNES",
-        "iata": null
+        "icao": "MNES"
     },
     "location": {
         "latitude": 13.1117,
         "longitude": -86.3633,
         "elevation": 857
     },
-    "timezone": "America/Managua",
-    "history": []
+    "timezone": "America/Managua"
 }

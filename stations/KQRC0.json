@@ -1,25 +1,19 @@
 {
     "id": "KQRC0",
     "name": {
-        "en": "Naknek \/ King Salmon"
+        "en": "Naknek / King Salmon"
     },
     "country": "US",
     "region": "AK",
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "692704",
-        "mosmix": null,
-        "icao": "KQRC",
-        "iata": null
+        "icao": "KQRC"
     },
     "location": {
         "latitude": -156.6667,
         "longitude": 15,
         "elevation": 15
     },
-    "timezone": null,
-    "history": []
+    "timezone": null
 }

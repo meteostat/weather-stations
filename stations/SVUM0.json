@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SVUM",
-        "iata": "URM"
+        "icao": "SVUM"
     },
     "location": {
         "latitude": 5.3333,
         "longitude": -62.7667,
         "elevation": 350
     },
-    "timezone": "America/Caracas",
-    "history": []
+    "timezone": "America/Caracas"
 }

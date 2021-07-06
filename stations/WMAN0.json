@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "WMAN",
-        "iata": null
+        "icao": "WMAN"
     },
     "location": {
         "latitude": 4.3303,
         "longitude": 102.395,
         "elevation": 3
     },
-    "timezone": "Asia/Kuala_Lumpur",
-    "history": []
+    "timezone": "Asia/Kuala_Lumpur"
 }

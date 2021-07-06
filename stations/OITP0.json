@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "OITP",
-        "iata": "PFQ"
+        "icao": "OITP"
     },
     "location": {
         "latitude": 39.6036,
         "longitude": 47.8815,
         "elevation": 77
     },
-    "timezone": "Asia/Tehran",
-    "history": []
+    "timezone": "Asia/Tehran"
 }

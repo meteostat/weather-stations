@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWPT",
-        "iata": null
+        "icao": "CWPT"
     },
     "location": {
         "latitude": 80.7,
         "longitude": -81,
         "elevation": 1053
     },
-    "timezone": "America/Iqaluit",
-    "history": []
+    "timezone": "America/Iqaluit"
 }

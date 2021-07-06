@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "02944",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "029440",
-        "mosmix": "02944",
-        "icao": "EFTP",
-        "iata": "TMP"
+        "icao": "EFTP"
     },
     "location": {
         "latitude": 61.4167,
         "longitude": 23.5833,
         "elevation": 112
     },
-    "timezone": "Europe/Helsinki",
-    "history": []
+    "timezone": "Europe/Helsinki"
 }

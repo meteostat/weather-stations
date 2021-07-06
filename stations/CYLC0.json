@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "719094",
-        "mosmix": null,
-        "icao": "CYLC",
-        "iata": "YLC"
+        "icao": "CYLC"
     },
     "location": {
         "latitude": 62.85,
         "longitude": -69.8833,
         "elevation": 53
     },
-    "timezone": "America/Iqaluit",
-    "history": []
+    "timezone": "America/Iqaluit"
 }

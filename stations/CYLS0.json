@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYLS",
-        "iata": null
+        "icao": "CYLS"
     },
     "location": {
         "latitude": 44.4852,
         "longitude": -79.5555,
         "elevation": 295
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

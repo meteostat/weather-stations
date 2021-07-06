@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "OLRA",
-        "iata": null
+        "icao": "OLRA"
     },
     "location": {
         "latitude": 33.8508,
         "longitude": 35.9877,
         "elevation": 920
     },
-    "timezone": "Asia/Beirut",
-    "history": []
+    "timezone": "Asia/Beirut"
 }

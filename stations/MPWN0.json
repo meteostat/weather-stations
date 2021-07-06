@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MPWN",
-        "iata": "NBL"
+        "icao": "MPWN"
     },
     "location": {
         "latitude": 9.24,
         "longitude": -78.27,
         "elevation": 100
     },
-    "timezone": "America/Panama",
-    "history": []
+    "timezone": "America/Panama"
 }

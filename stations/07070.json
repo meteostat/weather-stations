@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "07070",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "070700",
-        "mosmix": "07070",
-        "icao": "LFSR",
-        "iata": "RHE"
+        "icao": "LFSR"
     },
     "location": {
         "latitude": 49.3,
         "longitude": 4.0333,
         "elevation": 95
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

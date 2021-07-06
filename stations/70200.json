@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70200",
-        "ghcn": "USW00026617",
-        "wban": "26617",
-        "usaf": "702000",
-        "mosmix": "70200",
-        "icao": "PAOM",
-        "iata": "OME"
+        "icao": "PAOM"
     },
     "location": {
         "latitude": 64.5167,
         "longitude": -165.4333,
         "elevation": 11
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

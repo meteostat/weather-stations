@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWNG",
-        "iata": null
+        "icao": "CWNG"
     },
     "location": {
         "latitude": 81.3333,
         "longitude": -74.7667,
         "elevation": 1336
     },
-    "timezone": "America/Iqaluit",
-    "history": []
+    "timezone": "America/Iqaluit"
 }

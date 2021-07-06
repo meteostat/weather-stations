@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EKDF",
-        "iata": null
+        "icao": "EKDF"
     },
     "location": {
         "latitude": 55.4781,
         "longitude": 5.1055,
         "elevation": -9999
     },
-    "timezone": "Europe/Copenhagen",
-    "history": []
+    "timezone": "Europe/Copenhagen"
 }

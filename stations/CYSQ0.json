@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYSQ",
-        "iata": null
+        "icao": "CYSQ"
     },
     "location": {
         "latitude": 59.5767,
         "longitude": -133.6689,
         "elevation": 716
     },
-    "timezone": "America/Vancouver",
-    "history": []
+    "timezone": "America/Vancouver"
 }

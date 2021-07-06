@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWQX",
-        "iata": null
+        "icao": "CWQX"
     },
     "location": {
         "latitude": 48.95,
         "longitude": -54.5667,
         "elevation": 121
     },
-    "timezone": "America/St_Johns",
-    "history": []
+    "timezone": "America/St_Johns"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "00396",
-        "usaf": "749485",
-        "mosmix": null,
-        "icao": "KFOT",
-        "iata": null
+        "icao": "KFOT"
     },
     "location": {
         "latitude": 40.5539,
         "longitude": -124.1327,
         "elevation": 120
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

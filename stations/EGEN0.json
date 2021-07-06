@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EGEN",
-        "iata": "NRL"
+        "icao": "EGEN"
     },
     "location": {
         "latitude": 59.3675,
         "longitude": -2.4344,
         "elevation": 12
     },
-    "timezone": "Europe/London",
-    "history": []
+    "timezone": "Europe/London"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "54737",
-        "usaf": "725116",
-        "mosmix": null,
-        "icao": "KLNS",
-        "iata": "LNS"
+        "icao": "KLNS"
     },
     "location": {
         "latitude": 40.1224,
         "longitude": -76.2944,
         "elevation": 123
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

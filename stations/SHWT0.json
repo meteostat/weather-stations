@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SHWT",
-        "iata": null
+        "icao": "SHWT"
     },
     "location": {
         "latitude": -33.4161,
         "longitude": -70.6053,
         "elevation": 693
     },
-    "timezone": "America/Santiago",
-    "history": []
+    "timezone": "America/Santiago"
 }

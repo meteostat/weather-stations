@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "93010",
-        "usaf": "724665",
-        "mosmix": null,
-        "icao": "KLIC",
-        "iata": null
+        "icao": "KLIC"
     },
     "location": {
         "latitude": 39.2748,
         "longitude": -103.6659,
         "elevation": 1638
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

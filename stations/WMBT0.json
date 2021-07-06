@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "WMBT",
-        "iata": "TOD"
+        "icao": "WMBT"
     },
     "location": {
         "latitude": 2.8182,
         "longitude": 104.16,
         "elevation": 5
     },
-    "timezone": "Asia/Kuala_Lumpur",
-    "history": []
+    "timezone": "Asia/Kuala_Lumpur"
 }

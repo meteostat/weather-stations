@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SAWO",
-        "iata": null
+        "icao": "SAWO"
     },
     "location": {
         "latitude": -54.8227,
         "longitude": -68.3043,
         "elevation": 6
     },
-    "timezone": "America/Argentina/Ushuaia",
-    "history": []
+    "timezone": "America/Argentina/Ushuaia"
 }

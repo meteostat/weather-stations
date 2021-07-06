@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VYSO",
-        "iata": null
+        "icao": "VYSO"
     },
     "location": {
         "latitude": 20.45,
         "longitude": 94.233,
         "elevation": 152
     },
-    "timezone": "Asia/Rangoon",
-    "history": []
+    "timezone": "Asia/Rangoon"
 }

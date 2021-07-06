@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "87213",
-        "ghcn": "ARM00087213",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": -29.2333,
         "longitude": -67.4333,
         "elevation": 945
     },
-    "timezone": "America/Argentina/La_Rioja",
-    "history": []
+    "timezone": "America/Argentina/La_Rioja"
 }

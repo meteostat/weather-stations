@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYAG",
-        "iata": "YAG"
+        "icao": "CYAG"
     },
     "location": {
         "latitude": 48.65,
         "longitude": -93.4333,
         "elevation": 342
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

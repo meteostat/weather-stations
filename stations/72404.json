@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72404",
-        "ghcn": "USW00013721",
-        "wban": "13721",
-        "usaf": "724040",
-        "mosmix": null,
-        "icao": "KNHK",
-        "iata": "NHK"
+        "icao": "KNHK"
     },
     "location": {
         "latitude": 38.3,
         "longitude": -76.0667,
         "elevation": 12
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

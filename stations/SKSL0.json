@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKSL",
-        "iata": "SSL"
+        "icao": "SKSL"
     },
     "location": {
         "latitude": 5.1336,
         "longitude": -70.8717,
         "elevation": 122
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

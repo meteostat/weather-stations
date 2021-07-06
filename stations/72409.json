@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72409",
-        "ghcn": null,
-        "wban": "14780",
-        "usaf": "724090",
-        "mosmix": null,
-        "icao": "KNEL",
-        "iata": "NEL"
+        "icao": "KNEL"
     },
     "location": {
         "latitude": 40.0333,
         "longitude": -74.3167,
         "elevation": 31
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

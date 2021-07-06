@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZPBS",
-        "iata": "BSD"
+        "icao": "ZPBS"
     },
     "location": {
         "latitude": 25.0533,
         "longitude": 99.1686,
         "elevation": 1650
     },
-    "timezone": "Asia/Shanghai",
-    "history": []
+    "timezone": "Asia/Shanghai"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "04852",
-        "usaf": "725224",
-        "mosmix": null,
-        "icao": "KPHD",
-        "iata": null
+        "icao": "KPHD"
     },
     "location": {
         "latitude": 40.4702,
         "longitude": -81.4199,
         "elevation": 273
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

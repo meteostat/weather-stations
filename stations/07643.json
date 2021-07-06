@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "07643",
-        "ghcn": "FRM00007643",
-        "wban": null,
-        "usaf": "076430",
-        "mosmix": "07643",
-        "icao": "LFMT",
-        "iata": "MPL"
+        "icao": "LFMT"
     },
     "location": {
         "latitude": 43.5833,
         "longitude": 3.9667,
         "elevation": 5
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KONY",
-        "iata": null
+        "icao": "KONY"
     },
     "location": {
         "latitude": 33.3509,
         "longitude": -98.8192,
         "elevation": 389
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

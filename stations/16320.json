@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "16320",
-        "ghcn": "IT000016320",
-        "wban": null,
-        "usaf": "163200",
-        "mosmix": "16320",
-        "icao": "LIBR",
-        "iata": "BDS"
+        "icao": "LIBR"
     },
     "location": {
         "latitude": 40.65,
         "longitude": 17.95,
         "elevation": 15
     },
-    "timezone": "Europe/Rome",
-    "history": []
+    "timezone": "Europe/Rome"
 }

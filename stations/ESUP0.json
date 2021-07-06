@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ESUP",
-        "iata": "PJA"
+        "icao": "ESUP"
     },
     "location": {
         "latitude": 67.2456,
         "longitude": 23.0689,
         "elevation": 165
     },
-    "timezone": "Europe/Stockholm",
-    "history": []
+    "timezone": "Europe/Stockholm"
 }

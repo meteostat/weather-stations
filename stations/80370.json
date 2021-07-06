@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80370",
-        "ghcn": "COM00080370",
-        "wban": null,
-        "usaf": "803700",
-        "mosmix": null,
-        "icao": "SKIP",
-        "iata": "IPI"
+        "icao": "SKIP"
     },
     "location": {
         "latitude": 0.8167,
         "longitude": -77.6333,
         "elevation": 2961
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPTP",
-        "iata": null
+        "icao": "SPTP"
     },
     "location": {
         "latitude": -4.5498,
         "longitude": -81.2241,
         "elevation": 87
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

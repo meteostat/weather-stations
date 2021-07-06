@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YWMP",
-        "iata": "WPK"
+        "icao": "YWMP"
     },
     "location": {
         "latitude": -16.6583,
         "longitude": 144.002,
         "elevation": 46
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

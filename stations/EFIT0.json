@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EFIT",
-        "iata": "KTQ"
+        "icao": "EFIT"
     },
     "location": {
         "latitude": 62.1661,
         "longitude": 30.0736,
         "elevation": 111
     },
-    "timezone": "Europe/Helsinki",
-    "history": []
+    "timezone": "Europe/Helsinki"
 }

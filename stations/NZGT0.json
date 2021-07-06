@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NZGT",
-        "iata": "GTN"
+        "icao": "NZGT"
     },
     "location": {
         "latitude": -43.9067,
         "longitude": 170.128,
         "elevation": 556
     },
-    "timezone": "Pacific/Auckland",
-    "history": []
+    "timezone": "Pacific/Auckland"
 }

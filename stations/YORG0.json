@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YORG",
-        "iata": "OAG"
+        "icao": "YORG"
     },
     "location": {
         "latitude": -33.3817,
         "longitude": 149.133,
         "elevation": 949
     },
-    "timezone": "Australia/Sydney",
-    "history": []
+    "timezone": "Australia/Sydney"
 }

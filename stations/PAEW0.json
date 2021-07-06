@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PAEW",
-        "iata": "WWT"
+        "icao": "PAEW"
     },
     "location": {
         "latitude": 60.9391,
         "longitude": -164.6413,
         "elevation": 8
     },
-    "timezone": "America/Nome",
-    "history": []
+    "timezone": "America/Nome"
 }

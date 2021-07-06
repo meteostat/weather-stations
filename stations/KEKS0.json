@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KEKS",
-        "iata": null
+        "icao": "KEKS"
     },
     "location": {
         "latitude": 45.2744,
         "longitude": -111.6489,
         "elevation": 1653
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

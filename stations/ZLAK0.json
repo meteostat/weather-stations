@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZLAK",
-        "iata": "AKA"
+        "icao": "ZLAK"
     },
     "location": {
         "latitude": 32.7081,
         "longitude": 108.931,
         "elevation": 255
     },
-    "timezone": "Asia/Shanghai",
-    "history": []
+    "timezone": "Asia/Shanghai"
 }

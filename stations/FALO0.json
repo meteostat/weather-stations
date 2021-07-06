@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FALO",
-        "iata": "LCD"
+        "icao": "FALO"
     },
     "location": {
         "latitude": -23.05,
         "longitude": 29.8667,
         "elevation": 922
     },
-    "timezone": "Africa/Johannesburg",
-    "history": []
+    "timezone": "Africa/Johannesburg"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "54208",
-        "ghcn": "CHM00054208",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 42.1833,
         "longitude": 116.4667,
         "elevation": 1247
     },
-    "timezone": "Asia/Shanghai",
-    "history": []
+    "timezone": "Asia/Shanghai"
 }

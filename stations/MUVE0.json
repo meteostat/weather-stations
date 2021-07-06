@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MUVE",
-        "iata": null
+        "icao": "MUVE"
     },
     "location": {
         "latitude": 21.2403,
         "longitude": -78.1142,
         "elevation": 74
     },
-    "timezone": "America/Havana",
-    "history": []
+    "timezone": "America/Havana"
 }

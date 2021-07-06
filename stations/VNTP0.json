@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VNTP",
-        "iata": "TPU"
+        "icao": "VNTP"
     },
     "location": {
         "latitude": 28.517,
         "longitude": 81.15,
         "elevation": 243
     },
-    "timezone": "Asia/Kathmandu",
-    "history": []
+    "timezone": "Asia/Kathmandu"
 }

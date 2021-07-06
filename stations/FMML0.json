@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FMML",
-        "iata": "BMD"
+        "icao": "FMML"
     },
     "location": {
         "latitude": -19.6867,
         "longitude": 44.5419,
         "elevation": 47
     },
-    "timezone": "Indian/Antananarivo",
-    "history": []
+    "timezone": "Indian/Antananarivo"
 }

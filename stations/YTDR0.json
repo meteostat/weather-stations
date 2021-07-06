@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YTDR",
-        "iata": "TDR"
+        "icao": "YTDR"
     },
     "location": {
         "latitude": -24.9933,
         "longitude": 150.093,
         "elevation": 52
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

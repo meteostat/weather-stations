@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FWCD",
-        "iata": "CEH"
+        "icao": "FWCD"
     },
     "location": {
         "latitude": -10.55,
         "longitude": 33.8,
         "elevation": 2365
     },
-    "timezone": "Africa/Lusaka",
-    "history": []
+    "timezone": "Africa/Lusaka"
 }

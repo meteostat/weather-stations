@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LTBC",
-        "iata": null
+        "icao": "LTBC"
     },
     "location": {
         "latitude": 38.37,
         "longitude": 28.5571,
         "elevation": 142
     },
-    "timezone": "Europe/Istanbul",
-    "history": []
+    "timezone": "Europe/Istanbul"
 }

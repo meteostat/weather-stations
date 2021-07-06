@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYJN",
-        "iata": "YJN"
+        "icao": "CYJN"
     },
     "location": {
         "latitude": 45.2944,
         "longitude": -73.2811,
         "elevation": 41
     },
-    "timezone": "America/Montreal",
-    "history": []
+    "timezone": "America/Montreal"
 }

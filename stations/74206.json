@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "74206",
-        "ghcn": "USW00024207",
-        "wban": "24207",
-        "usaf": "742060",
-        "mosmix": null,
-        "icao": "KTCM",
-        "iata": "TCM"
+        "icao": "KTCM"
     },
     "location": {
         "latitude": 47.15,
         "longitude": -122.4833,
         "elevation": 98
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

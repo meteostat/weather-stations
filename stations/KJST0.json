@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "04726",
-        "usaf": "725127",
-        "mosmix": null,
-        "icao": "KJST",
-        "iata": "JST"
+        "icao": "KJST"
     },
     "location": {
         "latitude": 40.3161,
         "longitude": -78.8339,
         "elevation": 696
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

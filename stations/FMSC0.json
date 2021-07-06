@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FMSC",
-        "iata": "WMD"
+        "icao": "FMSC"
     },
     "location": {
         "latitude": -21.033,
         "longitude": 44.95,
         "elevation": 290
     },
-    "timezone": "Indian/Antananarivo",
-    "history": []
+    "timezone": "Indian/Antananarivo"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "851090",
-        "mosmix": null,
-        "icao": "SLRA",
-        "iata": "SRD"
+        "icao": "SLRA"
     },
     "location": {
         "latitude": -13.2639,
         "longitude": -64.6039,
         "elevation": 213
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

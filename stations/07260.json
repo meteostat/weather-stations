@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "07260",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "072600",
-        "mosmix": "07260",
-        "icao": "LFQG",
-        "iata": "NVS"
+        "icao": "LFQG"
     },
     "location": {
         "latitude": 47,
         "longitude": 3.1,
         "elevation": 180
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SOOS",
-        "iata": "XAU"
+        "icao": "SOOS"
     },
     "location": {
         "latitude": 3.6136,
         "longitude": -53.2042,
         "elevation": 200
     },
-    "timezone": "America/Cayenne",
-    "history": []
+    "timezone": "America/Cayenne"
 }

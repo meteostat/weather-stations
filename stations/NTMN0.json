@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NTMN",
-        "iata": "AUQ"
+        "icao": "NTMN"
     },
     "location": {
         "latitude": -9.7688,
         "longitude": -139.011,
         "elevation": 451
     },
-    "timezone": "Pacific/Gambier",
-    "history": []
+    "timezone": "Pacific/Gambier"
 }

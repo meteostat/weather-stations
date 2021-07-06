@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YBEE",
-        "iata": null
+        "icao": "YBEE"
     },
     "location": {
         "latitude": -30.1867,
         "longitude": 139.558,
         "elevation": 35
     },
-    "timezone": "Australia/Adelaide",
-    "history": []
+    "timezone": "Australia/Adelaide"
 }

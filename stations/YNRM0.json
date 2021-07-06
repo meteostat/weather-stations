@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YNRM",
-        "iata": "QRM"
+        "icao": "YNRM"
     },
     "location": {
         "latitude": -32.2147,
         "longitude": 148.225,
         "elevation": 238
     },
-    "timezone": "Australia/Sydney",
-    "history": []
+    "timezone": "Australia/Sydney"
 }

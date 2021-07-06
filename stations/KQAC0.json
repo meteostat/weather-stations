@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KQAC",
-        "iata": null
+        "icao": "KQAC"
     },
     "location": {
         "latitude": 49.32,
         "longitude": 11.72,
         "elevation": 545
     },
-    "timezone": "Europe/Berlin",
-    "history": []
+    "timezone": "Europe/Berlin"
 }

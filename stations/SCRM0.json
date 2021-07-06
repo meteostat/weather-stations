@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "890560",
-        "mosmix": null,
-        "icao": "SCRM",
-        "iata": "TNM"
+        "icao": "SCRM"
     },
     "location": {
         "latitude": -62.1908,
         "longitude": -58.9867,
         "elevation": 45
     },
-    "timezone": "Antarctica/Palmer",
-    "history": []
+    "timezone": "Antarctica/Palmer"
 }

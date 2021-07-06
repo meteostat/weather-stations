@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NVSN",
-        "iata": "MWF"
+        "icao": "NVSN"
     },
     "location": {
         "latitude": -15,
         "longitude": 168.083,
         "elevation": 140
     },
-    "timezone": "Pacific/Efate",
-    "history": []
+    "timezone": "Pacific/Efate"
 }

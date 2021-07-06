@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YCNM",
-        "iata": "CNB"
+        "icao": "YCNM"
     },
     "location": {
         "latitude": -30.9833,
         "longitude": 148.376,
         "elevation": 184
     },
-    "timezone": "Australia/Sydney",
-    "history": []
+    "timezone": "Australia/Sydney"
 }

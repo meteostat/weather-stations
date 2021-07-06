@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VNST",
-        "iata": "IMK"
+        "icao": "VNST"
     },
     "location": {
         "latitude": 29.9711,
         "longitude": 81.8189,
         "elevation": 2818
     },
-    "timezone": "Asia/Kathmandu",
-    "history": []
+    "timezone": "Asia/Kathmandu"
 }

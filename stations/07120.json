@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "07120",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "071200",
-        "mosmix": "07120",
-        "icao": "LFRT",
-        "iata": "SBK"
+        "icao": "LFRT"
     },
     "location": {
         "latitude": 48.5333,
         "longitude": -2.85,
         "elevation": 138
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

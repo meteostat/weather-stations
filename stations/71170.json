@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "71170",
-        "ghcn": "CA005010547",
-        "wban": null,
-        "usaf": "711700",
-        "mosmix": null,
-        "icao": "CWCM",
-        "iata": null
+        "icao": "CWCM"
     },
     "location": {
         "latitude": 49.9,
         "longitude": -99.35,
         "elevation": 384
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

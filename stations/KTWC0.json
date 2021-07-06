@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KTWC",
-        "iata": null
+        "icao": "KTWC"
     },
     "location": {
         "latitude": 32.2333,
         "longitude": -110.95,
         "elevation": 751
     },
-    "timezone": "America/Phoenix",
-    "history": []
+    "timezone": "America/Phoenix"
 }

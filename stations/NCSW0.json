@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NCSW",
-        "iata": null
+        "icao": "NCSW"
     },
     "location": {
         "latitude": -13.2489,
         "longitude": -163.1061,
         "elevation": -9999
     },
-    "timezone": "Pacific/Rarotonga",
-    "history": []
+    "timezone": "Pacific/Rarotonga"
 }

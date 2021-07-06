@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "17200",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "172000",
-        "mosmix": null,
-        "icao": "LTAT",
-        "iata": "MLX"
+        "icao": "LTAT"
     },
     "location": {
         "latitude": 38.4333,
         "longitude": 38.0833,
         "elevation": 862
     },
-    "timezone": "Europe/Istanbul",
-    "history": []
+    "timezone": "Europe/Istanbul"
 }

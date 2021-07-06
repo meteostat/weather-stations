@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PAGT",
-        "iata": null
+        "icao": "PAGT"
     },
     "location": {
         "latitude": 60.471,
         "longitude": -164.7008,
         "elevation": 2
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

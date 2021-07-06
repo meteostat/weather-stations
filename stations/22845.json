@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "22845",
-        "ghcn": "RSM00022845",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 61.5,
         "longitude": 38.9333,
         "elevation": 121
     },
-    "timezone": "Europe/Moscow",
-    "history": []
+    "timezone": "Europe/Moscow"
 }

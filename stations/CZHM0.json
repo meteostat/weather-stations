@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZHM",
-        "iata": null
+        "icao": "CZHM"
     },
     "location": {
         "latitude": 43.2667,
         "longitude": -79.7667,
         "elevation": 77
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

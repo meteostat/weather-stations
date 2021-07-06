@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03177",
-        "usaf": "722927",
-        "mosmix": null,
-        "icao": "KCRQ",
-        "iata": null
+        "icao": "KCRQ"
     },
     "location": {
         "latitude": 33.1283,
         "longitude": -117.2801,
         "elevation": 101
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

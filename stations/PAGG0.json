@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PAGG",
-        "iata": "KWK"
+        "icao": "PAGG"
     },
     "location": {
         "latitude": 59.8765,
         "longitude": -163.169,
         "elevation": 6
     },
-    "timezone": "America/Nome",
-    "history": []
+    "timezone": "America/Nome"
 }

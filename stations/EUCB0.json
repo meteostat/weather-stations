@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EUCB",
-        "iata": null
+        "icao": "EUCB"
     },
     "location": {
         "latitude": 48.6002,
         "longitude": 2.3466,
         "elevation": 80
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

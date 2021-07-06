@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FMSV",
-        "iata": "BKU"
+        "icao": "FMSV"
     },
     "location": {
         "latitude": -23.733,
         "longitude": 44.389,
         "elevation": 280
     },
-    "timezone": "Indian/Antananarivo",
-    "history": []
+    "timezone": "Indian/Antananarivo"
 }

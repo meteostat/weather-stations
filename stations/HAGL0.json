@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HAGL",
-        "iata": "GLC"
+        "icao": "HAGL"
     },
     "location": {
         "latitude": 6.9667,
         "longitude": 46.4167,
         "elevation": 411
     },
-    "timezone": "Africa/Addis_Ababa",
-    "history": []
+    "timezone": "Africa/Addis_Ababa"
 }

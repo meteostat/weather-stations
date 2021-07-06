@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZYCY",
-        "iata": "CHG"
+        "icao": "ZYCY"
     },
     "location": {
         "latitude": 41.5381,
         "longitude": 120.435,
         "elevation": 150
     },
-    "timezone": "Asia/Shanghai",
-    "history": []
+    "timezone": "Asia/Shanghai"
 }

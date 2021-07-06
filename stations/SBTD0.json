@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SBTD",
-        "iata": "TOW"
+        "icao": "SBTD"
     },
     "location": {
         "latitude": -24.6863,
         "longitude": -53.6975,
         "elevation": 562
     },
-    "timezone": "America/Sao_Paulo",
-    "history": []
+    "timezone": "America/Sao_Paulo"
 }

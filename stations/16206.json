@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "16206",
-        "ghcn": "ITM00016206",
-        "wban": null,
-        "usaf": "162060",
-        "mosmix": "16206",
-        "icao": "LIRS",
-        "iata": "GRS"
+        "icao": "LIRS"
     },
     "location": {
         "latitude": 42.75,
         "longitude": 11.0667,
         "elevation": 5
     },
-    "timezone": "Europe/Rome",
-    "history": []
+    "timezone": "Europe/Rome"
 }

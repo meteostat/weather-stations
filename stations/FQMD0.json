@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FQMD",
-        "iata": "MUD"
+        "icao": "FQMD"
     },
     "location": {
         "latitude": -11.6729,
         "longitude": 39.5631,
         "elevation": 850
     },
-    "timezone": "Africa/Maputo",
-    "history": []
+    "timezone": "Africa/Maputo"
 }

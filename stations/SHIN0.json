@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SHIN",
-        "iata": null
+        "icao": "SHIN"
     },
     "location": {
         "latitude": -33.4208,
         "longitude": -70.6178,
         "elevation": 640
     },
-    "timezone": "America/Santiago",
-    "history": []
+    "timezone": "America/Santiago"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KCXL",
-        "iata": "CXL"
+        "icao": "KCXL"
     },
     "location": {
         "latitude": 32.6695,
         "longitude": -115.5133,
         "elevation": 2
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

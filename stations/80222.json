@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80222",
-        "ghcn": "CO000080222",
-        "wban": null,
-        "usaf": "802220",
-        "mosmix": "80222",
-        "icao": "SKBO",
-        "iata": "BOG"
+        "icao": "SKBO"
     },
     "location": {
         "latitude": 4.7167,
         "longitude": -74.15,
         "elevation": 2547
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

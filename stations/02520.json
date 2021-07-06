@@ -10,18 +10,12 @@
     "identifiers": {
         "national": null,
         "wmo": "02520",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "025200",
-        "mosmix": "02520",
-        "icao": "ESIB",
-        "iata": null
+        "icao": "ESIB"
     },
     "location": {
         "latitude": 58.4333,
         "longitude": 12.7,
         "elevation": 54
     },
-    "timezone": "Europe/Stockholm",
-    "history": []
+    "timezone": "Europe/Stockholm"
 }

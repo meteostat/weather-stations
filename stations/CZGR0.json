@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZGR",
-        "iata": "ZGR"
+        "icao": "CZGR"
     },
     "location": {
         "latitude": 52.0455,
         "longitude": -95.4659,
         "elevation": 306
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PABG",
-        "iata": "BVU"
+        "icao": "PABG"
     },
     "location": {
         "latitude": 61.1722,
         "longitude": -151.0439,
         "elevation": 27
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

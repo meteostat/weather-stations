@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "04069",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 65.8167,
         "longitude": -17.2,
         "elevation": 42
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

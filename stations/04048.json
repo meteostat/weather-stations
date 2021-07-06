@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "04048",
-        "ghcn": "IC000004048",
-        "wban": null,
-        "usaf": "040480",
-        "mosmix": "04048",
-        "icao": "BIVM",
-        "iata": "VEY"
+        "icao": "BIVM"
     },
     "location": {
         "latitude": 63.4,
         "longitude": -20.2833,
         "elevation": 118
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

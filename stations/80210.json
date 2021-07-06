@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80210",
-        "ghcn": "COM00080210",
-        "wban": null,
-        "usaf": "802100",
-        "mosmix": null,
-        "icao": "SKPE",
-        "iata": "PEI"
+        "icao": "SKPE"
     },
     "location": {
         "latitude": 4.8167,
         "longitude": -75.7333,
         "elevation": 1342
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

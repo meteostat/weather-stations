@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "010860",
-        "mosmix": null,
-        "icao": "ENBS",
-        "iata": "BJF"
+        "icao": "ENBS"
     },
     "location": {
         "latitude": 70.6005,
         "longitude": 29.6914,
         "elevation": 149
     },
-    "timezone": "Europe/Oslo",
-    "history": []
+    "timezone": "Europe/Oslo"
 }

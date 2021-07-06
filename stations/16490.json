@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "16490",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "164900",
-        "mosmix": null,
-        "icao": "LICD",
-        "iata": "LMP"
+        "icao": "LICD"
     },
     "location": {
         "latitude": 35.5,
         "longitude": 12.6,
         "elevation": 16
     },
-    "timezone": "Europe/Rome",
-    "history": []
+    "timezone": "Europe/Rome"
 }

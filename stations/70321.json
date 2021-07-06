@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70321",
-        "ghcn": "USC00502457",
-        "wban": "25513",
-        "usaf": "703210",
-        "mosmix": null,
-        "icao": "PADL",
-        "iata": "DLG"
+        "icao": "PADL"
     },
     "location": {
         "latitude": 59.05,
         "longitude": -158.5167,
         "elevation": 26
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "RPVE",
-        "iata": "MPH"
+        "icao": "RPVE"
     },
     "location": {
         "latitude": 11.9245,
         "longitude": 121.9541,
         "elevation": 2
     },
-    "timezone": "Asia/Manila",
-    "history": []
+    "timezone": "Asia/Manila"
 }

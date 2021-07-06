@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "865823",
-        "mosmix": null,
-        "icao": "SULS",
-        "iata": "PDP"
+        "icao": "SULS"
     },
     "location": {
         "latitude": -34.8667,
         "longitude": -55.1,
         "elevation": 30
     },
-    "timezone": "America/Montevideo",
-    "history": []
+    "timezone": "America/Montevideo"
 }

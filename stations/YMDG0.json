@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YMDG",
-        "iata": "DGE"
+        "icao": "YMDG"
     },
     "location": {
         "latitude": -32.5625,
         "longitude": 149.611,
         "elevation": 471
     },
-    "timezone": "Australia/Sydney",
-    "history": []
+    "timezone": "Australia/Sydney"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "04085",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "040850",
-        "mosmix": null,
-        "icao": "BIVO",
-        "iata": "VPN"
+        "icao": "BIVO"
     },
     "location": {
         "latitude": 65.7,
         "longitude": -14.8167,
         "elevation": 44
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

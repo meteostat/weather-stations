@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MGRD",
-        "iata": "LCF"
+        "icao": "MGRD"
     },
     "location": {
         "latitude": 15.6678,
         "longitude": -88.9478,
         "elevation": 25
     },
-    "timezone": "America/Guatemala",
-    "history": []
+    "timezone": "America/Guatemala"
 }

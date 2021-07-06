@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "08515",
-        "ghcn": "POM00008515",
-        "wban": null,
-        "usaf": "085150",
-        "mosmix": "08515",
-        "icao": "LPAZ",
-        "iata": "SMA"
+        "icao": "LPAZ"
     },
     "location": {
         "latitude": 36.9667,
         "longitude": -25.1667,
         "elevation": 100
     },
-    "timezone": "Atlantic/Azores",
-    "history": []
+    "timezone": "Atlantic/Azores"
 }

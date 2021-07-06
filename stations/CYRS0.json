@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYRS",
-        "iata": "YRS"
+        "icao": "CYRS"
     },
     "location": {
         "latitude": 54.1672,
         "longitude": -93.5573,
         "elevation": 222
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

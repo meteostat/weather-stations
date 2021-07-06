@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SMPT",
-        "iata": null
+        "icao": "SMPT"
     },
     "location": {
         "latitude": 3.5064,
         "longitude": -55.0553,
         "elevation": 121
     },
-    "timezone": "America/Paramaribo",
-    "history": []
+    "timezone": "America/Paramaribo"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EYPN",
-        "iata": "PNV"
+        "icao": "EYPN"
     },
     "location": {
         "latitude": 55.7057,
         "longitude": 24.3393,
         "elevation": 52
     },
-    "timezone": "Europe/Vilnius",
-    "history": []
+    "timezone": "Europe/Vilnius"
 }

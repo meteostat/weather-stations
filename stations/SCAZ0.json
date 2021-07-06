@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SCAZ",
-        "iata": null
+        "icao": "SCAZ"
     },
     "location": {
         "latitude": -54.4797,
         "longitude": -68.9367,
         "elevation": 18
     },
-    "timezone": "America/Punta_Arenas",
-    "history": []
+    "timezone": "America/Punta_Arenas"
 }

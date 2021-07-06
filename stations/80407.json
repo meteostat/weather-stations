@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80407",
-        "ghcn": "VEM00080407",
-        "wban": null,
-        "usaf": "804070",
-        "mosmix": "80407",
-        "icao": "SVMC",
-        "iata": "MAR"
+        "icao": "SVMC"
     },
     "location": {
         "latitude": 10.5667,
         "longitude": -71.7333,
         "elevation": 66
     },
-    "timezone": "America/Caracas",
-    "history": []
+    "timezone": "America/Caracas"
 }

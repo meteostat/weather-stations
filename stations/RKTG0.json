@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "471425",
-        "mosmix": null,
-        "icao": "RKTG",
-        "iata": null
+        "icao": "RKTG"
     },
     "location": {
         "latitude": 35.8333,
         "longitude": 128.5833,
         "elevation": 75
     },
-    "timezone": "Asia/Seoul",
-    "history": []
+    "timezone": "Asia/Seoul"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03953",
-        "usaf": "723407",
-        "mosmix": null,
-        "icao": "KJBR",
-        "iata": "JBR"
+        "icao": "KJBR"
     },
     "location": {
         "latitude": 35.8317,
         "longitude": -90.6464,
         "elevation": 80
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

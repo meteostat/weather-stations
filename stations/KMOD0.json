@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "23258",
-        "usaf": "724926",
-        "mosmix": null,
-        "icao": "KMOD",
-        "iata": "MOD"
+        "icao": "KMOD"
     },
     "location": {
         "latitude": 37.6258,
         "longitude": -120.9544,
         "elevation": 30
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

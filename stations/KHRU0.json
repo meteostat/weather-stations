@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KHRU",
-        "iata": null
+        "icao": "KHRU"
     },
     "location": {
         "latitude": 38.6947,
         "longitude": -96.808,
         "elevation": 451
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

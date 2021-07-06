@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FATM",
-        "iata": "TSB"
+        "icao": "FATM"
     },
     "location": {
         "latitude": -19.2667,
         "longitude": 17.7333,
         "elevation": 1327
     },
-    "timezone": "Africa/Windhoek",
-    "history": []
+    "timezone": "Africa/Windhoek"
 }

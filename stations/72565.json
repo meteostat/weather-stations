@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72565",
-        "ghcn": "USW00003017",
-        "wban": "03017",
-        "usaf": "725650",
-        "mosmix": "72565",
-        "icao": "KDEN",
-        "iata": "DEN"
+        "icao": "KDEN"
     },
     "location": {
         "latitude": 39.8667,
         "longitude": -104.6667,
         "elevation": 1655
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "TFFA",
-        "iata": "DSD"
+        "icao": "TFFA"
     },
     "location": {
         "latitude": 16.3,
         "longitude": -61.09,
         "elevation": 3
     },
-    "timezone": "America/Guadeloupe",
-    "history": []
+    "timezone": "America/Guadeloupe"
 }

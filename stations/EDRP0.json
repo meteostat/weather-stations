@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EDRP",
-        "iata": "ZPI"
+        "icao": "EDRP"
     },
     "location": {
         "latitude": 49.2667,
         "longitude": 7.4917,
         "elevation": 380
     },
-    "timezone": "Europe/Berlin",
-    "history": []
+    "timezone": "Europe/Berlin"
 }

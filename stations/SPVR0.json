@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPVR",
-        "iata": null
+        "icao": "SPVR"
     },
     "location": {
         "latitude": -16.4292,
         "longitude": -71.8378,
         "elevation": 1561
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

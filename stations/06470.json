@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "06470",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "064700",
-        "mosmix": null,
-        "icao": "EBST",
-        "iata": null
+        "icao": "EBST"
     },
     "location": {
         "latitude": 50.8,
         "longitude": 5.2,
         "elevation": 74
     },
-    "timezone": "Europe/Brussels",
-    "history": []
+    "timezone": "Europe/Brussels"
 }

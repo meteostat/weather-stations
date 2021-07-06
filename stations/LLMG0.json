@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LLMG",
-        "iata": null
+        "icao": "LLMG"
     },
     "location": {
         "latitude": 32.5973,
         "longitude": 35.2288,
         "elevation": 61
     },
-    "timezone": "Asia/Jerusalem",
-    "history": []
+    "timezone": "Asia/Jerusalem"
 }

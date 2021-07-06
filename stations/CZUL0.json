@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZUL",
-        "iata": null
+        "icao": "CZUL"
     },
     "location": {
         "latitude": 45.4779,
         "longitude": -73.7718,
         "elevation": 26
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

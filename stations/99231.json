@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "99231",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 38.5,
         "longitude": 145.5,
         "elevation": 3
     },
-    "timezone": "Asia/Tokyo",
-    "history": []
+    "timezone": "Asia/Tokyo"
 }

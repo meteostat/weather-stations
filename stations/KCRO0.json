@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KCRO",
-        "iata": null
+        "icao": "KCRO"
     },
     "location": {
         "latitude": 36.1026,
         "longitude": -119.5947,
         "elevation": 60
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

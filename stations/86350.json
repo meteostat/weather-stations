@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "86350",
-        "ghcn": "UYM00086350",
-        "wban": null,
-        "usaf": "863500",
-        "mosmix": null,
-        "icao": "SURV",
-        "iata": "RVY"
+        "icao": "SURV"
     },
     "location": {
         "latitude": -30.8833,
         "longitude": -55.5333,
         "elevation": 205
     },
-    "timezone": "America/Montevideo",
-    "history": []
+    "timezone": "America/Montevideo"
 }

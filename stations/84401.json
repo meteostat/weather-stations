@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "84401",
-        "ghcn": "PEM00084401",
-        "wban": null,
-        "usaf": "844010",
-        "mosmix": "84401",
-        "icao": "SPUR",
-        "iata": "PIU"
+        "icao": "SPUR"
     },
     "location": {
         "latitude": -5.1833,
         "longitude": -80.6,
         "elevation": 49
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

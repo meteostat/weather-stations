@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWTX",
-        "iata": null
+        "icao": "CWTX"
     },
     "location": {
         "latitude": 49.4686,
         "longitude": -94.7631,
         "elevation": 329
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "84515",
-        "ghcn": "PEM00084515",
-        "wban": null,
-        "usaf": "845150",
-        "mosmix": null,
-        "icao": "SPCL",
-        "iata": "PCL"
+        "icao": "SPCL"
     },
     "location": {
         "latitude": -8.4167,
         "longitude": -74.6,
         "elevation": 148
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

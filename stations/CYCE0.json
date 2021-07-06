@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "94801",
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYCE",
-        "iata": "YCE"
+        "icao": "CYCE"
     },
     "location": {
         "latitude": 43.3,
         "longitude": -81.5167,
         "elevation": 253
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

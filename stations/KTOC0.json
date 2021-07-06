@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "00382",
-        "usaf": "725258",
-        "mosmix": null,
-        "icao": "KTOC",
-        "iata": null
+        "icao": "KTOC"
     },
     "location": {
         "latitude": 34.5928,
         "longitude": -83.2964,
         "elevation": 304
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

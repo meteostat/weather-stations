@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YPAG",
-        "iata": "PUG"
+        "icao": "YPAG"
     },
     "location": {
         "latitude": -32.5069,
         "longitude": 137.717,
         "elevation": 17
     },
-    "timezone": "Australia/Adelaide",
-    "history": []
+    "timezone": "Australia/Adelaide"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72528",
-        "ghcn": "USW00014733",
-        "wban": "14733",
-        "usaf": "725280",
-        "mosmix": "72528",
-        "icao": "KBUF",
-        "iata": "BUF"
+        "icao": "KBUF"
     },
     "location": {
         "latitude": 42.9333,
         "longitude": -78.7333,
         "elevation": 221
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

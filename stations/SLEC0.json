@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SLEC",
-        "iata": null
+        "icao": "SLEC"
     },
     "location": {
         "latitude": -13.7833,
         "longitude": -66.4,
         "elevation": 220
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

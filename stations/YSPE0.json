@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YSPE",
-        "iata": "SNH"
+        "icao": "YSPE"
     },
     "location": {
         "latitude": -28.6203,
         "longitude": 151.991,
         "elevation": 896
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPON",
-        "iata": null
+        "icao": "SPON"
     },
     "location": {
         "latitude": -6.8967,
         "longitude": -75.1522,
         "elevation": 129
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

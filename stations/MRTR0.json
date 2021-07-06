@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MRTR",
-        "iata": "TMU"
+        "icao": "MRTR"
     },
     "location": {
         "latitude": 9.7385,
         "longitude": -85.0138,
         "elevation": 10
     },
-    "timezone": "America/Costa_Rica",
-    "history": []
+    "timezone": "America/Costa_Rica"
 }

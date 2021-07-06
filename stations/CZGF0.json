@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZGF",
-        "iata": "ZGF"
+        "icao": "CZGF"
     },
     "location": {
         "latitude": 49.0156,
         "longitude": -118.4306,
         "elevation": 524
     },
-    "timezone": "America/Vancouver",
-    "history": []
+    "timezone": "America/Vancouver"
 }

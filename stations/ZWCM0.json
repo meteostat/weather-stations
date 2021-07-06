@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZWCM",
-        "iata": "IQM"
+        "icao": "ZWCM"
     },
     "location": {
         "latitude": 38.1494,
         "longitude": 85.5328,
         "elevation": 1252
     },
-    "timezone": "Asia/Urumqi",
-    "history": []
+    "timezone": "Asia/Urumqi"
 }

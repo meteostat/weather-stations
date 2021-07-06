@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWMK",
-        "iata": null
+        "icao": "CWMK"
     },
     "location": {
         "latitude": 45.7,
         "longitude": -65.1667,
         "elevation": 396
     },
-    "timezone": "America/Moncton",
-    "history": []
+    "timezone": "America/Moncton"
 }

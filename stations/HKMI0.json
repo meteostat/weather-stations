@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HKMI",
-        "iata": null
+        "icao": "HKMI"
     },
     "location": {
         "latitude": 0.95,
         "longitude": 36.8,
         "elevation": 1811
     },
-    "timezone": "Africa/Nairobi",
-    "history": []
+    "timezone": "Africa/Nairobi"
 }

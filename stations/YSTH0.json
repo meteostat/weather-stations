@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YSTH",
-        "iata": "HLS"
+        "icao": "YSTH"
     },
     "location": {
         "latitude": -41.3367,
         "longitude": 148.282,
         "elevation": 15
     },
-    "timezone": "Australia/Hobart",
-    "history": []
+    "timezone": "Australia/Hobart"
 }

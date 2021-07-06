@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SELI",
-        "iata": null
+        "icao": "SELI"
     },
     "location": {
         "latitude": -0.4,
         "longitude": -76.6,
         "elevation": 221
     },
-    "timezone": "Pacific/Galapagos",
-    "history": []
+    "timezone": "Pacific/Galapagos"
 }

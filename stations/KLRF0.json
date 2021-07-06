@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03930",
-        "usaf": "723405",
-        "mosmix": null,
-        "icao": "KLRF",
-        "iata": "LRF"
+        "icao": "KLRF"
     },
     "location": {
         "latitude": 34.9168,
         "longitude": -92.1465,
         "elevation": 95
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

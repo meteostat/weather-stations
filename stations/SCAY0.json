@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SCAY",
-        "iata": null
+        "icao": "SCAY"
     },
     "location": {
         "latitude": -42.3108,
         "longitude": -72.7903,
         "elevation": 24
     },
-    "timezone": "America/Santiago",
-    "history": []
+    "timezone": "America/Santiago"
 }

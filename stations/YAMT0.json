@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YAMT",
-        "iata": "AMT"
+        "icao": "YAMT"
     },
     "location": {
         "latitude": -26.1083,
         "longitude": 131.207,
         "elevation": 212
     },
-    "timezone": "Australia/Adelaide",
-    "history": []
+    "timezone": "Australia/Adelaide"
 }

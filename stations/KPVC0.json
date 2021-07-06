@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "64708",
-        "usaf": "725073",
-        "mosmix": null,
-        "icao": "KPVC",
-        "iata": "PVC"
+        "icao": "KPVC"
     },
     "location": {
         "latitude": 42.0723,
         "longitude": -70.2207,
         "elevation": 2
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

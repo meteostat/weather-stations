@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "87645",
-        "ghcn": "ARM00087645",
-        "wban": null,
-        "usaf": "876450",
-        "mosmix": null,
-        "icao": "SAZT",
-        "iata": "TDL"
+        "icao": "SAZT"
     },
     "location": {
         "latitude": -37.2333,
         "longitude": -59.25,
         "elevation": 175
     },
-    "timezone": "America/Argentina/Buenos_Aires",
-    "history": []
+    "timezone": "America/Argentina/Buenos_Aires"
 }

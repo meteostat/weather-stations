@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYTA",
-        "iata": "YTA"
+        "icao": "CYTA"
     },
     "location": {
         "latitude": 45.8644,
         "longitude": -77.2517,
         "elevation": 161
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

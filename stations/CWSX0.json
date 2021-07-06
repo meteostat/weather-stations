@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWSX",
-        "iata": null
+        "icao": "CWSX"
     },
     "location": {
         "latitude": 54.5167,
         "longitude": -128.5667,
         "elevation": 210
     },
-    "timezone": "America/Vancouver",
-    "history": []
+    "timezone": "America/Vancouver"
 }

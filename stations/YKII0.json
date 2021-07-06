@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YKII",
-        "iata": "KNS"
+        "icao": "YKII"
     },
     "location": {
         "latitude": -39.8775,
         "longitude": 143.878,
         "elevation": 40
     },
-    "timezone": "Australia/Hobart",
-    "history": []
+    "timezone": "Australia/Hobart"
 }

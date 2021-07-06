@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "60010",
-        "ghcn": "SP000060010",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 28.3,
         "longitude": -16.5,
         "elevation": 2367
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

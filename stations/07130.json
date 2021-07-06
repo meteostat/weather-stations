@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "07130",
-        "ghcn": "FR000007130",
-        "wban": null,
-        "usaf": "071300",
-        "mosmix": "07130",
-        "icao": "LFRN",
-        "iata": "RNS"
+        "icao": "LFRN"
     },
     "location": {
         "latitude": 48.0667,
         "longitude": -1.7333,
         "elevation": 37
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

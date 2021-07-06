@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "911907",
-        "mosmix": null,
-        "icao": "PHHN",
-        "iata": "HNM"
+        "icao": "PHHN"
     },
     "location": {
         "latitude": 20.7956,
         "longitude": -156.0144,
         "elevation": 24
     },
-    "timezone": "Pacific/Honolulu",
-    "history": []
+    "timezone": "Pacific/Honolulu"
 }

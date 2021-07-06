@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LGML",
-        "iata": "MLO"
+        "icao": "LGML"
     },
     "location": {
         "latitude": 36.6969,
         "longitude": 24.4769,
         "elevation": 3
     },
-    "timezone": "Europe/Athens",
-    "history": []
+    "timezone": "Europe/Athens"
 }

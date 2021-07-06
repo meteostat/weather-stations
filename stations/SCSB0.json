@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SCSB",
-        "iata": "SMB"
+        "icao": "SCSB"
     },
     "location": {
         "latitude": -52.7367,
         "longitude": -69.3336,
         "elevation": 32
     },
-    "timezone": "America/Punta_Arenas",
-    "history": []
+    "timezone": "America/Punta_Arenas"
 }

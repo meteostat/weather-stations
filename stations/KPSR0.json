@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KPSR",
-        "iata": null
+        "icao": "KPSR"
     },
     "location": {
         "latitude": 33.4333,
         "longitude": -112.0167,
         "elevation": 335
     },
-    "timezone": "America/Phoenix",
-    "history": []
+    "timezone": "America/Phoenix"
 }

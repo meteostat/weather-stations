@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FBOK",
-        "iata": null
+        "icao": "FBOK"
     },
     "location": {
         "latitude": -23.083,
         "longitude": 21.883,
         "elevation": 1067
     },
-    "timezone": "Africa/Gabarone",
-    "history": []
+    "timezone": "Africa/Gabarone"
 }

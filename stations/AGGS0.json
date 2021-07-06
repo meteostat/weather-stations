@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "80513",
-        "usaf": null,
-        "mosmix": null,
-        "icao": "AGGS",
-        "iata": "EGM"
+        "icao": "AGGS"
     },
     "location": {
         "latitude": -8.6,
         "longitude": 157.9167,
         "elevation": 4
     },
-    "timezone": "Pacific/Guadalcanal",
-    "history": []
+    "timezone": "Pacific/Guadalcanal"
 }

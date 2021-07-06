@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "04831",
-        "usaf": "725348",
-        "mosmix": null,
-        "icao": "KLOT",
-        "iata": null
+        "icao": "KLOT"
     },
     "location": {
         "latitude": 41.6081,
         "longitude": -88.0962,
         "elevation": 207
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

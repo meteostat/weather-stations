@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "26648",
-        "usaf": "701335",
-        "mosmix": null,
-        "icao": "PAWN",
-        "iata": "WTK"
+        "icao": "PAWN"
     },
     "location": {
         "latitude": 67.5611,
         "longitude": -162.9804,
         "elevation": 28
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

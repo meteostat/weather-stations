@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VONS",
-        "iata": null
+        "icao": "VONS"
     },
     "location": {
         "latitude": 16.5427,
         "longitude": 79.3187,
         "elevation": 201
     },
-    "timezone": "Asia/Kolkata",
-    "history": []
+    "timezone": "Asia/Kolkata"
 }

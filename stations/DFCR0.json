@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "DFCR",
-        "iata": null
+        "icao": "DFCR"
     },
     "location": {
         "latitude": 11.617,
         "longitude": -2.75,
         "elevation": 260
     },
-    "timezone": "Africa/Ouagadougou",
-    "history": []
+    "timezone": "Africa/Ouagadougou"
 }

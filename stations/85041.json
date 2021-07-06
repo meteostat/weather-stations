@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "85041",
-        "ghcn": "BL000085041",
-        "wban": null,
-        "usaf": "850410",
-        "mosmix": null,
-        "icao": "SLCO",
-        "iata": "CIJ"
+        "icao": "SLCO"
     },
     "location": {
         "latitude": -11.0333,
         "longitude": -68.7833,
         "elevation": 235
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

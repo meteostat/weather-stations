@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPES",
-        "iata": null
+        "icao": "SPES"
     },
     "location": {
         "latitude": -10.25,
         "longitude": -75.4333,
         "elevation": 1306
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

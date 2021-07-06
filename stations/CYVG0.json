@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "25123",
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYVG",
-        "iata": "YVG"
+        "icao": "CYVG"
     },
     "location": {
         "latitude": 53.35,
         "longitude": -110.8333,
         "elevation": 621
     },
-    "timezone": "America/Edmonton",
-    "history": []
+    "timezone": "America/Edmonton"
 }

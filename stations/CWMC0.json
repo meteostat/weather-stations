@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWMC",
-        "iata": null
+        "icao": "CWMC"
     },
     "location": {
         "latitude": 49.9,
         "longitude": -109.4667,
         "elevation": 767
     },
-    "timezone": "America/Regina",
-    "history": []
+    "timezone": "America/Regina"
 }

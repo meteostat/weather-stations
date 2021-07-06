@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "172550",
-        "mosmix": null,
-        "icao": "LTCN",
-        "iata": "KCM"
+        "icao": "LTCN"
     },
     "location": {
         "latitude": 37.5388,
         "longitude": 36.9535,
         "elevation": 525
     },
-    "timezone": "Europe/Istanbul",
-    "history": []
+    "timezone": "Europe/Istanbul"
 }

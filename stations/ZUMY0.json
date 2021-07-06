@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZUMY",
-        "iata": "MIG"
+        "icao": "ZUMY"
     },
     "location": {
         "latitude": 31.4281,
         "longitude": 104.741,
         "elevation": 515
     },
-    "timezone": "Asia/Shanghai",
-    "history": []
+    "timezone": "Asia/Shanghai"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "84370",
-        "ghcn": "PEM00084370",
-        "wban": null,
-        "usaf": "843700",
-        "mosmix": null,
-        "icao": "SPME",
-        "iata": "TBP"
+        "icao": "SPME"
     },
     "location": {
         "latitude": -3.55,
         "longitude": -80.4,
         "elevation": 25
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

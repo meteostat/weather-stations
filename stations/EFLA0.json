@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EFLA",
-        "iata": "QLF"
+        "icao": "EFLA"
     },
     "location": {
         "latitude": 61.1442,
         "longitude": 25.6935,
         "elevation": 153
     },
-    "timezone": "Europe/Helsinki",
-    "history": []
+    "timezone": "Europe/Helsinki"
 }

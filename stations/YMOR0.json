@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YMOR",
-        "iata": "MRZ"
+        "icao": "YMOR"
     },
     "location": {
         "latitude": -29.4989,
         "longitude": 149.845,
         "elevation": 214
     },
-    "timezone": "Australia/Sydney",
-    "history": []
+    "timezone": "Australia/Sydney"
 }

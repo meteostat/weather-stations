@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPYD",
-        "iata": null
+        "icao": "SPYD"
     },
     "location": {
         "latitude": -15.6842,
         "longitude": -72.2644,
         "elevation": 1896
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

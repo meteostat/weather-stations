@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LIBI",
-        "iata": "VIF"
+        "icao": "LIBI"
     },
     "location": {
         "latitude": 41.9167,
         "longitude": 16.05,
         "elevation": 50
     },
-    "timezone": "Europe/Rome",
-    "history": []
+    "timezone": "Europe/Rome"
 }

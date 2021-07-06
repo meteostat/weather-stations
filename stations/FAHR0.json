@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FAHR",
-        "iata": "HRS"
+        "icao": "FAHR"
     },
     "location": {
         "latitude": -28.2351,
         "longitude": 29.1062,
         "elevation": 1702
     },
-    "timezone": "Africa/Johannesburg",
-    "history": []
+    "timezone": "Africa/Johannesburg"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "89775",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": -69.7167,
         "longitude": 72.6333,
         "elevation": 47
     },
-    "timezone": "Antarctica/Mawson",
-    "history": []
+    "timezone": "Antarctica/Mawson"
 }

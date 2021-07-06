@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YDOC",
-        "iata": null
+        "icao": "YDOC"
     },
     "location": {
         "latitude": -32.65,
         "longitude": 151.208,
         "elevation": 17
     },
-    "timezone": "Australia/Sydney",
-    "history": []
+    "timezone": "Australia/Sydney"
 }

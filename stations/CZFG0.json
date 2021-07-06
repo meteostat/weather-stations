@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZFG",
-        "iata": "XPK"
+        "icao": "CZFG"
     },
     "location": {
         "latitude": 55.7492,
         "longitude": -101.2664,
         "elevation": 293
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

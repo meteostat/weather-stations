@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "04959",
-        "usaf": "725489",
-        "mosmix": null,
-        "icao": "KORC",
-        "iata": null
+        "icao": "KORC"
     },
     "location": {
         "latitude": 42.9903,
         "longitude": -96.0628,
         "elevation": 431
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HAFN",
-        "iata": "FNH"
+        "icao": "HAFN"
     },
     "location": {
         "latitude": 9.583,
         "longitude": 37.35,
         "elevation": 2317
     },
-    "timezone": "Africa/Addis_Ababa",
-    "history": []
+    "timezone": "Africa/Addis_Ababa"
 }

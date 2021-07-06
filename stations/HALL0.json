@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HALL",
-        "iata": "LLI"
+        "icao": "HALL"
     },
     "location": {
         "latitude": 11.975,
         "longitude": 38.98,
         "elevation": 1983
     },
-    "timezone": "Africa/Addis_Ababa",
-    "history": []
+    "timezone": "Africa/Addis_Ababa"
 }

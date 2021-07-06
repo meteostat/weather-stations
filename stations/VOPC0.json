@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VOPC",
-        "iata": "PNY"
+        "icao": "VOPC"
     },
     "location": {
         "latitude": 11.9687,
         "longitude": 79.8101,
         "elevation": 36
     },
-    "timezone": "Asia/Kolkata",
-    "history": []
+    "timezone": "Asia/Kolkata"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "40800",
-        "ghcn": "IRM00040800",
-        "wban": null,
-        "usaf": "408000",
-        "mosmix": "40800",
-        "icao": "OIFM",
-        "iata": "IFN"
+        "icao": "OIFM"
     },
     "location": {
         "latitude": 32.4667,
         "longitude": 51.7167,
         "elevation": 1590
     },
-    "timezone": "Asia/Tehran",
-    "history": []
+    "timezone": "Asia/Tehran"
 }

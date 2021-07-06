@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LEGU",
-        "iata": "CCX"
+        "icao": "LEGU"
     },
     "location": {
         "latitude": 39.3457,
         "longitude": -5.1974,
         "elevation": 429
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

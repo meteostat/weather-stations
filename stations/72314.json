@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72314",
-        "ghcn": "USW00013881",
-        "wban": "13881",
-        "usaf": "723140",
-        "mosmix": "72314",
-        "icao": "KCLT",
-        "iata": "CLT"
+        "icao": "KCLT"
     },
     "location": {
         "latitude": 35.2167,
         "longitude": -80.1167,
         "elevation": 228
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

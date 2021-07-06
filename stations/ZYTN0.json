@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZYTN",
-        "iata": "TNH"
+        "icao": "ZYTN"
     },
     "location": {
         "latitude": 41.75,
         "longitude": 125.95,
         "elevation": 363
     },
-    "timezone": "Asia/Shanghai",
-    "history": []
+    "timezone": "Asia/Shanghai"
 }

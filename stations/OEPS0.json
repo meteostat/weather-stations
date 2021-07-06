@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "OEPS",
-        "iata": "AKH"
+        "icao": "OEPS"
     },
     "location": {
         "latitude": 24.0627,
         "longitude": 47.5805,
         "elevation": 503
     },
-    "timezone": "Asia/Riyadh",
-    "history": []
+    "timezone": "Asia/Riyadh"
 }

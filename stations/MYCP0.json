@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MYCP",
-        "iata": "PWN"
+        "icao": "MYCP"
     },
     "location": {
         "latitude": 22.8297,
         "longitude": -74.3461,
         "elevation": 0
     },
-    "timezone": "America/Nassau",
-    "history": []
+    "timezone": "America/Nassau"
 }

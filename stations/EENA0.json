@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EENA",
-        "iata": null
+        "icao": "EENA"
     },
     "location": {
         "latitude": 59.3886,
         "longitude": 28.1136,
         "elevation": 28
     },
-    "timezone": "Europe/Tallinn",
-    "history": []
+    "timezone": "Europe/Tallinn"
 }

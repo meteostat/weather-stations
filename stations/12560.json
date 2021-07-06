@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "12560",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": "12560",
-        "icao": "EPKT",
-        "iata": "KTW"
+        "icao": "EPKT"
     },
     "location": {
         "latitude": 50.2333,
         "longitude": 19.0333,
         "elevation": 284
     },
-    "timezone": "Europe/Warsaw",
-    "history": []
+    "timezone": "Europe/Warsaw"
 }

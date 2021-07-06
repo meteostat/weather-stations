@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "12883",
-        "usaf": "722119",
-        "mosmix": null,
-        "icao": "KLAL",
-        "iata": "LAL"
+        "icao": "KLAL"
     },
     "location": {
         "latitude": 27.9889,
         "longitude": -82.0186,
         "elevation": 43
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

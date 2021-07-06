@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KC40",
-        "iata": null
+        "icao": "KC40"
     },
     "location": {
         "latitude": 40.7167,
         "longitude": -85.25,
         "elevation": 258
     },
-    "timezone": "America/Indiana/Indianapolis",
-    "history": []
+    "timezone": "America/Indiana/Indianapolis"
 }

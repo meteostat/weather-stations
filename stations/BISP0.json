@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "BISP",
-        "iata": null
+        "icao": "BISP"
     },
     "location": {
         "latitude": 64.6542,
         "longitude": -18.4969,
         "elevation": 625
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

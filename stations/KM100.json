@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KM10",
-        "iata": null
+        "icao": "KM10"
     },
     "location": {
         "latitude": 34.5333,
         "longitude": -106.2239,
         "elevation": 1979
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

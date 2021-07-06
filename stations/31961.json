@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "31961",
-        "ghcn": "RSM00031961",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 43.8667,
         "longitude": 131.7167,
         "elevation": 61
     },
-    "timezone": "Asia/Vladivostok",
-    "history": []
+    "timezone": "Asia/Vladivostok"
 }

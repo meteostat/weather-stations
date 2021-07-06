@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70272",
-        "ghcn": "USW00026401",
-        "wban": "26401",
-        "usaf": "702720",
-        "mosmix": "70272",
-        "icao": "PAED",
-        "iata": "EDF"
+        "icao": "PAED"
     },
     "location": {
         "latitude": 61.25,
         "longitude": -149.7833,
         "elevation": 65
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

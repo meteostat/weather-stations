@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZUGU",
-        "iata": "GYS"
+        "icao": "ZUGU"
     },
     "location": {
         "latitude": 32.3911,
         "longitude": 105.702,
         "elevation": 619
     },
-    "timezone": "Asia/Shanghai",
-    "history": []
+    "timezone": "Asia/Shanghai"
 }

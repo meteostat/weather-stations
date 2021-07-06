@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KRIR",
-        "iata": null
+        "icao": "KRIR"
     },
     "location": {
         "latitude": 33.9888,
         "longitude": -117.41,
         "elevation": 234
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

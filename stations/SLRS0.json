@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SLRS",
-        "iata": null
+        "icao": "SLRS"
     },
     "location": {
         "latitude": -18.2008,
         "longitude": -63.256,
         "elevation": 560
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SHAT",
-        "iata": null
+        "icao": "SHAT"
     },
     "location": {
         "latitude": 0,
         "longitude": 0,
         "elevation": 0
     },
-    "timezone": "Asia/Aden",
-    "history": []
+    "timezone": "Asia/Aden"
 }

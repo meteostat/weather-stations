@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZPO",
-        "iata": "ZPO"
+        "icao": "CZPO"
     },
     "location": {
         "latitude": 55.5281,
         "longitude": -106.582,
         "elevation": 390
     },
-    "timezone": "America/Regina",
-    "history": []
+    "timezone": "America/Regina"
 }

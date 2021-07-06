@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "71446",
-        "ghcn": "CA004028060",
-        "wban": null,
-        "usaf": "714460",
-        "mosmix": null,
-        "icao": "CWVC",
-        "iata": null
+        "icao": "CWVC"
     },
     "location": {
         "latitude": 50.2667,
         "longitude": -107.7333,
         "elevation": 825
     },
-    "timezone": "America/Swift_Current",
-    "history": []
+    "timezone": "America/Swift_Current"
 }

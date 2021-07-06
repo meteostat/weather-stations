@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SBBT",
-        "iata": "BAT"
+        "icao": "SBBT"
     },
     "location": {
         "latitude": -20.5845,
         "longitude": -48.5941,
         "elevation": 579
     },
-    "timezone": "America/Sao_Paulo",
-    "history": []
+    "timezone": "America/Sao_Paulo"
 }

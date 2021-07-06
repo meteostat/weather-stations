@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "26600",
-        "ghcn": "LH000026600",
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 55.35,
         "longitude": 21.4667,
         "elevation": 3
     },
-    "timezone": "Europe/Vilnius",
-    "history": []
+    "timezone": "Europe/Vilnius"
 }

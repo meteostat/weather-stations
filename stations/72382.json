@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72382",
-        "ghcn": "USW00023182",
-        "wban": "23182",
-        "usaf": "723820",
-        "mosmix": null,
-        "icao": "KPMD",
-        "iata": "PMD"
+        "icao": "KPMD"
     },
     "location": {
         "latitude": 34.6333,
         "longitude": -118.0833,
         "elevation": 775
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

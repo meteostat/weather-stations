@@ -10,18 +10,12 @@
     "identifiers": {
         "national": null,
         "wmo": "02664",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "026640",
-        "mosmix": "02664",
-        "icao": "ESDF",
-        "iata": "RNB"
+        "icao": "ESDF"
     },
     "location": {
         "latitude": 56.2667,
         "longitude": 15.2833,
         "elevation": 58
     },
-    "timezone": "Europe/Stockholm",
-    "history": []
+    "timezone": "Europe/Stockholm"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SADR",
-        "iata": null
+        "icao": "SADR"
     },
     "location": {
         "latitude": -34.6848,
         "longitude": -58.6891,
         "elevation": 15
     },
-    "timezone": "America/Argentina/Buenos_Aires",
-    "history": []
+    "timezone": "America/Argentina/Buenos_Aires"
 }

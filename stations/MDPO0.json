@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MDPO",
-        "iata": "EPS"
+        "icao": "MDPO"
     },
     "location": {
         "latitude": 19.3167,
         "longitude": -69.5,
         "elevation": 9
     },
-    "timezone": "America/Santo_Domingo",
-    "history": []
+    "timezone": "America/Santo_Domingo"
 }

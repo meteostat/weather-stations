@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "85799",
-        "ghcn": "CI000085799",
-        "wban": null,
-        "usaf": "857990",
-        "mosmix": "85799",
-        "icao": "SCTE",
-        "iata": "PMC"
+        "icao": "SCTE"
     },
     "location": {
         "latitude": -41.4167,
         "longitude": -73.0833,
         "elevation": 85
     },
-    "timezone": "America/Santiago",
-    "history": []
+    "timezone": "America/Santiago"
 }

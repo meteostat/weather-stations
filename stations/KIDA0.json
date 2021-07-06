@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "24145",
-        "usaf": "725785",
-        "mosmix": null,
-        "icao": "KIDA",
-        "iata": "IDA"
+        "icao": "KIDA"
     },
     "location": {
         "latitude": 43.5137,
         "longitude": -112.0708,
         "elevation": 1446
     },
-    "timezone": "America/Boise",
-    "history": []
+    "timezone": "America/Boise"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HKSB",
-        "iata": "UAS"
+        "icao": "HKSB"
     },
     "location": {
         "latitude": 0.5306,
         "longitude": 37.5342,
         "elevation": 1004
     },
-    "timezone": "Africa/Nairobi",
-    "history": []
+    "timezone": "Africa/Nairobi"
 }

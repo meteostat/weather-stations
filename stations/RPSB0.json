@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "RPSB",
-        "iata": null
+        "icao": "RPSB"
     },
     "location": {
         "latitude": 11.17,
         "longitude": 123.72,
         "elevation": 5
     },
-    "timezone": "Asia/Manila",
-    "history": []
+    "timezone": "Asia/Manila"
 }

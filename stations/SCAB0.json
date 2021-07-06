@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SCAB",
-        "iata": null
+        "icao": "SCAB"
     },
     "location": {
         "latitude": -33.6589,
         "longitude": -71.2892,
         "elevation": 137
     },
-    "timezone": "America/Santiago",
-    "history": []
+    "timezone": "America/Santiago"
 }

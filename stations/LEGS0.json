@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LEGS",
-        "iata": null
+        "icao": "LEGS"
     },
     "location": {
         "latitude": 41.2739,
         "longitude": 1.9147,
         "elevation": 335
     },
-    "timezone": "Europe/Madrid",
-    "history": []
+    "timezone": "Europe/Madrid"
 }

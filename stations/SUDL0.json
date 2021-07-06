@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SUDL",
-        "iata": null
+        "icao": "SUDL"
     },
     "location": {
         "latitude": -36.3222,
         "longitude": -57.7231,
         "elevation": 7
     },
-    "timezone": "America/Argentina/Buenos_Aires",
-    "history": []
+    "timezone": "America/Argentina/Buenos_Aires"
 }

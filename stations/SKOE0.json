@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKOE",
-        "iata": "ORC"
+        "icao": "SKOE"
     },
     "location": {
         "latitude": 4.7922,
         "longitude": -71.3564,
         "elevation": 132
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

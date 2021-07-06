@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "20701",
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PBAR",
-        "iata": null
+        "icao": "PBAR"
     },
     "location": {
         "latitude": 0.2167,
         "longitude": -176.4667,
         "elevation": 3
     },
-    "timezone": "Pacific/Midway",
-    "history": []
+    "timezone": "Pacific/Midway"
 }

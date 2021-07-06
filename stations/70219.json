@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70219",
-        "ghcn": "USW00026615",
-        "wban": "26615",
-        "usaf": "702190",
-        "mosmix": "70219",
-        "icao": "PABE",
-        "iata": "BET"
+        "icao": "PABE"
     },
     "location": {
         "latitude": 60.7833,
         "longitude": -161.8333,
         "elevation": 37
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

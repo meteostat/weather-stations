@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "71120",
-        "ghcn": "CA003081680",
-        "wban": null,
-        "usaf": "711200",
-        "mosmix": null,
-        "icao": "CYOD",
-        "iata": "YOD"
+        "icao": "CYOD"
     },
     "location": {
         "latitude": 54.4167,
         "longitude": -110.2833,
         "elevation": 541
     },
-    "timezone": "America/Edmonton",
-    "history": []
+    "timezone": "America/Edmonton"
 }

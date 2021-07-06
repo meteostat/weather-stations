@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "911976",
-        "mosmix": null,
-        "icao": "PHMU",
-        "iata": "MUE"
+        "icao": "PHMU"
     },
     "location": {
         "latitude": 20.0013,
         "longitude": -155.6681,
         "elevation": 814
     },
-    "timezone": "Pacific/Honolulu",
-    "history": []
+    "timezone": "Pacific/Honolulu"
 }

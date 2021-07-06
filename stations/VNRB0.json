@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VNRB",
-        "iata": "RJB"
+        "icao": "VNRB"
     },
     "location": {
         "latitude": 26.517,
         "longitude": 86.75,
         "elevation": 76
     },
-    "timezone": "Asia/Kathmandu",
-    "history": []
+    "timezone": "Asia/Kathmandu"
 }

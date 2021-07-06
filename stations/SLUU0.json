@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SLUU",
-        "iata": null
+        "icao": "SLUU"
     },
     "location": {
         "latitude": -15.0333,
         "longitude": -69.25,
         "elevation": 4377
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

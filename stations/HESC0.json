@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "HESC",
-        "iata": "SKV"
+        "icao": "HESC"
     },
     "location": {
         "latitude": 28.6853,
         "longitude": 34.0625,
         "elevation": 1331
     },
-    "timezone": "Africa/Cairo",
-    "history": []
+    "timezone": "Africa/Cairo"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "GVSN",
-        "iata": "SNE"
+        "icao": "GVSN"
     },
     "location": {
         "latitude": 16.5884,
         "longitude": -24.2847,
         "elevation": 204
     },
-    "timezone": "Atlantic/Cape_Verde",
-    "history": []
+    "timezone": "Atlantic/Cape_Verde"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYPM",
-        "iata": "YPM"
+        "icao": "CYPM"
     },
     "location": {
         "latitude": 51.8197,
         "longitude": -93.9733,
         "elevation": 340
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

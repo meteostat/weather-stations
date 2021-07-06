@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LYSM",
-        "iata": null
+        "icao": "LYSM"
     },
     "location": {
         "latitude": 45.0375,
         "longitude": 19.6608,
         "elevation": 93
     },
-    "timezone": "Europe/Belgrade",
-    "history": []
+    "timezone": "Europe/Belgrade"
 }

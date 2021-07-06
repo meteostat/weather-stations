@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LFAB",
-        "iata": "DPE"
+        "icao": "LFAB"
     },
     "location": {
         "latitude": 49.8825,
         "longitude": 1.0853,
         "elevation": 105
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

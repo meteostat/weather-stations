@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SLEK",
-        "iata": null
+        "icao": "SLEK"
     },
     "location": {
         "latitude": -21.7008,
         "longitude": -63.4568,
         "elevation": 529
     },
-    "timezone": "America/La_Paz",
-    "history": []
+    "timezone": "America/La_Paz"
 }

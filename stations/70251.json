@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "70251",
-        "ghcn": "USW00026528",
-        "wban": "26528",
-        "usaf": "702510",
-        "mosmix": null,
-        "icao": "PATK",
-        "iata": "TKA"
+        "icao": "PATK"
     },
     "location": {
         "latitude": 62.3167,
         "longitude": -150.1,
         "elevation": 109
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

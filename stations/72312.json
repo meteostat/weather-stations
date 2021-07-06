@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72312",
-        "ghcn": "USW00003870",
-        "wban": "03870",
-        "usaf": "723120",
-        "mosmix": null,
-        "icao": "KGSP",
-        "iata": "GSP"
+        "icao": "KGSP"
     },
     "location": {
         "latitude": 34.8833,
         "longitude": -82.05,
         "elevation": 296
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "AGRC",
-        "iata": "RIN"
+        "icao": "AGRC"
     },
     "location": {
         "latitude": -8.1264,
         "longitude": 157.143,
         "elevation": 11
     },
-    "timezone": "Pacific/Guadalcanal",
-    "history": []
+    "timezone": "Pacific/Guadalcanal"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "BIRF",
-        "iata": "OLI"
+        "icao": "BIRF"
     },
     "location": {
         "latitude": 64.9114,
         "longitude": -23.8231,
         "elevation": 5
     },
-    "timezone": "Atlantic/Reykjavik",
-    "history": []
+    "timezone": "Atlantic/Reykjavik"
 }

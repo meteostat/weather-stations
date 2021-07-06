@@ -10,18 +10,12 @@
     "identifiers": {
         "national": null,
         "wmo": "02630",
-        "ghcn": null,
-        "wban": null,
-        "usaf": "026300",
-        "mosmix": null,
-        "icao": "ESDA",
-        "iata": null
+        "icao": "ESDA"
     },
     "location": {
         "latitude": 56.0833,
         "longitude": 13.2,
         "elevation": 52
     },
-    "timezone": "Europe/Stockholm",
-    "history": []
+    "timezone": "Europe/Stockholm"
 }

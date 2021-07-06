@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72790",
-        "ghcn": "USW00024141",
-        "wban": "24141",
-        "usaf": "727826",
-        "mosmix": null,
-        "icao": "KEPH",
-        "iata": "EPH"
+        "icao": "KEPH"
     },
     "location": {
         "latitude": 47.3081,
         "longitude": -119.5169,
         "elevation": 389
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

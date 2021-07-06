@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72502",
-        "ghcn": "USW00014734",
-        "wban": "14734",
-        "usaf": "725020",
-        "mosmix": "72502",
-        "icao": "KEWR",
-        "iata": "EWR"
+        "icao": "KEWR"
     },
     "location": {
         "latitude": 40.6833,
         "longitude": -74,
         "elevation": 5
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FLEE",
-        "iata": null
+        "icao": "FLEE"
     },
     "location": {
         "latitude": -10.5357,
         "longitude": 33.4072,
         "elevation": 1280
     },
-    "timezone": "Africa/Lusaka",
-    "history": []
+    "timezone": "Africa/Lusaka"
 }

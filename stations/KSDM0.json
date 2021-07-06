@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "03178",
-        "usaf": "722904",
-        "mosmix": null,
-        "icao": "KSDM",
-        "iata": "SDM"
+        "icao": "KSDM"
     },
     "location": {
         "latitude": 32.5723,
         "longitude": -116.9802,
         "elevation": 160
     },
-    "timezone": "America/Tijuana",
-    "history": []
+    "timezone": "America/Tijuana"
 }

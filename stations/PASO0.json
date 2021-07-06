@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "25516",
-        "usaf": "703621",
-        "mosmix": null,
-        "icao": "PASO",
-        "iata": "SOV"
+        "icao": "PASO"
     },
     "location": {
         "latitude": 59.4424,
         "longitude": -151.7041,
         "elevation": 9
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

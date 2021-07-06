@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKMB",
-        "iata": "TBD"
+        "icao": "SKMB"
     },
     "location": {
         "latitude": 2.7775,
         "longitude": -77.6675,
         "elevation": 5
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

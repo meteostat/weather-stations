@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "40080",
-        "ghcn": "SYM00040080",
-        "wban": null,
-        "usaf": "400800",
-        "mosmix": "40080",
-        "icao": "OSDI",
-        "iata": "DAM"
+        "icao": "OSDI"
     },
     "location": {
         "latitude": 33.4167,
         "longitude": 36.5167,
         "elevation": 608
     },
-    "timezone": "Asia/Damascus",
-    "history": []
+    "timezone": "Asia/Damascus"
 }

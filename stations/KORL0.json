@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "12841",
-        "usaf": "722053",
-        "mosmix": null,
-        "icao": "KORL",
-        "iata": "ORL"
+        "icao": "KORL"
     },
     "location": {
         "latitude": 28.5455,
         "longitude": -81.3329,
         "elevation": 34
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

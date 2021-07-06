@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "PAWK",
-        "iata": null
+        "icao": "PAWK"
     },
     "location": {
         "latitude": 19.2825,
         "longitude": 166.6367,
         "elevation": 7
     },
-    "timezone": "Pacific/Wake",
-    "history": []
+    "timezone": "Pacific/Wake"
 }

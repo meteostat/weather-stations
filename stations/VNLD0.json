@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VNLD",
-        "iata": "LDN"
+        "icao": "VNLD"
     },
     "location": {
         "latitude": 27.2531,
         "longitude": 86.67,
         "elevation": 1250
     },
-    "timezone": "Asia/Kathmandu",
-    "history": []
+    "timezone": "Asia/Kathmandu"
 }

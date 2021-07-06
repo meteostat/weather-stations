@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZEG",
-        "iata": null
+        "icao": "CZEG"
     },
     "location": {
         "latitude": 53.3115,
         "longitude": -113.5784,
         "elevation": 721
     },
-    "timezone": "America/Edmonton",
-    "history": []
+    "timezone": "America/Edmonton"
 }

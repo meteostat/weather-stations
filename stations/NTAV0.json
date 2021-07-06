@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "NTAV",
-        "iata": "RVV"
+        "icao": "NTAV"
     },
     "location": {
         "latitude": -23.8852,
         "longitude": -147.662,
         "elevation": 2
     },
-    "timezone": "Pacific/Tahiti",
-    "history": []
+    "timezone": "Pacific/Tahiti"
 }

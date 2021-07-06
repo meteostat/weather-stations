@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "ZMUL",
-        "iata": "ULG"
+        "icao": "ZMUL"
     },
     "location": {
         "latitude": 48.9933,
         "longitude": 89.9225,
         "elevation": 1747
     },
-    "timezone": "Asia/Ulaanbaatar",
-    "history": []
+    "timezone": "Asia/Ulaanbaatar"
 }

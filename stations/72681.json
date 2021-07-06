@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72681",
-        "ghcn": "USW00024131",
-        "wban": "24131",
-        "usaf": "726810",
-        "mosmix": "72681",
-        "icao": "KBOI",
-        "iata": "BOI"
+        "icao": "KBOI"
     },
     "location": {
         "latitude": 43.5667,
         "longitude": -116.2333,
         "elevation": 871
     },
-    "timezone": "America/Boise",
-    "history": []
+    "timezone": "America/Boise"
 }

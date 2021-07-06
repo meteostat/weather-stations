@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "24286",
-        "usaf": "725946",
-        "mosmix": null,
-        "icao": "KCEC",
-        "iata": "CEC"
+        "icao": "KCEC"
     },
     "location": {
         "latitude": 41.7802,
         "longitude": -124.2365,
         "elevation": 19
     },
-    "timezone": "America/Los_Angeles",
-    "history": []
+    "timezone": "America/Los_Angeles"
 }

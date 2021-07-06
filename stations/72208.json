@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72208",
-        "ghcn": "USW00013880",
-        "wban": "13880",
-        "usaf": "722080",
-        "mosmix": "72208",
-        "icao": "KCHS",
-        "iata": "CHS"
+        "icao": "KCHS"
     },
     "location": {
         "latitude": 32.9,
         "longitude": -80.0333,
         "elevation": 14
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

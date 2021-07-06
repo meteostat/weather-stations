@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72572",
-        "ghcn": "USW00024127",
-        "wban": "24127",
-        "usaf": "725720",
-        "mosmix": "72572",
-        "icao": "KSLC",
-        "iata": "SLC"
+        "icao": "KSLC"
     },
     "location": {
         "latitude": 40.7833,
         "longitude": -111.9667,
         "elevation": 1288
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

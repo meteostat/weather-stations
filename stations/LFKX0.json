@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "LFKX",
-        "iata": "MFX"
+        "icao": "LFKX"
     },
     "location": {
         "latitude": 45.4069,
         "longitude": 6.5806,
         "elevation": 1718
     },
-    "timezone": "Europe/Paris",
-    "history": []
+    "timezone": "Europe/Paris"
 }

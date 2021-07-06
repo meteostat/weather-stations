@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "33041",
-        "ghcn": "BOM00033041",
-        "wban": null,
-        "usaf": "330410",
-        "mosmix": "33041",
-        "icao": "UMGG",
-        "iata": "GME"
+        "icao": "UMGG"
     },
     "location": {
         "latitude": 52.4,
         "longitude": 30.95,
         "elevation": 127
     },
-    "timezone": "Europe/Minsk",
-    "history": []
+    "timezone": "Europe/Minsk"
 }

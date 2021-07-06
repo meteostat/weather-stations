@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKSO",
-        "iata": "SOX"
+        "icao": "SKSO"
     },
     "location": {
         "latitude": 5.6773,
         "longitude": -72.9703,
         "elevation": 2486
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

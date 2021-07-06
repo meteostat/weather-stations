@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "24174",
-        "usaf": "725724",
-        "mosmix": null,
-        "icao": "KPVU",
-        "iata": "PVU"
+        "icao": "KPVU"
     },
     "location": {
         "latitude": 40.2192,
         "longitude": -111.7234,
         "elevation": 1371
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

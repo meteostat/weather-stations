@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "87480",
-        "ghcn": "ARM00087480",
-        "wban": null,
-        "usaf": "874800",
-        "mosmix": "87480",
-        "icao": "SAAR",
-        "iata": "ROS"
+        "icao": "SAAR"
     },
     "location": {
         "latitude": -32.9167,
         "longitude": -60.7833,
         "elevation": 25
     },
-    "timezone": "America/Argentina/Buenos_Aires",
-    "history": []
+    "timezone": "America/Argentina/Buenos_Aires"
 }

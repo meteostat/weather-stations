@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "23090",
-        "usaf": "723658",
-        "mosmix": null,
-        "icao": "KFMN",
-        "iata": "FMN"
+        "icao": "KFMN"
     },
     "location": {
         "latitude": 36.7413,
         "longitude": -108.2299,
         "elevation": 1678
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

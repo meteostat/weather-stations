@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "99219",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 50.9,
         "longitude": -135.9,
         "elevation": 3
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "93091",
-        "usaf": "723654",
-        "mosmix": null,
-        "icao": "KLAM",
-        "iata": "LAM"
+        "icao": "KLAM"
     },
     "location": {
         "latitude": 35.8798,
         "longitude": -106.2694,
         "elevation": 2186
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

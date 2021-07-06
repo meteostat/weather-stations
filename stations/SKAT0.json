@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKAT",
-        "iata": "ARQ"
+        "icao": "SKAT"
     },
     "location": {
         "latitude": 7.0211,
         "longitude": -71.3889,
         "elevation": 150
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

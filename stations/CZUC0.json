@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CZUC",
-        "iata": "ZUC"
+        "icao": "CZUC"
     },
     "location": {
         "latitude": 49.4297,
         "longitude": -91.7178,
         "elevation": 437
     },
-    "timezone": "America/Winnipeg",
-    "history": []
+    "timezone": "America/Winnipeg"
 }

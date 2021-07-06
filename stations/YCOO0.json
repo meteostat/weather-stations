@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YCOO",
-        "iata": "CDA"
+        "icao": "YCOO"
     },
     "location": {
         "latitude": -12.9033,
         "longitude": 132.532,
         "elevation": 4
     },
-    "timezone": "Australia/Darwin",
-    "history": []
+    "timezone": "Australia/Darwin"
 }

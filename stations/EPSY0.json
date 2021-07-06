@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "EPSY",
-        "iata": "SZY"
+        "icao": "EPSY"
     },
     "location": {
         "latitude": 53.4819,
         "longitude": 20.9377,
         "elevation": 141
     },
-    "timezone": "Europe/Warsaw",
-    "history": []
+    "timezone": "Europe/Warsaw"
 }

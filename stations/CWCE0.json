@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CWCE",
-        "iata": null
+        "icao": "CWCE"
     },
     "location": {
         "latitude": 57.0833,
         "longitude": -103.7167,
         "elevation": 360
     },
-    "timezone": "America/Regina",
-    "history": []
+    "timezone": "America/Regina"
 }

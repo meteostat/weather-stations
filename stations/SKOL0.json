@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SKOL",
-        "iata": null
+        "icao": "SKOL"
     },
     "location": {
         "latitude": 4.0899,
         "longitude": -72.9765,
         "elevation": 183
     },
-    "timezone": "America/Bogota",
-    "history": []
+    "timezone": "America/Bogota"
 }

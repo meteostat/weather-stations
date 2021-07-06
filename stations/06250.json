@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "06250",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": "06250",
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 53.3667,
         "longitude": 5.2167,
         "elevation": 26
     },
-    "timezone": "Europe/Amsterdam",
-    "history": []
+    "timezone": "Europe/Amsterdam"
 }

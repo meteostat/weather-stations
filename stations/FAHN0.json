@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FAHN",
-        "iata": null
+        "icao": "FAHN"
     },
     "location": {
         "latitude": -28.0269,
         "longitude": 27.0803,
         "elevation": 1409
     },
-    "timezone": "Africa/Johannesburg",
-    "history": []
+    "timezone": "Africa/Johannesburg"
 }

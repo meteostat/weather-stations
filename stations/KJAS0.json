@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "53945",
-        "usaf": "720296",
-        "mosmix": null,
-        "icao": "KJAS",
-        "iata": null
+        "icao": "KJAS"
     },
     "location": {
         "latitude": 30.8857,
         "longitude": -94.0349,
         "elevation": 65
     },
-    "timezone": "America/Chicago",
-    "history": []
+    "timezone": "America/Chicago"
 }

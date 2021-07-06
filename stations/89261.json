@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "89261",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": -64.1667,
         "longitude": -61.5333,
         "elevation": 17
     },
-    "timezone": "Antarctica/Palmer",
-    "history": []
+    "timezone": "Antarctica/Palmer"
 }

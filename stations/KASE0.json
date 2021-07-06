@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "93073",
-        "usaf": "724676",
-        "mosmix": null,
-        "icao": "KASE",
-        "iata": "ASE"
+        "icao": "KASE"
     },
     "location": {
         "latitude": 39.2232,
         "longitude": -106.8689,
         "elevation": 2389
     },
-    "timezone": "America/Denver",
-    "history": []
+    "timezone": "America/Denver"
 }

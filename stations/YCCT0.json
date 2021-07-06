@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YCCT",
-        "iata": "CNC"
+        "icao": "YCCT"
     },
     "location": {
         "latitude": -10.05,
         "longitude": 143.07,
         "elevation": 1
     },
-    "timezone": "Australia/Brisbane",
-    "history": []
+    "timezone": "Australia/Brisbane"
 }

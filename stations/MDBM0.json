@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "MDBM",
-        "iata": null
+        "icao": "MDBM"
     },
     "location": {
         "latitude": 18.4481,
         "longitude": -69.2812,
         "elevation": 5
     },
-    "timezone": "America/Santo_Domingo",
-    "history": []
+    "timezone": "America/Santo_Domingo"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "72211",
-        "ghcn": "USW00012842",
-        "wban": "12842",
-        "usaf": "722110",
-        "mosmix": "72211",
-        "icao": "KTPA",
-        "iata": "TPA"
+        "icao": "KTPA"
     },
     "location": {
         "latitude": 27.9667,
         "longitude": -82.5333,
         "elevation": 8
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

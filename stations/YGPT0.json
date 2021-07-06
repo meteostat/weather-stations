@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "YGPT",
-        "iata": "GPN"
+        "icao": "YGPT"
     },
     "location": {
         "latitude": -11.4025,
         "longitude": 130.422,
         "elevation": 27
     },
-    "timezone": "Australia/Darwin",
-    "history": []
+    "timezone": "Australia/Darwin"
 }

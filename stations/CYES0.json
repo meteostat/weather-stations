@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "CYES",
-        "iata": null
+        "icao": "CYES"
     },
     "location": {
         "latitude": 47.4096,
         "longitude": -68.4819,
         "elevation": 149
     },
-    "timezone": "America/Moncton",
-    "history": []
+    "timezone": "America/Moncton"
 }

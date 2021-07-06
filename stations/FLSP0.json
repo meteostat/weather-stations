@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "FLSP",
-        "iata": null
+        "icao": "FLSP"
     },
     "location": {
         "latitude": -13.8111,
         "longitude": 29.0914,
         "elevation": 1183
     },
-    "timezone": "Africa/Lusaka",
-    "history": []
+    "timezone": "Africa/Lusaka"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": "760753",
-        "mosmix": null,
-        "icao": "MMCS",
-        "iata": "CJS"
+        "icao": "MMCS"
     },
     "location": {
         "latitude": 31.6364,
         "longitude": -106.4288,
         "elevation": 1171
     },
-    "timezone": "America/Monterrey",
-    "history": []
+    "timezone": "America/Monterrey"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VNBR",
-        "iata": "BJU"
+        "icao": "VNBR"
     },
     "location": {
         "latitude": 29.502,
         "longitude": 81.669,
         "elevation": 1311
     },
-    "timezone": "Asia/Kathmandu",
-    "history": []
+    "timezone": "Asia/Kathmandu"
 }

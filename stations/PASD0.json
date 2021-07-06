@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": "25617",
-        "usaf": "703165",
-        "mosmix": null,
-        "icao": "PASD",
-        "iata": "SDP"
+        "icao": "PASD"
     },
     "location": {
         "latitude": 55.3137,
         "longitude": -160.5214,
         "elevation": 6
     },
-    "timezone": "America/Juneau",
-    "history": []
+    "timezone": "America/Juneau"
 }

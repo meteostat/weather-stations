@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "KAPH",
-        "iata": null
+        "icao": "KAPH"
     },
     "location": {
         "latitude": 38.0688,
         "longitude": -77.3183,
         "elevation": 67
     },
-    "timezone": "America/New_York",
-    "history": []
+    "timezone": "America/New_York"
 }

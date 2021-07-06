@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "VVMT",
-        "iata": null
+        "icao": "VVMT"
     },
     "location": {
         "latitude": 11.45,
         "longitude": 106.5,
         "elevation": 50
     },
-    "timezone": "Asia/Ho_Chi_Minh",
-    "history": []
+    "timezone": "Asia/Ho_Chi_Minh"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "80412",
-        "ghcn": "VEM00080412",
-        "wban": null,
-        "usaf": "804120",
-        "mosmix": null,
-        "icao": "SVPC",
-        "iata": "PBL"
+        "icao": "SVPC"
     },
     "location": {
         "latitude": 10.5,
         "longitude": -68,
         "elevation": 2
     },
-    "timezone": "America/Caracas",
-    "history": []
+    "timezone": "America/Caracas"
 }

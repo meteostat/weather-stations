@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SAML",
-        "iata": null
+        "icao": "SAML"
     },
     "location": {
         "latitude": -32.8546,
         "longitude": -69.7605,
         "elevation": 2410
     },
-    "timezone": "America/Argentina/Mendoza",
-    "history": []
+    "timezone": "America/Argentina/Mendoza"
 }

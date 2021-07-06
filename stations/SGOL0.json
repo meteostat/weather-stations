@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SGOL",
-        "iata": "OLK"
+        "icao": "SGOL"
     },
     "location": {
         "latitude": -21.0444,
         "longitude": -57.8831,
         "elevation": 72
     },
-    "timezone": "America/Asuncion",
-    "history": []
+    "timezone": "America/Asuncion"
 }

@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "99655",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 45.2667,
         "longitude": -79.55,
         "elevation": 290
     },
-    "timezone": "America/Toronto",
-    "history": []
+    "timezone": "America/Toronto"
 }

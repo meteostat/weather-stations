@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": null,
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": "SPNM",
-        "iata": null
+        "icao": "SPNM"
     },
     "location": {
         "latitude": -11.5415,
         "longitude": -73.1422,
         "elevation": 332
     },
-    "timezone": "America/Lima",
-    "history": []
+    "timezone": "America/Lima"
 }

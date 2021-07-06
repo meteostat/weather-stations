@@ -8,18 +8,12 @@
     "identifiers": {
         "national": null,
         "wmo": "99269",
-        "ghcn": null,
-        "wban": null,
-        "usaf": null,
-        "mosmix": null,
-        "icao": null,
-        "iata": null
+        "icao": null
     },
     "location": {
         "latitude": 55.1,
         "longitude": -163.1,
         "elevation": 3
     },
-    "timezone": "America/Anchorage",
-    "history": []
+    "timezone": "America/Anchorage"
 }
