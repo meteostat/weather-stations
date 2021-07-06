@@ -14,9 +14,11 @@ from multiprocessing.pool import ThreadPool
 Configuration
 """
 # Path of the weather stations directory
-STATIONS_PATH: str = f'{os.path.expanduser("~")}{os.sep}Meteostat{os.sep}weather-stations{os.sep}stations'
+STATIONS_PATH: str = os.path.expanduser(
+    "~") + os.sep + 'Meteostat' + os.sep + 'weather-stations' + os.sep + 'stations'
 # Number of threads for multi-thread processing
 THREADS: int = 12
+
 
 def update(file: str) -> None:
     """
