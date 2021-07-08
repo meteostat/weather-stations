@@ -26,7 +26,7 @@ def find_duplicate(station: dict):
     lon = station['location']['longitude']
 
     # First, check for Meteostat ID
-    if station['id'] in df.index:
+    if station['id'] and station['id'] in df.index:
         return df.loc[[station['id']]].reset_index().to_dict('records')[0]
 
     # Now, check for WMO ID

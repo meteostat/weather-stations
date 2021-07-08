@@ -53,7 +53,6 @@ for index, row in inventory.iterrows():
 
         # Collect meta data
         data = {
-            'id': generate_uid(),
             'name': {
                 'en': capwords(row['name'])
             },
@@ -80,4 +79,5 @@ for index, row in inventory.iterrows():
             data['id'] = duplicate['id']
             update(data)
         else:
+            data['id'] = generate_uid()
             create(data)
