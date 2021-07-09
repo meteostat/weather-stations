@@ -19,7 +19,7 @@ def qa_check(data: dict) -> dict:
         data['location']['longitude'] < -180 or
         data['location']['latitude'] > 90 or
         data['location']['longitude'] > 180 or
-        (data['identifiers']['wmo'] == None and data['id'] not in valid)
+        (data['identifiers']['wmo'] is None and data['id'] not in valid)
     ):
 
         stations.delete(data['id'])

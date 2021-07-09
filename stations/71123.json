@@ -1,19 +1,19 @@
 {
     "id": "71123",
     "name": {
-        "en": "Edmonton Airport"
+        "en": "Edmonton Intl A"
     },
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": null,
+        "national": "50149",
         "wmo": "71123",
         "icao": "CYEG"
     },
     "location": {
-        "latitude": 53.3,
-        "longitude": -113.5833,
-        "elevation": 715
+        "latitude": 53.31,
+        "longitude": -113.58,
+        "elevation": 723
     },
     "timezone": "America/Edmonton"
 }
