@@ -21,4 +21,4 @@ from .utils import merge_dicts
 from .templates import station_template
 from .generators import generate_uid
 from .checks import find_duplicate
-from .mutations import create, update, apply
+from .mutations import create, update, delete, apply

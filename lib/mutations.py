@@ -46,6 +46,14 @@ def update(data: dict) -> None:
         f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
         f.close()
 
+def delete(station: str) -> None:
+    """
+    Delete a weather station
+    """
+
+    file = stations_path + os.sep + station + '.json'
+    os.remove(file)
+
 def apply(function) -> None:
     """
     Apply function to all weather stations
@@ -60,9 +68,10 @@ def apply(function) -> None:
         data = function(data)
 
         # Persist changes
-        with open(file, 'w') as f:
-            f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
-            f.close()
+        if data:
+            with open(file, 'w') as f:
+                f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
+                f.close()
 
     # List of files
     files = []

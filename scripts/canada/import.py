@@ -23,6 +23,10 @@ def province_code(name: str) -> str:
         return 'NL'
     elif name == 'NOVA SCOTIA':
         return 'NS'
+    elif name == 'NORTHWEST TERRITORIES':
+        return 'NT'
+    elif name == 'NUNAVUT':
+        return 'NU'
     elif name == 'ONTARIO':
         return 'ON'
     elif name == 'PRINCE EDWARD ISLAND':
@@ -31,6 +35,8 @@ def province_code(name: str) -> str:
         return 'QC'
     elif name == 'SASKATCHEWAN':
         return 'SK'
+    elif name == 'YUKON TERRITORY':
+        return 'YT'
     else:
         return None
 
@@ -81,3 +87,5 @@ for index, row in inventory.iterrows():
         else:
             data['id'] = generate_uid()
             create(data)
+
+    print(row['id'])
