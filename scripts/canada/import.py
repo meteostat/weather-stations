@@ -1,3 +1,7 @@
+"""
+Import weather stations from Environment Canada
+"""
+
 from string import capwords
 import pandas as pd
 from stations import find_duplicate, generate_uid, create, update

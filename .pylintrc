@@ -1,3 +1,13 @@
 [MESSAGES CONTROL]
 
-disable=print-statement
+disable=print-statement,
+        no-name-in-module,
+        unused-variable,
+        import-error,
+        too-many-return-statements,
+        too-many-branches,
+        no-else-return
+
+[BASIC]
+
+good-names=f
