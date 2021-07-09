@@ -6,6 +6,9 @@ import stations
 
 
 def qa_check(data: dict) -> dict:
+    """
+    Find invalid data & delete
+    """
 
     if data and (
         len(data['id']) != 5 or
@@ -16,7 +19,5 @@ def qa_check(data: dict) -> dict:
     ):
 
         stations.delete(data['id'])
-
-    return None
 
 stations.apply(qa_check)

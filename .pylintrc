@@ -6,7 +6,8 @@ disable=print-statement,
         import-error,
         too-many-return-statements,
         too-many-branches,
-        no-else-return
+        no-else-return,
+        too-many-boolean-expressions
 
 [BASIC]
 
