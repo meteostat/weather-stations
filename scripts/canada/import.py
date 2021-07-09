@@ -9,7 +9,8 @@ from stations import find_duplicate, generate_uid, create, update
 
 # Path of the CSV file
 CSV_FILE = os.path.expanduser(
-    "~") + os.sep + 'Meteostat' + os.sep + 'weather-stations' + os.sep + 'scripts' + os.sep + 'canada' + os.sep + 'stations.csv'
+    "~") + os.sep + 'Meteostat' + os.sep + 'weather-stations' \
+    + os.sep + 'scripts' + os.sep + 'canada' + os.sep + 'stations.csv'
 
 # Min. last year to prevent inactive stations from being imported
 MIN_LAST_YEAR = 2015
