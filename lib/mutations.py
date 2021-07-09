@@ -7,7 +7,7 @@ The code is licensed under the MIT license.
 import os
 import json
 from multiprocessing.pool import ThreadPool
-from stations import stations_path, threads, merge_dicts, station_template
+from stations import stations_path, merge_dicts, station_template
 
 
 def create(data: dict) -> None:
@@ -54,7 +54,7 @@ def delete(station: str) -> None:
     file = stations_path + os.sep + station + '.json'
     os.remove(file)
 
-def apply(function) -> None:
+def apply(function, threads=12) -> None:
     """
     Apply function to all weather stations
     """
@@ -83,9 +83,13 @@ def apply(function) -> None:
             files.append(os.path.join(dirpath, filename))
 
     # Multi-thread processing
-    with ThreadPool(threads) as pool:
-        # Process datasets in pool
-        pool.map(_update, files)
-        # Wait for Pool to finish
-        pool.close()
-        pool.join()
+    if threads > 1:
+        with ThreadPool(threads) as pool:
+            # Process datasets in pool
+            pool.map(_update, files)
+            # Wait for Pool to finish
+            pool.close()
+            pool.join()
+    else:
+        for file in files:
+            _update(file)

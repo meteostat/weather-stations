@@ -7,7 +7,8 @@ disable=print-statement,
         too-many-return-statements,
         too-many-branches,
         no-else-return,
-        too-many-boolean-expressions
+        too-many-boolean-expressions,
+        inconsistent-return-statements
 
 [BASIC]
 
