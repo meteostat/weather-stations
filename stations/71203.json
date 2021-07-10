@@ -1,19 +1,19 @@
 {
     "id": "71203",
     "name": {
-        "en": "Kelowna Airport"
+        "en": "Kelowna"
     },
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": null,
+        "national": "48369",
         "wmo": "71203",
         "icao": "CYLW"
     },
     "location": {
-        "latitude": 49.9667,
-        "longitude": -119.3833,
-        "elevation": 430
+        "latitude": 49.96,
+        "longitude": -119.38,
+        "elevation": 433
     },
     "timezone": "America/Vancouver"
 }

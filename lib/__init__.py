@@ -14,11 +14,8 @@ __version__ = '0.0.1'
 stations_path: str = os.path.expanduser(
     "~") + os.sep + 'Meteostat' + os.sep + 'weather-stations' + os.sep + 'stations'
 
-# Number of threads for multi-thread processing
-threads: int = 12
-
 from .utils import merge_dicts
 from .templates import station_template
 from .generators import generate_uid
 from .checks import find_duplicate
-from .mutations import create, update, apply
+from .mutations import create, update, delete, apply

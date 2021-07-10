@@ -1,19 +1,19 @@
 {
     "id": "71892",
     "name": {
-        "en": "Vancouver Airport"
+        "en": "Vancouver International Airport"
     },
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": null,
+        "national": "51442",
         "wmo": "71892",
         "icao": "CYVR"
     },
     "location": {
-        "latitude": 49.1833,
-        "longitude": -123.1667,
-        "elevation": 3
+        "latitude": 49.19,
+        "longitude": -123.18,
+        "elevation": 4
     },
     "timezone": "America/Vancouver"
 }

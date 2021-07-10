@@ -1,19 +1,19 @@
 {
     "id": "71207",
     "name": {
-        "en": "Squamish Airport, B. C"
+        "en": "Squamish Airport"
     },
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": null,
+        "national": "336",
         "wmo": "71207",
         "icao": "CWSK"
     },
     "location": {
-        "latitude": 49.7833,
-        "longitude": -123.1667,
-        "elevation": 59
+        "latitude": 49.78,
+        "longitude": -123.16,
+        "elevation": 54
     },
     "timezone": "America/Vancouver"
 }

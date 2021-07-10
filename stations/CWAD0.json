@@ -1,19 +1,19 @@
 {
     "id": "CWAD0",
     "name": {
-        "en": "Cape Mudge / Campbell River"
+        "en": "Cape Mudge"
     },
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": null,
+        "national": "152",
         "wmo": null,
         "icao": "CWAD"
     },
     "location": {
-        "latitude": 50,
+        "latitude": 50.0,
         "longitude": -125.2,
-        "elevation": 4
+        "elevation": 5
     },
     "timezone": "America/Vancouver"
 }
