@@ -68,7 +68,8 @@ for station in stations:
         f.close()
 
     # Re-create old station
-    url = f'https://raw.githubusercontent.com/meteostat/weather-stations/master/stations/{ms_id}.json'
+    url = f'https://raw.githubusercontent.com/meteostat/weather-stations\
+        /master/stations/{ms_id}.json'
     with urllib.request.urlopen(url) as response:
         data = json.loads(response.read().decode())
     data['identifiers']['wmo'] = None
