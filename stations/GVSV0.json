@@ -6,9 +6,9 @@
     "country": "CV",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "GVSV"
+        "$icao": "GVSV",
+        "$iata": "VXE",
+        "$usaf": "085945"
     },
     "location": {
         "latitude": 16.8332,

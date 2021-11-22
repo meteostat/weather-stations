@@ -6,9 +6,10 @@
     "country": "CL",
     "region": "ML",
     "identifiers": {
-        "national": null,
-        "wmo": "85629",
-        "icao": "SCIC"
+        "$wmo": "85629",
+        "$icao": "SCIC",
+        "$ghcn": "CI000085629",
+        "$usaf": "856290"
     },
     "location": {
         "latitude": -34.9667,

@@ -6,9 +6,10 @@
     "country": "RU",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": "29263",
-        "icao": "UNII"
+        "$wmo": "29263",
+        "$icao": "UNII",
+        "$ghcn": "RSM00029263",
+        "$usaf": "292630"
     },
     "location": {
         "latitude": 58.45,

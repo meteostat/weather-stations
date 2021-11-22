@@ -6,9 +6,7 @@
     "country": "FR",
     "region": "F",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LFOZ"
+        "$icao": "LFOZ"
     },
     "location": {
         "latitude": 47.8969,

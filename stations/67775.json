@@ -6,9 +6,11 @@
     "country": "ZW",
     "region": "ME",
     "identifiers": {
-        "national": null,
-        "wmo": "67775",
-        "icao": "FVHA"
+        "$wmo": "67775",
+        "$icao": "FVHA",
+        "$iata": "HRE",
+        "$ghcn": "ZI000067775",
+        "$mosmix": "67775"
     },
     "location": {
         "latitude": -17.9167,

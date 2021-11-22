@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KNZW"
+        "$icao": "KNZW",
+        "$wban": "14790",
+        "$usaf": "725097"
     },
     "location": {
         "latitude": 42.15,

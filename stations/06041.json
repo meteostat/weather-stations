@@ -6,9 +6,8 @@
     "country": "DK",
     "region": "ND",
     "identifiers": {
-        "national": null,
-        "wmo": "06041",
-        "icao": null
+        "$wmo": "06041",
+        "$mosmix": "06041"
     },
     "location": {
         "latitude": 57.7333,

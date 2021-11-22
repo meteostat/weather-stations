@@ -6,9 +6,11 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "national": null,
-        "wmo": "72409",
-        "icao": "KNEL"
+        "$wmo": "72409",
+        "$icao": "KNEL",
+        "$iata": "NEL",
+        "$wban": "14780",
+        "$usaf": "724090"
     },
     "location": {
         "latitude": 40.0333,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ND",
     "identifiers": {
-        "national": null,
-        "wmo": "72765",
-        "icao": "KP24"
+        "$wmo": "72765",
+        "$icao": "KP24",
+        "$wban": "94021"
     },
     "location": {
         "latitude": 47.75,

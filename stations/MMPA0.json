@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "VER",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMPA"
+        "$icao": "MMPA",
+        "$iata": "PAZ",
+        "$usaf": "766127"
     },
     "location": {
         "latitude": 20.6022,

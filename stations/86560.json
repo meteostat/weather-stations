@@ -6,9 +6,11 @@
     "country": "UY",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": "86560",
-        "icao": "SUCA"
+        "$wmo": "86560",
+        "$icao": "SUCA",
+        "$iata": "CYR",
+        "$ghcn": "UYM00086560",
+        "$usaf": "865600"
     },
     "location": {
         "latitude": -34.45,

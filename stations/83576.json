@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "83576",
-        "icao": "SBUR"
+        "$wmo": "83576",
+        "$icao": "SBUR",
+        "$iata": "UBA",
+        "$usaf": "835760",
+        "$mosmix": "83576"
     },
     "location": {
         "latitude": -19.7833,

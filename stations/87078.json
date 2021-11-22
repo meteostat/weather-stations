@@ -6,9 +6,11 @@
     "country": "AR",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": "87078",
-        "icao": "SATK"
+        "$wmo": "87078",
+        "$icao": "SATK",
+        "$iata": "LLS",
+        "$ghcn": "AR000087078",
+        "$usaf": "870780"
     },
     "location": {
         "latitude": -24.7,

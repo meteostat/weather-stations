@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "LAG",
     "identifiers": {
-        "national": null,
-        "wmo": "60545",
-        "icao": "DAUL"
+        "$wmo": "60545",
+        "$icao": "DAUL",
+        "$iata": "LOO",
+        "$ghcn": "AGE00147719",
+        "$usaf": "605450"
     },
     "location": {
         "latitude": 33.7667,

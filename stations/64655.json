@@ -6,9 +6,11 @@
     "country": "CF",
     "region": "HKO",
     "identifiers": {
-        "national": null,
-        "wmo": "64655",
-        "icao": "FEFR"
+        "$wmo": "64655",
+        "$icao": "FEFR",
+        "$iata": "BIV",
+        "$ghcn": "CT000004655",
+        "$usaf": "646550"
     },
     "location": {
         "latitude": 6.5333,

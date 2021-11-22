@@ -6,9 +6,10 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": null,
-        "wmo": "71205",
-        "icao": "CYBL"
+        "$wmo": "71205",
+        "$icao": "CYBL",
+        "$iata": "YBL",
+        "$usaf": "718936"
     },
     "location": {
         "latitude": 49.9508,

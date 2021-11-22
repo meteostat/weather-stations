@@ -6,9 +6,12 @@
     "country": "LA",
     "region": "NH",
     "identifiers": {
-        "national": null,
-        "wmo": "48940",
-        "icao": "VLVT"
+        "$wmo": "48940",
+        "$icao": "VLVT",
+        "$iata": "VTE",
+        "$ghcn": "LAM00048940",
+        "$usaf": "489400",
+        "$mosmix": "48940"
     },
     "location": {
         "latitude": 17.95,

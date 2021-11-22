@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "BW",
     "identifiers": {
-        "national": "01018",
-        "wmo": "10912",
-        "icao": "EDTD"
+        "$national": "01018",
+        "$wmo": "10912",
+        "$icao": "EDTD",
+        "$usaf": "109120"
     },
     "location": {
         "latitude": 47.9667,

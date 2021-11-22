@@ -6,9 +6,9 @@
     "country": "SO",
     "region": "GE",
     "identifiers": {
-        "national": null,
-        "wmo": "63248",
-        "icao": "HCMJ"
+        "$wmo": "63248",
+        "$icao": "HCMJ",
+        "$iata": "LGX"
     },
     "location": {
         "latitude": 3.5833,

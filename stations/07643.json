@@ -6,9 +6,12 @@
     "country": "FR",
     "region": "K",
     "identifiers": {
-        "national": null,
-        "wmo": "07643",
-        "icao": "LFMT"
+        "$wmo": "07643",
+        "$icao": "LFMT",
+        "$iata": "MPL",
+        "$ghcn": "FRM00007643",
+        "$usaf": "076430",
+        "$mosmix": "07643"
     },
     "location": {
         "latitude": 43.5833,

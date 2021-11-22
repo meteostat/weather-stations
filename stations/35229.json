@@ -6,9 +6,12 @@
     "country": "KZ",
     "region": "AKT",
     "identifiers": {
-        "national": null,
-        "wmo": "35229",
-        "icao": "UATT"
+        "$wmo": "35229",
+        "$icao": "UATT",
+        "$iata": "AKX",
+        "$ghcn": "KZ000035229",
+        "$usaf": "352290",
+        "$mosmix": "35229"
     },
     "location": {
         "latitude": 50.2833,

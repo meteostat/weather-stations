@@ -6,9 +6,10 @@
     "country": "UG",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "63726",
-        "icao": "HUKB"
+        "$wmo": "63726",
+        "$icao": "HUKB",
+        "$ghcn": "UG000063726",
+        "$usaf": "637260"
     },
     "location": {
         "latitude": -1.25,

@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "MAG",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPMC"
+        "$icao": "RPMC",
+        "$iata": "CBO",
+        "$usaf": "987460"
     },
     "location": {
         "latitude": 7.1652,

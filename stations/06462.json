@@ -6,9 +6,9 @@
     "country": "BE",
     "region": "ANT",
     "identifiers": {
-        "national": null,
-        "wmo": "06462",
-        "icao": "EBWE"
+        "$wmo": "06462",
+        "$icao": "EBWE",
+        "$usaf": "064620"
     },
     "location": {
         "latitude": 51.4167,

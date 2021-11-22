@@ -6,9 +6,7 @@
     "country": "PH",
     "region": "PAN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPLR"
+        "$icao": "RPLR"
     },
     "location": {
         "latitude": 15.88,

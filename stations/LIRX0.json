@@ -6,9 +6,8 @@
     "country": "IT",
     "region": "TC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LIRX"
+        "$icao": "LIRX",
+        "$usaf": "161970"
     },
     "location": {
         "latitude": 42.73,

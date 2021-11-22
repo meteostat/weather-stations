@@ -6,9 +6,10 @@
     "country": "NG",
     "region": "OY",
     "identifiers": {
-        "national": null,
-        "wmo": "65208",
-        "icao": "DNIB"
+        "$wmo": "65208",
+        "$icao": "DNIB",
+        "$iata": "IBA",
+        "$usaf": "651000"
     },
     "location": {
         "latitude": 7.4333,

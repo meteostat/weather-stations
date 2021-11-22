@@ -6,9 +6,8 @@
     "country": "VN",
     "region": "BD",
     "identifiers": {
-        "national": null,
-        "wmo": "48867",
-        "icao": "VVPU"
+        "$wmo": "48867",
+        "$icao": "VVPU"
     },
     "location": {
         "latitude": 13.95,

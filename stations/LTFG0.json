@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTFG"
+        "$icao": "LTFG",
+        "$iata": "GZP",
+        "$usaf": "170674"
     },
     "location": {
         "latitude": 36.2994,

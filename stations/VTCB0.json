@@ -6,9 +6,8 @@
     "country": "TH",
     "region": "PY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VTCB"
+        "$icao": "VTCB",
+        "$usaf": "483007"
     },
     "location": {
         "latitude": 19.5,

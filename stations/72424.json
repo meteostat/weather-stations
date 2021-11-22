@@ -6,9 +6,11 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": "72424",
-        "icao": "KFTK"
+        "$wmo": "72424",
+        "$icao": "KFTK",
+        "$iata": "FTK",
+        "$wban": "13807",
+        "$usaf": "724240"
     },
     "location": {
         "latitude": 37.9,

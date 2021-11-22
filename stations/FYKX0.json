@@ -6,9 +6,8 @@
     "country": "NA",
     "region": "KU",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FYKX"
+        "$icao": "FYKX",
+        "$usaf": "680023"
     },
     "location": {
         "latitude": -20.3803,

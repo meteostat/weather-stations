@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYBQ"
+        "$icao": "CYBQ",
+        "$iata": "XTL",
+        "$usaf": "712720"
     },
     "location": {
         "latitude": 58.7061,

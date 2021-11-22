@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "NRW",
     "identifiers": {
-        "national": null,
-        "wmo": "10505",
-        "icao": null
+        "$wmo": "10505",
+        "$ghcn": "GME00120958",
+        "$mosmix": "10505"
     },
     "location": {
         "latitude": 50.7667,

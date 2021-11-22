@@ -6,13 +6,17 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": "5889",
-        "wmo": "71727",
-        "icao": "CYBG"
+        "$national": "5889",
+        "$wmo": "71727",
+        "$icao": "CYBG",
+        "$iata": "YBG",
+        "$ghcn": "CA007060400",
+        "$usaf": "717270",
+        "$mosmix": "71727"
     },
     "location": {
         "latitude": 48.33,
-        "longitude": -71.0,
+        "longitude": -71,
         "elevation": 159
     },
     "timezone": "America/Toronto"

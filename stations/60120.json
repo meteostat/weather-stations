@@ -6,9 +6,9 @@
     "country": "MA",
     "region": "GB",
     "identifiers": {
-        "national": null,
-        "wmo": "60120",
-        "icao": "GMMY"
+        "$wmo": "60120",
+        "$icao": "GMMY",
+        "$ghcn": "MOW00013017"
     },
     "location": {
         "latitude": 34.3,

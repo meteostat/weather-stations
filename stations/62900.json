@@ -6,9 +6,8 @@
     "country": "SD",
     "region": "EB",
     "identifiers": {
-        "national": null,
-        "wmo": "62900",
-        "icao": "HSMK"
+        "$wmo": "62900",
+        "$icao": "HSMK"
     },
     "location": {
         "latitude": 6.8,

@@ -6,9 +6,13 @@
     "country": "GP",
     "region": "GP",
     "identifiers": {
-        "national": null,
-        "wmo": "78897",
-        "icao": "TFFR"
+        "$wmo": "78897",
+        "$icao": "TFFR",
+        "$iata": "PTP",
+        "$ghcn": "GP000078897",
+        "$wban": "00401",
+        "$usaf": "788970",
+        "$mosmix": "78897"
     },
     "location": {
         "latitude": 16.2667,

@@ -6,9 +6,8 @@
     "country": "MY",
     "region": "PH",
     "identifiers": {
-        "national": null,
-        "wmo": "48653",
-        "icao": "WMBE"
+        "$wmo": "48653",
+        "$icao": "WMBE"
     },
     "location": {
         "latitude": 3.4667,

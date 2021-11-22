@@ -6,9 +6,7 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQGE"
+        "$icao": "KQGE"
     },
     "location": {
         "latitude": 30.4,

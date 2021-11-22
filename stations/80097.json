@@ -6,9 +6,11 @@
     "country": "CO",
     "region": "NDS",
     "identifiers": {
-        "national": null,
-        "wmo": "80097",
-        "icao": "SKCC"
+        "$wmo": "80097",
+        "$icao": "SKCC",
+        "$iata": "CUC",
+        "$ghcn": "COM00080097",
+        "$usaf": "800970"
     },
     "location": {
         "latitude": 7.9333,

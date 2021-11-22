@@ -6,9 +6,11 @@
     "country": "AE",
     "region": "RK",
     "identifiers": {
-        "national": null,
-        "wmo": "41184",
-        "icao": "OMRK"
+        "$wmo": "41184",
+        "$icao": "OMRK",
+        "$iata": "RKT",
+        "$usaf": "411840",
+        "$mosmix": "41184"
     },
     "location": {
         "latitude": 25.6167,

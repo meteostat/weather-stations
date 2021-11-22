@@ -6,9 +6,9 @@
     "country": "TW",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "46810",
-        "icao": "RCLM"
+        "$wmo": "46810",
+        "$icao": "RCLM",
+        "$usaf": "468100"
     },
     "location": {
         "latitude": 20.6667,

@@ -6,9 +6,10 @@
     "country": "TD",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": "64702",
-        "icao": "FTTL"
+        "$wmo": "64702",
+        "$icao": "FTTL",
+        "$iata": "OTC",
+        "$usaf": "647020"
     },
     "location": {
         "latitude": 13.4333,

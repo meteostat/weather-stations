@@ -1,15 +1,13 @@
 {
     "id": "01110",
     "name": {
-        "en": "Ytterholmen Lighthouse",
-        "no": "Ytterholmen Fyr"
+        "no": "Ytterholmen Fyr",
+        "en": "Ytterholmen Lighthouse"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "national": null,
-        "wmo": "01110",
-        "icao": null
+        "$wmo": "01110"
     },
     "location": {
         "latitude": 66,

@@ -6,9 +6,9 @@
     "country": "EC",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": "84135",
-        "icao": null
+        "$wmo": "84135",
+        "$ghcn": "ECM00084135",
+        "$usaf": "841350"
     },
     "location": {
         "latitude": -1.0333,

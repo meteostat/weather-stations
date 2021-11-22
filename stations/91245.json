@@ -6,9 +6,11 @@
     "country": "US",
     "region": "WQ",
     "identifiers": {
-        "national": null,
-        "wmo": "91245",
-        "icao": "PWAK"
+        "$wmo": "91245",
+        "$icao": "PWAK",
+        "$iata": "AWK",
+        "$wban": "41606",
+        "$usaf": "912450"
     },
     "location": {
         "latitude": 19.2833,

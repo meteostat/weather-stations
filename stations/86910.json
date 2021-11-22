@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "SP",
     "identifiers": {
-        "national": null,
-        "wmo": "86910",
-        "icao": null
+        "$wmo": "86910",
+        "$usaf": "869100"
     },
     "location": {
         "latitude": -23.4964,

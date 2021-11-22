@@ -6,9 +6,9 @@
     "country": "GL",
     "region": "QS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "BGUM"
+        "$icao": "BGUM",
+        "$iata": "UMD",
+        "$usaf": "042023"
     },
     "location": {
         "latitude": 70.6797,

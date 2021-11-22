@@ -6,9 +6,11 @@
     "country": "KZ",
     "region": "ALA",
     "identifiers": {
-        "national": null,
-        "wmo": "36870",
-        "icao": "UAAA"
+        "$wmo": "36870",
+        "$icao": "UAAA",
+        "$ghcn": "KZ000036870",
+        "$usaf": "368720",
+        "$mosmix": "36870"
     },
     "location": {
         "latitude": 43.2333,

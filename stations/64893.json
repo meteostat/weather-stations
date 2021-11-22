@@ -6,9 +6,10 @@
     "country": "CM",
     "region": "OU",
     "identifiers": {
-        "national": null,
-        "wmo": "64893",
-        "icao": "FKKM"
+        "$wmo": "64893",
+        "$icao": "FKKM",
+        "$iata": "FOM",
+        "$usaf": "648930"
     },
     "location": {
         "latitude": 5.65,

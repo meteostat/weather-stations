@@ -6,9 +6,8 @@
     "country": "AR",
     "region": "F",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SACT"
+        "$icao": "SACT",
+        "$usaf": "873205"
     },
     "location": {
         "latitude": -30.3667,

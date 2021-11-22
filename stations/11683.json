@@ -6,9 +6,8 @@
     "country": "CZ",
     "region": "EK",
     "identifiers": {
-        "national": null,
-        "wmo": "11683",
-        "icao": null
+        "$wmo": "11683",
+        "$mosmix": "11683"
     },
     "location": {
         "latitude": 49.7333,

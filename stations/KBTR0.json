@@ -6,9 +6,8 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": "72232",
-        "icao": "KBTR"
+        "$wmo": "72232",
+        "$icao": "KBTR"
     },
     "location": {
         "latitude": 30.5378,

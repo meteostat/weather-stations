@@ -6,9 +6,8 @@
     "country": "PA",
     "region": "LS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MPNU"
+        "$icao": "MPNU",
+        "$usaf": "787834"
     },
     "location": {
         "latitude": 7.8333,

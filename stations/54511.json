@@ -6,9 +6,12 @@
     "country": "CN",
     "region": "BJ",
     "identifiers": {
-        "national": null,
-        "wmo": "54511",
-        "icao": "ZBAA"
+        "$wmo": "54511",
+        "$icao": "ZBAA",
+        "$iata": "PEK",
+        "$ghcn": "CHM00054511",
+        "$usaf": "545110",
+        "$mosmix": "54511"
     },
     "location": {
         "latitude": 39.9333,

@@ -6,9 +6,10 @@
     "country": "RO",
     "region": "SM",
     "identifiers": {
-        "national": null,
-        "wmo": "15010",
-        "icao": "LRSM"
+        "$wmo": "15010",
+        "$icao": "LRSM",
+        "$iata": "SUJ",
+        "$usaf": "150100"
     },
     "location": {
         "latitude": 47.8,

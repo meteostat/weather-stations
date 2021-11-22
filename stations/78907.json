@@ -6,9 +6,9 @@
     "country": "DM",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "78907",
-        "icao": "TDPR"
+        "$wmo": "78907",
+        "$icao": "TDPR",
+        "$usaf": "788550"
     },
     "location": {
         "latitude": 15.3,

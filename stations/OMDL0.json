@@ -6,9 +6,8 @@
     "country": "AE",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OMDL"
+        "$icao": "OMDL",
+        "$usaf": "412163"
     },
     "location": {
         "latitude": 24.51,

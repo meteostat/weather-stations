@@ -6,9 +6,8 @@
     "country": "MM",
     "region": "MD",
     "identifiers": {
-        "national": null,
-        "wmo": "48048",
-        "icao": "VBNU"
+        "$wmo": "48048",
+        "$icao": "VBNU"
     },
     "location": {
         "latitude": 21.2,

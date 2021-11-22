@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "ANT",
     "identifiers": {
-        "national": null,
-        "wmo": "17375",
-        "icao": null
+        "$wmo": "17375",
+        "$ghcn": "TU000017375"
     },
     "location": {
         "latitude": 36.3,

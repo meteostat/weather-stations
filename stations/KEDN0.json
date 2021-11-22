@@ -6,9 +6,7 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEDN"
+        "$icao": "KEDN"
     },
     "location": {
         "latitude": 31.2997,

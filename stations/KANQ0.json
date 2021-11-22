@@ -6,9 +6,7 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KANQ"
+        "$icao": "KANQ"
     },
     "location": {
         "latitude": 41.6397,

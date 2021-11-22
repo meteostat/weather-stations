@@ -6,9 +6,8 @@
     "country": "AZ",
     "region": "BEY",
     "identifiers": {
-        "national": null,
-        "wmo": "37905",
-        "icao": null
+        "$wmo": "37905",
+        "$ghcn": "AJ000037905"
     },
     "location": {
         "latitude": 39.7667,

@@ -6,9 +6,11 @@
     "country": "PL",
     "region": "PL",
     "identifiers": {
-        "national": null,
-        "wmo": "12195",
-        "icao": "EPSU"
+        "$wmo": "12195",
+        "$icao": "EPSU",
+        "$iata": "ZWK",
+        "$usaf": "121950",
+        "$mosmix": "12195"
     },
     "location": {
         "latitude": 54.1333,

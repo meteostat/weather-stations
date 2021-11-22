@@ -6,9 +6,8 @@
     "country": "CO",
     "region": "MET",
     "identifiers": {
-        "national": null,
-        "wmo": "69377",
-        "icao": "KQQY"
+        "$wmo": "69377",
+        "$icao": "KQQY"
     },
     "location": {
         "latitude": 4.07,

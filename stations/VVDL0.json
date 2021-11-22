@@ -6,9 +6,9 @@
     "country": "VN",
     "region": "LD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VVDL"
+        "$icao": "VVDL",
+        "$iata": "DLI",
+        "$usaf": "488811"
     },
     "location": {
         "latitude": 11.75,

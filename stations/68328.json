@@ -6,9 +6,11 @@
     "country": "BW",
     "region": "KG",
     "identifiers": {
-        "national": null,
-        "wmo": "68328",
-        "icao": "FBTS"
+        "$wmo": "68328",
+        "$icao": "FBTS",
+        "$iata": "TBY",
+        "$ghcn": "BC000068328",
+        "$usaf": "683280"
     },
     "location": {
         "latitude": -26.05,

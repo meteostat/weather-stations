@@ -6,9 +6,11 @@
     "country": "NG",
     "region": "KW",
     "identifiers": {
-        "national": null,
-        "wmo": "65101",
-        "icao": "DNIL"
+        "$wmo": "65101",
+        "$icao": "DNIL",
+        "$iata": "ILR",
+        "$ghcn": "NIM00065101",
+        "$usaf": "651010"
     },
     "location": {
         "latitude": 8.4833,

@@ -6,9 +6,10 @@
     "country": "VN",
     "region": "KG",
     "identifiers": {
-        "national": null,
-        "wmo": "48917",
-        "icao": "VVPQ"
+        "$wmo": "48917",
+        "$icao": "VVPQ",
+        "$iata": "PQC",
+        "$ghcn": "VMM00048917"
     },
     "location": {
         "latitude": 10.2167,

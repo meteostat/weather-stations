@@ -6,9 +6,9 @@
     "country": "CF",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "64603",
-        "icao": "FEGU"
+        "$wmo": "64603",
+        "$icao": "FEGU",
+        "$iata": "BCF"
     },
     "location": {
         "latitude": 6.517,

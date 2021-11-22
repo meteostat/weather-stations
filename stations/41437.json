@@ -6,9 +6,10 @@
     "country": "YE",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": "41437",
-        "icao": "OYAT"
+        "$wmo": "41437",
+        "$icao": "OYAT",
+        "$iata": "AXK",
+        "$usaf": "414370"
     },
     "location": {
         "latitude": 14.5167,

@@ -6,9 +6,12 @@
     "country": "FR",
     "region": "K",
     "identifiers": {
-        "national": null,
-        "wmo": "07747",
-        "icao": "LFMP"
+        "$wmo": "07747",
+        "$icao": "LFMP",
+        "$iata": "PGF",
+        "$ghcn": "FR000007747",
+        "$usaf": "077470",
+        "$mosmix": "07747"
     },
     "location": {
         "latitude": 42.7333,

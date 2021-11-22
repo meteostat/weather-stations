@@ -6,9 +6,8 @@
     "country": "BD",
     "region": "BAR",
     "identifiers": {
-        "national": null,
-        "wmo": "41977",
-        "icao": null
+        "$wmo": "41977",
+        "$wban": "32921"
     },
     "location": {
         "latitude": 22.35,

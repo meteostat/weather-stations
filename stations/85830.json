@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": "85830",
-        "icao": "SCTN"
+        "$wmo": "85830",
+        "$icao": "SCTN",
+        "$iata": "WCH"
     },
     "location": {
         "latitude": -42.9167,

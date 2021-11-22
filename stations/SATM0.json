@@ -6,9 +6,9 @@
     "country": "AR",
     "region": "W",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SATM"
+        "$icao": "SATM",
+        "$iata": "MDX",
+        "$usaf": "872814"
     },
     "location": {
         "latitude": -29.2167,

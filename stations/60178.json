@@ -6,9 +6,8 @@
     "country": "MA",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": "60178",
-        "icao": "GMMK"
+        "$wmo": "60178",
+        "$icao": "GMMK"
     },
     "location": {
         "latitude": 32.8667,

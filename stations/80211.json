@@ -6,9 +6,11 @@
     "country": "CO",
     "region": "QUI",
     "identifiers": {
-        "national": null,
-        "wmo": "80211",
-        "icao": "SKAR"
+        "$wmo": "80211",
+        "$icao": "SKAR",
+        "$iata": "AXM",
+        "$ghcn": "COM00080211",
+        "$usaf": "802110"
     },
     "location": {
         "latitude": 4.5,

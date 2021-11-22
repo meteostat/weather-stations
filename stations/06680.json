@@ -6,9 +6,9 @@
     "country": "CH",
     "region": "AI",
     "identifiers": {
-        "national": null,
-        "wmo": "06680",
-        "icao": null
+        "$wmo": "06680",
+        "$ghcn": "SZ000002220",
+        "$mosmix": "06680"
     },
     "location": {
         "latitude": 47.25,

@@ -6,9 +6,13 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": "72223",
-        "icao": "KMOB"
+        "$wmo": "72223",
+        "$icao": "KMOB",
+        "$iata": "MOB",
+        "$ghcn": "USW00013894",
+        "$wban": "13894",
+        "$usaf": "722230",
+        "$mosmix": "72223"
     },
     "location": {
         "latitude": 30.6833,

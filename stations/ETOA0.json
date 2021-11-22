@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ETOA"
+        "$icao": "ETOA",
+        "$iata": "ZPW",
+        "$usaf": "106585"
     },
     "location": {
         "latitude": 50.0483,

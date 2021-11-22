@@ -6,9 +6,10 @@
     "country": "DZ",
     "region": "BLI",
     "identifiers": {
-        "national": null,
-        "wmo": "60435",
-        "icao": "DAAB"
+        "$wmo": "60435",
+        "$icao": "DAAB",
+        "$iata": "QLD",
+        "$wban": "33006"
     },
     "location": {
         "latitude": 36.5,

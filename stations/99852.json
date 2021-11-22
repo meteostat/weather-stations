@@ -6,9 +6,9 @@
     "country": "RS",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "99852",
-        "icao": "EQAC"
+        "$wmo": "99852",
+        "$icao": "EQAC",
+        "$usaf": "998520"
     },
     "location": {
         "latitude": 45.3,

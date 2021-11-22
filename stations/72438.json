@@ -6,9 +6,13 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": "72438",
-        "icao": "KIND"
+        "$wmo": "72438",
+        "$icao": "KIND",
+        "$iata": "IND",
+        "$ghcn": "USW00093819",
+        "$wban": "93819",
+        "$usaf": "724380",
+        "$mosmix": "72438"
     },
     "location": {
         "latitude": 39.7167,

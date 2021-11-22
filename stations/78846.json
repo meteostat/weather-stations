@@ -6,9 +6,8 @@
     "country": "AI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "78846",
-        "icao": null
+        "$wmo": "78846",
+        "$iata": "AXA"
     },
     "location": {
         "latitude": 18.2,

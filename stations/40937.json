@@ -6,9 +6,10 @@
     "country": "AF",
     "region": "BDG",
     "identifiers": {
-        "national": null,
-        "wmo": "40937",
-        "icao": "OAQN"
+        "$wmo": "40937",
+        "$icao": "OAQN",
+        "$iata": "LQN",
+        "$usaf": "409370"
     },
     "location": {
         "latitude": 35,

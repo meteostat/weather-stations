@@ -6,9 +6,9 @@
     "country": "VE",
     "region": "L",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SVVG"
+        "$icao": "SVVG",
+        "$iata": "VIG",
+        "$usaf": "804403"
     },
     "location": {
         "latitude": 8.6333,

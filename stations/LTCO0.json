@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "AGR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTCO"
+        "$icao": "LTCO",
+        "$iata": "AJI",
+        "$usaf": "170990"
     },
     "location": {
         "latitude": 39.6545,

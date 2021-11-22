@@ -6,9 +6,10 @@
     "country": "IT",
     "region": "CL",
     "identifiers": {
-        "national": null,
-        "wmo": "16453",
-        "icao": "LICL"
+        "$wmo": "16453",
+        "$icao": "LICL",
+        "$usaf": "164530",
+        "$mosmix": "16453"
     },
     "location": {
         "latitude": 37.0833,

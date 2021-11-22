@@ -6,9 +6,11 @@
     "country": "JO",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": "40340",
-        "icao": "OJAQ"
+        "$wmo": "40340",
+        "$icao": "OJAQ",
+        "$iata": "AQJ",
+        "$usaf": "403400",
+        "$mosmix": "40340"
     },
     "location": {
         "latitude": 29.6333,

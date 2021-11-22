@@ -6,9 +6,10 @@
     "country": "MM",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": "48103",
-        "icao": "VBMM"
+        "$wmo": "48103",
+        "$icao": "VBMM",
+        "$iata": "MNU",
+        "$usaf": "481030"
     },
     "location": {
         "latitude": 16.5,

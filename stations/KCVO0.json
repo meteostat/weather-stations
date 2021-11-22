@@ -6,9 +6,10 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCVO"
+        "$icao": "KCVO",
+        "$iata": "CVO",
+        "$wban": "24202",
+        "$usaf": "726945"
     },
     "location": {
         "latitude": 44.4971,

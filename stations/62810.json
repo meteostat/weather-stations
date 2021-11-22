@@ -6,9 +6,12 @@
     "country": "SD",
     "region": "SK",
     "identifiers": {
-        "national": null,
-        "wmo": "62810",
-        "icao": "HSLI"
+        "$wmo": "62810",
+        "$icao": "HSLI",
+        "$iata": "KDX",
+        "$ghcn": "SUM00062810",
+        "$usaf": "628100",
+        "$mosmix": "62810"
     },
     "location": {
         "latitude": 11,

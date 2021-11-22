@@ -6,9 +6,9 @@
     "country": "PS",
     "region": "SHS",
     "identifiers": {
-        "national": null,
-        "wmo": "40230",
-        "icao": "LVGZ"
+        "$wmo": "40230",
+        "$icao": "LVGZ",
+        "$iata": "GZA"
     },
     "location": {
         "latitude": 31.2333,

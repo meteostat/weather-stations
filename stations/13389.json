@@ -6,9 +6,8 @@
     "country": "RS",
     "region": "JA",
     "identifiers": {
-        "national": null,
-        "wmo": "13389",
-        "icao": null
+        "$wmo": "13389",
+        "$mosmix": "13389"
     },
     "location": {
         "latitude": 42.9833,

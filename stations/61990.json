@@ -6,9 +6,12 @@
     "country": "MU",
     "region": "GP",
     "identifiers": {
-        "national": null,
-        "wmo": "61990",
-        "icao": "FIMP"
+        "$wmo": "61990",
+        "$icao": "FIMP",
+        "$iata": "MRU",
+        "$ghcn": "MP000061990",
+        "$usaf": "619900",
+        "$mosmix": "61990"
     },
     "location": {
         "latitude": -20.4333,

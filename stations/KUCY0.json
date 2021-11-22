@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KUCY"
+        "$icao": "KUCY",
+        "$wban": "63820",
+        "$usaf": "A00029"
     },
     "location": {
         "latitude": 36.3818,

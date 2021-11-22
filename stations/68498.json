@@ -6,9 +6,10 @@
     "country": "ZA",
     "region": "KN",
     "identifiers": {
-        "national": null,
-        "wmo": "68498",
-        "icao": "FARB"
+        "$wmo": "68498",
+        "$icao": "FARB",
+        "$iata": "RCB",
+        "$usaf": "684950"
     },
     "location": {
         "latitude": -28.8,

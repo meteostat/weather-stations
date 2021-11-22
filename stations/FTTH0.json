@@ -6,9 +6,9 @@
     "country": "TD",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FTTH"
+        "$icao": "FTTH",
+        "$iata": "LTC",
+        "$usaf": "647086"
     },
     "location": {
         "latitude": 9.4,

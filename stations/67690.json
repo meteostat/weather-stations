@@ -6,9 +6,10 @@
     "country": "MW",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "67690",
-        "icao": "FWMY"
+        "$wmo": "67690",
+        "$icao": "FWMY",
+        "$iata": "MYZ",
+        "$usaf": "676900"
     },
     "location": {
         "latitude": -14.0833,

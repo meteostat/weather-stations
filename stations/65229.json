@@ -6,9 +6,10 @@
     "country": "NG",
     "region": "ED",
     "identifiers": {
-        "national": null,
-        "wmo": "65229",
-        "icao": "DNBE"
+        "$wmo": "65229",
+        "$icao": "DNBE",
+        "$iata": "BNI",
+        "$usaf": "652290"
     },
     "location": {
         "latitude": 6.3167,

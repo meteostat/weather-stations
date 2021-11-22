@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "BBA",
     "identifiers": {
-        "national": null,
-        "wmo": "60444",
-        "icao": null
+        "$wmo": "60444",
+        "$ghcn": "AGM00060444"
     },
     "location": {
         "latitude": 36.0667,

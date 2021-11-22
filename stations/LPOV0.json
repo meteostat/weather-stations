@@ -6,9 +6,8 @@
     "country": "PT",
     "region": "AV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LPOV"
+        "$icao": "LPOV",
+        "$usaf": "085581"
     },
     "location": {
         "latitude": 40.9167,

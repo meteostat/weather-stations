@@ -6,9 +6,8 @@
     "country": "PH",
     "region": "SUR",
     "identifiers": {
-        "national": null,
-        "wmo": "98755",
-        "icao": null
+        "$wmo": "98755",
+        "$ghcn": "RP000098755"
     },
     "location": {
         "latitude": 8.3667,

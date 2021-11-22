@@ -6,9 +6,12 @@
     "country": "MA",
     "region": "MK",
     "identifiers": {
-        "national": null,
-        "wmo": "60230",
-        "icao": "GMMX"
+        "$wmo": "60230",
+        "$icao": "GMMX",
+        "$iata": "RAK",
+        "$ghcn": "MOM00060230",
+        "$usaf": "602300",
+        "$mosmix": "60230"
     },
     "location": {
         "latitude": 31.6167,

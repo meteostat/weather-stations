@@ -6,9 +6,11 @@
     "country": "MZ",
     "region": "SO",
     "identifiers": {
-        "national": null,
-        "wmo": "67297",
-        "icao": "FQBR"
+        "$wmo": "67297",
+        "$icao": "FQBR",
+        "$iata": "BEW",
+        "$ghcn": "MZ000067297",
+        "$usaf": "672970"
     },
     "location": {
         "latitude": -19.8,

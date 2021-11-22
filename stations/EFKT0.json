@@ -6,9 +6,9 @@
     "country": "FI",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EFKT"
+        "$icao": "EFKT",
+        "$iata": "KTT",
+        "$usaf": "027200"
     },
     "location": {
         "latitude": 67.7,

@@ -6,9 +6,8 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEKY"
+        "$icao": "KEKY",
+        "$usaf": "720507"
     },
     "location": {
         "latitude": 33.3126,

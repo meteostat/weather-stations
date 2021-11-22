@@ -6,9 +6,8 @@
     "country": "KZ",
     "region": "KAR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UAAH"
+        "$icao": "UAAH",
+        "$iata": "BXH"
     },
     "location": {
         "latitude": 46.8833,

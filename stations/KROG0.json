@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KROG"
+        "$icao": "KROG",
+        "$wban": "53954",
+        "$usaf": "723449"
     },
     "location": {
         "latitude": 36.3724,

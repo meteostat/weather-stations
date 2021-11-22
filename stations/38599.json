@@ -6,9 +6,8 @@
     "country": "TJ",
     "region": "LE",
     "identifiers": {
-        "national": null,
-        "wmo": "38599",
-        "icao": null
+        "$wmo": "38599",
+        "$ghcn": "TI000038599"
     },
     "location": {
         "latitude": 40.2167,

@@ -6,9 +6,8 @@
     "country": "UA",
     "region": "CK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UKKE"
+        "$icao": "UKKE",
+        "$iata": "CKC"
     },
     "location": {
         "latitude": 49.4,

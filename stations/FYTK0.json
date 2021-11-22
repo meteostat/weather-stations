@@ -6,9 +6,8 @@
     "country": "NA",
     "region": "OD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FYTK"
+        "$icao": "FYTK",
+        "$usaf": "680029"
     },
     "location": {
         "latitude": -19.585,

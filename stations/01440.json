@@ -6,9 +6,8 @@
     "country": "NO",
     "region": "AA",
     "identifiers": {
-        "national": null,
-        "wmo": "01440",
-        "icao": null
+        "$wmo": "01440",
+        "$usaf": "014400"
     },
     "location": {
         "latitude": 59.3428,

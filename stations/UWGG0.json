@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "NIZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UWGG"
+        "$icao": "UWGG",
+        "$iata": "GOJ",
+        "$usaf": "274590"
     },
     "location": {
         "latitude": 56.2167,

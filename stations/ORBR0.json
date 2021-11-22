@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ORBR"
+        "$icao": "ORBR",
+        "$usaf": "406511"
     },
     "location": {
         "latitude": 36.5337,

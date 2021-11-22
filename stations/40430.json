@@ -6,9 +6,12 @@
     "country": "SA",
     "region": "MD",
     "identifiers": {
-        "national": null,
-        "wmo": "40430",
-        "icao": "OEMA"
+        "$wmo": "40430",
+        "$icao": "OEMA",
+        "$iata": "MED",
+        "$ghcn": "SA000040430",
+        "$usaf": "404300",
+        "$mosmix": "40430"
     },
     "location": {
         "latitude": 24.55,

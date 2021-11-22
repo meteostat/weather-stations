@@ -6,9 +6,9 @@
     "country": "TM",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UTAM"
+        "$icao": "UTAM",
+        "$iata": "MYP",
+        "$usaf": "384573"
     },
     "location": {
         "latitude": 37.6167,

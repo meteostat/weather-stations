@@ -6,9 +6,8 @@
     "country": "MK",
     "region": "SL",
     "identifiers": {
-        "national": null,
-        "wmo": "13590",
-        "icao": null
+        "$wmo": "13590",
+        "$usaf": "135900"
     },
     "location": {
         "latitude": 41.9,

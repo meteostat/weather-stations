@@ -6,9 +6,8 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCPU"
+        "$icao": "KCPU",
+        "$usaf": "720681"
     },
     "location": {
         "latitude": 38.1461,

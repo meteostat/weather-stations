@@ -6,9 +6,7 @@
     "country": "AE",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OMAJ"
+        "$icao": "OMAJ"
     },
     "location": {
         "latitude": 24.1874,

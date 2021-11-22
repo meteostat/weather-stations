@@ -6,9 +6,11 @@
     "country": "EG",
     "region": "QIN",
     "identifiers": {
-        "national": null,
-        "wmo": "62405",
-        "icao": "HELX"
+        "$wmo": "62405",
+        "$icao": "HELX",
+        "$iata": "LXR",
+        "$usaf": "624050",
+        "$mosmix": "62405"
     },
     "location": {
         "latitude": 25.6667,

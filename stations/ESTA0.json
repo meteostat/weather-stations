@@ -6,9 +6,8 @@
     "country": "SE",
     "region": "SN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ESTA"
+        "$icao": "ESTA",
+        "$iata": "AGH"
     },
     "location": {
         "latitude": 56.3,

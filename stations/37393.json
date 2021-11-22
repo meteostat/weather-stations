@@ -6,9 +6,8 @@
     "country": "GE",
     "region": "IM",
     "identifiers": {
-        "national": null,
-        "wmo": "37393",
-        "icao": null
+        "$wmo": "37393",
+        "$ghcn": "GG000037393"
     },
     "location": {
         "latitude": 42.3333,

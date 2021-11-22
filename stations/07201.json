@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "E",
     "identifiers": {
-        "national": null,
-        "wmo": "07201",
-        "icao": "LFRQ"
+        "$wmo": "07201",
+        "$icao": "LFRQ",
+        "$iata": "UIP",
+        "$usaf": "072010",
+        "$mosmix": "07201"
     },
     "location": {
         "latitude": 47.9667,

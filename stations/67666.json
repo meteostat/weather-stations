@@ -6,9 +6,9 @@
     "country": "ZM",
     "region": "CB",
     "identifiers": {
-        "national": null,
-        "wmo": "67666",
-        "icao": "FLLC"
+        "$wmo": "67666",
+        "$icao": "FLLC",
+        "$usaf": "676660"
     },
     "location": {
         "latitude": -14.45,

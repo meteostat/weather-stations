@@ -6,9 +6,11 @@
     "country": "CO",
     "region": "NAR",
     "identifiers": {
-        "national": null,
-        "wmo": "80342",
-        "icao": "SKPS"
+        "$wmo": "80342",
+        "$icao": "SKPS",
+        "$iata": "PSO",
+        "$ghcn": "CO000080342",
+        "$usaf": "803420"
     },
     "location": {
         "latitude": 1.4167,

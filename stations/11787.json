@@ -6,9 +6,9 @@
     "country": "CZ",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": "11787",
-        "icao": null
+        "$wmo": "11787",
+        "$ghcn": "EZM00011787",
+        "$mosmix": "11787"
     },
     "location": {
         "latitude": 49.55,

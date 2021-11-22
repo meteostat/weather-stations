@@ -6,9 +6,8 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMYJ"
+        "$icao": "KMYJ",
+        "$usaf": "720484"
     },
     "location": {
         "latitude": 39.1575,

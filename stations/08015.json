@@ -6,9 +6,10 @@
     "country": "ES",
     "region": "O",
     "identifiers": {
-        "national": null,
-        "wmo": "08015",
-        "icao": null
+        "$wmo": "08015",
+        "$iata": "OVD",
+        "$ghcn": "SPE00119828",
+        "$mosmix": "08015"
     },
     "location": {
         "latitude": 43.35,

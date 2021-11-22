@@ -6,9 +6,8 @@
     "country": "IR",
     "region": "LRS",
     "identifiers": {
-        "national": null,
-        "wmo": "40783",
-        "icao": null
+        "$wmo": "40783",
+        "$usaf": "407830"
     },
     "location": {
         "latitude": 32.4,

@@ -6,9 +6,8 @@
     "country": "FJ",
     "region": "W",
     "identifiers": {
-        "national": null,
-        "wmo": "91682",
-        "icao": null
+        "$wmo": "91682",
+        "$usaf": "916820"
     },
     "location": {
         "latitude": -18.15,

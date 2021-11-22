@@ -6,9 +6,9 @@
     "country": "CU",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "78332",
-        "icao": "MUCO"
+        "$wmo": "78332",
+        "$icao": "MUCO",
+        "$iata": "QCO"
     },
     "location": {
         "latitude": 22.6833,

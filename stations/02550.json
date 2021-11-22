@@ -2,15 +2,18 @@
     "id": "02550",
     "name": {
         "de": "Jonkoping Flughafen",
-        "en": "Jonkoping Airport",
-        "sv": "Jonkoping Flygplats"
+        "sv": "Jonkoping Flygplats",
+        "en": "Jonkoping Airport"
     },
     "country": "SE",
     "region": "F",
     "identifiers": {
-        "national": null,
-        "wmo": "02550",
-        "icao": "ESGJ"
+        "$wmo": "02550",
+        "$icao": "ESGJ",
+        "$iata": "JKG",
+        "$ghcn": "SW000002550",
+        "$usaf": "025500",
+        "$mosmix": "02550"
     },
     "location": {
         "latitude": 57.7667,

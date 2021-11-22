@@ -6,9 +6,13 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": "50822",
-        "wmo": "71827",
-        "icao": "CYGL"
+        "$national": "50822",
+        "$wmo": "71827",
+        "$icao": "CYGL",
+        "$iata": "YGL",
+        "$ghcn": "CA007093715",
+        "$usaf": "718270",
+        "$mosmix": "71827"
     },
     "location": {
         "latitude": 53.63,

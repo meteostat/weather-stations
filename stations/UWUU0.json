@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UWUU"
+        "$icao": "UWUU",
+        "$iata": "UFA",
+        "$usaf": "287220"
     },
     "location": {
         "latitude": 54.55,

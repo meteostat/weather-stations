@@ -6,9 +6,10 @@
     "country": "TG",
     "region": "PL",
     "identifiers": {
-        "national": null,
-        "wmo": "65376",
-        "icao": "DXAK"
+        "$wmo": "65376",
+        "$icao": "DXAK",
+        "$ghcn": "TO000005376",
+        "$usaf": "653760"
     },
     "location": {
         "latitude": 7.5833,

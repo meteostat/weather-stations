@@ -6,9 +6,10 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMSL"
+        "$icao": "KMSL",
+        "$iata": "MSL",
+        "$wban": "13896",
+        "$usaf": "723235"
     },
     "location": {
         "latitude": 34.7453,

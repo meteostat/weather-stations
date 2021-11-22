@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "KAS",
     "identifiers": {
-        "national": null,
-        "wmo": "17024",
-        "icao": null
+        "$wmo": "17024",
+        "$mosmix": "17024"
     },
     "location": {
         "latitude": 41.9833,

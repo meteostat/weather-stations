@@ -6,9 +6,12 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": "72525",
-        "icao": "KYNG"
+        "$wmo": "72525",
+        "$icao": "KYNG",
+        "$iata": "YNG",
+        "$ghcn": "USW00014852",
+        "$wban": "14852",
+        "$usaf": "725250"
     },
     "location": {
         "latitude": 41.25,

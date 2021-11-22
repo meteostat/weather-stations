@@ -6,9 +6,12 @@
     "country": "CI",
     "region": "BDK",
     "identifiers": {
-        "national": null,
-        "wmo": "65545",
-        "icao": "DIBU"
+        "$wmo": "65545",
+        "$icao": "DIBU",
+        "$iata": "BDK",
+        "$ghcn": "IVM00065545",
+        "$usaf": "655450",
+        "$mosmix": "65545"
     },
     "location": {
         "latitude": 8.05,

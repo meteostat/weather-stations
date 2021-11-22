@@ -6,9 +6,12 @@
     "country": "DE",
     "region": "MV",
     "identifiers": {
-        "national": "05109",
-        "wmo": "10281",
-        "icao": "ETNU"
+        "$national": "05109",
+        "$wmo": "10281",
+        "$icao": "ETNU",
+        "$ghcn": "GMM00010281",
+        "$usaf": "102810",
+        "$mosmix": "10281"
     },
     "location": {
         "latitude": 53.6,

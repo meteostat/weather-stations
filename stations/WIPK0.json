@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "SS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "WIPK"
+        "$icao": "WIPK",
+        "$iata": "PGK",
+        "$usaf": "962215"
     },
     "location": {
         "latitude": -2.1622,

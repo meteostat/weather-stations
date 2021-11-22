@@ -6,9 +6,11 @@
     "country": "ML",
     "region": "SG",
     "identifiers": {
-        "national": null,
-        "wmo": "61272",
-        "icao": "GASG"
+        "$wmo": "61272",
+        "$icao": "GASG",
+        "$iata": "SZU",
+        "$ghcn": "MLM00061272",
+        "$usaf": "612720"
     },
     "location": {
         "latitude": 13.4,

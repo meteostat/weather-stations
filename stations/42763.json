@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "MP",
     "identifiers": {
-        "national": null,
-        "wmo": "42763",
-        "icao": null
+        "$wmo": "42763",
+        "$ghcn": "IN011160300",
+        "$usaf": "427630"
     },
     "location": {
         "latitude": 22.7667,

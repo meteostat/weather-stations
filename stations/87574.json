@@ -6,9 +6,8 @@
     "country": "AR",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": "87574",
-        "icao": "SADM"
+        "$wmo": "87574",
+        "$icao": "SADM"
     },
     "location": {
         "latitude": -34.6833,

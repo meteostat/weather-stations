@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "JK",
     "identifiers": {
-        "national": null,
-        "wmo": "42045",
-        "icao": "VIBH"
+        "$wmo": "42045",
+        "$icao": "VIBH",
+        "$usaf": "420450"
     },
     "location": {
         "latitude": 33.5,

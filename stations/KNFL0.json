@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KNFL"
+        "$icao": "KNFL",
+        "$iata": "NFL",
+        "$wban": "93102",
+        "$usaf": "724885"
     },
     "location": {
         "latitude": 39.4178,

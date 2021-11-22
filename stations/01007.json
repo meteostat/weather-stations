@@ -1,15 +1,14 @@
 {
     "id": "01007",
     "name": {
-        "en": "New Alesund",
-        "no": "Ny-Ålesund"
+        "no": "Ny-Ålesund",
+        "en": "New Alesund"
     },
     "country": "NO",
     "region": "SJ",
     "identifiers": {
-        "national": null,
-        "wmo": "01007",
-        "icao": null
+        "$wmo": "01007",
+        "$ghcn": "NOE00134778"
     },
     "location": {
         "latitude": 78.9167,

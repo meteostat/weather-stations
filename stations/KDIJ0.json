@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KDIJ"
+        "$icao": "KDIJ",
+        "$wban": "04135",
+        "$usaf": "720369"
     },
     "location": {
         "latitude": 43.7424,

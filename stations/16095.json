@@ -6,9 +6,10 @@
     "country": "IT",
     "region": "VN",
     "identifiers": {
-        "national": null,
-        "wmo": "16095",
-        "icao": "LIPU"
+        "$wmo": "16095",
+        "$icao": "LIPU",
+        "$iata": "QPA",
+        "$usaf": "160950"
     },
     "location": {
         "latitude": 45.4,

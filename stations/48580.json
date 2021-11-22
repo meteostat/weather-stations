@@ -6,9 +6,10 @@
     "country": "TH",
     "region": "PI",
     "identifiers": {
-        "national": null,
-        "wmo": "48580",
-        "icao": "VTSK"
+        "$wmo": "48580",
+        "$icao": "VTSK",
+        "$iata": "PAN",
+        "$usaf": "485800"
     },
     "location": {
         "latitude": 6.7833,

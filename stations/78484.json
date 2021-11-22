@@ -6,9 +6,9 @@
     "country": "DO",
     "region": "DN",
     "identifiers": {
-        "national": null,
-        "wmo": "78484",
-        "icao": "MDHE"
+        "$wmo": "78484",
+        "$icao": "MDHE",
+        "$usaf": "784840"
     },
     "location": {
         "latitude": 18.4667,

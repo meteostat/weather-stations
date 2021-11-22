@@ -6,9 +6,9 @@
     "country": "PT",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": "08548",
-        "icao": null
+        "$wmo": "08548",
+        "$ghcn": "POM00008548",
+        "$mosmix": "08548"
     },
     "location": {
         "latitude": 40.15,

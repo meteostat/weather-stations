@@ -6,9 +6,8 @@
     "country": "IT",
     "region": "VN",
     "identifiers": {
-        "national": null,
-        "wmo": "16107",
-        "icao": null
+        "$wmo": "16107",
+        "$usaf": "161070"
     },
     "location": {
         "latitude": 45.7611,

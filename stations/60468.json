@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "BAT",
     "identifiers": {
-        "national": null,
-        "wmo": "60468",
-        "icao": "DABT"
+        "$wmo": "60468",
+        "$icao": "DABT",
+        "$iata": "BLJ",
+        "$ghcn": "AGM00060468",
+        "$usaf": "604680"
     },
     "location": {
         "latitude": 35.55,

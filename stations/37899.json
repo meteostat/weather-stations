@@ -6,9 +6,8 @@
     "country": "AZ",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "37899",
-        "icao": null
+        "$wmo": "37899",
+        "$ghcn": "AJ000037899"
     },
     "location": {
         "latitude": 39.7667,

@@ -6,9 +6,8 @@
     "country": "AF",
     "region": "KNR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQVE"
+        "$icao": "KQVE",
+        "$usaf": "697094"
     },
     "location": {
         "latitude": 35.2,

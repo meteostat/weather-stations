@@ -6,9 +6,8 @@
     "country": "EE",
     "region": "VR",
     "identifiers": {
-        "national": null,
-        "wmo": "26249",
-        "icao": null
+        "$wmo": "26249",
+        "$ghcn": "EN000026249"
     },
     "location": {
         "latitude": 57.85,

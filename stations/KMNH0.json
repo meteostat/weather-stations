@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMNH"
+        "$icao": "KMNH",
+        "$wban": "03040",
+        "$usaf": "722155"
     },
     "location": {
         "latitude": 39.2167,

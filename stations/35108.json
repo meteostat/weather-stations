@@ -6,9 +6,11 @@
     "country": "KZ",
     "region": "ZAP",
     "identifiers": {
-        "national": null,
-        "wmo": "35108",
-        "icao": "UARR"
+        "$wmo": "35108",
+        "$icao": "UARR",
+        "$ghcn": "KZ000035108",
+        "$usaf": "351080",
+        "$mosmix": "35108"
     },
     "location": {
         "latitude": 51.25,

@@ -6,9 +6,10 @@
     "country": "PG",
     "region": "WB",
     "identifiers": {
-        "national": null,
-        "wmo": "92072",
-        "icao": "AYHK"
+        "$wmo": "92072",
+        "$icao": "AYHK",
+        "$iata": "HKN",
+        "$ghcn": "PPM00092072"
     },
     "location": {
         "latitude": -5.4667,

@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "PI",
     "identifiers": {
-        "national": null,
-        "wmo": "84390",
-        "icao": "SPYL"
+        "$wmo": "84390",
+        "$icao": "SPYL",
+        "$iata": "TYL",
+        "$ghcn": "PEM00084390",
+        "$usaf": "843900"
     },
     "location": {
         "latitude": -4.5667,

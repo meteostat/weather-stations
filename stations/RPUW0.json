@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "MAD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPUW"
+        "$icao": "RPUW",
+        "$iata": "MRQ",
+        "$usaf": "984375"
     },
     "location": {
         "latitude": 13.3667,

@@ -6,9 +6,9 @@
     "country": "CU",
     "region": "IJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MUCL"
+        "$icao": "MUCL",
+        "$iata": "CYO",
+        "$usaf": "783334"
     },
     "location": {
         "latitude": 21.6167,

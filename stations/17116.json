@@ -6,9 +6,12 @@
     "country": "TR",
     "region": "BRS",
     "identifiers": {
-        "national": null,
-        "wmo": "17116",
-        "icao": "LTBE"
+        "$wmo": "17116",
+        "$icao": "LTBE",
+        "$iata": "BTZ",
+        "$ghcn": "TUM00017116",
+        "$usaf": "171160",
+        "$mosmix": "17116"
     },
     "location": {
         "latitude": 40.1833,

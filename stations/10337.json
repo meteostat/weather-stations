@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "national": "13776",
-        "wmo": "10337",
-        "icao": "EDVM"
+        "$national": "13776",
+        "$wmo": "10337",
+        "$icao": "EDVM",
+        "$iata": "ZNO"
     },
     "location": {
         "latitude": 52.1833,

@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWNT"
+        "$icao": "CWNT"
     },
     "location": {
         "latitude": 49.5833,

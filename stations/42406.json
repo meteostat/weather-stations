@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "AS",
     "identifiers": {
-        "national": null,
-        "wmo": "42406",
-        "icao": "VERU"
+        "$wmo": "42406",
+        "$icao": "VERU",
+        "$iata": "RUP",
+        "$ghcn": "IN003031200"
     },
     "location": {
         "latitude": 26.15,

@@ -6,9 +6,10 @@
     "country": "SN",
     "region": "DI",
     "identifiers": {
-        "national": null,
-        "wmo": "61666",
-        "icao": "GOOD"
+        "$wmo": "61666",
+        "$icao": "GOOD",
+        "$ghcn": "SGM00061666",
+        "$usaf": "616660"
     },
     "location": {
         "latitude": 14.65,

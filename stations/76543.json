@@ -6,9 +6,10 @@
     "country": "MX",
     "region": "SLP",
     "identifiers": {
-        "national": null,
-        "wmo": "76543",
-        "icao": "MMTN"
+        "$wmo": "76543",
+        "$icao": "MMTN",
+        "$iata": "TSL",
+        "$ghcn": "MXM00076543"
     },
     "location": {
         "latitude": 22,

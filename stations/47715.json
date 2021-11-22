@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "IB",
     "identifiers": {
-        "national": null,
-        "wmo": "47715",
-        "icao": "RJAH"
+        "$wmo": "47715",
+        "$icao": "RJAH",
+        "$usaf": "477150"
     },
     "location": {
         "latitude": 36.1833,

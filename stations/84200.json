@@ -6,9 +6,10 @@
     "country": "EC",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": "84200",
-        "icao": "SESA"
+        "$wmo": "84200",
+        "$icao": "SESA",
+        "$iata": "SNC",
+        "$usaf": "842000"
     },
     "location": {
         "latitude": -2.2,

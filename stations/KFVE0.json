@@ -6,9 +6,10 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFVE"
+        "$icao": "KFVE",
+        "$iata": "WFK",
+        "$wban": "04836",
+        "$usaf": "726083"
     },
     "location": {
         "latitude": 47.2855,

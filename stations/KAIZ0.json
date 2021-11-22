@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KAIZ"
+        "$icao": "KAIZ",
+        "$wban": "53931",
+        "$usaf": "724459"
     },
     "location": {
         "latitude": 38.096,

@@ -6,9 +6,9 @@
     "country": "PE",
     "region": "LOR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SPAS"
+        "$icao": "SPAS",
+        "$iata": "AOP",
+        "$usaf": "843310"
     },
     "location": {
         "latitude": -2.7961,

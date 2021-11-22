@@ -6,9 +6,8 @@
     "country": "CU",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MUSA"
+        "$icao": "MUSA",
+        "$usaf": "783280"
     },
     "location": {
         "latitude": 22.8667,

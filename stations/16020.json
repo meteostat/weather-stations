@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "TT",
     "identifiers": {
-        "national": null,
-        "wmo": "16020",
-        "icao": "LIPB"
+        "$wmo": "16020",
+        "$icao": "LIPB",
+        "$iata": "BZO",
+        "$usaf": "160200",
+        "$mosmix": "16020"
     },
     "location": {
         "latitude": 46.4667,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMMU"
+        "$icao": "KMMU",
+        "$iata": "MMU",
+        "$wban": "54738",
+        "$usaf": "724097"
     },
     "location": {
         "latitude": 40.7993,

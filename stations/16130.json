@@ -6,9 +6,8 @@
     "country": "IT",
     "region": "ER",
     "identifiers": {
-        "national": null,
-        "wmo": "16130",
-        "icao": null
+        "$wmo": "16130",
+        "$mosmix": "16130"
     },
     "location": {
         "latitude": 44.8172,

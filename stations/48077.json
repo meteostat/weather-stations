@@ -6,9 +6,9 @@
     "country": "MM",
     "region": "BG",
     "identifiers": {
-        "national": null,
-        "wmo": "48077",
-        "icao": "VBPR"
+        "$wmo": "48077",
+        "$icao": "VBPR",
+        "$usaf": "480770"
     },
     "location": {
         "latitude": 18.8,

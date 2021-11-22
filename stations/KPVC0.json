@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPVC"
+        "$icao": "KPVC",
+        "$iata": "PVC",
+        "$wban": "64708",
+        "$usaf": "725073"
     },
     "location": {
         "latitude": 42.0723,

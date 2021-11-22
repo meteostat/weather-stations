@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "IVA",
     "identifiers": {
-        "national": null,
-        "wmo": "27441",
-        "icao": null
+        "$wmo": "27441",
+        "$ghcn": "RSM00027441"
     },
     "location": {
         "latitude": 56.85,

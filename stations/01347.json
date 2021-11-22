@@ -2,15 +2,17 @@
     "id": "01347",
     "name": {
         "de": "Sogndal Flughafen",
-        "en": "Sogndal Airport",
-        "no": "Sogndal Flughavn"
+        "no": "Sogndal Flughavn",
+        "en": "Sogndal Airport"
     },
     "country": "NO",
     "region": "46",
     "identifiers": {
-        "national": null,
-        "wmo": "01347",
-        "icao": "ENSG"
+        "$wmo": "01347",
+        "$icao": "ENSG",
+        "$iata": "SOG",
+        "$usaf": "013470",
+        "$mosmix": "01347"
     },
     "location": {
         "latitude": 61.15,

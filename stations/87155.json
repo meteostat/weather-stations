@@ -6,9 +6,11 @@
     "country": "AR",
     "region": "H",
     "identifiers": {
-        "national": null,
-        "wmo": "87155",
-        "icao": "SARE"
+        "$wmo": "87155",
+        "$icao": "SARE",
+        "$iata": "RES",
+        "$ghcn": "AR000087155",
+        "$usaf": "871550"
     },
     "location": {
         "latitude": -27.45,

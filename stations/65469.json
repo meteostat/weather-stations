@@ -6,9 +6,9 @@
     "country": "GH",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "65469",
-        "icao": "DGAS"
+        "$wmo": "65469",
+        "$icao": "DGAS",
+        "$usaf": "654690"
     },
     "location": {
         "latitude": 5.2,

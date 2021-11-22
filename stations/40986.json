@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "NIM",
     "identifiers": {
-        "national": null,
-        "wmo": "40986",
-        "icao": "OAZG"
+        "$wmo": "40986",
+        "$icao": "OAZG",
+        "$usaf": "409860"
     },
     "location": {
         "latitude": 31,

@@ -6,9 +6,11 @@
     "country": "CI",
     "region": "YAM",
     "identifiers": {
-        "national": null,
-        "wmo": "65563",
-        "icao": "DIYO"
+        "$wmo": "65563",
+        "$icao": "DIYO",
+        "$iata": "ASK",
+        "$ghcn": "IVM00065563",
+        "$usaf": "655630"
     },
     "location": {
         "latitude": 6.9,

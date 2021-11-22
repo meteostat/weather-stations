@@ -6,9 +6,10 @@
     "country": "NZ",
     "region": "TKI",
     "identifiers": {
-        "national": null,
-        "wmo": "93308",
-        "icao": "NZNP"
+        "$wmo": "93308",
+        "$icao": "NZNP",
+        "$iata": "NPL",
+        "$mosmix": "93308"
     },
     "location": {
         "latitude": -39.0167,

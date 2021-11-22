@@ -6,9 +6,11 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPHF"
+        "$icao": "KPHF",
+        "$iata": "PHF",
+        "$ghcn": "USW00093741",
+        "$wban": "93741",
+        "$usaf": "723086"
     },
     "location": {
         "latitude": 37.1319,

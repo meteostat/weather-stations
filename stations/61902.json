@@ -6,9 +6,12 @@
     "country": "SH",
     "region": "T",
     "identifiers": {
-        "national": null,
-        "wmo": "61902",
-        "icao": "FHAW"
+        "$wmo": "61902",
+        "$icao": "FHAW",
+        "$iata": "ASI",
+        "$ghcn": "SHM00061902",
+        "$usaf": "619020",
+        "$mosmix": "61902"
     },
     "location": {
         "latitude": -7.9667,

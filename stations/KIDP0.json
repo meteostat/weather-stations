@@ -6,9 +6,9 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIDP"
+        "$icao": "KIDP",
+        "$wban": "00141",
+        "$usaf": "720426"
     },
     "location": {
         "latitude": 37.1584,

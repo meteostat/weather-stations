@@ -6,9 +6,12 @@
     "country": "CN",
     "region": "CQ",
     "identifiers": {
-        "national": null,
-        "wmo": "57516",
-        "icao": "ZUCK"
+        "$wmo": "57516",
+        "$icao": "ZUCK",
+        "$iata": "CKG",
+        "$ghcn": "CHM00057516",
+        "$usaf": "575160",
+        "$mosmix": "57516"
     },
     "location": {
         "latitude": 29.5167,

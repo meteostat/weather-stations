@@ -6,9 +6,11 @@
     "country": "PT",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": "08505",
-        "icao": "LPHR"
+        "$wmo": "08505",
+        "$icao": "LPHR",
+        "$iata": "HOR",
+        "$usaf": "085050",
+        "$mosmix": "08505"
     },
     "location": {
         "latitude": 38.5167,

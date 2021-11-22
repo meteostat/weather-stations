@@ -6,9 +6,11 @@
     "country": "KR",
     "region": "SO",
     "identifiers": {
-        "national": null,
-        "wmo": "47108",
-        "icao": "RKSL"
+        "$wmo": "47108",
+        "$icao": "RKSL",
+        "$ghcn": "KSM00047108",
+        "$usaf": "471080",
+        "$mosmix": "47108"
     },
     "location": {
         "latitude": 37.5667,

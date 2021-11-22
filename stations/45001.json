@@ -6,9 +6,9 @@
     "country": "HK",
     "region": "BL",
     "identifiers": {
-        "national": null,
-        "wmo": "45001",
-        "icao": "VHCH"
+        "$wmo": "45001",
+        "$icao": "VHCH",
+        "$usaf": "450010"
     },
     "location": {
         "latitude": 22.2,

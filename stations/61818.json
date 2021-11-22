@@ -6,9 +6,10 @@
     "country": "GN",
     "region": "KND",
     "identifiers": {
-        "national": null,
-        "wmo": "61818",
-        "icao": "GUID"
+        "$wmo": "61818",
+        "$icao": "GUID",
+        "$ghcn": "GV000001818",
+        "$usaf": "618180"
     },
     "location": {
         "latitude": 10.05,

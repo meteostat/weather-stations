@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "HB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EDWD"
+        "$icao": "EDWD",
+        "$iata": "XLW",
+        "$usaf": "102244"
     },
     "location": {
         "latitude": 53.1447,

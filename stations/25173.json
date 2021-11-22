@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "CHU",
     "identifiers": {
-        "national": null,
-        "wmo": "25173",
-        "icao": "UHMI"
+        "$wmo": "25173",
+        "$icao": "UHMI",
+        "$ghcn": "RSM00025173"
     },
     "location": {
         "latitude": 68.9,

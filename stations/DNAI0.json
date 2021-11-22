@@ -6,9 +6,9 @@
     "country": "NG",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DNAI"
+        "$icao": "DNAI",
+        "$iata": "QUO",
+        "$usaf": "652600"
     },
     "location": {
         "latitude": 4.8742,

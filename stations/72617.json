@@ -6,9 +6,13 @@
     "country": "US",
     "region": "VT",
     "identifiers": {
-        "national": null,
-        "wmo": "72617",
-        "icao": "KBTV"
+        "$wmo": "72617",
+        "$icao": "KBTV",
+        "$iata": "BTV",
+        "$ghcn": "USW00014742",
+        "$wban": "14742",
+        "$usaf": "726170",
+        "$mosmix": "72617"
     },
     "location": {
         "latitude": 44.4667,

@@ -6,9 +6,8 @@
     "country": "HU",
     "region": "VE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LHSA"
+        "$icao": "LHSA",
+        "$usaf": "128603"
     },
     "location": {
         "latitude": 47.0667,

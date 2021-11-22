@@ -6,9 +6,11 @@
     "country": "MR",
     "region": "GO",
     "identifiers": {
-        "national": null,
-        "wmo": "61492",
-        "icao": "GQNK"
+        "$wmo": "61492",
+        "$icao": "GQNK",
+        "$iata": "KED",
+        "$ghcn": "MRM00061492",
+        "$usaf": "614920"
     },
     "location": {
         "latitude": 16.15,

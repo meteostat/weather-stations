@@ -6,9 +6,11 @@
     "country": "CN",
     "region": "AH",
     "identifiers": {
-        "national": null,
-        "wmo": "58321",
-        "icao": "ZSOF"
+        "$wmo": "58321",
+        "$icao": "ZSOF",
+        "$iata": "HFE",
+        "$ghcn": "CHM00058321",
+        "$usaf": "583210"
     },
     "location": {
         "latitude": 31.8667,

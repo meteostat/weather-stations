@@ -6,12 +6,12 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": "48373",
-        "wmo": "71704",
-        "icao": null
+        "$national": "48373",
+        "$wmo": "71704",
+        "$ghcn": "CA006127510"
     },
     "location": {
-        "latitude": 43.0,
+        "latitude": 43,
         "longitude": -82.31,
         "elevation": 181
     },

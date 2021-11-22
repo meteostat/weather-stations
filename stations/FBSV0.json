@@ -6,9 +6,9 @@
     "country": "BW",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FBSV"
+        "$icao": "FBSV",
+        "$iata": "SVT",
+        "$usaf": "680281"
     },
     "location": {
         "latitude": -18.5206,

@@ -6,9 +6,10 @@
     "country": "NZ",
     "region": "CI",
     "identifiers": {
-        "national": null,
-        "wmo": "93986",
-        "icao": "NZCI"
+        "$wmo": "93986",
+        "$icao": "NZCI",
+        "$iata": "CHT",
+        "$usaf": "939860"
     },
     "location": {
         "latitude": -43.95,

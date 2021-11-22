@@ -1,15 +1,13 @@
 {
     "id": "02233",
     "name": {
-        "en": "Saxnaes",
-        "sv": "Saxnäs"
+        "sv": "Saxnäs",
+        "en": "Saxnaes"
     },
     "country": "SE",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "02233",
-        "icao": null
+        "$wmo": "02233"
     },
     "location": {
         "latitude": 64.9678,

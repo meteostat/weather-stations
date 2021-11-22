@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "SH",
     "identifiers": {
-        "national": "03032",
-        "wmo": "10020",
-        "icao": null
+        "$national": "03032",
+        "$wmo": "10020",
+        "$ghcn": "GME00102185",
+        "$mosmix": "10020"
     },
     "location": {
         "latitude": 55.0167,

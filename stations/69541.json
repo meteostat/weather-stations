@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": "69541",
-        "icao": "KQNL"
+        "$wmo": "69541",
+        "$icao": "KQNL"
     },
     "location": {
         "latitude": 36.24,

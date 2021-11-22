@@ -6,9 +6,10 @@
     "country": "GN",
     "region": "KSD",
     "identifiers": {
-        "national": null,
-        "wmo": "61834",
-        "icao": "GUKU"
+        "$wmo": "61834",
+        "$icao": "GUKU",
+        "$iata": "KSI",
+        "$ghcn": "GVM00061834"
     },
     "location": {
         "latitude": 9.1833,

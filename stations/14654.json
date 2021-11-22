@@ -6,9 +6,9 @@
     "country": "BA",
     "region": "BF",
     "identifiers": {
-        "national": null,
-        "wmo": "14654",
-        "icao": null
+        "$wmo": "14654",
+        "$ghcn": "BKM00014654",
+        "$mosmix": "14654"
     },
     "location": {
         "latitude": 43.8667,

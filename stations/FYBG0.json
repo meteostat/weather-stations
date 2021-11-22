@@ -6,9 +6,9 @@
     "country": "NA",
     "region": "KE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FYBG"
+        "$icao": "FYBG",
+        "$iata": "BQI",
+        "$usaf": "680069"
     },
     "location": {
         "latitude": -18.1183,

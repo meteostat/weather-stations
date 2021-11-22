@@ -6,9 +6,12 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "72790",
-        "icao": "KEPH"
+        "$wmo": "72790",
+        "$icao": "KEPH",
+        "$iata": "EPH",
+        "$ghcn": "USW00024141",
+        "$wban": "24141",
+        "$usaf": "727826"
     },
     "location": {
         "latitude": 47.3081,

@@ -6,9 +6,12 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "72651",
-        "icao": "KFSD"
+        "$wmo": "72651",
+        "$icao": "KFSD",
+        "$iata": "FSD",
+        "$ghcn": "USW00014944",
+        "$wban": "14944",
+        "$usaf": "726510"
     },
     "location": {
         "latitude": 43.5833,

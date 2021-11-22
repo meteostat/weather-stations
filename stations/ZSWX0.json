@@ -6,9 +6,8 @@
     "country": "CN",
     "region": "JS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZSWX"
+        "$icao": "ZSWX",
+        "$iata": "WUX"
     },
     "location": {
         "latitude": 31.4944,

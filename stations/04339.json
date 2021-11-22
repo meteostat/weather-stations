@@ -6,9 +6,11 @@
     "country": "GL",
     "region": "SE",
     "identifiers": {
-        "national": null,
-        "wmo": "04339",
-        "icao": "BGSC"
+        "$wmo": "04339",
+        "$icao": "BGSC",
+        "$ghcn": "GLE00147481",
+        "$usaf": "043390",
+        "$mosmix": "04339"
     },
     "location": {
         "latitude": 70.4833,

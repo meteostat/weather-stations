@@ -6,9 +6,8 @@
     "country": "HU",
     "region": "ZA",
     "identifiers": {
-        "national": null,
-        "wmo": "12915",
-        "icao": null
+        "$wmo": "12915",
+        "$usaf": "129150"
     },
     "location": {
         "latitude": 46.8667,

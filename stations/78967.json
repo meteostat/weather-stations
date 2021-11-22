@@ -6,9 +6,8 @@
     "country": "TT",
     "region": "PS",
     "identifiers": {
-        "national": null,
-        "wmo": "78967",
-        "icao": "TTPS"
+        "$wmo": "78967",
+        "$icao": "TTPS"
     },
     "location": {
         "latitude": 10.65,

@@ -6,9 +6,9 @@
     "country": "VC",
     "region": "R",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "TVSM"
+        "$icao": "TVSM",
+        "$iata": "MQS",
+        "$usaf": "789505"
     },
     "location": {
         "latitude": 12.8879,

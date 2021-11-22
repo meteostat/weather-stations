@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHDE"
+        "$icao": "KHDE",
+        "$wban": "04935",
+        "$usaf": "725628"
     },
     "location": {
         "latitude": 40.4521,

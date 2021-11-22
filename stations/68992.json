@@ -6,9 +6,8 @@
     "country": "BV",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "68992",
-        "icao": null
+        "$wmo": "68992",
+        "$mosmix": "68992"
     },
     "location": {
         "latitude": -54.4333,

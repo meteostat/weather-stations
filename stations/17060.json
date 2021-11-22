@@ -6,9 +6,11 @@
     "country": "TR",
     "region": "IST",
     "identifiers": {
-        "national": null,
-        "wmo": "17060",
-        "icao": "LTBA"
+        "$wmo": "17060",
+        "$icao": "LTBA",
+        "$iata": "IST",
+        "$usaf": "170600",
+        "$mosmix": "17060"
     },
     "location": {
         "latitude": 40.9667,

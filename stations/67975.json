@@ -6,9 +6,12 @@
     "country": "ZW",
     "region": "MV",
     "identifiers": {
-        "national": null,
-        "wmo": "67975",
-        "icao": "FVMV"
+        "$wmo": "67975",
+        "$icao": "FVMV",
+        "$iata": "MVZ",
+        "$ghcn": "ZI000067975",
+        "$usaf": "679750",
+        "$mosmix": "67975"
     },
     "location": {
         "latitude": -20.0667,

@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYPX"
+        "$icao": "CYPX",
+        "$iata": "YPX",
+        "$usaf": "719077"
     },
     "location": {
         "latitude": 60.05,

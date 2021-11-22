@@ -6,9 +6,12 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": "74598",
-        "icao": "KLFI"
+        "$wmo": "74598",
+        "$icao": "KLFI",
+        "$iata": "LFI",
+        "$ghcn": "USW00013702",
+        "$wban": "13702",
+        "$usaf": "745980"
     },
     "location": {
         "latitude": 37.0833,

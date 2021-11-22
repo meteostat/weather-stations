@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": "20087",
-        "icao": null
+        "$wmo": "20087",
+        "$ghcn": "RSM00020087",
+        "$mosmix": "20087"
     },
     "location": {
         "latitude": 79.55,

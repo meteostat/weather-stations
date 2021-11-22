@@ -6,9 +6,9 @@
     "country": "LY",
     "region": "SW",
     "identifiers": {
-        "national": null,
-        "wmo": "62018",
-        "icao": null
+        "$wmo": "62018",
+        "$ghcn": "LYM00062018",
+        "$usaf": "620180"
     },
     "location": {
         "latitude": 30.5667,

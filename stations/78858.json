@@ -6,9 +6,10 @@
     "country": "KN",
     "region": "SPB",
     "identifiers": {
-        "national": null,
-        "wmo": "78858",
-        "icao": "TKPK"
+        "$wmo": "78858",
+        "$icao": "TKPK",
+        "$iata": "SKB",
+        "$usaf": "788580"
     },
     "location": {
         "latitude": 17.3,

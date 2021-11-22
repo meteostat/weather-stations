@@ -6,9 +6,10 @@
     "country": "NO",
     "region": "MR",
     "identifiers": {
-        "national": null,
-        "wmo": "01209",
-        "icao": "ENOV"
+        "$wmo": "01209",
+        "$icao": "ENOV",
+        "$iata": "HOV",
+        "$usaf": "012090"
     },
     "location": {
         "latitude": 62.1833,

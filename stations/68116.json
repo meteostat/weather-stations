@@ -6,9 +6,9 @@
     "country": "NA",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": "68116",
-        "icao": "FAGB"
+        "$wmo": "68116",
+        "$icao": "FAGB",
+        "$ghcn": "WA007878380"
     },
     "location": {
         "latitude": -22.4667,

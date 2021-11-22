@@ -6,9 +6,9 @@
     "country": "CG",
     "region": "BO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FCBY"
+        "$icao": "FCBY",
+        "$iata": "NKY",
+        "$usaf": "644007"
     },
     "location": {
         "latitude": -4.217,

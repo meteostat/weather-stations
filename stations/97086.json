@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "97086",
-        "icao": "WAMW"
+        "$wmo": "97086",
+        "$icao": "WAMW",
+        "$iata": "LUW",
+        "$ghcn": "IDM00097086",
+        "$usaf": "970860"
     },
     "location": {
         "latitude": -0.9,

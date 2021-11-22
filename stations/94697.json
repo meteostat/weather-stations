@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "national": null,
-        "wmo": "94697",
-        "icao": null
+        "$wmo": "94697",
+        "$iata": "IVH",
+        "$ghcn": "ASN00049019"
     },
     "location": {
         "latitude": -32.9,

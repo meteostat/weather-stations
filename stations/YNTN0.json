@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YNTN"
+        "$icao": "YNTN",
+        "$iata": "NTN"
     },
     "location": {
         "latitude": -17.6836,

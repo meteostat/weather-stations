@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": "96273",
-        "icao": "WIAG"
+        "$wmo": "96273",
+        "$icao": "WIAG",
+        "$usaf": "962730"
     },
     "location": {
         "latitude": -4.45,

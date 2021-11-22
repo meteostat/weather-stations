@@ -6,9 +6,10 @@
     "country": "ID",
     "region": "KB",
     "identifiers": {
-        "national": null,
-        "wmo": "96565",
-        "icao": "WIOP"
+        "$wmo": "96565",
+        "$icao": "WIOP",
+        "$iata": "PSU",
+        "$usaf": "965650"
     },
     "location": {
         "latitude": 0.8833,

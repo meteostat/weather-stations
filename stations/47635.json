@@ -6,9 +6,11 @@
     "country": "JP",
     "region": "AI",
     "identifiers": {
-        "national": null,
-        "wmo": "47635",
-        "icao": "RJNN"
+        "$wmo": "47635",
+        "$icao": "RJNN",
+        "$iata": "NGO",
+        "$wban": "43312",
+        "$mosmix": "47635"
     },
     "location": {
         "latitude": 35.25,

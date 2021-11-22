@@ -6,9 +6,12 @@
     "country": "CN",
     "region": "FJ",
     "identifiers": {
-        "national": null,
-        "wmo": "59134",
-        "icao": "ZSAM"
+        "$wmo": "59134",
+        "$icao": "ZSAM",
+        "$iata": "XMN",
+        "$ghcn": "CHM00059134",
+        "$usaf": "591340",
+        "$mosmix": "59134"
     },
     "location": {
         "latitude": 24.4833,

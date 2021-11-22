@@ -6,9 +6,8 @@
     "country": "TM",
     "region": "DA",
     "identifiers": {
-        "national": null,
-        "wmo": "38383",
-        "icao": null
+        "$wmo": "38383",
+        "$ghcn": "TX000038383"
     },
     "location": {
         "latitude": 41.5833,

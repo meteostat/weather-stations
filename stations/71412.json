@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "PE",
     "identifiers": {
-        "national": "7177",
-        "wmo": "71412",
-        "icao": "CWEP"
+        "$national": "7177",
+        "$wmo": "71412",
+        "$icao": "CWEP",
+        "$ghcn": "CA008300418",
+        "$usaf": "714120"
     },
     "location": {
         "latitude": 46.46,

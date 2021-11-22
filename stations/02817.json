@@ -6,9 +6,8 @@
     "country": "FI",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": "02817",
-        "icao": null
+        "$wmo": "02817",
+        "$usaf": "028170"
     },
     "location": {
         "latitude": 68.4333,

@@ -6,9 +6,8 @@
     "country": "TH",
     "region": "PH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VTPL"
+        "$icao": "VTPL",
+        "$usaf": "483795"
     },
     "location": {
         "latitude": 16.8167,

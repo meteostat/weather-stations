@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": "07173",
-        "icao": null
+        "$wmo": "07173",
+        "$iata": "EPL",
+        "$mosmix": "07173"
     },
     "location": {
         "latitude": 48.2,

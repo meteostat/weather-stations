@@ -6,9 +6,8 @@
     "country": "AF",
     "region": "NAN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQOW"
+        "$icao": "KQOW",
+        "$usaf": "696494"
     },
     "location": {
         "latitude": 34.13,

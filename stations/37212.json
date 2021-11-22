@@ -6,9 +6,11 @@
     "country": "RU",
     "region": "KB",
     "identifiers": {
-        "national": null,
-        "wmo": "37212",
-        "icao": "URMN"
+        "$wmo": "37212",
+        "$icao": "URMN",
+        "$iata": "NAL",
+        "$ghcn": "RSM00037212",
+        "$usaf": "372120"
     },
     "location": {
         "latitude": 43.5333,

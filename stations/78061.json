@@ -6,9 +6,10 @@
     "country": "BS",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "78061",
-        "icao": "MYGW"
+        "$wmo": "78061",
+        "$icao": "MYGW",
+        "$iata": "WTD",
+        "$usaf": "780610"
     },
     "location": {
         "latitude": 26.7,

@@ -6,9 +6,11 @@
     "country": "SA",
     "region": "QS",
     "identifiers": {
-        "national": null,
-        "wmo": "40405",
-        "icao": "OEGS"
+        "$wmo": "40405",
+        "$icao": "OEGS",
+        "$iata": "ELQ",
+        "$ghcn": "SAM00040405",
+        "$usaf": "404050"
     },
     "location": {
         "latitude": 26.3,

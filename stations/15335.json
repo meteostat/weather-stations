@@ -6,9 +6,10 @@
     "country": "RO",
     "region": "TU",
     "identifiers": {
-        "national": null,
-        "wmo": "15335",
-        "icao": "LRTC"
+        "$wmo": "15335",
+        "$icao": "LRTC",
+        "$iata": "TCE",
+        "$usaf": "153350"
     },
     "location": {
         "latitude": 45.1833,

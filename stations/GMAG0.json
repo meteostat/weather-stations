@@ -6,9 +6,9 @@
     "country": "MA",
     "region": "GE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "GMAG"
+        "$icao": "GMAG",
+        "$iata": "GLN",
+        "$usaf": "602800"
     },
     "location": {
         "latitude": 29.0264,

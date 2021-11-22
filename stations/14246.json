@@ -6,9 +6,9 @@
     "country": "HR",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": "14246",
-        "icao": "LDVA"
+        "$wmo": "14246",
+        "$icao": "LDVA",
+        "$usaf": "142460"
     },
     "location": {
         "latitude": 46.3,

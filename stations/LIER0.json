@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LIER"
+        "$icao": "LIER",
+        "$iata": "FNU",
+        "$usaf": "165020"
     },
     "location": {
         "latitude": 39.8964,

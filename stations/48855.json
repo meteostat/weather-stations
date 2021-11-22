@@ -6,9 +6,11 @@
     "country": "VN",
     "region": "DA",
     "identifiers": {
-        "national": null,
-        "wmo": "48855",
-        "icao": "VVDN"
+        "$wmo": "48855",
+        "$icao": "VVDN",
+        "$ghcn": "VMM00048855",
+        "$usaf": "488550",
+        "$mosmix": "48855"
     },
     "location": {
         "latitude": 16.0333,

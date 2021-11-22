@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "NIZ",
     "identifiers": {
-        "national": null,
-        "wmo": "27643",
-        "icao": null
+        "$wmo": "27643",
+        "$ghcn": "RSM00027643"
     },
     "location": {
         "latitude": 55.3333,

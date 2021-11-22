@@ -6,9 +6,9 @@
     "country": "CU",
     "region": "VC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MUSC"
+        "$icao": "MUSC",
+        "$iata": "SNU",
+        "$usaf": "783465"
     },
     "location": {
         "latitude": 22.5,

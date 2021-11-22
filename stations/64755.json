@@ -6,9 +6,8 @@
     "country": "TD",
     "region": "OU",
     "identifiers": {
-        "national": null,
-        "wmo": "64755",
-        "icao": "FTTG"
+        "$wmo": "64755",
+        "$icao": "FTTG"
     },
     "location": {
         "latitude": 12.2333,

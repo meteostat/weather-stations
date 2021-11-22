@@ -6,9 +6,12 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "national": "52758",
-        "wmo": "71912",
-        "icao": "CYGX"
+        "$national": "52758",
+        "$wmo": "71912",
+        "$icao": "CYGX",
+        "$iata": "YGX",
+        "$ghcn": "CA005061001",
+        "$usaf": "719120"
     },
     "location": {
         "latitude": 56.36,

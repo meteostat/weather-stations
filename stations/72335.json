@@ -6,9 +6,12 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": "72335",
-        "icao": "KTRI"
+        "$wmo": "72335",
+        "$icao": "KTRI",
+        "$iata": "TRI",
+        "$ghcn": "USW00013877",
+        "$wban": "13877",
+        "$usaf": "723183"
     },
     "location": {
         "latitude": 36.4752,

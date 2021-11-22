@@ -6,9 +6,11 @@
     "country": "CM",
     "region": "CEN",
     "identifiers": {
-        "national": null,
-        "wmo": "64950",
-        "icao": "FKYS"
+        "$wmo": "64950",
+        "$icao": "FKYS",
+        "$iata": "NSI",
+        "$usaf": "649500",
+        "$mosmix": "64950"
     },
     "location": {
         "latitude": 3.8333,

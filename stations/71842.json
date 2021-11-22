@@ -6,9 +6,12 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": "51138",
-        "wmo": "71842",
-        "icao": "CYXL"
+        "$national": "51138",
+        "$wmo": "71842",
+        "$icao": "CYXL",
+        "$iata": "YXL",
+        "$ghcn": "CA006037775",
+        "$usaf": "718420"
     },
     "location": {
         "latitude": 50.11,

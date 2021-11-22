@@ -6,9 +6,9 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KAFJ"
+        "$icao": "KAFJ",
+        "$wban": "04827",
+        "$usaf": "725117"
     },
     "location": {
         "latitude": 40.1365,

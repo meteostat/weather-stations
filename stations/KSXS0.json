@@ -6,9 +6,8 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSXS"
+        "$icao": "KSXS",
+        "$usaf": "722219"
     },
     "location": {
         "latitude": 31.3627,

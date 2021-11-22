@@ -6,9 +6,8 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ETCE"
+        "$icao": "ETCE",
+        "$usaf": "106334"
     },
     "location": {
         "latitude": 50.1167,

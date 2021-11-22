@@ -6,9 +6,8 @@
     "country": "TW",
     "region": "TY",
     "identifiers": {
-        "national": null,
-        "wmo": "46769",
-        "icao": "RCDI"
+        "$wmo": "46769",
+        "$icao": "RCDI"
     },
     "location": {
         "latitude": 24.8667,

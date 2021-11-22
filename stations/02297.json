@@ -1,15 +1,13 @@
 {
     "id": "02297",
     "name": {
-        "en": "Bjuroklubb",
-        "sv": "Bjuröklubb"
+        "sv": "Bjuröklubb",
+        "en": "Bjuroklubb"
     },
     "country": "SE",
     "region": "VB",
     "identifiers": {
-        "national": null,
-        "wmo": "02297",
-        "icao": null
+        "$wmo": "02297"
     },
     "location": {
         "latitude": 64.4814,

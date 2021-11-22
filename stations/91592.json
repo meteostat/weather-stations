@@ -6,9 +6,11 @@
     "country": "NC",
     "region": "SU",
     "identifiers": {
-        "national": null,
-        "wmo": "91592",
-        "icao": "NWWN"
+        "$wmo": "91592",
+        "$icao": "NWWN",
+        "$ghcn": "NC000915920",
+        "$usaf": "915920",
+        "$mosmix": "91592"
     },
     "location": {
         "latitude": -22.2667,

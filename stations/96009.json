@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "96009",
-        "icao": "WITM"
+        "$wmo": "96009",
+        "$icao": "WITM",
+        "$iata": "LSW",
+        "$ghcn": "IDM00096009",
+        "$usaf": "960090"
     },
     "location": {
         "latitude": 5.2333,

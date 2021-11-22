@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "GO",
     "identifiers": {
-        "national": null,
-        "wmo": "83424",
-        "icao": "SBGO"
+        "$wmo": "83424",
+        "$icao": "SBGO",
+        "$iata": "GYN",
+        "$usaf": "834240",
+        "$mosmix": "83424"
     },
     "location": {
         "latitude": -16.6333,

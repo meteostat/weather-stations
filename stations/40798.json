@@ -6,9 +6,11 @@
     "country": "IR",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": "40798",
-        "icao": "OIFS"
+        "$wmo": "40798",
+        "$icao": "OIFS",
+        "$iata": "CQD",
+        "$ghcn": "IRM00040798",
+        "$usaf": "407980"
     },
     "location": {
         "latitude": 32.3333,

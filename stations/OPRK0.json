@@ -6,9 +6,9 @@
     "country": "PK",
     "region": "PB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OPRK"
+        "$icao": "OPRK",
+        "$iata": "RYK",
+        "$usaf": "417160"
     },
     "location": {
         "latitude": 28.3839,

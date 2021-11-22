@@ -6,9 +6,11 @@
     "country": "TZ",
     "region": "TB",
     "identifiers": {
-        "national": null,
-        "wmo": "63832",
-        "icao": "HTTB"
+        "$wmo": "63832",
+        "$icao": "HTTB",
+        "$iata": "TBO",
+        "$ghcn": "TZ000063832",
+        "$usaf": "638320"
     },
     "location": {
         "latitude": -5.0833,

@@ -6,9 +6,11 @@
     "country": "BW",
     "region": "SO",
     "identifiers": {
-        "national": null,
-        "wmo": "68234",
-        "icao": "FBJW"
+        "$wmo": "68234",
+        "$icao": "FBJW",
+        "$iata": "JWA",
+        "$ghcn": "BC000068234",
+        "$usaf": "682340"
     },
     "location": {
         "latitude": -24.6,

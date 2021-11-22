@@ -6,9 +6,10 @@
     "country": "CD",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "64315",
-        "icao": "FZSA"
+        "$wmo": "64315",
+        "$icao": "FZSA",
+        "$iata": "KMN",
+        "$usaf": "643150"
     },
     "location": {
         "latitude": -8.6333,

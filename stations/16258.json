@@ -6,9 +6,10 @@
     "country": "IT",
     "region": "PU",
     "identifiers": {
-        "national": null,
-        "wmo": "16258",
-        "icao": "LIBE"
+        "$wmo": "16258",
+        "$icao": "LIBE",
+        "$ghcn": "IT000162580",
+        "$usaf": "162310"
     },
     "location": {
         "latitude": 41.7,

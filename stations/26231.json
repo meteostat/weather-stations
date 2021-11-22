@@ -6,9 +6,9 @@
     "country": "EE",
     "region": "PR",
     "identifiers": {
-        "national": null,
-        "wmo": "26231",
-        "icao": null
+        "$wmo": "26231",
+        "$ghcn": "EN000026231",
+        "$mosmix": "26231"
     },
     "location": {
         "latitude": 58.3833,

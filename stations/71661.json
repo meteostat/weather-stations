@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": null,
-        "wmo": "71661",
-        "icao": "CXAM"
+        "$wmo": "71661",
+        "$icao": "CXAM"
     },
     "location": {
         "latitude": 48.4803,

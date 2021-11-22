@@ -6,9 +6,10 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSFY"
+        "$icao": "KSFY",
+        "$iata": "SFY",
+        "$wban": "04996",
+        "$usaf": "722204"
     },
     "location": {
         "latitude": 42.0458,

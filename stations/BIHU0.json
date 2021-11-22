@@ -6,9 +6,8 @@
     "country": "IS",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "BIHU"
+        "$icao": "BIHU",
+        "$iata": "HZK"
     },
     "location": {
         "latitude": 65.9523,

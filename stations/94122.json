@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": "94122",
-        "icao": "YBTI"
+        "$wmo": "94122",
+        "$icao": "YBTI",
+        "$iata": "BRT"
     },
     "location": {
         "latitude": -11.7833,

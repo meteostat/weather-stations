@@ -6,9 +6,10 @@
     "country": "RU",
     "region": "NVS",
     "identifiers": {
-        "national": null,
-        "wmo": "29634",
-        "icao": "UNNN"
+        "$wmo": "29634",
+        "$icao": "UNNN",
+        "$ghcn": "RSM00029634",
+        "$mosmix": "29634"
     },
     "location": {
         "latitude": 55.0833,

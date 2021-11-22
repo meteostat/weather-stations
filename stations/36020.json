@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "ALT",
     "identifiers": {
-        "national": null,
-        "wmo": "36020",
-        "icao": null
+        "$wmo": "36020",
+        "$ghcn": "RSM00036020"
     },
     "location": {
         "latitude": 52.5,

@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "KUT",
     "identifiers": {
-        "national": null,
-        "wmo": "17155",
-        "icao": null
+        "$wmo": "17155",
+        "$ghcn": "TUM00017155"
     },
     "location": {
         "latitude": 39.4167,

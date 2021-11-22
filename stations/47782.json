@@ -6,9 +6,10 @@
     "country": "JP",
     "region": "WK",
     "identifiers": {
-        "national": null,
-        "wmo": "47782",
-        "icao": "RJBD"
+        "$wmo": "47782",
+        "$icao": "RJBD",
+        "$iata": "SHM",
+        "$usaf": "477820"
     },
     "location": {
         "latitude": 33.6667,

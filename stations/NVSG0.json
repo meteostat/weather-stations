@@ -6,9 +6,9 @@
     "country": "VU",
     "region": "PAM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "NVSG"
+        "$icao": "NVSG",
+        "$iata": "LOD",
+        "$usaf": "915515"
     },
     "location": {
         "latitude": -15.3067,

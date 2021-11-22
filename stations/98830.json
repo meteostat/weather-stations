@@ -6,9 +6,10 @@
     "country": "PH",
     "region": "SLU",
     "identifiers": {
-        "national": null,
-        "wmo": "98830",
-        "icao": "RPMJ"
+        "$wmo": "98830",
+        "$icao": "RPMJ",
+        "$iata": "JOL",
+        "$usaf": "988300"
     },
     "location": {
         "latitude": 6.05,

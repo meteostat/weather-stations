@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": "8712",
-        "wmo": "71928",
-        "icao": "CYRM"
+        "$national": "8712",
+        "$wmo": "71928",
+        "$icao": "CYRM",
+        "$ghcn": "CA003015523",
+        "$usaf": "719284"
     },
     "location": {
         "latitude": 52.42,

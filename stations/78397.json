@@ -6,9 +6,12 @@
     "country": "JM",
     "region": "KIN",
     "identifiers": {
-        "national": null,
-        "wmo": "78397",
-        "icao": "MKJP"
+        "$wmo": "78397",
+        "$icao": "MKJP",
+        "$iata": "KIN",
+        "$ghcn": "JMM00078397",
+        "$usaf": "783970",
+        "$mosmix": "78397"
     },
     "location": {
         "latitude": 17.9333,

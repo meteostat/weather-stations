@@ -6,9 +6,10 @@
     "country": "IS",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": "04072",
-        "icao": "BIFM"
+        "$wmo": "04072",
+        "$icao": "BIFM",
+        "$iata": "FAG",
+        "$mosmix": "04072"
     },
     "location": {
         "latitude": 63.8833,

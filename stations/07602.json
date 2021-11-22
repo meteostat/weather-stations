@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": "07602",
-        "icao": "LFBZ"
+        "$wmo": "07602",
+        "$icao": "LFBZ",
+        "$iata": "BIQ",
+        "$usaf": "076020",
+        "$mosmix": "07602"
     },
     "location": {
         "latitude": 43.4667,

@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": null,
-        "wmo": "71898",
-        "icao": "CYPR"
+        "$wmo": "71898",
+        "$icao": "CYPR",
+        "$iata": "YPR",
+        "$ghcn": "CA001066483",
+        "$usaf": "718980"
     },
     "location": {
         "latitude": 54.3,

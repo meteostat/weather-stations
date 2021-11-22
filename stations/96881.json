@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "JI",
     "identifiers": {
-        "national": null,
-        "wmo": "96881",
-        "icao": "WIAR"
+        "$wmo": "96881",
+        "$icao": "WIAR",
+        "$usaf": "968810"
     },
     "location": {
         "latitude": -7.6167,

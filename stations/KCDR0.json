@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCDR"
+        "$icao": "KCDR",
+        "$iata": "CDR",
+        "$wban": "24017",
+        "$usaf": "725636"
     },
     "location": {
         "latitude": 42.8376,

@@ -6,9 +6,9 @@
     "country": "NA",
     "region": "ER",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FYSM"
+        "$icao": "FYSM",
+        "$iata": "SWP",
+        "$usaf": "681000"
     },
     "location": {
         "latitude": -22.6619,

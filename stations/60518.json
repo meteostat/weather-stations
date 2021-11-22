@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "TLE",
     "identifiers": {
-        "national": null,
-        "wmo": "60518",
-        "icao": null
+        "$wmo": "60518",
+        "$ghcn": "AGM00060518"
     },
     "location": {
         "latitude": 35.3,

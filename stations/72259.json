@@ -6,9 +6,13 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": "72259",
-        "icao": "KDFW"
+        "$wmo": "72259",
+        "$icao": "KDFW",
+        "$iata": "DFW",
+        "$ghcn": "USW00003927",
+        "$wban": "03927",
+        "$usaf": "722590",
+        "$mosmix": "72259"
     },
     "location": {
         "latitude": 32.9,

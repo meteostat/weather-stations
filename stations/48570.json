@@ -6,9 +6,9 @@
     "country": "TH",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": "48570",
-        "icao": "VTSA"
+        "$wmo": "48570",
+        "$icao": "VTSA",
+        "$usaf": "485700"
     },
     "location": {
         "latitude": 6.65,

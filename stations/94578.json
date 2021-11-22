@@ -6,9 +6,12 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "national": null,
-        "wmo": "94578",
-        "icao": "YBBN"
+        "$wmo": "94578",
+        "$icao": "YBBN",
+        "$iata": "BNE",
+        "$ghcn": "ASN00040223",
+        "$usaf": "945780",
+        "$mosmix": "94578"
     },
     "location": {
         "latitude": -27.3833,

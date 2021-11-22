@@ -6,9 +6,10 @@
     "country": "IT",
     "region": "ER",
     "identifiers": {
-        "national": null,
-        "wmo": "16146",
-        "icao": "LIVM"
+        "$wmo": "16146",
+        "$icao": "LIVM",
+        "$usaf": "161460",
+        "$mosmix": "16146"
     },
     "location": {
         "latitude": 44.45,

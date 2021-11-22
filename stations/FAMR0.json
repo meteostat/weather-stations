@@ -6,9 +6,8 @@
     "country": "ZA",
     "region": "MP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FAMR"
+        "$icao": "FAMR",
+        "$usaf": "681844"
     },
     "location": {
         "latitude": -24.55,

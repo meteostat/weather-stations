@@ -6,9 +6,11 @@
     "country": "CN",
     "region": "HA",
     "identifiers": {
-        "national": null,
-        "wmo": "59758",
-        "icao": "ZGHK"
+        "$wmo": "59758",
+        "$icao": "ZGHK",
+        "$ghcn": "CHM00059758",
+        "$usaf": "597580",
+        "$mosmix": "59758"
     },
     "location": {
         "latitude": 20.0333,

@@ -2,15 +2,17 @@
     "id": "02460",
     "name": {
         "de": "Stockholm Arlanda Flughafen",
-        "en": "Stockholm Arlanda Airport",
-        "sv": "Stockholm Arlanda Flygplats"
+        "sv": "Stockholm Arlanda Flygplats",
+        "en": "Stockholm Arlanda Airport"
     },
     "country": "SE",
     "region": "AB",
     "identifiers": {
-        "national": null,
-        "wmo": "02460",
-        "icao": "ESSA"
+        "$wmo": "02460",
+        "$icao": "ESSA",
+        "$iata": "ARN",
+        "$usaf": "024600",
+        "$mosmix": "02460"
     },
     "location": {
         "latitude": 59.65,

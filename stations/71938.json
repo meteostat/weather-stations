@@ -6,9 +6,12 @@
     "country": "CA",
     "region": "NU",
     "identifiers": {
-        "national": "53335",
-        "wmo": "71938",
-        "icao": "CYCO"
+        "$national": "53335",
+        "$wmo": "71938",
+        "$icao": "CYCO",
+        "$iata": "YCO",
+        "$ghcn": "CA002300902",
+        "$usaf": "719380"
     },
     "location": {
         "latitude": 67.82,

@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CXKT"
+        "$icao": "CXKT"
     },
     "location": {
         "latitude": 45.0667,

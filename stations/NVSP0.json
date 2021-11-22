@@ -6,9 +6,8 @@
     "country": "VU",
     "region": "MAP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "NVSP"
+        "$icao": "NVSP",
+        "$iata": "NUS"
     },
     "location": {
         "latitude": -16.0797,

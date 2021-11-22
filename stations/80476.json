@@ -6,9 +6,8 @@
     "country": "VE",
     "region": "V",
     "identifiers": {
-        "national": null,
-        "wmo": "80476",
-        "icao": null
+        "$wmo": "80476",
+        "$ghcn": "VEM00080476"
     },
     "location": {
         "latitude": 10.5167,

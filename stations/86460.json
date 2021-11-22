@@ -6,9 +6,9 @@
     "country": "UY",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "86460",
-        "icao": null
+        "$wmo": "86460",
+        "$ghcn": "UY000001915",
+        "$usaf": "864600"
     },
     "location": {
         "latitude": -32.8,

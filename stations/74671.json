@@ -6,9 +6,12 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": "74671",
-        "icao": "KHOP"
+        "$wmo": "74671",
+        "$icao": "KHOP",
+        "$iata": "HOP",
+        "$ghcn": "USW00013806",
+        "$wban": "13806",
+        "$usaf": "746710"
     },
     "location": {
         "latitude": 36.6667,

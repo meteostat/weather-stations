@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "RO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBGM"
+        "$icao": "SBGM",
+        "$iata": "GJM",
+        "$usaf": "836728"
     },
     "location": {
         "latitude": -10.7864,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KVLD"
+        "$icao": "KVLD",
+        "$iata": "VLD",
+        "$wban": "93845",
+        "$usaf": "722166"
     },
     "location": {
         "latitude": 30.7814,

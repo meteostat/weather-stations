@@ -6,9 +6,8 @@
     "country": "BA",
     "region": "ZD",
     "identifiers": {
-        "national": null,
-        "wmo": "14528",
-        "icao": null
+        "$wmo": "14528",
+        "$mosmix": "14528"
     },
     "location": {
         "latitude": 44.8167,

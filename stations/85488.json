@@ -6,9 +6,11 @@
     "country": "CL",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": "85488",
-        "icao": "SCSE"
+        "$wmo": "85488",
+        "$icao": "SCSE",
+        "$iata": "LSC",
+        "$ghcn": "CI000085488",
+        "$usaf": "854880"
     },
     "location": {
         "latitude": -29.9,

@@ -6,9 +6,10 @@
     "country": "NP",
     "region": "KO",
     "identifiers": {
-        "national": null,
-        "wmo": "44478",
-        "icao": "VNVT"
+        "$wmo": "44478",
+        "$icao": "VNVT",
+        "$iata": "BIR",
+        "$usaf": "444780"
     },
     "location": {
         "latitude": 26.4833,

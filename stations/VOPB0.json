@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "AN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VOPB"
+        "$icao": "VOPB",
+        "$iata": "IXZ"
     },
     "location": {
         "latitude": 11.6412,

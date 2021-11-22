@@ -2,15 +2,15 @@
     "id": "02000",
     "name": {
         "de": "Ljungbyhed Svenstorp Flughafen",
-        "en": "Ljungbyhed Svenstorp Airport",
-        "sv": "Ljungbyhed Svenstorp Flygplats"
+        "sv": "Ljungbyhed Svenstorp Flygplats",
+        "en": "Ljungbyhed Svenstorp Airport"
     },
     "country": "SE",
     "region": "SN",
     "identifiers": {
-        "national": null,
-        "wmo": "02000",
-        "icao": "ESTL"
+        "$wmo": "02000",
+        "$icao": "ESTL",
+        "$usaf": "020001"
     },
     "location": {
         "latitude": 56.08,

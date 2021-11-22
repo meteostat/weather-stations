@@ -6,9 +6,10 @@
     "country": "NL",
     "region": "FR",
     "identifiers": {
-        "national": null,
-        "wmo": "06242",
-        "icao": "EHVL"
+        "$wmo": "06242",
+        "$icao": "EHVL",
+        "$usaf": "062420",
+        "$mosmix": "06242"
     },
     "location": {
         "latitude": 53.25,

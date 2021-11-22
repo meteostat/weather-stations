@@ -6,9 +6,8 @@
     "country": "ZA",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": "68530",
-        "icao": null
+        "$wmo": "68530",
+        "$ghcn": "SF002564530"
     },
     "location": {
         "latitude": -29.0667,

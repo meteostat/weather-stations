@@ -6,9 +6,9 @@
     "country": "MM",
     "region": "SG",
     "identifiers": {
-        "national": null,
-        "wmo": "48010",
-        "icao": "VBHL"
+        "$wmo": "48010",
+        "$icao": "VBHL",
+        "$usaf": "480100"
     },
     "location": {
         "latitude": 24.8667,

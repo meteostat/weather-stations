@@ -6,9 +6,8 @@
     "country": "MM",
     "region": "KC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VYTN"
+        "$icao": "VYTN",
+        "$usaf": "749253"
     },
     "location": {
         "latitude": 26.367,

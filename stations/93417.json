@@ -6,9 +6,10 @@
     "country": "NZ",
     "region": "WGN",
     "identifiers": {
-        "national": null,
-        "wmo": "93417",
-        "icao": "NZPP"
+        "$wmo": "93417",
+        "$icao": "NZPP",
+        "$iata": "PPQ",
+        "$usaf": "934170"
     },
     "location": {
         "latitude": -40.9,

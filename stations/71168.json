@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "71168",
-        "icao": "CWMP"
+        "$wmo": "71168",
+        "$icao": "CWMP",
+        "$usaf": "711681"
     },
     "location": {
         "latitude": 61.05,

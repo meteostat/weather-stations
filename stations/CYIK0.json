@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYIK"
+        "$icao": "CYIK",
+        "$iata": "YIK",
+        "$usaf": "719074"
     },
     "location": {
         "latitude": 62.4156,

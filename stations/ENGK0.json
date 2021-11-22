@@ -6,9 +6,7 @@
     "country": "NO",
     "region": "AA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ENGK"
+        "$icao": "ENGK"
     },
     "location": {
         "latitude": 58.5167,

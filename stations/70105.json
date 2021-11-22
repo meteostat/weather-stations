@@ -6,9 +6,8 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "national": null,
-        "wmo": "70105",
-        "icao": "PLNY"
+        "$wmo": "70105",
+        "$icao": "PLNY"
     },
     "location": {
         "latitude": 20.7856,

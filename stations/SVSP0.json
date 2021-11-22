@@ -6,9 +6,9 @@
     "country": "VE",
     "region": "U",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SVSP"
+        "$icao": "SVSP",
+        "$iata": "SNF",
+        "$usaf": "804103"
     },
     "location": {
         "latitude": 10.2833,

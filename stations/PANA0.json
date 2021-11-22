@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "PANA"
+        "$icao": "PANA",
+        "$iata": "WNA",
+        "$usaf": "702195"
     },
     "location": {
         "latitude": 60.6903,

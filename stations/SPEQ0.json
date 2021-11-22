@@ -6,9 +6,8 @@
     "country": "PE",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SPEQ"
+        "$icao": "SPEQ",
+        "$usaf": "847615"
     },
     "location": {
         "latitude": -17.1833,

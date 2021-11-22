@@ -1,15 +1,13 @@
 {
     "id": "02728",
     "name": {
-        "en": "Taipalsaari Kylaniemi",
-        "fi": "Taipalsaari Kylänniemi"
+        "fi": "Taipalsaari Kylänniemi",
+        "en": "Taipalsaari Kylaniemi"
     },
     "country": "FI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "02728",
-        "icao": null
+        "$wmo": "02728"
     },
     "location": {
         "latitude": 61.3,

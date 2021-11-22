@@ -6,9 +6,10 @@
     "country": "DK",
     "region": "VG",
     "identifiers": {
-        "national": null,
-        "wmo": "06010",
-        "icao": "EKVG"
+        "$wmo": "06010",
+        "$icao": "EKVG",
+        "$iata": "FAE",
+        "$usaf": "060100"
     },
     "location": {
         "latitude": 62.0667,

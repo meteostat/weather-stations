@@ -6,9 +6,9 @@
     "country": "AL",
     "region": "KO",
     "identifiers": {
-        "national": null,
-        "wmo": "13629",
-        "icao": "LAKO"
+        "$wmo": "13629",
+        "$icao": "LAKO",
+        "$usaf": "136290"
     },
     "location": {
         "latitude": 40.6,

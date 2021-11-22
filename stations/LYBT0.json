@@ -6,9 +6,9 @@
     "country": "RS",
     "region": "SM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LYBT"
+        "$icao": "LYBT",
+        "$iata": "BJY",
+        "$usaf": "132725"
     },
     "location": {
         "latitude": 44.9353,

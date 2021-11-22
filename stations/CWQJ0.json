@@ -6,9 +6,8 @@
     "country": "XA",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWQJ"
+        "$icao": "CWQJ",
+        "$usaf": "719994"
     },
     "location": {
         "latitude": 46.5,

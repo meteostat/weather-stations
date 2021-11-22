@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "WKO",
     "identifiers": {
-        "national": null,
-        "wmo": "93172",
-        "icao": "NZHN"
+        "$wmo": "93172",
+        "$icao": "NZHN",
+        "$iata": "HLZ"
     },
     "location": {
         "latitude": -37.8667,

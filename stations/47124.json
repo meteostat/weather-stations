@@ -6,9 +6,9 @@
     "country": "KR",
     "region": "TJ",
     "identifiers": {
-        "national": null,
-        "wmo": "47124",
-        "icao": "RKTE"
+        "$wmo": "47124",
+        "$icao": "RKTE",
+        "$usaf": "471240"
     },
     "location": {
         "latitude": 36.4,

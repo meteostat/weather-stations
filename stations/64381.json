@@ -6,9 +6,10 @@
     "country": "RW",
     "region": "GS",
     "identifiers": {
-        "national": null,
-        "wmo": "64381",
-        "icao": "HRYG"
+        "$wmo": "64381",
+        "$icao": "HRYG",
+        "$iata": "GYI",
+        "$usaf": "643810"
     },
     "location": {
         "latitude": -1.6667,

@@ -6,9 +6,9 @@
     "country": "KW",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91800",
-        "icao": "NCPY"
+        "$wmo": "91800",
+        "$icao": "NCPY",
+        "$iata": "PYE"
     },
     "location": {
         "latitude": -9.0167,

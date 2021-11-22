@@ -6,9 +6,10 @@
     "country": "FR",
     "region": "O",
     "identifiers": {
-        "national": null,
-        "wmo": "07003",
-        "icao": "LFAT"
+        "$wmo": "07003",
+        "$icao": "LFAT",
+        "$iata": "LTQ",
+        "$usaf": "070030"
     },
     "location": {
         "latitude": 50.5167,

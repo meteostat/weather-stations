@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": "07607",
-        "icao": "LFBM"
+        "$wmo": "07607",
+        "$icao": "LFBM",
+        "$iata": "XMJ",
+        "$ghcn": "FRM00007607",
+        "$usaf": "076070"
     },
     "location": {
         "latitude": 43.9167,

@@ -6,9 +6,11 @@
     "country": "FJ",
     "region": "N",
     "identifiers": {
-        "national": null,
-        "wmo": "91663",
-        "icao": "NFNS"
+        "$wmo": "91663",
+        "$icao": "NFNS",
+        "$iata": "SVU",
+        "$usaf": "916630",
+        "$mosmix": "91663"
     },
     "location": {
         "latitude": -16.8167,

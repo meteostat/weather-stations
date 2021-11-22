@@ -6,9 +6,9 @@
     "country": "SR",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SMJP"
+        "$icao": "SMJP",
+        "$iata": "PBM",
+        "$usaf": "812250"
     },
     "location": {
         "latitude": 5.45,

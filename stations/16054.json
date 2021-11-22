@@ -6,9 +6,8 @@
     "country": "IT",
     "region": "VD",
     "identifiers": {
-        "national": null,
-        "wmo": "16054",
-        "icao": null
+        "$wmo": "16054",
+        "$mosmix": "16054"
     },
     "location": {
         "latitude": 45.7333,

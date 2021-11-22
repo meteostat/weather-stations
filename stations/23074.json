@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "TAY",
     "identifiers": {
-        "national": null,
-        "wmo": "23074",
-        "icao": null
+        "$wmo": "23074",
+        "$ghcn": "RSM00023074",
+        "$mosmix": "23074"
     },
     "location": {
         "latitude": 69.4,

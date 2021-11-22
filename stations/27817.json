@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "ORL",
     "identifiers": {
-        "national": null,
-        "wmo": "27817",
-        "icao": null
+        "$wmo": "27817",
+        "$ghcn": "RSM00027817"
     },
     "location": {
         "latitude": 53.3833,

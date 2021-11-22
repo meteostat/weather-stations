@@ -6,9 +6,10 @@
     "country": "HN",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": "78718",
-        "icao": "MHSC"
+        "$wmo": "78718",
+        "$icao": "MHSC",
+        "$iata": "ENQ",
+        "$usaf": "787210"
     },
     "location": {
         "latitude": 14.3833,

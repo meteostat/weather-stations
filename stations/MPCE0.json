@@ -6,9 +6,9 @@
     "country": "PA",
     "region": "HE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MPCE"
+        "$icao": "MPCE",
+        "$iata": "CTD",
+        "$usaf": "787956"
     },
     "location": {
         "latitude": 7.9878,

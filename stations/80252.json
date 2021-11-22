@@ -6,9 +6,10 @@
     "country": "CO",
     "region": "VDC",
     "identifiers": {
-        "national": null,
-        "wmo": "80252",
-        "icao": "SKBU"
+        "$wmo": "80252",
+        "$icao": "SKBU",
+        "$iata": "BUN",
+        "$usaf": "802520"
     },
     "location": {
         "latitude": 3.85,

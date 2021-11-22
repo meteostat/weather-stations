@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "GD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZGMX"
+        "$icao": "ZGMX",
+        "$iata": "MXZ",
+        "$usaf": "591170"
     },
     "location": {
         "latitude": 24.35,

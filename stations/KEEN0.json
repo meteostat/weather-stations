@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEEN"
+        "$icao": "KEEN",
+        "$iata": "EEN",
+        "$wban": "94721",
+        "$usaf": "726165"
     },
     "location": {
         "latitude": 42.8984,

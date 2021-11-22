@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "national": "07373",
-        "wmo": null,
-        "icao": "EDWR"
+        "$national": "07373",
+        "$icao": "EDWR",
+        "$iata": "BMK"
     },
     "location": {
         "latitude": 53.5964,

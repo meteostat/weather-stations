@@ -6,9 +6,8 @@
     "country": "EG",
     "region": "JNS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HESH"
+        "$icao": "HESH",
+        "$iata": "SSH"
     },
     "location": {
         "latitude": 27.9667,

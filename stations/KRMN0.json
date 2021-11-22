@@ -6,9 +6,9 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRMN"
+        "$icao": "KRMN",
+        "$wban": "03735",
+        "$usaf": "720317"
     },
     "location": {
         "latitude": 38.3981,

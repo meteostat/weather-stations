@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIAG"
+        "$icao": "KIAG",
+        "$iata": "IAG",
+        "$wban": "04724",
+        "$usaf": "725287"
     },
     "location": {
         "latitude": 43.1073,

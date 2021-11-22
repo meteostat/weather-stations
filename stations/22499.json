@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "ARK",
     "identifiers": {
-        "national": null,
-        "wmo": "22499",
-        "icao": null
+        "$wmo": "22499",
+        "$ghcn": "RSM00022499"
     },
     "location": {
         "latitude": 65.2333,

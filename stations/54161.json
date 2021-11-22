@@ -6,9 +6,12 @@
     "country": "CN",
     "region": "JL",
     "identifiers": {
-        "national": null,
-        "wmo": "54161",
-        "icao": "ZYCC"
+        "$wmo": "54161",
+        "$icao": "ZYCC",
+        "$iata": "CGQ",
+        "$ghcn": "CHM00054161",
+        "$usaf": "541610",
+        "$mosmix": "54161"
     },
     "location": {
         "latitude": 43.9,

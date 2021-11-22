@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "MEX",
     "identifiers": {
-        "national": null,
-        "wmo": "76675",
-        "icao": null
+        "$wmo": "76675",
+        "$ghcn": "MXM00076675",
+        "$usaf": "766750"
     },
     "location": {
         "latitude": 19.3,

@@ -6,9 +6,8 @@
     "country": "ZA",
     "region": "WC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FABR"
+        "$icao": "FABR",
+        "$usaf": "689203"
     },
     "location": {
         "latitude": -34.5333,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSAF"
+        "$icao": "KSAF",
+        "$iata": "SAF",
+        "$wban": "23049",
+        "$usaf": "723656"
     },
     "location": {
         "latitude": 35.6171,

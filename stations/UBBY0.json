@@ -6,9 +6,9 @@
     "country": "AZ",
     "region": "BAL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UBBY"
+        "$icao": "UBBY",
+        "$iata": "ZTU",
+        "$usaf": "375750"
     },
     "location": {
         "latitude": 41.5622,

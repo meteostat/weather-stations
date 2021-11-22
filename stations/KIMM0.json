@@ -6,9 +6,7 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIMM"
+        "$icao": "KIMM"
     },
     "location": {
         "latitude": 26.4338,

@@ -6,9 +6,7 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPLD"
+        "$icao": "KPLD"
     },
     "location": {
         "latitude": 40.4516,

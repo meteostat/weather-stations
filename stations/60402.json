@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "BEJ",
     "identifiers": {
-        "national": null,
-        "wmo": "60402",
-        "icao": "DAAE"
+        "$wmo": "60402",
+        "$icao": "DAAE",
+        "$iata": "BJA",
+        "$ghcn": "AGM00060402",
+        "$usaf": "604020"
     },
     "location": {
         "latitude": 36.7167,

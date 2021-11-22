@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "BDS",
     "identifiers": {
-        "national": null,
-        "wmo": "40905",
-        "icao": "OASN"
+        "$wmo": "40905",
+        "$icao": "OASN",
+        "$iata": "SGA"
     },
     "location": {
         "latitude": 37.5667,

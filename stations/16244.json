@@ -6,9 +6,10 @@
     "country": "IT",
     "region": "FR",
     "identifiers": {
-        "national": null,
-        "wmo": "16244",
-        "icao": "LIRH"
+        "$wmo": "16244",
+        "$icao": "LIRH",
+        "$usaf": "162440",
+        "$mosmix": "16244"
     },
     "location": {
         "latitude": 41.6333,

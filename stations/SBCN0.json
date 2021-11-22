@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "GO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBCN"
+        "$icao": "SBCN",
+        "$iata": "CLV",
+        "$usaf": "867125"
     },
     "location": {
         "latitude": -17.7253,

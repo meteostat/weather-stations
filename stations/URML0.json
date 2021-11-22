@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "DA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "URML"
+        "$icao": "URML",
+        "$iata": "MCX",
+        "$usaf": "377352"
     },
     "location": {
         "latitude": 42.8167,

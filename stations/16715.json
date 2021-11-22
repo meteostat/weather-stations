@@ -6,9 +6,9 @@
     "country": "GR",
     "region": "LI",
     "identifiers": {
-        "national": null,
-        "wmo": "16715",
-        "icao": "LGTT"
+        "$wmo": "16715",
+        "$icao": "LGTT",
+        "$usaf": "167150"
     },
     "location": {
         "latitude": 38.1,

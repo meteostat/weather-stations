@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBMD"
+        "$icao": "SBMD",
+        "$iata": "MEU",
+        "$usaf": "820910"
     },
     "location": {
         "latitude": -0.8833,

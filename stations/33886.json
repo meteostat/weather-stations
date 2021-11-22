@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "33886",
-        "icao": null
+        "$wmo": "33886",
+        "$ghcn": "MD000033886",
+        "$usaf": "338860"
     },
     "location": {
         "latitude": 46.1,

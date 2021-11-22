@@ -6,9 +6,9 @@
     "country": "MU",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "61974",
-        "icao": null
+        "$wmo": "61974",
+        "$iata": "LEG",
+        "$ghcn": "MP000061974"
     },
     "location": {
         "latitude": -10.4333,

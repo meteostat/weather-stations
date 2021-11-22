@@ -6,9 +6,12 @@
     "country": "MA",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": "60115",
-        "icao": "GMFO"
+        "$wmo": "60115",
+        "$icao": "GMFO",
+        "$iata": "OUD",
+        "$ghcn": "MOE00147755",
+        "$usaf": "601150",
+        "$mosmix": "60115"
     },
     "location": {
         "latitude": 34.7833,

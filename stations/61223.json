@@ -6,9 +6,12 @@
     "country": "ML",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "61223",
-        "icao": "GATB"
+        "$wmo": "61223",
+        "$icao": "GATB",
+        "$iata": "TOM",
+        "$ghcn": "ML000061223",
+        "$usaf": "612230",
+        "$mosmix": "61223"
     },
     "location": {
         "latitude": 16.7167,

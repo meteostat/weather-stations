@@ -6,9 +6,11 @@
     "country": "KG",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": "38615",
-        "icao": "UAFO"
+        "$wmo": "38615",
+        "$icao": "UAFO",
+        "$iata": "OSS",
+        "$ghcn": "KG000038615",
+        "$usaf": "386155"
     },
     "location": {
         "latitude": 40.6333,

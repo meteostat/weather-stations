@@ -6,9 +6,13 @@
     "country": "BB",
     "region": "C",
     "identifiers": {
-        "national": null,
-        "wmo": "78954",
-        "icao": "TBPB"
+        "$wmo": "78954",
+        "$icao": "TBPB",
+        "$iata": "BGI",
+        "$ghcn": "BB000078954",
+        "$wban": "00408",
+        "$usaf": "789540",
+        "$mosmix": "78954"
     },
     "location": {
         "latitude": 13.0667,

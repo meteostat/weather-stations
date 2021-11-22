@@ -2,15 +2,13 @@
     "id": "02365",
     "name": {
         "de": "Sundvall-Harnlsand Flughafen",
-        "en": "Sundvall-Harnlsand Airport",
-        "sv": "Sundvall-Harnlsand Flygplats"
+        "sv": "Sundvall-Harnlsand Flygplats",
+        "en": "Sundvall-Harnlsand Airport"
     },
     "country": "SE",
     "region": "Y",
     "identifiers": {
-        "national": null,
-        "wmo": "02365",
-        "icao": null
+        "$wmo": "02365"
     },
     "location": {
         "latitude": 62.5333,

@@ -6,9 +6,8 @@
     "country": "SE",
     "region": "U",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ESQO"
+        "$icao": "ESQO",
+        "$usaf": "024373"
     },
     "location": {
         "latitude": 59.3866,

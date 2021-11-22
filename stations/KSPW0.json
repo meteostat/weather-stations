@@ -6,9 +6,10 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSPW"
+        "$icao": "KSPW",
+        "$iata": "SPW",
+        "$wban": "14972",
+        "$usaf": "726500"
     },
     "location": {
         "latitude": 43.1655,

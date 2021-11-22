@@ -6,9 +6,11 @@
     "country": "ZM",
     "region": "ES",
     "identifiers": {
-        "national": null,
-        "wmo": "67581",
-        "icao": "FLCP"
+        "$wmo": "67581",
+        "$icao": "FLCP",
+        "$iata": "CIP",
+        "$ghcn": "ZA000067581",
+        "$usaf": "675810"
     },
     "location": {
         "latitude": -13.55,

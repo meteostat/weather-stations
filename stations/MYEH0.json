@@ -6,9 +6,9 @@
     "country": "BS",
     "region": "HI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MYEH"
+        "$icao": "MYEH",
+        "$iata": "ELH",
+        "$usaf": "780750"
     },
     "location": {
         "latitude": 25.4749,

@@ -6,9 +6,10 @@
     "country": "KP",
     "region": "HAB",
     "identifiers": {
-        "national": null,
-        "wmo": "47025",
-        "icao": "ZKKC"
+        "$wmo": "47025",
+        "$icao": "ZKKC",
+        "$ghcn": "KNM00047025",
+        "$usaf": "470250"
     },
     "location": {
         "latitude": 40.6667,

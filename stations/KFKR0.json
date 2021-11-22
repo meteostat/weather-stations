@@ -6,9 +6,7 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFKR"
+        "$icao": "KFKR"
     },
     "location": {
         "latitude": 40.2734,

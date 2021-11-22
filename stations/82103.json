@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "AM",
     "identifiers": {
-        "national": null,
-        "wmo": "82103",
-        "icao": null
+        "$wmo": "82103",
+        "$iata": "TAJ"
     },
     "location": {
         "latitude": 0.0667,

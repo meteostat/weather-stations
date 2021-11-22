@@ -6,9 +6,9 @@
     "country": "CG",
     "region": "NI",
     "identifiers": {
-        "national": null,
-        "wmo": "64401",
-        "icao": "FCPL"
+        "$wmo": "64401",
+        "$icao": "FCPL",
+        "$ghcn": "CF000004401"
     },
     "location": {
         "latitude": -4.2,

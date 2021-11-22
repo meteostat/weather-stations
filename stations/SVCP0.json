@@ -6,9 +6,9 @@
     "country": "VE",
     "region": "R",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SVCP"
+        "$icao": "SVCP",
+        "$iata": "CUP",
+        "$usaf": "804223"
     },
     "location": {
         "latitude": 10.6667,

@@ -6,9 +6,9 @@
     "country": "UA",
     "region": "LH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UKCW"
+        "$icao": "UKCW",
+        "$iata": "VSG",
+        "$usaf": "330001"
     },
     "location": {
         "latitude": 48.4167,

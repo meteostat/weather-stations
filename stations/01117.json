@@ -1,15 +1,14 @@
 {
     "id": "01117",
     "name": {
-        "en": "Tjotta",
-        "no": "Tjøtta"
+        "no": "Tjøtta",
+        "en": "Tjotta"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "national": null,
-        "wmo": "01117",
-        "icao": null
+        "$wmo": "01117",
+        "$usaf": "011170"
     },
     "location": {
         "latitude": 65.8269,

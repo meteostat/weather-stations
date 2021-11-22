@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YESP"
+        "$icao": "YESP",
+        "$iata": "EPR"
     },
     "location": {
         "latitude": -33.6844,

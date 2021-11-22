@@ -6,9 +6,9 @@
     "country": "VG",
     "region": "W",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "TQPF"
+        "$icao": "TQPF",
+        "$iata": "AXA",
+        "$usaf": "788461"
     },
     "location": {
         "latitude": 18.25,

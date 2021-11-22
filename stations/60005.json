@@ -6,9 +6,11 @@
     "country": "ES",
     "region": "CN",
     "identifiers": {
-        "national": null,
-        "wmo": "60005",
-        "icao": "GCLA"
+        "$wmo": "60005",
+        "$icao": "GCLA",
+        "$ghcn": "SPE00120449",
+        "$usaf": "600050",
+        "$mosmix": "60005"
     },
     "location": {
         "latitude": 28.6167,

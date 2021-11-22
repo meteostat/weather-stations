@@ -6,9 +6,8 @@
     "country": "NG",
     "region": "NI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DNMN"
+        "$icao": "DNMN",
+        "$iata": "MXJ"
     },
     "location": {
         "latitude": 9.6522,

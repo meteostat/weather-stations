@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": "72744",
-        "icao": "KCMX"
+        "$wmo": "72744",
+        "$icao": "KCMX",
+        "$iata": "CMX",
+        "$ghcn": "USW00014858",
+        "$wban": "14858",
+        "$usaf": "727440"
     },
     "location": {
         "latitude": 47.1667,

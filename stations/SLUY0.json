@@ -6,9 +6,8 @@
     "country": "BO",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SLUY"
+        "$icao": "SLUY",
+        "$iata": "UYU"
     },
     "location": {
         "latitude": -20.4463,

@@ -6,9 +6,12 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": "72422",
-        "icao": "KLEX"
+        "$wmo": "72422",
+        "$icao": "KLEX",
+        "$iata": "LEX",
+        "$ghcn": "USW00093820",
+        "$wban": "93820",
+        "$usaf": "724220"
     },
     "location": {
         "latitude": 38.0333,

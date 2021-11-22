@@ -6,9 +6,7 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": "99210",
-        "icao": null
+        "$wmo": "99210"
     },
     "location": {
         "latitude": 36.4,

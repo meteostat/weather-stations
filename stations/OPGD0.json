@@ -6,9 +6,9 @@
     "country": "PK",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OPGD"
+        "$icao": "OPGD",
+        "$iata": "GWD",
+        "$usaf": "417570"
     },
     "location": {
         "latitude": 25.2333,

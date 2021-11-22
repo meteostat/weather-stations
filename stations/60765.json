@@ -6,9 +6,12 @@
     "country": "TN",
     "region": "GB",
     "identifiers": {
-        "national": null,
-        "wmo": "60765",
-        "icao": "DTTG"
+        "$wmo": "60765",
+        "$icao": "DTTG",
+        "$iata": "GAE",
+        "$ghcn": "TS000060765",
+        "$usaf": "607650",
+        "$mosmix": "60765"
     },
     "location": {
         "latitude": 33.8833,

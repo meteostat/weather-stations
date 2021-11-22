@@ -1,15 +1,14 @@
 {
     "id": "02735",
     "name": {
-        "en": "Virrat Aijanneva",
-        "fi": "Virrat Äijänneva"
+        "fi": "Virrat Äijänneva",
+        "en": "Virrat Aijanneva"
     },
     "country": "FI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "02735",
-        "icao": null
+        "$wmo": "02735",
+        "$usaf": "027350"
     },
     "location": {
         "latitude": 62.3333,

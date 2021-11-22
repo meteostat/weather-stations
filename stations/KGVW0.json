@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KGVW"
+        "$icao": "KGVW",
+        "$iata": "GVW",
+        "$wban": "03929",
+        "$usaf": "724466"
     },
     "location": {
         "latitude": 38.8442,

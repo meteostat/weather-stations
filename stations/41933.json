@@ -6,9 +6,9 @@
     "country": "BD",
     "region": "CG",
     "identifiers": {
-        "national": null,
-        "wmo": "41933",
-        "icao": "VGCM"
+        "$wmo": "41933",
+        "$icao": "VGCM",
+        "$iata": "CLA"
     },
     "location": {
         "latitude": 23.4333,

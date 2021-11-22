@@ -6,9 +6,11 @@
     "country": "LC",
     "region": "VF",
     "identifiers": {
-        "national": null,
-        "wmo": "78948",
-        "icao": "TLPL"
+        "$wmo": "78948",
+        "$icao": "TLPL",
+        "$wban": "00406",
+        "$usaf": "789480",
+        "$mosmix": "78948"
     },
     "location": {
         "latitude": 13.75,

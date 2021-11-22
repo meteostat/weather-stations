@@ -6,9 +6,11 @@
     "country": "ET",
     "region": "CN",
     "identifiers": {
-        "national": null,
-        "wmo": "63402",
-        "icao": "HAJM"
+        "$wmo": "63402",
+        "$icao": "HAJM",
+        "$iata": "JIM",
+        "$ghcn": "ET000063402",
+        "$usaf": "634020"
     },
     "location": {
         "latitude": 7.6667,

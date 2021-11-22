@@ -6,9 +6,8 @@
     "country": "AR",
     "region": "F",
     "identifiers": {
-        "national": null,
-        "wmo": "87213",
-        "icao": null
+        "$wmo": "87213",
+        "$ghcn": "ARM00087213"
     },
     "location": {
         "latitude": -29.2333,

@@ -6,9 +6,11 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "national": null,
-        "wmo": "91170",
-        "icao": "PHHI"
+        "$wmo": "91170",
+        "$icao": "PHHI",
+        "$iata": "HHI",
+        "$wban": "22508",
+        "$usaf": "911700"
     },
     "location": {
         "latitude": 21.4833,

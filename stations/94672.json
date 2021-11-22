@@ -6,9 +6,12 @@
     "country": "AU",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": "94672",
-        "icao": "YPAD"
+        "$wmo": "94672",
+        "$icao": "YPAD",
+        "$iata": "ADL",
+        "$ghcn": "ASN00023031",
+        "$usaf": "946720",
+        "$mosmix": "94672"
     },
     "location": {
         "latitude": -34.9333,

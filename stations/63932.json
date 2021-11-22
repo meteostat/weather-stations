@@ -6,9 +6,10 @@
     "country": "TZ",
     "region": "MB",
     "identifiers": {
-        "national": null,
-        "wmo": "63932",
-        "icao": "HTMB"
+        "$wmo": "63932",
+        "$icao": "HTMB",
+        "$iata": "MBI",
+        "$usaf": "639320"
     },
     "location": {
         "latitude": -8.9333,

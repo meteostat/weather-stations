@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "national": null,
-        "wmo": "72398",
-        "icao": "KSBY"
+        "$wmo": "72398",
+        "$icao": "KSBY",
+        "$iata": "SBY",
+        "$ghcn": "USW00093720",
+        "$wban": "93720",
+        "$usaf": "723980"
     },
     "location": {
         "latitude": 38.3402,

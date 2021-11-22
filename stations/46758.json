@@ -6,9 +6,10 @@
     "country": "TW",
     "region": "PT",
     "identifiers": {
-        "national": null,
-        "wmo": "46758",
-        "icao": "RCSQ"
+        "$wmo": "46758",
+        "$icao": "RCSQ",
+        "$iata": "PIF",
+        "$usaf": "467580"
     },
     "location": {
         "latitude": 22.7,

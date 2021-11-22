@@ -6,9 +6,9 @@
     "country": "UZ",
     "region": "KH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UTNU"
+        "$icao": "UTNU",
+        "$iata": "UGC",
+        "$usaf": "384032"
     },
     "location": {
         "latitude": 41.5833,

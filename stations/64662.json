@@ -6,9 +6,10 @@
     "country": "CF",
     "region": "BKO",
     "identifiers": {
-        "national": null,
-        "wmo": "64662",
-        "icao": "FEFA"
+        "$wmo": "64662",
+        "$icao": "FEFA",
+        "$ghcn": "CT000004662",
+        "$usaf": "646620"
     },
     "location": {
         "latitude": 5.05,

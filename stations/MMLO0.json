@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "GUA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMLO"
+        "$icao": "MMLO",
+        "$iata": "BJX",
+        "$usaf": "765773"
     },
     "location": {
         "latitude": 20.9933,

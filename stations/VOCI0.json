@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "KL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VOCI"
+        "$icao": "VOCI",
+        "$iata": "COK"
     },
     "location": {
         "latitude": 10.152,

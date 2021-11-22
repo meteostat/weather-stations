@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIPL"
+        "$icao": "KIPL",
+        "$iata": "IPL",
+        "$wban": "03144",
+        "$usaf": "747185"
     },
     "location": {
         "latitude": 32.8342,

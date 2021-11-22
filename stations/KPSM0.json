@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPSM"
+        "$icao": "KPSM",
+        "$iata": "PSM",
+        "$wban": "04743",
+        "$usaf": "726055"
     },
     "location": {
         "latitude": 43.0779,

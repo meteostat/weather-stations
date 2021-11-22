@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "NU",
     "identifiers": {
-        "national": "1779",
-        "wmo": "71088",
-        "icao": "CWRX"
+        "$national": "1779",
+        "$wmo": "71088",
+        "$icao": "CWRX",
+        "$ghcn": "CA002403625",
+        "$usaf": "710880"
     },
     "location": {
         "latitude": 69.08,

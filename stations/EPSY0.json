@@ -6,9 +6,8 @@
     "country": "PL",
     "region": "WN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EPSY"
+        "$icao": "EPSY",
+        "$iata": "SZY"
     },
     "location": {
         "latitude": 53.4819,

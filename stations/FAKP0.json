@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "MP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FAKP"
+        "$icao": "FAKP",
+        "$iata": "KOF",
+        "$usaf": "684381"
     },
     "location": {
         "latitude": -25.4333,

@@ -6,9 +6,8 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "national": null,
-        "wmo": "72687",
-        "icao": "KS80"
+        "$wmo": "72687",
+        "$icao": "KS80"
     },
     "location": {
         "latitude": 45.9426,

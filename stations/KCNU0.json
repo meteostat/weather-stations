@@ -6,9 +6,9 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCNU"
+        "$icao": "KCNU",
+        "$wban": "13981",
+        "$usaf": "724507"
     },
     "location": {
         "latitude": 37.6688,

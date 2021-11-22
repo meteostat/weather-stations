@@ -6,9 +6,10 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYBC"
+        "$icao": "CYBC",
+        "$iata": "YBC",
+        "$ghcn": "CA001113542",
+        "$usaf": "716910"
     },
     "location": {
         "latitude": 49.1333,

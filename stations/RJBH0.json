@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "HS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RJBH"
+        "$icao": "RJBH",
+        "$iata": "HIW",
+        "$usaf": "477895"
     },
     "location": {
         "latitude": 34.3667,

@@ -6,9 +6,7 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSUZ"
+        "$icao": "KSUZ"
     },
     "location": {
         "latitude": 34.5904,

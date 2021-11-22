@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "CKR",
     "identifiers": {
-        "national": null,
-        "wmo": "17080",
-        "icao": null
+        "$wmo": "17080",
+        "$ghcn": "TUM00017080"
     },
     "location": {
         "latitude": 40.6,

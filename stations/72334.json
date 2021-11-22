@@ -6,9 +6,13 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": "72334",
-        "icao": "KMEM"
+        "$wmo": "72334",
+        "$icao": "KMEM",
+        "$iata": "MEM",
+        "$ghcn": "USW00013893",
+        "$wban": "13893",
+        "$usaf": "723340",
+        "$mosmix": "72334"
     },
     "location": {
         "latitude": 35.0333,

@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "AN",
     "identifiers": {
-        "national": null,
-        "wmo": "84531",
-        "icao": "SPEO"
+        "$wmo": "84531",
+        "$icao": "SPEO",
+        "$iata": "CHM",
+        "$ghcn": "PEM00084531",
+        "$usaf": "845310"
     },
     "location": {
         "latitude": -9.1667,

@@ -6,9 +6,9 @@
     "country": "NA",
     "region": "OT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FYTM"
+        "$icao": "FYTM",
+        "$iata": "TSB",
+        "$usaf": "680120"
     },
     "location": {
         "latitude": -19.2619,

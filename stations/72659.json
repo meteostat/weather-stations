@@ -6,9 +6,12 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "72659",
-        "icao": "KABR"
+        "$wmo": "72659",
+        "$icao": "KABR",
+        "$iata": "ABR",
+        "$ghcn": "USW00014929",
+        "$wban": "14929",
+        "$usaf": "726590"
     },
     "location": {
         "latitude": 45.45,

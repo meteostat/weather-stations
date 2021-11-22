@@ -6,9 +6,8 @@
     "country": "AE",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": "69810",
-        "icao": "KQGX"
+        "$wmo": "69810",
+        "$icao": "KQGX"
     },
     "location": {
         "latitude": 24.25,

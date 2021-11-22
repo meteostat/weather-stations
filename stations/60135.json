@@ -6,9 +6,12 @@
     "country": "MA",
     "region": "RSA",
     "identifiers": {
-        "national": null,
-        "wmo": "60135",
-        "icao": "GMME"
+        "$wmo": "60135",
+        "$icao": "GMME",
+        "$iata": "RBA",
+        "$ghcn": "MOM00060135",
+        "$usaf": "601350",
+        "$mosmix": "60135"
     },
     "location": {
         "latitude": 34.05,

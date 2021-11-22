@@ -6,9 +6,8 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": "74445",
-        "icao": "K4V9"
+        "$wmo": "74445",
+        "$icao": "K4V9"
     },
     "location": {
         "latitude": 42.2,

@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "PV",
     "identifiers": {
-        "national": null,
-        "wmo": "08080",
-        "icao": "LEVT"
+        "$wmo": "08080",
+        "$icao": "LEVT",
+        "$iata": "VIT",
+        "$ghcn": "SPE00119747",
+        "$usaf": "080800",
+        "$mosmix": "08080"
     },
     "location": {
         "latitude": 42.8833,

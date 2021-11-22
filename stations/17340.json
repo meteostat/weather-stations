@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "MER",
     "identifiers": {
-        "national": null,
-        "wmo": "17340",
-        "icao": null
+        "$wmo": "17340",
+        "$ghcn": "TUM00017340"
     },
     "location": {
         "latitude": 36.8167,

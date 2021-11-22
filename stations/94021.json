@@ -6,9 +6,8 @@
     "country": "PG",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": "94021",
-        "icao": null
+        "$wmo": "94021",
+        "$iata": "MDU"
     },
     "location": {
         "latitude": -6.1667,

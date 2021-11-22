@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCLM"
+        "$icao": "KCLM",
+        "$iata": "CLM",
+        "$wban": "94266",
+        "$usaf": "727885"
     },
     "location": {
         "latitude": 48.1202,

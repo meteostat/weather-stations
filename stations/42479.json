@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "UP",
     "identifiers": {
-        "national": null,
-        "wmo": "42479",
-        "icao": "VIBN"
+        "$wmo": "42479",
+        "$icao": "VIBN",
+        "$iata": "VNS",
+        "$ghcn": "IN023550300",
+        "$usaf": "424790"
     },
     "location": {
         "latitude": 25.45,

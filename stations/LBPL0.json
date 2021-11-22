@@ -6,9 +6,8 @@
     "country": "BG",
     "region": "PV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LBPL"
+        "$icao": "LBPL",
+        "$usaf": "155254"
     },
     "location": {
         "latitude": 43.4514,

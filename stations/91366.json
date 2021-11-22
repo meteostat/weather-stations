@@ -6,9 +6,13 @@
     "country": "MH",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91366",
-        "icao": "PKWA"
+        "$wmo": "91366",
+        "$icao": "PKWA",
+        "$iata": "KWA",
+        "$ghcn": "RMW00040604",
+        "$wban": "40604",
+        "$usaf": "913660",
+        "$mosmix": "91366"
     },
     "location": {
         "latitude": 8.7167,

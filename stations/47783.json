@@ -6,9 +6,11 @@
     "country": "JP",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "47783",
-        "icao": "RJOW"
+        "$wmo": "47783",
+        "$icao": "RJOW",
+        "$iata": "IWJ",
+        "$ghcn": "JA000047754",
+        "$usaf": "477830"
     },
     "location": {
         "latitude": 34.6667,

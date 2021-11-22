@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "KAR",
     "identifiers": {
-        "national": null,
-        "wmo": "36335",
-        "icao": null
+        "$wmo": "36335",
+        "$ghcn": "KZ000036335"
     },
     "location": {
         "latitude": 49.3833,

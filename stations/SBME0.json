@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "RJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBME"
+        "$icao": "SBME",
+        "$iata": "MEA",
+        "$usaf": "868910"
     },
     "location": {
         "latitude": -22.35,

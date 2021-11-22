@@ -6,9 +6,9 @@
     "country": "ZM",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "67413",
-        "icao": "FLBA"
+        "$wmo": "67413",
+        "$icao": "FLBA",
+        "$usaf": "674130"
     },
     "location": {
         "latitude": -8.85,

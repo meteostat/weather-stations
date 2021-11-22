@@ -6,9 +6,8 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "72796",
-        "icao": "K76S"
+        "$wmo": "72796",
+        "$icao": "K76S"
     },
     "location": {
         "latitude": 48.25,

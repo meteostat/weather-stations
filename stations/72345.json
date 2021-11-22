@@ -6,9 +6,12 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": "72345",
-        "icao": "KHRO"
+        "$wmo": "72345",
+        "$icao": "KHRO",
+        "$iata": "HRO",
+        "$ghcn": "USW00013971",
+        "$wban": "13971",
+        "$usaf": "723446"
     },
     "location": {
         "latitude": 36.2615,

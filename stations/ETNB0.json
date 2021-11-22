@@ -6,9 +6,8 @@
     "country": "DE",
     "region": "BE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ETNB"
+        "$icao": "ETNB",
+        "$usaf": "092810"
     },
     "location": {
         "latitude": 52.5667,

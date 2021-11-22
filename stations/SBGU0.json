@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "PR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBGU"
+        "$icao": "SBGU",
+        "$iata": "GPB",
+        "$usaf": "836729"
     },
     "location": {
         "latitude": -25.3875,

@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "HKB",
     "identifiers": {
-        "national": null,
-        "wmo": "93372",
-        "icao": "NZNR"
+        "$wmo": "93372",
+        "$icao": "NZNR",
+        "$iata": "NPE"
     },
     "location": {
         "latitude": -39.4667,

@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "national": "03815",
-        "wmo": "10317",
-        "icao": "EDWO"
+        "$national": "03815",
+        "$wmo": "10317",
+        "$icao": "EDWO",
+        "$mosmix": "10317"
     },
     "location": {
         "latitude": 52.25,

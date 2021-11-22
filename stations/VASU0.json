@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "GJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VASU"
+        "$icao": "VASU",
+        "$iata": "STV"
     },
     "location": {
         "latitude": 21.1141,

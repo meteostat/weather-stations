@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "RS",
     "identifiers": {
-        "national": null,
-        "wmo": "83995",
-        "icao": null
+        "$wmo": "83995",
+        "$iata": "RGA",
+        "$ghcn": "BR003252024"
     },
     "location": {
         "latitude": -32.0167,

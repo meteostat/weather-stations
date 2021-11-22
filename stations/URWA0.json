@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "AST",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "URWA"
+        "$icao": "URWA",
+        "$iata": "ASF",
+        "$usaf": "353942"
     },
     "location": {
         "latitude": 46.2833,

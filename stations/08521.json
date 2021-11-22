@@ -6,9 +6,12 @@
     "country": "PT",
     "region": "MD",
     "identifiers": {
-        "national": null,
-        "wmo": "08521",
-        "icao": "LPFU"
+        "$wmo": "08521",
+        "$icao": "LPFU",
+        "$iata": "FNC",
+        "$ghcn": "POM00008521",
+        "$usaf": "085210",
+        "$mosmix": "08521"
     },
     "location": {
         "latitude": 32.6833,

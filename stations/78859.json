@@ -6,9 +6,10 @@
     "country": "AG",
     "region": "JW",
     "identifiers": {
-        "national": null,
-        "wmo": "78859",
-        "icao": "TKPN"
+        "$wmo": "78859",
+        "$icao": "TKPN",
+        "$iata": "NEV",
+        "$usaf": "788590"
     },
     "location": {
         "latitude": 17.2,

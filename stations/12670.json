@@ -6,9 +6,8 @@
     "country": "PL",
     "region": "PP",
     "identifiers": {
-        "national": null,
-        "wmo": "12670",
-        "icao": null
+        "$wmo": "12670",
+        "$usaf": "126700"
     },
     "location": {
         "latitude": 49.7069,

@@ -6,9 +6,9 @@
     "country": "AR",
     "region": "E",
     "identifiers": {
-        "national": null,
-        "wmo": "87385",
-        "icao": "SAAU"
+        "$wmo": "87385",
+        "$icao": "SAAU",
+        "$usaf": "873850"
     },
     "location": {
         "latitude": -31.85,

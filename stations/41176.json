@@ -6,9 +6,8 @@
     "country": "QA",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "41176",
-        "icao": null
+        "$wmo": "41176",
+        "$usaf": "411760"
     },
     "location": {
         "latitude": 24.9,

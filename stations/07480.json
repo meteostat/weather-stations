@@ -6,9 +6,12 @@
     "country": "FR",
     "region": "V",
     "identifiers": {
-        "national": null,
-        "wmo": "07480",
-        "icao": "LFLY"
+        "$wmo": "07480",
+        "$icao": "LFLY",
+        "$iata": "LYN",
+        "$ghcn": "FR069029001",
+        "$usaf": "074800",
+        "$mosmix": "07480"
     },
     "location": {
         "latitude": 45.7167,

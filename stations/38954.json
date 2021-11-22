@@ -6,9 +6,9 @@
     "country": "TJ",
     "region": "BDS",
     "identifiers": {
-        "national": null,
-        "wmo": "38954",
-        "icao": null
+        "$wmo": "38954",
+        "$ghcn": "TI000038954",
+        "$mosmix": "38954"
     },
     "location": {
         "latitude": 37.5,

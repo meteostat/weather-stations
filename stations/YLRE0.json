@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YLRE"
+        "$icao": "YLRE",
+        "$iata": "LRE"
     },
     "location": {
         "latitude": -23.4342,

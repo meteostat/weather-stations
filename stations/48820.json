@@ -6,9 +6,12 @@
     "country": "VN",
     "region": "HI",
     "identifiers": {
-        "national": null,
-        "wmo": "48820",
-        "icao": "VVNB"
+        "$wmo": "48820",
+        "$icao": "VVNB",
+        "$iata": "HAN",
+        "$ghcn": "VMM00048820",
+        "$usaf": "488200",
+        "$mosmix": "48820"
     },
     "location": {
         "latitude": 21.0167,

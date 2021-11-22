@@ -6,9 +6,9 @@
     "country": "VU",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "91568",
-        "icao": null
+        "$wmo": "91568",
+        "$ghcn": "NH000091568",
+        "$mosmix": "91568"
     },
     "location": {
         "latitude": -20.2333,

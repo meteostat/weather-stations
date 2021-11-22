@@ -6,9 +6,8 @@
     "country": "UZ",
     "region": "QA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UTSH"
+        "$icao": "UTSH",
+        "$usaf": "381418"
     },
     "location": {
         "latitude": 39.0691,

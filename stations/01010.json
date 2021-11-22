@@ -6,9 +6,10 @@
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "national": null,
-        "wmo": "01010",
-        "icao": "ENAN"
+        "$wmo": "01010",
+        "$icao": "ENAN",
+        "$iata": "ANX",
+        "$usaf": "010100"
     },
     "location": {
         "latitude": 69.3,

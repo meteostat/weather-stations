@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFAY"
+        "$icao": "KFAY",
+        "$iata": "FAY",
+        "$wban": "93740",
+        "$usaf": "723035"
     },
     "location": {
         "latitude": 34.9912,

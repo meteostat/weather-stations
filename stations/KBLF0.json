@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBLF"
+        "$icao": "KBLF",
+        "$iata": "BLF",
+        "$wban": "03859",
+        "$usaf": "724125"
     },
     "location": {
         "latitude": 37.2958,

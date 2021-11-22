@@ -6,9 +6,8 @@
     "country": "EC",
     "region": "Y",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SESS"
+        "$icao": "SESS",
+        "$usaf": "840052"
     },
     "location": {
         "latitude": -2.0558,

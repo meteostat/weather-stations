@@ -6,9 +6,13 @@
     "country": "DE",
     "region": "TH",
     "identifiers": {
-        "national": "01270",
-        "wmo": "10554",
-        "icao": "EDDE"
+        "$national": "01270",
+        "$wmo": "10554",
+        "$icao": "EDDE",
+        "$iata": "ERF",
+        "$ghcn": "GME00102340",
+        "$usaf": "105540",
+        "$mosmix": "10554"
     },
     "location": {
         "latitude": 50.9833,

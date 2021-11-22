@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWMV"
+        "$icao": "CWMV",
+        "$ghcn": "CA003020405",
+        "$usaf": "719860"
     },
     "location": {
         "latitude": 64.75,

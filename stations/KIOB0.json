@@ -6,9 +6,9 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIOB"
+        "$icao": "KIOB",
+        "$wban": "00146",
+        "$usaf": "720456"
     },
     "location": {
         "latitude": 38.0581,

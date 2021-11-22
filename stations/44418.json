@@ -6,9 +6,8 @@
     "country": "NP",
     "region": "BH",
     "identifiers": {
-        "national": null,
-        "wmo": "44418",
-        "icao": null
+        "$wmo": "44418",
+        "$usaf": "444180"
     },
     "location": {
         "latitude": 28.1,

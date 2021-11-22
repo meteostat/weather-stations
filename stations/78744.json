@@ -6,9 +6,9 @@
     "country": "NI",
     "region": "SJ",
     "identifiers": {
-        "national": null,
-        "wmo": "78744",
-        "icao": "MNSC"
+        "$wmo": "78744",
+        "$icao": "MNSC",
+        "$iata": "NCR"
     },
     "location": {
         "latitude": 11.1333,

@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "TOL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SKQU"
+        "$icao": "SKQU",
+        "$iata": "MQU",
+        "$usaf": "801540"
     },
     "location": {
         "latitude": 5.2167,

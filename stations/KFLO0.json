@@ -6,9 +6,10 @@
     "country": "US",
     "region": "SC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFLO"
+        "$icao": "KFLO",
+        "$iata": "FLO",
+        "$wban": "13744",
+        "$usaf": "723106"
     },
     "location": {
         "latitude": 34.1854,

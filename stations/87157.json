@@ -6,9 +6,8 @@
     "country": "AR",
     "region": "H",
     "identifiers": {
-        "national": null,
-        "wmo": "87157",
-        "icao": "SARD"
+        "$wmo": "87157",
+        "$icao": "SARD"
     },
     "location": {
         "latitude": -27.4657,

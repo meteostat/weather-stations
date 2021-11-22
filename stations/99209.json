@@ -6,9 +6,7 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": "99209",
-        "icao": null
+        "$wmo": "99209"
     },
     "location": {
         "latitude": 48,

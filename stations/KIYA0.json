@@ -6,9 +6,9 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIYA"
+        "$icao": "KIYA",
+        "$wban": "00184",
+        "$usaf": "720587"
     },
     "location": {
         "latitude": 29.9758,

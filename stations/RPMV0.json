@@ -6,9 +6,8 @@
     "country": "PH",
     "region": "ZSI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPMV"
+        "$icao": "RPMV",
+        "$iata": "IPE"
     },
     "location": {
         "latitude": 7.7861,

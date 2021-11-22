@@ -6,9 +6,8 @@
     "country": "ZM",
     "region": "ES",
     "identifiers": {
-        "national": null,
-        "wmo": "67599",
-        "icao": null
+        "$wmo": "67599",
+        "$iata": "MFU"
     },
     "location": {
         "latitude": -13.2667,

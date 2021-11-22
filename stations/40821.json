@@ -6,9 +6,11 @@
     "country": "IR",
     "region": "YA",
     "identifiers": {
-        "national": null,
-        "wmo": "40821",
-        "icao": "OIYY"
+        "$wmo": "40821",
+        "$icao": "OIYY",
+        "$iata": "AZD",
+        "$ghcn": "IRM00040821",
+        "$usaf": "408210"
     },
     "location": {
         "latitude": 31.9,

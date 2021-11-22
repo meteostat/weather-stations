@@ -6,9 +6,8 @@
     "country": "JP",
     "region": "GM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RJTS"
+        "$icao": "RJTS",
+        "$usaf": "476435"
     },
     "location": {
         "latitude": 36.4347,

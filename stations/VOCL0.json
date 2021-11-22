@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "KL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VOCL"
+        "$icao": "VOCL",
+        "$iata": "CCJ",
+        "$usaf": "427055"
     },
     "location": {
         "latitude": 11.1368,

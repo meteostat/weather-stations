@@ -6,9 +6,13 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "72216",
-        "icao": "KABY"
+        "$wmo": "72216",
+        "$icao": "KABY",
+        "$iata": "ABY",
+        "$ghcn": "USW00013869",
+        "$wban": "13869",
+        "$usaf": "722160",
+        "$mosmix": "72216"
     },
     "location": {
         "latitude": 31.5333,

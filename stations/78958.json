@@ -6,9 +6,12 @@
     "country": "GD",
     "region": "G",
     "identifiers": {
-        "national": null,
-        "wmo": "78958",
-        "icao": "TGPY"
+        "$wmo": "78958",
+        "$icao": "TGPY",
+        "$iata": "GND",
+        "$wban": "00409",
+        "$usaf": "789580",
+        "$mosmix": "78958"
     },
     "location": {
         "latitude": 12,

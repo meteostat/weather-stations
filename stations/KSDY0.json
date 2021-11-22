@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSDY"
+        "$icao": "KSDY",
+        "$iata": "SDY",
+        "$wban": "94028",
+        "$usaf": "727687"
     },
     "location": {
         "latitude": 47.7069,

@@ -6,9 +6,8 @@
     "country": "CU",
     "region": "CF",
     "identifiers": {
-        "national": null,
-        "wmo": "78344",
-        "icao": null
+        "$wmo": "78344",
+        "$mosmix": "78344"
     },
     "location": {
         "latitude": 21.9167,

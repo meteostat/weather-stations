@@ -6,9 +6,10 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": "47587",
-        "wmo": "71967",
-        "icao": null
+        "$national": "47587",
+        "$wmo": "71967",
+        "$ghcn": "CA007027470",
+        "$usaf": "719670"
     },
     "location": {
         "latitude": 45.83,

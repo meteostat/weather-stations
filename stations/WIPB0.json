@@ -6,9 +6,7 @@
     "country": "ID",
     "region": "SS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "WIPB"
+        "$icao": "WIPB"
     },
     "location": {
         "latitude": -3.2819,

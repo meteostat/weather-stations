@@ -6,9 +6,9 @@
     "country": "GR",
     "region": "LI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LGSR"
+        "$icao": "LGSR",
+        "$iata": "JTR",
+        "$usaf": "167443"
     },
     "location": {
         "latitude": 36.4,

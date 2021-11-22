@@ -6,9 +6,11 @@
     "country": "TR",
     "region": "USK",
     "identifiers": {
-        "national": null,
-        "wmo": "17188",
-        "icao": "LTBO"
+        "$wmo": "17188",
+        "$icao": "LTBO",
+        "$iata": "USQ",
+        "$ghcn": "TUM00017188",
+        "$usaf": "171880"
     },
     "location": {
         "latitude": 38.6667,

@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "RS",
     "identifiers": {
-        "national": null,
-        "wmo": "83981",
-        "icao": "SBBG"
+        "$wmo": "83981",
+        "$icao": "SBBG",
+        "$iata": "BGX",
+        "$usaf": "839810"
     },
     "location": {
         "latitude": -31.35,

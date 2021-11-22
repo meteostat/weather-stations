@@ -6,9 +6,8 @@
     "country": "QA",
     "region": "RA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OTBH"
+        "$icao": "OTBH",
+        "$usaf": "411705"
     },
     "location": {
         "latitude": 25.1173,

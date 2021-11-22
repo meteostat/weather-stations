@@ -6,9 +6,7 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "PAHX"
+        "$icao": "PAHX"
     },
     "location": {
         "latitude": 62.6923,

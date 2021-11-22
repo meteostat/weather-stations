@@ -6,9 +6,7 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMYZ"
+        "$icao": "KMYZ"
     },
     "location": {
         "latitude": 39.8553,

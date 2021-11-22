@@ -1,15 +1,14 @@
 {
     "id": "01205",
     "name": {
-        "en": "Svinoy Lighthouse",
-        "no": "Svinoy Fyr"
+        "no": "Svinoy Fyr",
+        "en": "Svinoy Lighthouse"
     },
     "country": "NO",
     "region": "MR",
     "identifiers": {
-        "national": null,
-        "wmo": "01205",
-        "icao": null
+        "$wmo": "01205",
+        "$usaf": "012050"
     },
     "location": {
         "latitude": 62.3333,

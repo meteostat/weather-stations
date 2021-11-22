@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIWI"
+        "$icao": "KIWI",
+        "$wban": "94623",
+        "$usaf": "727135"
     },
     "location": {
         "latitude": 43.9614,

@@ -6,9 +6,8 @@
     "country": "MH",
     "region": "TI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "PGTI"
+        "$icao": "PGTI",
+        "$usaf": "912113"
     },
     "location": {
         "latitude": 15,

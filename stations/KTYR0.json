@@ -6,9 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTYR"
+        "$icao": "KTYR",
+        "$iata": "TYR",
+        "$wban": "13972",
+        "$usaf": "722448"
     },
     "location": {
         "latitude": 32.3541,

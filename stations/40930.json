@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "BGL",
     "identifiers": {
-        "national": null,
-        "wmo": "40930",
-        "icao": null
+        "$wmo": "40930",
+        "$ghcn": "AF000040930",
+        "$usaf": "409300"
     },
     "location": {
         "latitude": 35.3167,

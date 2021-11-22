@@ -6,9 +6,10 @@
     "country": "MA",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "60141",
-        "icao": "GMFF"
+        "$wmo": "60141",
+        "$icao": "GMFF",
+        "$usaf": "601410",
+        "$mosmix": "60141"
     },
     "location": {
         "latitude": 33.9333,

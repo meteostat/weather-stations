@@ -6,9 +6,8 @@
     "country": "IL",
     "region": "C",
     "identifiers": {
-        "national": null,
-        "wmo": "40179",
-        "icao": null
+        "$wmo": "40179",
+        "$ghcn": "ISE00105694"
     },
     "location": {
         "latitude": 32,

@@ -6,9 +6,8 @@
     "country": "IR",
     "region": "KRB",
     "identifiers": {
-        "national": null,
-        "wmo": "40877",
-        "icao": null
+        "$wmo": "40877",
+        "$usaf": "408770"
     },
     "location": {
         "latitude": 27.9667,

@@ -6,9 +6,8 @@
     "country": "MV",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VRMH"
+        "$icao": "VRMH",
+        "$iata": "HAQ"
     },
     "location": {
         "latitude": 6.7442,

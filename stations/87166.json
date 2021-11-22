@@ -6,9 +6,11 @@
     "country": "AR",
     "region": "W",
     "identifiers": {
-        "national": null,
-        "wmo": "87166",
-        "icao": "SARC"
+        "$wmo": "87166",
+        "$icao": "SARC",
+        "$iata": "CNQ",
+        "$ghcn": "ARM00087166",
+        "$usaf": "871660"
     },
     "location": {
         "latitude": -27.45,

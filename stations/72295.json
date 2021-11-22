@@ -6,9 +6,13 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "72295",
-        "icao": "KLAX"
+        "$wmo": "72295",
+        "$icao": "KLAX",
+        "$iata": "LAX",
+        "$ghcn": "USW00023174",
+        "$wban": "23174",
+        "$usaf": "722950",
+        "$mosmix": "72295"
     },
     "location": {
         "latitude": 33.9333,

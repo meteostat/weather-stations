@@ -6,9 +6,12 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": "72455",
-        "icao": "KFRI"
+        "$wmo": "72455",
+        "$icao": "KFRI",
+        "$iata": "FRI",
+        "$ghcn": "USW00013947",
+        "$wban": "13947",
+        "$usaf": "724550"
     },
     "location": {
         "latitude": 39.05,

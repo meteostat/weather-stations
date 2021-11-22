@@ -6,9 +6,7 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KA39"
+        "$icao": "KA39"
     },
     "location": {
         "latitude": 32.9908,

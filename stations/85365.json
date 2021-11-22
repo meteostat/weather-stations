@@ -6,9 +6,11 @@
     "country": "BO",
     "region": "T",
     "identifiers": {
-        "national": null,
-        "wmo": "85365",
-        "icao": "SLYA"
+        "$wmo": "85365",
+        "$icao": "SLYA",
+        "$iata": "BYC",
+        "$ghcn": "BL000085365",
+        "$usaf": "853650"
     },
     "location": {
         "latitude": -21.95,

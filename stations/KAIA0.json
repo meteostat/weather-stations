@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KAIA"
+        "$icao": "KAIA",
+        "$iata": "AIA",
+        "$wban": "24044",
+        "$usaf": "725635"
     },
     "location": {
         "latitude": 42.0532,

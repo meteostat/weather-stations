@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "PV",
     "identifiers": {
-        "national": null,
-        "wmo": "08025",
-        "icao": "LEBB"
+        "$wmo": "08025",
+        "$icao": "LEBB",
+        "$iata": "BIO",
+        "$ghcn": "SPE00120611",
+        "$usaf": "080250",
+        "$mosmix": "08025"
     },
     "location": {
         "latitude": 43.3,

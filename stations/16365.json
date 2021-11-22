@@ -6,9 +6,8 @@
     "country": "IT",
     "region": "CI",
     "identifiers": {
-        "national": null,
-        "wmo": "16365",
-        "icao": null
+        "$wmo": "16365",
+        "$usaf": "163650"
     },
     "location": {
         "latitude": 38.9053,

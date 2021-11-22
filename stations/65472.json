@@ -6,9 +6,12 @@
     "country": "GH",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "65472",
-        "icao": "DGAA"
+        "$wmo": "65472",
+        "$icao": "DGAA",
+        "$iata": "ACC",
+        "$ghcn": "GHM00065472",
+        "$usaf": "654720",
+        "$mosmix": "65472"
     },
     "location": {
         "latitude": 5.6,

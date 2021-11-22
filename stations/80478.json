@@ -6,9 +6,10 @@
     "country": "VE",
     "region": "N",
     "identifiers": {
-        "national": null,
-        "wmo": "80478",
-        "icao": "SVTR"
+        "$wmo": "80478",
+        "$icao": "SVTR",
+        "$ghcn": "VEM00080478",
+        "$usaf": "804780"
     },
     "location": {
         "latitude": 9.0167,

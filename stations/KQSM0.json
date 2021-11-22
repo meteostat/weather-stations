@@ -6,9 +6,8 @@
     "country": "JP",
     "region": "AO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQSM"
+        "$icao": "KQSM",
+        "$usaf": "475805"
     },
     "location": {
         "latitude": 40.6833,

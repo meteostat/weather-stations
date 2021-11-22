@@ -6,9 +6,11 @@
     "country": "NE",
     "region": "TH",
     "identifiers": {
-        "national": null,
-        "wmo": "61043",
-        "icao": "DRRT"
+        "$wmo": "61043",
+        "$icao": "DRRT",
+        "$iata": "THZ",
+        "$ghcn": "NG000061043",
+        "$usaf": "610430"
     },
     "location": {
         "latitude": 14.9,

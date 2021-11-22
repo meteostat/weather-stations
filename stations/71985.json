@@ -6,9 +6,12 @@
     "country": "CA",
     "region": "NT",
     "identifiers": {
-        "national": "26987",
-        "wmo": "71985",
-        "icao": "CZUB"
+        "$national": "26987",
+        "$wmo": "71985",
+        "$icao": "CZUB",
+        "$iata": "YUB",
+        "$ghcn": "CA002203914",
+        "$usaf": "719850"
     },
     "location": {
         "latitude": 69.43,

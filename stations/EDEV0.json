@@ -6,9 +6,8 @@
     "country": "DE",
     "region": "HE",
     "identifiers": {
-        "national": "03442",
-        "wmo": null,
-        "icao": "EDEV"
+        "$national": "03442",
+        "$icao": "EDEV"
     },
     "location": {
         "latitude": 50.3333,

@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YPMQ"
+        "$icao": "YPMQ",
+        "$iata": "PQQ"
     },
     "location": {
         "latitude": -31.4358,

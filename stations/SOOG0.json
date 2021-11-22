@@ -6,9 +6,9 @@
     "country": "GF",
     "region": "CY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SOOG"
+        "$icao": "SOOG",
+        "$iata": "OYP",
+        "$usaf": "814080"
     },
     "location": {
         "latitude": 3.8976,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KNYC"
+        "$icao": "KNYC",
+        "$wban": "94728",
+        "$usaf": "725033"
     },
     "location": {
         "latitude": 40.7789,

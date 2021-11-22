@@ -6,9 +6,10 @@
     "country": "US",
     "region": "ND",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMOT"
+        "$icao": "KMOT",
+        "$iata": "MOT",
+        "$wban": "24013",
+        "$usaf": "727676"
     },
     "location": {
         "latitude": 48.2576,

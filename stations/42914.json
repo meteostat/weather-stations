@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "GJ",
     "identifiers": {
-        "national": null,
-        "wmo": "42914",
-        "icao": null
+        "$wmo": "42914",
+        "$usaf": "429140"
     },
     "location": {
         "latitude": 20.7167,

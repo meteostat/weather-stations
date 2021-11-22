@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "FS",
     "identifiers": {
-        "national": null,
-        "wmo": "68352",
-        "icao": "FAKS"
+        "$wmo": "68352",
+        "$icao": "FAKS",
+        "$usaf": "683520"
     },
     "location": {
         "latitude": -27.6667,

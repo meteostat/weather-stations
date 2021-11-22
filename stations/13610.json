@@ -6,9 +6,10 @@
     "country": "AL",
     "region": "KU",
     "identifiers": {
-        "national": null,
-        "wmo": "13610",
-        "icao": "LAKU"
+        "$wmo": "13610",
+        "$icao": "LAKU",
+        "$usaf": "136100",
+        "$mosmix": "13610"
     },
     "location": {
         "latitude": 42.0333,

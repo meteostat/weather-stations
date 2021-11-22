@@ -6,9 +6,12 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": "48550",
-        "wmo": "71871",
-        "icao": "CYLL"
+        "$national": "48550",
+        "$wmo": "71871",
+        "$icao": "CYLL",
+        "$iata": "YLL",
+        "$ghcn": "CA003013959",
+        "$usaf": "718710"
     },
     "location": {
         "latitude": 53.31,

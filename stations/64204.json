@@ -6,9 +6,10 @@
     "country": "CD",
     "region": "BC",
     "identifiers": {
-        "national": null,
-        "wmo": "64204",
-        "icao": "FZAJ"
+        "$wmo": "64204",
+        "$icao": "FZAJ",
+        "$iata": "BOA",
+        "$ghcn": "CGM00064204"
     },
     "location": {
         "latitude": -5.85,

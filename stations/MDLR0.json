@@ -6,9 +6,9 @@
     "country": "DO",
     "region": "RO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MDLR"
+        "$icao": "MDLR",
+        "$iata": "LRM",
+        "$usaf": "784785"
     },
     "location": {
         "latitude": 18.4167,

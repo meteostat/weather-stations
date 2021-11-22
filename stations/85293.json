@@ -6,9 +6,11 @@
     "country": "BO",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": "85293",
-        "icao": "SLPO"
+        "$wmo": "85293",
+        "$icao": "SLPO",
+        "$iata": "POI",
+        "$ghcn": "BLM00085293",
+        "$usaf": "852930"
     },
     "location": {
         "latitude": -19.55,

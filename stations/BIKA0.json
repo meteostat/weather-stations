@@ -6,9 +6,8 @@
     "country": "IS",
     "region": "VL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "BIKA"
+        "$icao": "BIKA",
+        "$usaf": "749127"
     },
     "location": {
         "latitude": 64.7789,

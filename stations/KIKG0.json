@@ -6,9 +6,7 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIKG"
+        "$icao": "KIKG"
     },
     "location": {
         "latitude": 27.5509,

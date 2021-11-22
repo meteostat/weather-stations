@@ -6,9 +6,8 @@
     "country": "LT",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EYPP"
+        "$icao": "EYPP",
+        "$usaf": "265290"
     },
     "location": {
         "latitude": 55.7297,

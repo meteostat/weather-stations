@@ -6,9 +6,10 @@
     "country": "MR",
     "region": "SL",
     "identifiers": {
-        "national": null,
-        "wmo": "61489",
-        "icao": "GQNR"
+        "$wmo": "61489",
+        "$icao": "GQNR",
+        "$ghcn": "MR000001489",
+        "$usaf": "614890"
     },
     "location": {
         "latitude": 16.5,

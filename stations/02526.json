@@ -2,15 +2,16 @@
     "id": "02526",
     "name": {
         "de": "Goteborg Landvetter Flughafen",
-        "en": "Goteborg Landvetter Airport",
-        "sv": "Goteborg Landvetter Flygplats"
+        "sv": "Goteborg Landvetter Flygplats",
+        "en": "Goteborg Landvetter Airport"
     },
     "country": "SE",
     "region": "VG",
     "identifiers": {
-        "national": null,
-        "wmo": "02526",
-        "icao": "ESGG"
+        "$wmo": "02526",
+        "$icao": "ESGG",
+        "$iata": "GOT",
+        "$usaf": "025260"
     },
     "location": {
         "latitude": 57.6667,

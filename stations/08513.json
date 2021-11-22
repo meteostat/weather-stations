@@ -6,9 +6,8 @@
     "country": "PT",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": "08513",
-        "icao": null
+        "$wmo": "08513",
+        "$mosmix": "08513"
     },
     "location": {
         "latitude": 37.75,

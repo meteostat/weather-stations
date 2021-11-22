@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KASW"
+        "$icao": "KASW",
+        "$wban": "54809",
+        "$usaf": "720266"
     },
     "location": {
         "latitude": 41.2747,

@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YAYE"
+        "$icao": "YAYE",
+        "$iata": "AYQ"
     },
     "location": {
         "latitude": -25.1861,

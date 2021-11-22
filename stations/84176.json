@@ -6,9 +6,9 @@
     "country": "EC",
     "region": "H",
     "identifiers": {
-        "national": null,
-        "wmo": "84176",
-        "icao": "SERB"
+        "$wmo": "84176",
+        "$icao": "SERB",
+        "$usaf": "841760"
     },
     "location": {
         "latitude": -1.6333,

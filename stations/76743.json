@@ -6,9 +6,10 @@
     "country": "MX",
     "region": "TAB",
     "identifiers": {
-        "national": null,
-        "wmo": "76743",
-        "icao": null
+        "$wmo": "76743",
+        "$ghcn": "MXM00076743",
+        "$usaf": "767430",
+        "$mosmix": "76743"
     },
     "location": {
         "latitude": 17.9833,

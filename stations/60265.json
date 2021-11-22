@@ -6,9 +6,11 @@
     "country": "MA",
     "region": "SM",
     "identifiers": {
-        "national": null,
-        "wmo": "60265",
-        "icao": "GMMZ"
+        "$wmo": "60265",
+        "$icao": "GMMZ",
+        "$iata": "OZZ",
+        "$ghcn": "MO000060265",
+        "$usaf": "602650"
     },
     "location": {
         "latitude": 30.9333,

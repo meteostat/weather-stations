@@ -6,9 +6,8 @@
     "country": "DO",
     "region": "HM",
     "identifiers": {
-        "national": null,
-        "wmo": "78467",
-        "icao": null
+        "$wmo": "78467",
+        "$wban": "11646"
     },
     "location": {
         "latitude": 19.05,

@@ -6,9 +6,10 @@
     "country": "IR",
     "region": "FAR",
     "identifiers": {
-        "national": null,
-        "wmo": "40859",
-        "icao": "OISF"
+        "$wmo": "40859",
+        "$icao": "OISF",
+        "$iata": "FAZ",
+        "$usaf": "408590"
     },
     "location": {
         "latitude": 28.9667,

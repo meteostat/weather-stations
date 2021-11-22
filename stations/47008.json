@@ -6,9 +6,8 @@
     "country": "KP",
     "region": "HAB",
     "identifiers": {
-        "national": null,
-        "wmo": "47008",
-        "icao": null
+        "$wmo": "47008",
+        "$mosmix": "47008"
     },
     "location": {
         "latitude": 41.7833,

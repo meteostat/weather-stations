@@ -6,9 +6,10 @@
     "country": "IS",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": "04077",
-        "icao": "BIRG"
+        "$wmo": "04077",
+        "$icao": "BIRG",
+        "$iata": "RFN",
+        "$usaf": "040770"
     },
     "location": {
         "latitude": 66.45,

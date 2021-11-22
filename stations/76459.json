@@ -6,9 +6,10 @@
     "country": "MX",
     "region": "SIN",
     "identifiers": {
-        "national": null,
-        "wmo": "76459",
-        "icao": "MMMZ"
+        "$wmo": "76459",
+        "$icao": "MMMZ",
+        "$iata": "MZT",
+        "$usaf": "764593"
     },
     "location": {
         "latitude": 23.1614,

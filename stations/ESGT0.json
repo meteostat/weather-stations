@@ -6,9 +6,9 @@
     "country": "SE",
     "region": "VG",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ESGT"
+        "$icao": "ESGT",
+        "$iata": "THN",
+        "$usaf": "025103"
     },
     "location": {
         "latitude": 58.3167,

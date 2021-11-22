@@ -6,9 +6,9 @@
     "country": "FJ",
     "region": "E",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "NFKD"
+        "$icao": "NFKD",
+        "$iata": "KDV",
+        "$usaf": "916930"
     },
     "location": {
         "latitude": -19.0581,

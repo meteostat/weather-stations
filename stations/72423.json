@@ -6,9 +6,13 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": "72423",
-        "icao": "KSDF"
+        "$wmo": "72423",
+        "$icao": "KSDF",
+        "$iata": "SDF",
+        "$ghcn": "USW00093821",
+        "$wban": "93821",
+        "$usaf": "724230",
+        "$mosmix": "72423"
     },
     "location": {
         "latitude": 38.1833,

@@ -6,9 +6,8 @@
     "country": "SR",
     "region": "SI",
     "identifiers": {
-        "national": null,
-        "wmo": "81250",
-        "icao": "SMTB"
+        "$wmo": "81250",
+        "$icao": "SMTB"
     },
     "location": {
         "latitude": 3.7833,

@@ -6,9 +6,12 @@
     "country": "DE",
     "region": "MV",
     "identifiers": {
-        "national": "00298",
-        "wmo": "10180",
-        "icao": "EDBH"
+        "$national": "00298",
+        "$wmo": "10180",
+        "$icao": "EDBH",
+        "$iata": "BBH",
+        "$ghcn": "GMM00010180",
+        "$mosmix": "10180"
     },
     "location": {
         "latitude": 54.3333,

@@ -6,9 +6,12 @@
     "country": "FR",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "07005",
-        "icao": "LFOI"
+        "$wmo": "07005",
+        "$icao": "LFOI",
+        "$iata": "XAB",
+        "$ghcn": "FRM00007005",
+        "$usaf": "070050",
+        "$mosmix": "07005"
     },
     "location": {
         "latitude": 50.1333,

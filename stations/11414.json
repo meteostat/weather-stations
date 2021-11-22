@@ -6,9 +6,11 @@
     "country": "CZ",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "11414",
-        "icao": "LKKV"
+        "$wmo": "11414",
+        "$icao": "LKKV",
+        "$iata": "KLV",
+        "$usaf": "114140",
+        "$mosmix": "11414"
     },
     "location": {
         "latitude": 50.2,

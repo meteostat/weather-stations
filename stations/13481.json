@@ -6,9 +6,10 @@
     "country": "RS",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "13481",
-        "icao": "LYPR"
+        "$wmo": "13481",
+        "$icao": "LYPR",
+        "$usaf": "134810",
+        "$mosmix": "13481"
     },
     "location": {
         "latitude": 42.5667,

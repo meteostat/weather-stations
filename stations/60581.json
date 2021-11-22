@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "OUA",
     "identifiers": {
-        "national": null,
-        "wmo": "60581",
-        "icao": "DAUH"
+        "$wmo": "60581",
+        "$icao": "DAUH",
+        "$iata": "HME",
+        "$ghcn": "AGM00060581",
+        "$usaf": "605810"
     },
     "location": {
         "latitude": 31.6667,

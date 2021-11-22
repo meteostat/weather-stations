@@ -6,9 +6,8 @@
     "country": "NZ",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "93577",
-        "icao": "NZWB"
+        "$wmo": "93577",
+        "$icao": "NZWB"
     },
     "location": {
         "latitude": -41.5167,

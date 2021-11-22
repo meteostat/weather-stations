@@ -6,9 +6,12 @@
     "country": "DE",
     "region": "HE",
     "identifiers": {
-        "national": "01504",
-        "wmo": "10439",
-        "icao": "ETHF"
+        "$national": "01504",
+        "$wmo": "10439",
+        "$icao": "ETHF",
+        "$iata": "FRZ",
+        "$usaf": "104390",
+        "$mosmix": "10439"
     },
     "location": {
         "latitude": 51.1167,

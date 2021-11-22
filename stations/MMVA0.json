@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "TAB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMVA"
+        "$icao": "MMVA",
+        "$iata": "VSA",
+        "$usaf": "767433"
     },
     "location": {
         "latitude": 17.9968,

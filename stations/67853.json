@@ -6,9 +6,12 @@
     "country": "ZW",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": "67853",
-        "icao": "FVWN"
+        "$wmo": "67853",
+        "$icao": "FVWN",
+        "$iata": "HWN",
+        "$ghcn": "ZI000067853",
+        "$usaf": "678530",
+        "$mosmix": "67853"
     },
     "location": {
         "latitude": -18.6333,

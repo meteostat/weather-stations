@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "MS",
     "identifiers": {
-        "national": null,
-        "wmo": "83612",
-        "icao": "SBCG"
+        "$wmo": "83612",
+        "$icao": "SBCG",
+        "$iata": "CGR",
+        "$usaf": "836120"
     },
     "location": {
         "latitude": -20.4667,

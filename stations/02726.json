@@ -1,15 +1,14 @@
 {
     "id": "02726",
     "name": {
-        "en": "Enontekio Nakkala",
-        "fi": "Enontekio Näkkälä"
+        "fi": "Enontekio Näkkälä",
+        "en": "Enontekio Nakkala"
     },
     "country": "FI",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": "02726",
-        "icao": null
+        "$wmo": "02726",
+        "$usaf": "027260"
     },
     "location": {
         "latitude": 68.6,

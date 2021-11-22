@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "DIF",
     "identifiers": {
-        "national": null,
-        "wmo": "76681",
-        "icao": null
+        "$wmo": "76681",
+        "$ghcn": "MXM00076681",
+        "$usaf": "766810"
     },
     "location": {
         "latitude": 19.3167,

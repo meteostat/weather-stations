@@ -6,9 +6,11 @@
     "country": "LK",
     "region": "WE",
     "identifiers": {
-        "national": null,
-        "wmo": "43450",
-        "icao": "VCBI"
+        "$wmo": "43450",
+        "$icao": "VCBI",
+        "$iata": "CMB",
+        "$usaf": "434500",
+        "$mosmix": "43450"
     },
     "location": {
         "latitude": 7.1667,

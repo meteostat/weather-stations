@@ -6,9 +6,10 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOSU"
+        "$icao": "KOSU",
+        "$iata": "OSU",
+        "$wban": "04804",
+        "$usaf": "724288"
     },
     "location": {
         "latitude": 40.0798,

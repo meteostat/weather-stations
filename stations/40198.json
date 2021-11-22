@@ -6,9 +6,10 @@
     "country": "IL",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "40198",
-        "icao": "LLOV"
+        "$wmo": "40198",
+        "$icao": "LLOV",
+        "$iata": "VDA",
+        "$usaf": "401980"
     },
     "location": {
         "latitude": 30,

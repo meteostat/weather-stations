@@ -6,9 +6,8 @@
     "country": "AT",
     "region": "NO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LOXN"
+        "$icao": "LOXN",
+        "$usaf": "110165"
     },
     "location": {
         "latitude": 47.84,

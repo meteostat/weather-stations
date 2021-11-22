@@ -6,9 +6,8 @@
     "country": "PK",
     "region": "JK",
     "identifiers": {
-        "national": null,
-        "wmo": "41532",
-        "icao": null
+        "$wmo": "41532",
+        "$ghcn": "PKM00041532"
     },
     "location": {
         "latitude": 34.3667,

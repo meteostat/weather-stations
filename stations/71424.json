@@ -6,12 +6,14 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": "8989",
-        "wmo": "71424",
-        "icao": "CWER"
+        "$national": "8989",
+        "$wmo": "71424",
+        "$icao": "CWER",
+        "$ghcn": "CA0070132G9",
+        "$usaf": "714240"
     },
     "location": {
-        "latitude": 47.0,
+        "latitude": 47,
         "longitude": -70.81,
         "elevation": 4
     },

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOGA"
+        "$icao": "KOGA",
+        "$wban": "94063",
+        "$usaf": "725621"
     },
     "location": {
         "latitude": 41.1195,

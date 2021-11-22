@@ -6,9 +6,9 @@
     "country": "PA",
     "region": "BT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MPBO"
+        "$icao": "MPBO",
+        "$iata": "BOC",
+        "$usaf": "787935"
     },
     "location": {
         "latitude": 9.35,

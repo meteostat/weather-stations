@@ -6,9 +6,9 @@
     "country": "IE",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": "03976",
-        "icao": null
+        "$wmo": "03976",
+        "$ghcn": "EIM00003976",
+        "$mosmix": "03976"
     },
     "location": {
         "latitude": 54.2333,

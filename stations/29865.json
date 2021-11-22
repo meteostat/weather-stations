@@ -6,9 +6,10 @@
     "country": "RU",
     "region": "KK",
     "identifiers": {
-        "national": null,
-        "wmo": "29865",
-        "icao": "UNAA"
+        "$wmo": "29865",
+        "$icao": "UNAA",
+        "$iata": "ABA",
+        "$usaf": "287854"
     },
     "location": {
         "latitude": 53.75,

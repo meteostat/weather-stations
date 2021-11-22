@@ -6,9 +6,10 @@
     "country": "CU",
     "region": "CF",
     "identifiers": {
-        "national": null,
-        "wmo": "78244",
-        "icao": "MUCF"
+        "$wmo": "78244",
+        "$icao": "MUCF",
+        "$iata": "CFG",
+        "$usaf": "782440"
     },
     "location": {
         "latitude": 22.15,

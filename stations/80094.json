@@ -6,9 +6,11 @@
     "country": "CO",
     "region": "SAN",
     "identifiers": {
-        "national": null,
-        "wmo": "80094",
-        "icao": "SKBG"
+        "$wmo": "80094",
+        "$icao": "SKBG",
+        "$iata": "BGA",
+        "$ghcn": "COM00080094",
+        "$usaf": "800940"
     },
     "location": {
         "latitude": 7.1,

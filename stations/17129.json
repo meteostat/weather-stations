@@ -6,9 +6,10 @@
     "country": "TR",
     "region": "ANK",
     "identifiers": {
-        "national": null,
-        "wmo": "17129",
-        "icao": "LTAD"
+        "$wmo": "17129",
+        "$icao": "LTAD",
+        "$iata": "ANK",
+        "$usaf": "171290"
     },
     "location": {
         "latitude": 39.95,

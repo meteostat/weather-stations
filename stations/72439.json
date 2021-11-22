@@ -6,9 +6,12 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": "72439",
-        "icao": "KSPI"
+        "$wmo": "72439",
+        "$icao": "KSPI",
+        "$iata": "SPI",
+        "$ghcn": "USW00093822",
+        "$wban": "93822",
+        "$usaf": "724390"
     },
     "location": {
         "latitude": 39.8442,

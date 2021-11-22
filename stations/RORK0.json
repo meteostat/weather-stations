@@ -6,9 +6,9 @@
     "country": "JP",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RORK"
+        "$icao": "RORK",
+        "$iata": "KTD",
+        "$usaf": "479455"
     },
     "location": {
         "latitude": 25.9167,

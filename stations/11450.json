@@ -6,9 +6,8 @@
     "country": "CZ",
     "region": "PL",
     "identifiers": {
-        "national": null,
-        "wmo": "11450",
-        "icao": null
+        "$wmo": "11450",
+        "$mosmix": "11450"
     },
     "location": {
         "latitude": 49.7647,

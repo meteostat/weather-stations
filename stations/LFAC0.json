@@ -6,9 +6,8 @@
     "country": "FR",
     "region": "O",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LFAC"
+        "$icao": "LFAC",
+        "$iata": "CQF"
     },
     "location": {
         "latitude": 50.9667,

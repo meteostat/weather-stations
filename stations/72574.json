@@ -6,9 +6,12 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "national": null,
-        "wmo": "72574",
-        "icao": "KRKS"
+        "$wmo": "72574",
+        "$icao": "KRKS",
+        "$iata": "RKS",
+        "$ghcn": "USW00004131",
+        "$wban": "24027",
+        "$usaf": "725744"
     },
     "location": {
         "latitude": 41.6,

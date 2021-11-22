@@ -6,9 +6,11 @@
     "country": "CN",
     "region": "FJ",
     "identifiers": {
-        "national": null,
-        "wmo": "58847",
-        "icao": "ZSFZ"
+        "$wmo": "58847",
+        "$icao": "ZSFZ",
+        "$iata": "FOC",
+        "$ghcn": "CHM00058847",
+        "$mosmix": "58847"
     },
     "location": {
         "latitude": 26.0833,

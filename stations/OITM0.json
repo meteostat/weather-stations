@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "EA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OITM"
+        "$icao": "OITM",
+        "$iata": "ACP",
+        "$usaf": "407130"
     },
     "location": {
         "latitude": 37.348,

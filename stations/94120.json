@@ -6,9 +6,12 @@
     "country": "AU",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": "94120",
-        "icao": "YPDN"
+        "$wmo": "94120",
+        "$icao": "YPDN",
+        "$iata": "DRW",
+        "$ghcn": "ASN00014015",
+        "$usaf": "941200",
+        "$mosmix": "94120"
     },
     "location": {
         "latitude": -12.4,

@@ -6,9 +6,8 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHQG"
+        "$icao": "KHQG",
+        "$usaf": "720425"
     },
     "location": {
         "latitude": 37.1631,

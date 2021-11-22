@@ -6,9 +6,9 @@
     "country": "US",
     "region": "VT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEFK"
+        "$icao": "KEFK",
+        "$wban": "54758",
+        "$usaf": "720493"
     },
     "location": {
         "latitude": 44.8888,

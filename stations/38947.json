@@ -6,9 +6,8 @@
     "country": "TJ",
     "region": "KDZ",
     "identifiers": {
-        "national": null,
-        "wmo": "38947",
-        "icao": null
+        "$wmo": "38947",
+        "$ghcn": "TI000038947"
     },
     "location": {
         "latitude": 37.2333,

@@ -6,9 +6,8 @@
     "country": "HU",
     "region": "BK",
     "identifiers": {
-        "national": null,
-        "wmo": "12960",
-        "icao": null
+        "$wmo": "12960",
+        "$usaf": "129600"
     },
     "location": {
         "latitude": 46.1833,

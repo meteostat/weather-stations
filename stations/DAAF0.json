@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "TAM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DAAF"
+        "$icao": "DAAF",
+        "$usaf": "606250"
     },
     "location": {
         "latitude": 26.9667,

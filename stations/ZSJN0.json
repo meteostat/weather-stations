@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZSJN"
+        "$icao": "ZSJN",
+        "$iata": "TNA",
+        "$usaf": "579931"
     },
     "location": {
         "latitude": 36.8572,

@@ -6,9 +6,12 @@
     "country": "FI",
     "region": "OU",
     "identifiers": {
-        "national": null,
-        "wmo": "02869",
-        "icao": "EFKS"
+        "$wmo": "02869",
+        "$icao": "EFKS",
+        "$iata": "KAO",
+        "$ghcn": "FIE00146062",
+        "$usaf": "028690",
+        "$mosmix": "02869"
     },
     "location": {
         "latitude": 65.9667,

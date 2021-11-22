@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "ANT",
     "identifiers": {
-        "national": null,
-        "wmo": "80062",
-        "icao": "SKTU"
+        "$wmo": "80062",
+        "$icao": "SKTU",
+        "$iata": "TRB"
     },
     "location": {
         "latitude": 8.1167,

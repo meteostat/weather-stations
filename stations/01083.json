@@ -6,9 +6,10 @@
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "national": null,
-        "wmo": "01083",
-        "icao": "ENBV"
+        "$wmo": "01083",
+        "$icao": "ENBV",
+        "$iata": "BVG",
+        "$usaf": "010830"
     },
     "location": {
         "latitude": 70.8667,

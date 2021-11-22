@@ -6,9 +6,10 @@
     "country": "PL",
     "region": "LO",
     "identifiers": {
-        "national": null,
-        "wmo": "12465",
-        "icao": "EPLL"
+        "$wmo": "12465",
+        "$icao": "EPLL",
+        "$iata": "LCJ",
+        "$mosmix": "12465"
     },
     "location": {
         "latitude": 51.7333,

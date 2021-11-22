@@ -6,9 +6,8 @@
     "country": "SK",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "11819",
-        "icao": null
+        "$wmo": "11819",
+        "$mosmix": "11819"
     },
     "location": {
         "latitude": 48.4833,

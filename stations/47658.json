@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "SZ",
     "identifiers": {
-        "national": null,
-        "wmo": "47658",
-        "icao": "RJNY"
+        "$wmo": "47658",
+        "$icao": "RJNY",
+        "$usaf": "476580"
     },
     "location": {
         "latitude": 34.8167,

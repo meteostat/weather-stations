@@ -6,9 +6,9 @@
     "country": "EG",
     "region": "WJD",
     "identifiers": {
-        "national": null,
-        "wmo": "62435",
-        "icao": null
+        "$wmo": "62435",
+        "$ghcn": "EGM00062435",
+        "$usaf": "624350"
     },
     "location": {
         "latitude": 25.45,

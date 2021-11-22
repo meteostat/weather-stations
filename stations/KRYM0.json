@@ -6,9 +6,8 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRYM"
+        "$icao": "KRYM",
+        "$usaf": "744667"
     },
     "location": {
         "latitude": 46.0912,

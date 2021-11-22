@@ -6,9 +6,11 @@
     "country": "CL",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": "85743",
-        "icao": "SCTC"
+        "$wmo": "85743",
+        "$icao": "SCTC",
+        "$iata": "ZCO",
+        "$ghcn": "CI000085743",
+        "$usaf": "857430"
     },
     "location": {
         "latitude": -38.75,

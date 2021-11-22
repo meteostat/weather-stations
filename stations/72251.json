@@ -6,9 +6,12 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": "72251",
-        "icao": "KCRP"
+        "$wmo": "72251",
+        "$icao": "KCRP",
+        "$iata": "CRP",
+        "$ghcn": "USW00012924",
+        "$wban": "12924",
+        "$usaf": "722510"
     },
     "location": {
         "latitude": 27.7667,

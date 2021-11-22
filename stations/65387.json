@@ -6,9 +6,12 @@
     "country": "TG",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": "65387",
-        "icao": "DXXX"
+        "$wmo": "65387",
+        "$icao": "DXXX",
+        "$iata": "LFW",
+        "$ghcn": "TOM00065387",
+        "$usaf": "653870",
+        "$mosmix": "65387"
     },
     "location": {
         "latitude": 6.1667,

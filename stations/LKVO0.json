@@ -6,9 +6,7 @@
     "country": "CZ",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LKVO"
+        "$icao": "LKVO"
     },
     "location": {
         "latitude": 50.2166,

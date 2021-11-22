@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "MM",
     "identifiers": {
-        "national": null,
-        "wmo": "43157",
-        "icao": "VAKP"
+        "$wmo": "43157",
+        "$icao": "VAKP",
+        "$iata": "KLH",
+        "$ghcn": "IN012131800",
+        "$usaf": "431570"
     },
     "location": {
         "latitude": 16.7,

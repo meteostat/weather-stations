@@ -6,9 +6,8 @@
     "country": "PH",
     "region": "PAN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPUG"
+        "$icao": "RPUG",
+        "$usaf": "983250"
     },
     "location": {
         "latitude": 16.0348,

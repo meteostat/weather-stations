@@ -6,9 +6,10 @@
     "country": "TN",
     "region": "SO",
     "identifiers": {
-        "national": null,
-        "wmo": "60731",
-        "icao": "DTNH"
+        "$wmo": "60731",
+        "$icao": "DTNH",
+        "$iata": "NBE",
+        "$usaf": "607310"
     },
     "location": {
         "latitude": 36.0667,

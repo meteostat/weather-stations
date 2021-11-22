@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RORS"
+        "$icao": "RORS",
+        "$iata": "SHI",
+        "$usaf": "479276"
     },
     "location": {
         "latitude": 24.8333,

@@ -6,9 +6,10 @@
     "country": "PH",
     "region": "MAS",
     "identifiers": {
-        "national": null,
-        "wmo": "98543",
-        "icao": "RPVM"
+        "$wmo": "98543",
+        "$icao": "RPVM",
+        "$iata": "MBT",
+        "$usaf": "986460"
     },
     "location": {
         "latitude": 12.3667,

@@ -6,9 +6,12 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "72526",
-        "icao": "KERI"
+        "$wmo": "72526",
+        "$icao": "KERI",
+        "$iata": "ERI",
+        "$ghcn": "USW00014860",
+        "$wban": "14860",
+        "$usaf": "725260"
     },
     "location": {
         "latitude": 42.0833,

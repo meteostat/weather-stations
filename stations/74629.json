@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "national": null,
-        "wmo": "74629",
-        "icao": "KWSD"
+        "$wmo": "74629",
+        "$icao": "KWSD",
+        "$wban": "93098"
     },
     "location": {
         "latitude": 32.4,

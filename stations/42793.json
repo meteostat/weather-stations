@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": "42793",
-        "icao": "VERK"
+        "$wmo": "42793",
+        "$icao": "VERK",
+        "$iata": "RRK"
     },
     "location": {
         "latitude": 22.2167,

@@ -6,9 +6,11 @@
     "country": "CO",
     "region": "RIS",
     "identifiers": {
-        "national": null,
-        "wmo": "80210",
-        "icao": "SKPE"
+        "$wmo": "80210",
+        "$icao": "SKPE",
+        "$iata": "PEI",
+        "$ghcn": "COM00080210",
+        "$usaf": "802100"
     },
     "location": {
         "latitude": 4.8167,

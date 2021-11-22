@@ -6,9 +6,11 @@
     "country": "GE",
     "region": "AJ",
     "identifiers": {
-        "national": null,
-        "wmo": "37484",
-        "icao": "UGSB"
+        "$wmo": "37484",
+        "$icao": "UGSB",
+        "$iata": "BUS",
+        "$ghcn": "GG000037484",
+        "$usaf": "374840"
     },
     "location": {
         "latitude": 41.65,

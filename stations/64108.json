@@ -6,9 +6,11 @@
     "country": "CD",
     "region": "BN",
     "identifiers": {
-        "national": null,
-        "wmo": "64108",
-        "icao": "FZBO"
+        "$wmo": "64108",
+        "$icao": "FZBO",
+        "$iata": "FDU",
+        "$ghcn": "CGM00064108",
+        "$usaf": "641080"
     },
     "location": {
         "latitude": -3.3,

@@ -6,9 +6,8 @@
     "country": "JO",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": "40341",
-        "icao": null
+        "$wmo": "40341",
+        "$mosmix": "40341"
     },
     "location": {
         "latitude": 29.4833,

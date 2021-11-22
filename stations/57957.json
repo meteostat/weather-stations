@@ -6,9 +6,12 @@
     "country": "CN",
     "region": "GX",
     "identifiers": {
-        "national": null,
-        "wmo": "57957",
-        "icao": "ZGKL"
+        "$wmo": "57957",
+        "$icao": "ZGKL",
+        "$iata": "KWL",
+        "$ghcn": "CHM00057957",
+        "$usaf": "579570",
+        "$mosmix": "57957"
     },
     "location": {
         "latitude": 25.3333,

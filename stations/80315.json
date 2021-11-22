@@ -6,9 +6,11 @@
     "country": "CO",
     "region": "HUI",
     "identifiers": {
-        "national": null,
-        "wmo": "80315",
-        "icao": "SKNV"
+        "$wmo": "80315",
+        "$icao": "SKNV",
+        "$iata": "NVA",
+        "$ghcn": "COM00080315",
+        "$usaf": "803150"
     },
     "location": {
         "latitude": 2.9667,

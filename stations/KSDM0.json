@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSDM"
+        "$icao": "KSDM",
+        "$iata": "SDM",
+        "$wban": "03178",
+        "$usaf": "722904"
     },
     "location": {
         "latitude": 32.5723,

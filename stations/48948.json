@@ -6,9 +6,10 @@
     "country": "LA",
     "region": "SV",
     "identifiers": {
-        "national": null,
-        "wmo": "48948",
-        "icao": "VLIS"
+        "$wmo": "48948",
+        "$icao": "VLIS",
+        "$ghcn": "LAM00048948",
+        "$usaf": "489480"
     },
     "location": {
         "latitude": 16.6667,

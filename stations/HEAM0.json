@@ -6,9 +6,8 @@
     "country": "EG",
     "region": "MNY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HEAM"
+        "$icao": "HEAM",
+        "$usaf": "623663"
     },
     "location": {
         "latitude": 28,

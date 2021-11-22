@@ -6,9 +6,8 @@
     "country": "EG",
     "region": "C",
     "identifiers": {
-        "national": null,
-        "wmo": "62372",
-        "icao": "HEAZ"
+        "$wmo": "62372",
+        "$icao": "HEAZ"
     },
     "location": {
         "latitude": 30.0918,

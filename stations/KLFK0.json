@@ -6,9 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLFK"
+        "$icao": "KLFK",
+        "$iata": "LFK",
+        "$wban": "93987",
+        "$usaf": "722446"
     },
     "location": {
         "latitude": 31.234,

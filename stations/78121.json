@@ -6,9 +6,10 @@
     "country": "BS",
     "region": "INA",
     "identifiers": {
-        "national": null,
-        "wmo": "78121",
-        "icao": "MYIG"
+        "$wmo": "78121",
+        "$icao": "MYIG",
+        "$iata": "IGA",
+        "$usaf": "781210"
     },
     "location": {
         "latitude": 20.95,

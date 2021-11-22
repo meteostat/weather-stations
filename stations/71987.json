@@ -6,13 +6,15 @@
     "country": "CA",
     "region": "PE",
     "identifiers": {
-        "national": "10814",
-        "wmo": "71987",
-        "icao": "CWNE"
+        "$national": "10814",
+        "$wmo": "71987",
+        "$icao": "CWNE",
+        "$ghcn": "CA008300516",
+        "$usaf": "719870"
     },
     "location": {
         "latitude": 47.06,
-        "longitude": -64.0,
+        "longitude": -64,
         "elevation": 8
     },
     "timezone": "America/Halifax"

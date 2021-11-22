@@ -1,15 +1,14 @@
 {
     "id": "01350",
     "name": {
-        "en": "Finsevatnet",
-        "no": "Finsevatn"
+        "no": "Finsevatn",
+        "en": "Finsevatnet"
     },
     "country": "NO",
     "region": "46",
     "identifiers": {
-        "national": null,
-        "wmo": "01350",
-        "icao": null
+        "$wmo": "01350",
+        "$usaf": "013500"
     },
     "location": {
         "latitude": 60.6,

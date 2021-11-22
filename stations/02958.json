@@ -6,9 +6,12 @@
     "country": "FI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "02958",
-        "icao": "EFLP"
+        "$wmo": "02958",
+        "$icao": "EFLP",
+        "$iata": "LPP",
+        "$ghcn": "FIE00143231",
+        "$usaf": "029580",
+        "$mosmix": "02958"
     },
     "location": {
         "latitude": 61.0333,

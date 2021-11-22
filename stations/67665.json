@@ -6,9 +6,10 @@
     "country": "ZM",
     "region": "LK",
     "identifiers": {
-        "national": null,
-        "wmo": "67665",
-        "icao": "FLLS"
+        "$wmo": "67665",
+        "$icao": "FLLS",
+        "$iata": "LUN",
+        "$mosmix": "67665"
     },
     "location": {
         "latitude": -15.3167,

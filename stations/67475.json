@@ -6,9 +6,11 @@
     "country": "ZM",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "67475",
-        "icao": "FLKS"
+        "$wmo": "67475",
+        "$icao": "FLKS",
+        "$iata": "KAA",
+        "$ghcn": "ZA000067475",
+        "$usaf": "674750"
     },
     "location": {
         "latitude": -10.2167,

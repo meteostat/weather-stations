@@ -6,9 +6,9 @@
     "country": "CD",
     "region": "KE",
     "identifiers": {
-        "national": null,
-        "wmo": "64146",
-        "icao": "FZVA"
+        "$wmo": "64146",
+        "$icao": "FZVA",
+        "$iata": "LJA"
     },
     "location": {
         "latitude": -3.4833,

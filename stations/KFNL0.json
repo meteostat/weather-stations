@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFNL"
+        "$icao": "KFNL",
+        "$iata": "FTC",
+        "$wban": "94035",
+        "$usaf": "724769"
     },
     "location": {
         "latitude": 40.4518,

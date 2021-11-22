@@ -6,9 +6,8 @@
     "country": "SE",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ESOH"
+        "$icao": "ESOH",
+        "$iata": "HFS"
     },
     "location": {
         "latitude": 60.0201,

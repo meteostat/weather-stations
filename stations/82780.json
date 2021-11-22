@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "PI",
     "identifiers": {
-        "national": null,
-        "wmo": "82780",
-        "icao": null
+        "$wmo": "82780",
+        "$iata": "PIC",
+        "$usaf": "827800"
     },
     "location": {
         "latitude": -7.0667,

@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "JK",
     "identifiers": {
-        "national": null,
-        "wmo": "96747",
-        "icao": "WIIH"
+        "$wmo": "96747",
+        "$icao": "WIIH",
+        "$iata": "HLP",
+        "$usaf": "967470",
+        "$mosmix": "96747"
     },
     "location": {
         "latitude": -6.25,

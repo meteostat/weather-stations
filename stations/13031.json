@@ -6,9 +6,8 @@
     "country": "SI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "13031",
-        "icao": "LJMS"
+        "$wmo": "13031",
+        "$icao": "LJMS"
     },
     "location": {
         "latitude": 46.65,

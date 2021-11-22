@@ -6,9 +6,9 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBDG"
+        "$icao": "KBDG",
+        "$wban": "03036",
+        "$usaf": "A00016"
     },
     "location": {
         "latitude": 37.5833,

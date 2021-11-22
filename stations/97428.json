@@ -6,9 +6,8 @@
     "country": "ID",
     "region": "MU",
     "identifiers": {
-        "national": null,
-        "wmo": "97428",
-        "icao": "WAMD"
+        "$wmo": "97428",
+        "$icao": "WAMD"
     },
     "location": {
         "latitude": 1.117,

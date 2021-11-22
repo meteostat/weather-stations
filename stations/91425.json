@@ -6,9 +6,9 @@
     "country": "FM",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": "91425",
-        "icao": null
+        "$wmo": "91425",
+        "$ghcn": "FMC00914590",
+        "$usaf": "914250"
     },
     "location": {
         "latitude": 3.85,

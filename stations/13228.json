@@ -6,9 +6,9 @@
     "country": "RS",
     "region": "ZD",
     "identifiers": {
-        "national": null,
-        "wmo": "13228",
-        "icao": "LQBI"
+        "$wmo": "13228",
+        "$icao": "LQBI",
+        "$usaf": "132280"
     },
     "location": {
         "latitude": 44.8167,

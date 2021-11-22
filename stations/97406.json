@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "97406",
-        "icao": "WAMA"
+        "$wmo": "97406",
+        "$icao": "WAMA",
+        "$iata": "GLX",
+        "$ghcn": "IDM00097406",
+        "$usaf": "974060"
     },
     "location": {
         "latitude": 1.8167,

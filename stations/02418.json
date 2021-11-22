@@ -2,15 +2,18 @@
     "id": "02418",
     "name": {
         "de": "Karlstad Flughafen",
-        "en": "Karlstad Airport",
-        "sv": "Karlstad Flygplats"
+        "sv": "Karlstad Flygplats",
+        "en": "Karlstad Airport"
     },
     "country": "SE",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "02418",
-        "icao": "ESSQ"
+        "$wmo": "02418",
+        "$icao": "ESSQ",
+        "$iata": "KSD",
+        "$ghcn": "SW000024180",
+        "$usaf": "020730",
+        "$mosmix": "02418"
     },
     "location": {
         "latitude": 59.3667,

@@ -6,9 +6,8 @@
     "country": "PL",
     "region": "ZP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EPSD"
+        "$icao": "EPSD",
+        "$usaf": "122050"
     },
     "location": {
         "latitude": 53.3921,

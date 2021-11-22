@@ -6,9 +6,8 @@
     "country": "CN",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZSYT"
+        "$icao": "ZSYT",
+        "$iata": "YNT"
     },
     "location": {
         "latitude": 37.4017,

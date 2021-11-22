@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "GO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OINE"
+        "$icao": "OINE",
+        "$iata": "KLM",
+        "$usaf": "407037"
     },
     "location": {
         "latitude": 37.3833,

@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "RO",
     "identifiers": {
-        "national": null,
-        "wmo": "82824",
-        "icao": "SBPV"
+        "$wmo": "82824",
+        "$icao": "SBPV",
+        "$iata": "PVH",
+        "$usaf": "828240",
+        "$mosmix": "82824"
     },
     "location": {
         "latitude": -8.7667,

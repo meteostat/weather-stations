@@ -6,9 +6,9 @@
     "country": "KH",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "48972",
-        "icao": "VDST"
+        "$wmo": "48972",
+        "$icao": "VDST",
+        "$iata": "TNX"
     },
     "location": {
         "latitude": 13.5167,

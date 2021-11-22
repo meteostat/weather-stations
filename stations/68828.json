@@ -6,9 +6,11 @@
     "country": "ZA",
     "region": "WC",
     "identifiers": {
-        "national": null,
-        "wmo": "68828",
-        "icao": "FAGG"
+        "$wmo": "68828",
+        "$icao": "FAGG",
+        "$iata": "GRJ",
+        "$ghcn": "SF000288380",
+        "$usaf": "688280"
     },
     "location": {
         "latitude": -34,

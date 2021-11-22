@@ -6,9 +6,12 @@
     "country": "SD",
     "region": "ND",
     "identifiers": {
-        "national": null,
-        "wmo": "62760",
-        "icao": "HSFS"
+        "$wmo": "62760",
+        "$icao": "HSFS",
+        "$iata": "ELF",
+        "$ghcn": "SU000062760",
+        "$usaf": "627600",
+        "$mosmix": "62760"
     },
     "location": {
         "latitude": 13.6167,

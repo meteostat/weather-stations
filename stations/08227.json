@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": "08227",
-        "icao": "LETO"
+        "$wmo": "08227",
+        "$icao": "LETO",
+        "$iata": "TOJ",
+        "$ghcn": "SPW00014011",
+        "$usaf": "082270",
+        "$mosmix": "08227"
     },
     "location": {
         "latitude": 40.4833,

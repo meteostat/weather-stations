@@ -6,9 +6,11 @@
     "country": "TN",
     "region": "TO",
     "identifiers": {
-        "national": null,
-        "wmo": "60760",
-        "icao": "DTTZ"
+        "$wmo": "60760",
+        "$icao": "DTTZ",
+        "$iata": "TOE",
+        "$usaf": "607600",
+        "$mosmix": "60760"
     },
     "location": {
         "latitude": 33.9167,

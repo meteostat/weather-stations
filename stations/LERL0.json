@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LERL"
+        "$icao": "LERL",
+        "$iata": "CQM",
+        "$usaf": "083480"
     },
     "location": {
         "latitude": 38.8564,

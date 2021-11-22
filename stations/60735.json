@@ -6,9 +6,12 @@
     "country": "TN",
     "region": "KR",
     "identifiers": {
-        "national": null,
-        "wmo": "60735",
-        "icao": "DTTK"
+        "$wmo": "60735",
+        "$icao": "DTTK",
+        "$iata": "QKN",
+        "$ghcn": "TSE00147773",
+        "$usaf": "607350",
+        "$mosmix": "60735"
     },
     "location": {
         "latitude": 35.6667,

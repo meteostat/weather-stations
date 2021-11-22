@@ -6,9 +6,7 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEZZ"
+        "$icao": "KEZZ"
     },
     "location": {
         "latitude": 39.7276,

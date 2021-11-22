@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "IST",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTBP"
+        "$icao": "LTBP",
+        "$usaf": "171190"
     },
     "location": {
         "latitude": 40.6844,

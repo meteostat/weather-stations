@@ -1,15 +1,14 @@
 {
     "id": "02287",
     "name": {
-        "en": "Holmon",
-        "sv": "Holmön"
+        "sv": "Holmön",
+        "en": "Holmon"
     },
     "country": "SE",
     "region": "VB",
     "identifiers": {
-        "national": null,
-        "wmo": "02287",
-        "icao": null
+        "$wmo": "02287",
+        "$ghcn": "SWE00140178"
     },
     "location": {
         "latitude": 63.8069,

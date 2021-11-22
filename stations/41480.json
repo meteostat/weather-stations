@@ -6,9 +6,11 @@
     "country": "YE",
     "region": "AD",
     "identifiers": {
-        "national": null,
-        "wmo": "41480",
-        "icao": "OYAA"
+        "$wmo": "41480",
+        "$icao": "OYAA",
+        "$iata": "ADE",
+        "$usaf": "414800",
+        "$mosmix": "41480"
     },
     "location": {
         "latitude": 12.6667,

@@ -1,15 +1,13 @@
 {
     "id": "02440",
     "name": {
-        "en": "Amot",
-        "sv": "Åmot"
+        "sv": "Åmot",
+        "en": "Amot"
     },
     "country": "SE",
     "region": "X",
     "identifiers": {
-        "national": null,
-        "wmo": "02440",
-        "icao": null
+        "$wmo": "02440"
     },
     "location": {
         "latitude": 60.9622,

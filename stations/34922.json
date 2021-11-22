@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "KDA",
     "identifiers": {
-        "national": null,
-        "wmo": "34922",
-        "icao": null
+        "$wmo": "34922",
+        "$ghcn": "RSM00034922"
     },
     "location": {
         "latitude": 45.6333,

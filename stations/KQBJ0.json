@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQBJ"
+        "$icao": "KQBJ",
+        "$usaf": "690514"
     },
     "location": {
         "latitude": 34.9,

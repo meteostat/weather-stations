@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "NB",
     "identifiers": {
-        "national": "42103",
-        "wmo": "71315",
-        "icao": "CZCR"
+        "$national": "42103",
+        "$wmo": "71315",
+        "$icao": "CZCR",
+        "$ghcn": "CA008100885",
+        "$usaf": "713150"
     },
     "location": {
         "latitude": 47.99,

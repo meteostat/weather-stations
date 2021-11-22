@@ -6,9 +6,12 @@
     "country": "TR",
     "region": "GAZ",
     "identifiers": {
-        "national": null,
-        "wmo": "17260",
-        "icao": "LTAJ"
+        "$wmo": "17260",
+        "$icao": "LTAJ",
+        "$iata": "GZT",
+        "$ghcn": "TUM00017260",
+        "$usaf": "172600",
+        "$mosmix": "17260"
     },
     "location": {
         "latitude": 37.0833,

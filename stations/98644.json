@@ -6,9 +6,12 @@
     "country": "PH",
     "region": "BOH",
     "identifiers": {
-        "national": null,
-        "wmo": "98644",
-        "icao": "RPVT"
+        "$wmo": "98644",
+        "$icao": "RPVT",
+        "$iata": "TAG",
+        "$ghcn": "RPM00098644",
+        "$usaf": "986440",
+        "$mosmix": "98644"
     },
     "location": {
         "latitude": 9.6,

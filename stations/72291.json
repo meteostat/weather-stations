@@ -6,9 +6,11 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "72291",
-        "icao": "KNSI"
+        "$wmo": "72291",
+        "$icao": "KNSI",
+        "$ghcn": "USW00093116",
+        "$wban": "93116",
+        "$usaf": "722910"
     },
     "location": {
         "latitude": 33.2333,

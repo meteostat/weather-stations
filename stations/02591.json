@@ -6,9 +6,8 @@
     "country": "SE",
     "region": "I",
     "identifiers": {
-        "national": null,
-        "wmo": "02591",
-        "icao": "ESQV"
+        "$wmo": "02591",
+        "$icao": "ESQV"
     },
     "location": {
         "latitude": 57.65,

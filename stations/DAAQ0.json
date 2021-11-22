@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "DJE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DAAQ"
+        "$icao": "DAAQ",
+        "$usaf": "604653"
     },
     "location": {
         "latitude": 35.5254,

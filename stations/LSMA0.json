@@ -6,9 +6,8 @@
     "country": "CH",
     "region": "OW",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LSMA"
+        "$icao": "LSMA",
+        "$usaf": "066580"
     },
     "location": {
         "latitude": 46.9425,

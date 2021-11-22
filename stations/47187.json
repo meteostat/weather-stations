@@ -6,9 +6,9 @@
     "country": "KR",
     "region": "CJ",
     "identifiers": {
-        "national": null,
-        "wmo": "47187",
-        "icao": "RKPM"
+        "$wmo": "47187",
+        "$icao": "RKPM",
+        "$usaf": "471870"
     },
     "location": {
         "latitude": 33.2,

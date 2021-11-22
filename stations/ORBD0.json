@@ -6,9 +6,9 @@
     "country": "IQ",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ORBD"
+        "$icao": "ORBD",
+        "$iata": "XQC",
+        "$usaf": "406506"
     },
     "location": {
         "latitude": 33.95,

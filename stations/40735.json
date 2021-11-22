@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "GO",
     "identifiers": {
-        "national": null,
-        "wmo": "40735",
-        "icao": "OINK"
+        "$wmo": "40735",
+        "$icao": "OINK",
+        "$usaf": "407350"
     },
     "location": {
         "latitude": 37.25,

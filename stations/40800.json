@@ -6,9 +6,12 @@
     "country": "IR",
     "region": "EFH",
     "identifiers": {
-        "national": null,
-        "wmo": "40800",
-        "icao": "OIFM"
+        "$wmo": "40800",
+        "$icao": "OIFM",
+        "$iata": "IFN",
+        "$ghcn": "IRM00040800",
+        "$usaf": "408000",
+        "$mosmix": "40800"
     },
     "location": {
         "latitude": 32.4667,

@@ -6,9 +6,11 @@
     "country": "GB",
     "region": "SCT",
     "identifiers": {
-        "national": null,
-        "wmo": "03135",
-        "icao": "EGPK"
+        "$wmo": "03135",
+        "$icao": "EGPK",
+        "$iata": "PIK",
+        "$usaf": "031350",
+        "$mosmix": "03135"
     },
     "location": {
         "latitude": 55.5,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLOZ"
+        "$icao": "KLOZ",
+        "$iata": "LOZ",
+        "$wban": "03849",
+        "$usaf": "724243"
     },
     "location": {
         "latitude": 37.0869,

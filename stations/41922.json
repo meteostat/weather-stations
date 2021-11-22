@@ -6,9 +6,9 @@
     "country": "BD",
     "region": "DH",
     "identifiers": {
-        "national": null,
-        "wmo": "41922",
-        "icao": "VGZR"
+        "$wmo": "41922",
+        "$icao": "VGZR",
+        "$iata": "DAC"
     },
     "location": {
         "latitude": 23.85,

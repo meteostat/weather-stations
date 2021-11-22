@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "OMS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UNOO"
+        "$icao": "UNOO",
+        "$iata": "OMS",
+        "$usaf": "286980"
     },
     "location": {
         "latitude": 54.9667,

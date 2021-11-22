@@ -6,9 +6,11 @@
     "country": "TH",
     "region": "KH",
     "identifiers": {
-        "national": null,
-        "wmo": "48300",
-        "icao": "VTCH"
+        "$wmo": "48300",
+        "$icao": "VTCH",
+        "$iata": "HGN",
+        "$ghcn": "TH000048300",
+        "$usaf": "483000"
     },
     "location": {
         "latitude": 19.3,

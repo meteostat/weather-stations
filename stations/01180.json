@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "TR",
     "identifiers": {
-        "national": null,
-        "wmo": "01180",
-        "icao": null
+        "$wmo": "01180",
+        "$usaf": "011800",
+        "$mosmix": "01180"
     },
     "location": {
         "latitude": 68.8025,

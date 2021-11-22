@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YBHM"
+        "$icao": "YBHM",
+        "$iata": "HTI",
+        "$usaf": "945952"
     },
     "location": {
         "latitude": -20.35,

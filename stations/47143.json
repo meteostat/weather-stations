@@ -6,9 +6,10 @@
     "country": "KR",
     "region": "TG",
     "identifiers": {
-        "national": null,
-        "wmo": "47143",
-        "icao": "RKTT"
+        "$wmo": "47143",
+        "$icao": "RKTT",
+        "$usaf": "471430",
+        "$mosmix": "47143"
     },
     "location": {
         "latitude": 35.8833,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "VT",
     "identifiers": {
-        "national": null,
-        "wmo": "72516",
-        "icao": "K5B5"
+        "$wmo": "72516",
+        "$icao": "K5B5",
+        "$ghcn": "USW00003761"
     },
     "location": {
         "latitude": 46.4944,

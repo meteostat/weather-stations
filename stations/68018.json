@@ -6,9 +6,11 @@
     "country": "NA",
     "region": "KV",
     "identifiers": {
-        "national": null,
-        "wmo": "68018",
-        "icao": "FYRU"
+        "$wmo": "68018",
+        "$icao": "FYRU",
+        "$iata": "NDU",
+        "$ghcn": "WA012084750",
+        "$usaf": "680180"
     },
     "location": {
         "latitude": -17.9167,

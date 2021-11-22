@@ -6,9 +6,8 @@
     "country": "NZ",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91492",
-        "icao": null
+        "$wmo": "91492",
+        "$wban": "20503"
     },
     "location": {
         "latitude": 2,

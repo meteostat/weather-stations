@@ -6,9 +6,8 @@
     "country": "ID",
     "region": "SU",
     "identifiers": {
-        "national": null,
-        "wmo": "96055",
-        "icao": "WIMR"
+        "$wmo": "96055",
+        "$icao": "WIMR"
     },
     "location": {
         "latitude": 2.95,

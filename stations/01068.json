@@ -2,15 +2,16 @@
     "id": "01068",
     "name": {
         "de": "Honningsvag Flughafen",
-        "en": "Honningsvag Airport",
-        "no": "Honningsvag Lufthavn"
+        "no": "Honningsvag Lufthavn",
+        "en": "Honningsvag Airport"
     },
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "national": null,
-        "wmo": "01068",
-        "icao": "ENHV"
+        "$wmo": "01068",
+        "$icao": "ENHV",
+        "$iata": "HVG",
+        "$usaf": "010680"
     },
     "location": {
         "latitude": 71.0167,

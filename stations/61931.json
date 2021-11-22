@@ -6,9 +6,10 @@
     "country": "ST",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "61931",
-        "icao": "FPST"
+        "$wmo": "61931",
+        "$icao": "FPST",
+        "$iata": "TMS",
+        "$usaf": "619310"
     },
     "location": {
         "latitude": 0.3833,

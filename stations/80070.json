@@ -6,9 +6,7 @@
     "country": "CO",
     "region": "SUC",
     "identifiers": {
-        "national": null,
-        "wmo": "80070",
-        "icao": null
+        "$wmo": "80070"
     },
     "location": {
         "latitude": 8.65,

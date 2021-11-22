@@ -6,9 +6,11 @@
     "country": "RU",
     "region": "KDA",
     "identifiers": {
-        "national": null,
-        "wmo": "34929",
-        "icao": "URKK"
+        "$wmo": "34929",
+        "$icao": "URKK",
+        "$iata": "KRR",
+        "$usaf": "349290",
+        "$mosmix": "34929"
     },
     "location": {
         "latitude": 45.0333,

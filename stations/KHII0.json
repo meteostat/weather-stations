@@ -6,9 +6,7 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHII"
+        "$icao": "KHII"
     },
     "location": {
         "latitude": 34.5711,

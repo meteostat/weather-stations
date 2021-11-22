@@ -6,9 +6,12 @@
     "country": "LV",
     "region": "LPR",
     "identifiers": {
-        "national": null,
-        "wmo": "26406",
-        "icao": "EVLA"
+        "$wmo": "26406",
+        "$icao": "EVLA",
+        "$iata": "LPX",
+        "$ghcn": "LG000026406",
+        "$usaf": "264060",
+        "$mosmix": "26406"
     },
     "location": {
         "latitude": 56.4833,

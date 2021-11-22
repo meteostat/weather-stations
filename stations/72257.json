@@ -6,9 +6,12 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": "72257",
-        "icao": "KHLR"
+        "$wmo": "72257",
+        "$icao": "KHLR",
+        "$iata": "HLR",
+        "$ghcn": "USW00003933",
+        "$wban": "03933",
+        "$usaf": "722570"
     },
     "location": {
         "latitude": 31.1333,

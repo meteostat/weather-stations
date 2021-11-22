@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": "74484",
-        "icao": "KN66"
+        "$wmo": "74484",
+        "$icao": "KN66",
+        "$iata": "ONE"
     },
     "location": {
         "latitude": 42.9333,

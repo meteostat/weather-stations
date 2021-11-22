@@ -6,13 +6,15 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": "43963",
-        "wmo": "71679",
-        "icao": "CVSL"
+        "$national": "43963",
+        "$wmo": "71679",
+        "$icao": "CVSL",
+        "$ghcn": "CA001085836",
+        "$usaf": "716790"
     },
     "location": {
         "latitude": 53.77,
-        "longitude": -126.0,
+        "longitude": -126,
         "elevation": 861
     },
     "timezone": "America/Vancouver"

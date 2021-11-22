@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": "31123",
-        "icao": null
+        "$wmo": "31123",
+        "$ghcn": "RSM00031123"
     },
     "location": {
         "latitude": 57.7667,

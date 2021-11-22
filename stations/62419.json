@@ -6,9 +6,10 @@
     "country": "EG",
     "region": "ASW",
     "identifiers": {
-        "national": null,
-        "wmo": "62419",
-        "icao": "HEBL"
+        "$wmo": "62419",
+        "$icao": "HEBL",
+        "$iata": "ABS",
+        "$usaf": "624190"
     },
     "location": {
         "latitude": 22.3667,

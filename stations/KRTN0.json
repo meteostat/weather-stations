@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRTN"
+        "$icao": "KRTN",
+        "$wban": "23052",
+        "$usaf": "722678"
     },
     "location": {
         "latitude": 36.7415,

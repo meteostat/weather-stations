@@ -6,9 +6,8 @@
     "country": "RO",
     "region": "DJ",
     "identifiers": {
-        "national": null,
-        "wmo": "15482",
-        "icao": null
+        "$wmo": "15482",
+        "$usaf": "154820"
     },
     "location": {
         "latitude": 43.9833,

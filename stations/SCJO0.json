@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SCJO"
+        "$icao": "SCJO",
+        "$iata": "ZOS",
+        "$usaf": "854590"
     },
     "location": {
         "latitude": -40.6114,

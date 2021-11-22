@@ -6,9 +6,11 @@
     "country": "SV",
     "region": "PZ",
     "identifiers": {
-        "national": null,
-        "wmo": "78666",
-        "icao": "MSLP"
+        "$wmo": "78666",
+        "$icao": "MSLP",
+        "$iata": "SAL",
+        "$usaf": "786660",
+        "$mosmix": "78666"
     },
     "location": {
         "latitude": 13.4333,

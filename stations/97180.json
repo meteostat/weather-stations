@@ -6,9 +6,12 @@
     "country": "ID",
     "region": "SN",
     "identifiers": {
-        "national": null,
-        "wmo": "97180",
-        "icao": "WAAA"
+        "$wmo": "97180",
+        "$icao": "WAAA",
+        "$iata": "UPG",
+        "$ghcn": "IDM00097180",
+        "$usaf": "971800",
+        "$mosmix": "97180"
     },
     "location": {
         "latitude": -5.0667,

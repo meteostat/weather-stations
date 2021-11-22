@@ -6,9 +6,12 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "national": null,
-        "wmo": "72557",
-        "icao": "KSUX"
+        "$wmo": "72557",
+        "$icao": "KSUX",
+        "$iata": "SUX",
+        "$ghcn": "USW00014943",
+        "$wban": "14943",
+        "$usaf": "725570"
     },
     "location": {
         "latitude": 42.3833,

@@ -6,9 +6,8 @@
     "country": "CN",
     "region": "AH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZSTX"
+        "$icao": "ZSTX",
+        "$iata": "TXN"
     },
     "location": {
         "latitude": 29.7333,

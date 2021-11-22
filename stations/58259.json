@@ -6,9 +6,8 @@
     "country": "CN",
     "region": "JS",
     "identifiers": {
-        "national": null,
-        "wmo": "58259",
-        "icao": null
+        "$wmo": "58259",
+        "$mosmix": "58259"
     },
     "location": {
         "latitude": 32.1,

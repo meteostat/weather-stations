@@ -6,9 +6,11 @@
     "country": "MX",
     "region": "NLE",
     "identifiers": {
-        "national": null,
-        "wmo": "76394",
-        "icao": "MMAN"
+        "$wmo": "76394",
+        "$icao": "MMAN",
+        "$iata": "NTR",
+        "$usaf": "763940",
+        "$mosmix": "76394"
     },
     "location": {
         "latitude": 25.8667,

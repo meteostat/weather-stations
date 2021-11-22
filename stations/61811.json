@@ -6,9 +6,11 @@
     "country": "GN",
     "region": "SIG",
     "identifiers": {
-        "national": null,
-        "wmo": "61811",
-        "icao": "GUSI"
+        "$wmo": "61811",
+        "$icao": "GUSI",
+        "$iata": "GII",
+        "$ghcn": "GV000001811",
+        "$usaf": "618110"
     },
     "location": {
         "latitude": 11.4333,

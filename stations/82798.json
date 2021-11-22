@@ -6,9 +6,12 @@
     "country": "BR",
     "region": "PB",
     "identifiers": {
-        "national": null,
-        "wmo": "82798",
-        "icao": "SBJP"
+        "$wmo": "82798",
+        "$icao": "SBJP",
+        "$iata": "JPA",
+        "$ghcn": "BR039402250",
+        "$usaf": "827980",
+        "$mosmix": "82798"
     },
     "location": {
         "latitude": -7.1,

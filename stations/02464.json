@@ -2,15 +2,16 @@
     "id": "02464",
     "name": {
         "de": "Stockholm Bromma Flughafen",
-        "en": "Stockholm Bromma Airport",
-        "sv": "Stockholm Bromma Flygplats"
+        "sv": "Stockholm Bromma Flygplats",
+        "en": "Stockholm Bromma Airport"
     },
     "country": "SE",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "02464",
-        "icao": "ESSB"
+        "$wmo": "02464",
+        "$icao": "ESSB",
+        "$usaf": "024640",
+        "$mosmix": "02464"
     },
     "location": {
         "latitude": 59.35,

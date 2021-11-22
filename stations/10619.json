@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "RP",
     "identifiers": {
-        "national": null,
-        "wmo": "10619",
-        "icao": "ETEK"
+        "$wmo": "10619",
+        "$icao": "ETEK",
+        "$usaf": "106190"
     },
     "location": {
         "latitude": 49.65,

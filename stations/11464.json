@@ -6,9 +6,8 @@
     "country": "CZ",
     "region": "UK",
     "identifiers": {
-        "national": null,
-        "wmo": "11464",
-        "icao": null
+        "$wmo": "11464",
+        "$ghcn": "EZ000011464"
     },
     "location": {
         "latitude": 50.55,

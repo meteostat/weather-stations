@@ -6,12 +6,10 @@
     "country": "CA",
     "region": "SK",
     "identifiers": {
-        "national": "2947",
-        "wmo": null,
-        "icao": null
+        "$national": "2947"
     },
     "location": {
-        "latitude": 52.0,
+        "latitude": 52,
         "longitude": -104.63,
         "elevation": 535
     },

@@ -6,9 +6,10 @@
     "country": "TH",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "48550",
-        "icao": null
+        "$wmo": "48550",
+        "$ghcn": "TH000048550",
+        "$usaf": "485500",
+        "$mosmix": "48550"
     },
     "location": {
         "latitude": 9.4667,

@@ -6,9 +6,10 @@
     "country": "TH",
     "region": "RY",
     "identifiers": {
-        "national": null,
-        "wmo": "48478",
-        "icao": "VTBU"
+        "$wmo": "48478",
+        "$icao": "VTBU",
+        "$iata": "UTP",
+        "$usaf": "484770"
     },
     "location": {
         "latitude": 12.6333,

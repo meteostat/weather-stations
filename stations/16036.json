@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "FV",
     "identifiers": {
-        "national": null,
-        "wmo": "16036",
-        "icao": "LIPA"
+        "$wmo": "16036",
+        "$icao": "LIPA",
+        "$iata": "AVB",
+        "$usaf": "160360",
+        "$mosmix": "16036"
     },
     "location": {
         "latitude": 46.0333,

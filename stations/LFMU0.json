@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "K",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LFMU"
+        "$icao": "LFMU",
+        "$iata": "BZR",
+        "$usaf": "076415"
     },
     "location": {
         "latitude": 43.3167,

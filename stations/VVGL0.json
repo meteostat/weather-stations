@@ -6,9 +6,8 @@
     "country": "VN",
     "region": "HI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VVGL"
+        "$icao": "VVGL",
+        "$usaf": "488193"
     },
     "location": {
         "latitude": 21.0333,

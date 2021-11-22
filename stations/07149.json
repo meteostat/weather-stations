@@ -6,9 +6,12 @@
     "country": "FR",
     "region": "J",
     "identifiers": {
-        "national": null,
-        "wmo": "07149",
-        "icao": "LFPO"
+        "$wmo": "07149",
+        "$icao": "LFPO",
+        "$iata": "ORY",
+        "$ghcn": "FRM00007149",
+        "$usaf": "071490",
+        "$mosmix": "07149"
     },
     "location": {
         "latitude": 48.7333,

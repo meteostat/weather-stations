@@ -6,9 +6,12 @@
     "country": "SD",
     "region": "NK",
     "identifiers": {
-        "national": null,
-        "wmo": "62771",
-        "icao": "HSOB"
+        "$wmo": "62771",
+        "$icao": "HSOB",
+        "$iata": "EBD",
+        "$ghcn": "SU000062771",
+        "$usaf": "627710",
+        "$mosmix": "62771"
     },
     "location": {
         "latitude": 13.1667,

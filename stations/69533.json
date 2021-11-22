@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "SL",
     "identifiers": {
-        "national": null,
-        "wmo": "69533",
-        "icao": "ORSU"
+        "$wmo": "69533",
+        "$icao": "ORSU"
     },
     "location": {
         "latitude": 35.55,

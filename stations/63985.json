@@ -6,9 +6,9 @@
     "country": "SC",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "63985",
-        "icao": "FSSS"
+        "$wmo": "63985",
+        "$icao": "FSSS",
+        "$usaf": "639850"
     },
     "location": {
         "latitude": -4.6833,

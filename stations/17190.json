@@ -6,9 +6,11 @@
     "country": "TR",
     "region": "AFY",
     "identifiers": {
-        "national": null,
-        "wmo": "17190",
-        "icao": "LTAH"
+        "$wmo": "17190",
+        "$icao": "LTAH",
+        "$iata": "AFY",
+        "$ghcn": "TUM00017190",
+        "$usaf": "171900"
     },
     "location": {
         "latitude": 38.75,

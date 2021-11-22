@@ -6,9 +6,10 @@
     "country": "EC",
     "region": "N",
     "identifiers": {
-        "national": null,
-        "wmo": "84131",
-        "icao": "SETI"
+        "$wmo": "84131",
+        "$icao": "SETI",
+        "$iata": "TPN",
+        "$usaf": "841310"
     },
     "location": {
         "latitude": -0.7833,

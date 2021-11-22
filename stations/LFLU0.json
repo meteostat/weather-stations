@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "V",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LFLU"
+        "$icao": "LFLU",
+        "$iata": "VAF",
+        "$usaf": "075795"
     },
     "location": {
         "latitude": 44.9167,

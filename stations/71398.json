@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWUR"
+        "$icao": "CWUR",
+        "$ghcn": "CA006075420",
+        "$usaf": "713980"
     },
     "location": {
         "latitude": 45.3667,

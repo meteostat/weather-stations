@@ -6,9 +6,12 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "national": null,
-        "wmo": "72783",
-        "icao": "KLWS"
+        "$wmo": "72783",
+        "$icao": "KLWS",
+        "$iata": "LWS",
+        "$ghcn": "USW00024149",
+        "$wban": "24149",
+        "$usaf": "727830"
     },
     "location": {
         "latitude": 46.3667,

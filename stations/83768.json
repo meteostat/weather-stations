@@ -6,9 +6,12 @@
     "country": "BR",
     "region": "PR",
     "identifiers": {
-        "national": null,
-        "wmo": "83768",
-        "icao": "SBLO"
+        "$wmo": "83768",
+        "$icao": "SBLO",
+        "$iata": "LDB",
+        "$ghcn": "BR002351003",
+        "$usaf": "837680",
+        "$mosmix": "83768"
     },
     "location": {
         "latitude": -23.3333,

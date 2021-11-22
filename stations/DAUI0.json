@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "TAM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DAUI"
+        "$icao": "DAUI",
+        "$iata": "INZ"
     },
     "location": {
         "latitude": 27.25,

@@ -6,9 +6,11 @@
     "country": "PH",
     "region": "BTN",
     "identifiers": {
-        "national": null,
-        "wmo": "98135",
-        "icao": "RPUO"
+        "$wmo": "98135",
+        "$icao": "RPUO",
+        "$iata": "BSO",
+        "$ghcn": "RPM00098135",
+        "$usaf": "981350"
     },
     "location": {
         "latitude": 20.45,

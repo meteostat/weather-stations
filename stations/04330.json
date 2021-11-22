@@ -6,9 +6,10 @@
     "country": "GL",
     "region": "UO",
     "identifiers": {
-        "national": null,
-        "wmo": "04330",
-        "icao": "BGDB"
+        "$wmo": "04330",
+        "$icao": "BGDB",
+        "$usaf": "043300",
+        "$mosmix": "04330"
     },
     "location": {
         "latitude": 74.3,

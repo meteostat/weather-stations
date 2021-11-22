@@ -6,9 +6,9 @@
     "country": "KH",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "48962",
-        "icao": "VDBG"
+        "$wmo": "48962",
+        "$icao": "VDBG",
+        "$iata": "BBM"
     },
     "location": {
         "latitude": 13.1,

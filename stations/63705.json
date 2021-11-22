@@ -6,9 +6,11 @@
     "country": "UG",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "63705",
-        "icao": "HUEN"
+        "$wmo": "63705",
+        "$icao": "HUEN",
+        "$iata": "EBB",
+        "$usaf": "637050",
+        "$mosmix": "63705"
     },
     "location": {
         "latitude": 0.05,

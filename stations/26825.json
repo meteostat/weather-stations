@@ -6,9 +6,11 @@
     "country": "BY",
     "region": "HR",
     "identifiers": {
-        "national": null,
-        "wmo": "26825",
-        "icao": "UMMG"
+        "$wmo": "26825",
+        "$icao": "UMMG",
+        "$iata": "GNA",
+        "$ghcn": "BOM00026825",
+        "$mosmix": "26825"
     },
     "location": {
         "latitude": 53.6,

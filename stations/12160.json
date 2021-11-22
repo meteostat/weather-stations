@@ -6,9 +6,12 @@
     "country": "PL",
     "region": "WM",
     "identifiers": {
-        "national": null,
-        "wmo": "12160",
-        "icao": "EPEL"
+        "$wmo": "12160",
+        "$icao": "EPEL",
+        "$iata": "ZBG",
+        "$ghcn": "PLM00012160",
+        "$usaf": "121600",
+        "$mosmix": "12160"
     },
     "location": {
         "latitude": 54.1667,

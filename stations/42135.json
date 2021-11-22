@@ -6,9 +6,7 @@
     "country": "IN",
     "region": "PB",
     "identifiers": {
-        "national": null,
-        "wmo": "42135",
-        "icao": null
+        "$wmo": "42135"
     },
     "location": {
         "latitude": 30.1667,

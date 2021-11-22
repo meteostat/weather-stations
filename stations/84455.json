@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "SM",
     "identifiers": {
-        "national": null,
-        "wmo": "84455",
-        "icao": "SPST"
+        "$wmo": "84455",
+        "$icao": "SPST",
+        "$iata": "TPP",
+        "$ghcn": "PE000084455",
+        "$usaf": "844550"
     },
     "location": {
         "latitude": -6.45,

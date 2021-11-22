@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "VF",
     "identifiers": {
-        "national": null,
-        "wmo": "01481",
-        "icao": null
+        "$wmo": "01481",
+        "$usaf": "014810",
+        "$mosmix": "01481"
     },
     "location": {
         "latitude": 59.2297,

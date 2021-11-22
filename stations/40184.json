@@ -6,9 +6,11 @@
     "country": "IL",
     "region": "J",
     "identifiers": {
-        "national": null,
-        "wmo": "40184",
-        "icao": "OJJR"
+        "$wmo": "40184",
+        "$icao": "OJJR",
+        "$iata": "JRS",
+        "$usaf": "401840",
+        "$mosmix": "40184"
     },
     "location": {
         "latitude": 31.7833,

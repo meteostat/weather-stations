@@ -6,9 +6,7 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KVGC"
+        "$icao": "KVGC"
     },
     "location": {
         "latitude": 42.8434,

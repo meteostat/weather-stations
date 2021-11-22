@@ -6,9 +6,8 @@
     "country": "GE",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "37531",
-        "icao": null
+        "$wmo": "37531",
+        "$ghcn": "GG000037531"
     },
     "location": {
         "latitude": 41.9833,

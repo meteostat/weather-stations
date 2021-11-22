@@ -6,9 +6,12 @@
     "country": "AN",
     "region": "CU",
     "identifiers": {
-        "national": null,
-        "wmo": "78988",
-        "icao": "TNCC"
+        "$wmo": "78988",
+        "$icao": "TNCC",
+        "$ghcn": "NTM00078988",
+        "$wban": "00412",
+        "$usaf": "789880",
+        "$mosmix": "78988"
     },
     "location": {
         "latitude": 12.2,

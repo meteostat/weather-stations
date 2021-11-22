@@ -6,9 +6,11 @@
     "country": "TN",
     "region": "JE",
     "identifiers": {
-        "national": null,
-        "wmo": "60725",
-        "icao": "DTTN"
+        "$wmo": "60725",
+        "$icao": "DTTN",
+        "$ghcn": "TS000060725",
+        "$usaf": "607250",
+        "$mosmix": "60725"
     },
     "location": {
         "latitude": 36.4833,

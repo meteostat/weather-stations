@@ -6,9 +6,11 @@
     "country": "MX",
     "region": "AGU",
     "identifiers": {
-        "national": null,
-        "wmo": "76571",
-        "icao": "MMAS"
+        "$wmo": "76571",
+        "$icao": "MMAS",
+        "$iata": "AGU",
+        "$ghcn": "MXM00076571",
+        "$usaf": "765710"
     },
     "location": {
         "latitude": 21.8833,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHUM"
+        "$icao": "KHUM",
+        "$wban": "12927",
+        "$usaf": "722406"
     },
     "location": {
         "latitude": 29.5665,

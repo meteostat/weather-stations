@@ -6,9 +6,10 @@
     "country": "TW",
     "region": "KM",
     "identifiers": {
-        "national": null,
-        "wmo": "46736",
-        "icao": "RCBS"
+        "$wmo": "46736",
+        "$icao": "RCBS",
+        "$iata": "KNH",
+        "$usaf": "467360"
     },
     "location": {
         "latitude": 24.4333,

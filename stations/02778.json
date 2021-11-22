@@ -6,9 +6,10 @@
     "country": "FI",
     "region": "IS",
     "identifiers": {
-        "national": null,
-        "wmo": "02778",
-        "icao": "EFPN"
+        "$wmo": "02778",
+        "$icao": "EFPN",
+        "$ghcn": "FIE00144132",
+        "$usaf": "027780"
     },
     "location": {
         "latitude": 60.6467,

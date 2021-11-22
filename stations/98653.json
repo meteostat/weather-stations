@@ -6,9 +6,10 @@
     "country": "PH",
     "region": "SUN",
     "identifiers": {
-        "national": null,
-        "wmo": "98653",
-        "icao": "RPWS"
+        "$wmo": "98653",
+        "$icao": "RPWS",
+        "$iata": "SUG",
+        "$ghcn": "RP000986530"
     },
     "location": {
         "latitude": 9.8,

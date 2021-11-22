@@ -6,9 +6,10 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMHE"
+        "$icao": "KMHE",
+        "$iata": "MHE",
+        "$wban": "94950",
+        "$usaf": "726545"
     },
     "location": {
         "latitude": 43.7748,

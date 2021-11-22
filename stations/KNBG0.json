@@ -6,9 +6,10 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KNBG"
+        "$icao": "KNBG",
+        "$iata": "NBG",
+        "$wban": "12958",
+        "$usaf": "722316"
     },
     "location": {
         "latitude": 29.8272,

@@ -6,9 +6,12 @@
     "country": "MG",
     "region": "T",
     "identifiers": {
-        "national": null,
-        "wmo": "67083",
-        "icao": "FMMI"
+        "$wmo": "67083",
+        "$icao": "FMMI",
+        "$iata": "TNR",
+        "$ghcn": "MA000067083",
+        "$usaf": "670830",
+        "$mosmix": "67083"
     },
     "location": {
         "latitude": -18.8,

@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "CB",
     "identifiers": {
-        "national": null,
-        "wmo": "16252",
-        "icao": "LIBS"
+        "$wmo": "16252",
+        "$icao": "LIBS",
+        "$ghcn": "ITM00016252",
+        "$usaf": "162520",
+        "$mosmix": "16252"
     },
     "location": {
         "latitude": 41.5667,

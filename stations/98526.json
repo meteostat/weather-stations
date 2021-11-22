@@ -6,9 +6,10 @@
     "country": "PH",
     "region": "PLW",
     "identifiers": {
-        "national": null,
-        "wmo": "98526",
-        "icao": "RPVV"
+        "$wmo": "98526",
+        "$icao": "RPVV",
+        "$iata": "USU",
+        "$usaf": "985241"
     },
     "location": {
         "latitude": 12,

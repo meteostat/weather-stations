@@ -2,15 +2,17 @@
     "id": "02562",
     "name": {
         "de": "Linkoping Malmen Flughafen",
-        "en": "Linkoping Malmen Airport",
-        "sv": "Linkoping Malmen Flygplats"
+        "sv": "Linkoping Malmen Flygplats",
+        "en": "Linkoping Malmen Airport"
     },
     "country": "SE",
     "region": "OG",
     "identifiers": {
-        "national": null,
-        "wmo": "02562",
-        "icao": "ESCF"
+        "$wmo": "02562",
+        "$icao": "ESCF",
+        "$ghcn": "SW000008525",
+        "$usaf": "025620",
+        "$mosmix": "02562"
     },
     "location": {
         "latitude": 58.4,

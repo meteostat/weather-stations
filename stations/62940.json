@@ -6,9 +6,9 @@
     "country": "SD",
     "region": "WE",
     "identifiers": {
-        "national": null,
-        "wmo": "62940",
-        "icao": "HSYA"
+        "$wmo": "62940",
+        "$icao": "HSYA",
+        "$usaf": "629400"
     },
     "location": {
         "latitude": 4.5667,

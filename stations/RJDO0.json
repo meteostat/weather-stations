@@ -6,9 +6,8 @@
     "country": "JP",
     "region": "NS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RJDO"
+        "$icao": "RJDO",
+        "$usaf": "478124"
     },
     "location": {
         "latitude": 33.2167,

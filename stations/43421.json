@@ -6,9 +6,10 @@
     "country": "LK",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": "43421",
-        "icao": "VCCA"
+        "$wmo": "43421",
+        "$icao": "VCCA",
+        "$iata": "ACJ",
+        "$usaf": "434210"
     },
     "location": {
         "latitude": 8.3333,

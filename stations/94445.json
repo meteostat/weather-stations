@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "94445",
-        "icao": null
+        "$wmo": "94445",
+        "$iata": "LAV"
     },
     "location": {
         "latitude": -28.15,

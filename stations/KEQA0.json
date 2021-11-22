@@ -6,9 +6,7 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEQA"
+        "$icao": "KEQA"
     },
     "location": {
         "latitude": 37.7741,

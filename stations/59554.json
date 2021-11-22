@@ -6,9 +6,8 @@
     "country": "CN",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": "59554",
-        "icao": null
+        "$wmo": "59554",
+        "$mosmix": "59554"
     },
     "location": {
         "latitude": 22.6167,

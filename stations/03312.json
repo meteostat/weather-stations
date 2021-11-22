@@ -6,9 +6,7 @@
     "country": "GB",
     "region": "WLS",
     "identifiers": {
-        "national": null,
-        "wmo": "03312",
-        "icao": null
+        "$wmo": "03312"
     },
     "location": {
         "latitude": 53.3333,

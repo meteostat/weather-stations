@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSKA"
+        "$icao": "KSKA",
+        "$iata": "SKA",
+        "$wban": "24114",
+        "$usaf": "727855"
     },
     "location": {
         "latitude": 47.6151,

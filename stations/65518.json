@@ -6,9 +6,10 @@
     "country": "BF",
     "region": "CS",
     "identifiers": {
-        "national": null,
-        "wmo": "65518",
-        "icao": "DFCP"
+        "$wmo": "65518",
+        "$icao": "DFCP",
+        "$ghcn": "UVM00065518",
+        "$usaf": "655180"
     },
     "location": {
         "latitude": 11.15,

@@ -6,9 +6,8 @@
     "country": "NZ",
     "region": "MWT",
     "identifiers": {
-        "national": null,
-        "wmo": "93404",
-        "icao": null
+        "$wmo": "93404",
+        "$usaf": "934040"
     },
     "location": {
         "latitude": -40.3167,

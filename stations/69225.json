@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "AB",
     "identifiers": {
-        "national": null,
-        "wmo": "69225",
-        "icao": "ORAT"
+        "$wmo": "69225",
+        "$icao": "ORAT"
     },
     "location": {
         "latitude": 33.31,

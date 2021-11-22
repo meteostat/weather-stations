@@ -6,9 +6,9 @@
     "country": "MN",
     "region": "DZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZMTL"
+        "$icao": "ZMTL",
+        "$iata": "TNZ",
+        "$usaf": "442250"
     },
     "location": {
         "latitude": 48.7383,

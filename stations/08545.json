@@ -6,9 +6,11 @@
     "country": "PT",
     "region": "PO",
     "identifiers": {
-        "national": null,
-        "wmo": "08545",
-        "icao": "LPPR"
+        "$wmo": "08545",
+        "$icao": "LPPR",
+        "$iata": "OPO",
+        "$usaf": "085450",
+        "$mosmix": "08545"
     },
     "location": {
         "latitude": 41.2333,

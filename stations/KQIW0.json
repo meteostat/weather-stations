@@ -6,9 +6,8 @@
     "country": "HN",
     "region": "PZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQIW"
+        "$icao": "KQIW",
+        "$usaf": "697534"
     },
     "location": {
         "latitude": 14,

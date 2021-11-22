@@ -6,9 +6,10 @@
     "country": "TR",
     "region": "ADA",
     "identifiers": {
-        "national": null,
-        "wmo": "17352",
-        "icao": "LTAF"
+        "$wmo": "17352",
+        "$icao": "LTAF",
+        "$iata": "ADA",
+        "$usaf": "173520"
     },
     "location": {
         "latitude": 36.9833,

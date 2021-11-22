@@ -6,9 +6,11 @@
     "country": "PT",
     "region": "VR",
     "identifiers": {
-        "national": null,
-        "wmo": "08567",
-        "icao": "LPVR"
+        "$wmo": "08567",
+        "$icao": "LPVR",
+        "$iata": "VRL",
+        "$usaf": "085670",
+        "$mosmix": "08567"
     },
     "location": {
         "latitude": 41.2667,

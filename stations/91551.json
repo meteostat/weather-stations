@@ -6,9 +6,11 @@
     "country": "VU",
     "region": "TO",
     "identifiers": {
-        "national": null,
-        "wmo": "91551",
-        "icao": "NVSC"
+        "$wmo": "91551",
+        "$icao": "NVSC",
+        "$iata": "SLH",
+        "$ghcn": "NHM00091551",
+        "$usaf": "915510"
     },
     "location": {
         "latitude": -13.85,

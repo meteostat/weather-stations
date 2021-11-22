@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "XJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZWWW"
+        "$icao": "ZWWW",
+        "$iata": "URC",
+        "$usaf": "514635"
     },
     "location": {
         "latitude": 43.9,

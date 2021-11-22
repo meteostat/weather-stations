@@ -6,9 +6,12 @@
     "country": "UA",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "33791",
-        "icao": "UKDR"
+        "$wmo": "33791",
+        "$icao": "UKDR",
+        "$iata": "KWG",
+        "$ghcn": "UPM00033791",
+        "$usaf": "330003",
+        "$mosmix": "33791"
     },
     "location": {
         "latitude": 43.0333,

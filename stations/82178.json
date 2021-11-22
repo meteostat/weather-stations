@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "82178",
-        "icao": null
+        "$wmo": "82178",
+        "$iata": "OBI"
     },
     "location": {
         "latitude": -1.9167,

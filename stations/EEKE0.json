@@ -6,9 +6,8 @@
     "country": "EE",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EEKE"
+        "$icao": "EEKE",
+        "$iata": "URE"
     },
     "location": {
         "latitude": 58.2299,

@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "AKT",
     "identifiers": {
-        "national": null,
-        "wmo": "35321",
-        "icao": null
+        "$wmo": "35321",
+        "$ghcn": "KZ000035321"
     },
     "location": {
         "latitude": 50.1333,

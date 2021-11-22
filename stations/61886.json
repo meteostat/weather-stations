@@ -6,9 +6,9 @@
     "country": "SL",
     "region": "N",
     "identifiers": {
-        "national": null,
-        "wmo": "61886",
-        "icao": "GFKB"
+        "$wmo": "61886",
+        "$icao": "GFKB",
+        "$iata": "KBA"
     },
     "location": {
         "latitude": 9.5833,

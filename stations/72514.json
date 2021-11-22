@@ -6,9 +6,12 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "72514",
-        "icao": "KIPT"
+        "$wmo": "72514",
+        "$icao": "KIPT",
+        "$iata": "IPT",
+        "$ghcn": "USW00014778",
+        "$wban": "14778",
+        "$usaf": "725140"
     },
     "location": {
         "latitude": 41.25,

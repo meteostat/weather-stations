@@ -6,9 +6,13 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "national": null,
-        "wmo": "72353",
-        "icao": "KOKC"
+        "$wmo": "72353",
+        "$icao": "KOKC",
+        "$iata": "OKC",
+        "$ghcn": "USW00013967",
+        "$wban": "13967",
+        "$usaf": "723530",
+        "$mosmix": "72353"
     },
     "location": {
         "latitude": 35.3886,

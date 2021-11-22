@@ -6,9 +6,9 @@
     "country": "BG",
     "region": "VT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LBGO"
+        "$icao": "LBGO",
+        "$iata": "GOZ",
+        "$usaf": "155253"
     },
     "location": {
         "latitude": 43.15,

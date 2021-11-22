@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "PB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VILD"
+        "$icao": "VILD",
+        "$iata": "LUH"
     },
     "location": {
         "latitude": 30.8547,

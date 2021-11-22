@@ -6,9 +6,9 @@
     "country": "BE",
     "region": "WHT",
     "identifiers": {
-        "national": null,
-        "wmo": "06432",
-        "icao": "EBCV"
+        "$wmo": "06432",
+        "$icao": "EBCV",
+        "$usaf": "064320"
     },
     "location": {
         "latitude": 50.5667,

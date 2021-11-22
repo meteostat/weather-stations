@@ -6,9 +6,11 @@
     "country": "GH",
     "region": "WP",
     "identifiers": {
-        "national": null,
-        "wmo": "65467",
-        "icao": "DGTK"
+        "$wmo": "65467",
+        "$icao": "DGTK",
+        "$iata": "TKD",
+        "$ghcn": "GHM00065467",
+        "$usaf": "654670"
     },
     "location": {
         "latitude": 4.8833,

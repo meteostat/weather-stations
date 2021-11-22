@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KAFN"
+        "$icao": "KAFN",
+        "$wban": "54770",
+        "$usaf": "726163"
     },
     "location": {
         "latitude": 42.8051,

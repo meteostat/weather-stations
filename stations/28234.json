@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "PER",
     "identifiers": {
-        "national": null,
-        "wmo": "28234",
-        "icao": null
+        "$wmo": "28234",
+        "$ghcn": "RSM00028234"
     },
     "location": {
         "latitude": 58.1167,

@@ -6,9 +6,9 @@
     "country": "MM",
     "region": "AY",
     "identifiers": {
-        "national": null,
-        "wmo": "48094",
-        "icao": "VBBS"
+        "$wmo": "48094",
+        "$icao": "VBBS",
+        "$usaf": "480940"
     },
     "location": {
         "latitude": 16.7667,

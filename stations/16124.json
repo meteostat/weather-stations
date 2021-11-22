@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "TC",
     "identifiers": {
-        "national": null,
-        "wmo": "16124",
-        "icao": "LIMT"
+        "$wmo": "16124",
+        "$icao": "LIMT",
+        "$usaf": "161240"
     },
     "location": {
         "latitude": 44.4333,

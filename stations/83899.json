@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "SC",
     "identifiers": {
-        "national": null,
-        "wmo": "83899",
-        "icao": "SBFL"
+        "$wmo": "83899",
+        "$icao": "SBFL",
+        "$iata": "FLN",
+        "$usaf": "838990",
+        "$mosmix": "83899"
     },
     "location": {
         "latitude": -27.6667,

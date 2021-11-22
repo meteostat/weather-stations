@@ -6,9 +6,12 @@
     "country": "IT",
     "region": "VN",
     "identifiers": {
-        "national": null,
-        "wmo": "16090",
-        "icao": "LIPX"
+        "$wmo": "16090",
+        "$icao": "LIPX",
+        "$iata": "VRN",
+        "$ghcn": "IT000016090",
+        "$usaf": "160900",
+        "$mosmix": "16090"
     },
     "location": {
         "latitude": 45.3833,

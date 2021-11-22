@@ -6,9 +6,12 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "70387",
-        "icao": "PAWG"
+        "$wmo": "70387",
+        "$icao": "PAWG",
+        "$iata": "WRG",
+        "$ghcn": "USC00509919",
+        "$wban": "25338",
+        "$usaf": "703870"
     },
     "location": {
         "latitude": 56.4833,

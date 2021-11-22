@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "HR",
     "identifiers": {
-        "national": null,
-        "wmo": "42131",
-        "icao": "VIHR"
+        "$wmo": "42131",
+        "$icao": "VIHR",
+        "$iata": "HSS",
+        "$ghcn": "IN006031000",
+        "$usaf": "421310"
     },
     "location": {
         "latitude": 29.1667,

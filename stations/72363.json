@@ -6,9 +6,12 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": "72363",
-        "icao": "KAMA"
+        "$wmo": "72363",
+        "$icao": "KAMA",
+        "$iata": "AMA",
+        "$ghcn": "USW00023047",
+        "$wban": "23047",
+        "$usaf": "723630"
     },
     "location": {
         "latitude": 35.2167,

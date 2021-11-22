@@ -6,9 +6,10 @@
     "country": "MX",
     "region": "HID",
     "identifiers": {
-        "national": null,
-        "wmo": "76634",
-        "icao": "MMTL"
+        "$wmo": "76634",
+        "$icao": "MMTL",
+        "$ghcn": "MXM00076634",
+        "$usaf": "766340"
     },
     "location": {
         "latitude": 20.0833,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KONX"
+        "$icao": "KONX",
+        "$iata": "ONX",
+        "$wban": "03737",
+        "$usaf": "723626"
     },
     "location": {
         "latitude": 36.3999,

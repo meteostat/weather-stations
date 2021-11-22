@@ -6,9 +6,10 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFTY"
+        "$icao": "KFTY",
+        "$iata": "FTY",
+        "$wban": "03888",
+        "$usaf": "722195"
     },
     "location": {
         "latitude": 33.7791,

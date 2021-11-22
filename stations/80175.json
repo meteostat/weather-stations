@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "CAS",
     "identifiers": {
-        "national": null,
-        "wmo": "80175",
-        "icao": "SKTD"
+        "$wmo": "80175",
+        "$icao": "SKTD",
+        "$iata": "TDA"
     },
     "location": {
         "latitude": 5.4333,

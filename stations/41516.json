@@ -6,9 +6,10 @@
     "country": "PK",
     "region": "NA",
     "identifiers": {
-        "national": null,
-        "wmo": "41516",
-        "icao": "OPGT"
+        "$wmo": "41516",
+        "$icao": "OPGT",
+        "$iata": "GIL",
+        "$usaf": "415160"
     },
     "location": {
         "latitude": 35.9167,

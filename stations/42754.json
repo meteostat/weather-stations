@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "MP",
     "identifiers": {
-        "national": null,
-        "wmo": "42754",
-        "icao": "VAID"
+        "$wmo": "42754",
+        "$icao": "VAID",
+        "$iata": "IDR",
+        "$ghcn": "IN011170400",
+        "$usaf": "427540"
     },
     "location": {
         "latitude": 22.7167,

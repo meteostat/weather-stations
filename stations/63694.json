@@ -6,9 +6,9 @@
     "country": "KE",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "63694",
-        "icao": "HKNY"
+        "$wmo": "63694",
+        "$icao": "HKNY",
+        "$usaf": "636943"
     },
     "location": {
         "latitude": -0.07,

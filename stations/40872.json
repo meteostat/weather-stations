@@ -6,9 +6,8 @@
     "country": "IR",
     "region": "BSH",
     "identifiers": {
-        "national": null,
-        "wmo": "40872",
-        "icao": null
+        "$wmo": "40872",
+        "$usaf": "408720"
     },
     "location": {
         "latitude": 27.8333,

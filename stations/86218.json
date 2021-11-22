@@ -6,9 +6,12 @@
     "country": "PY",
     "region": "PH",
     "identifiers": {
-        "national": null,
-        "wmo": "86218",
-        "icao": "SGAS"
+        "$wmo": "86218",
+        "$icao": "SGAS",
+        "$iata": "ASU",
+        "$ghcn": "PAM00086218",
+        "$usaf": "862180",
+        "$mosmix": "86218"
     },
     "location": {
         "latitude": -25.2667,

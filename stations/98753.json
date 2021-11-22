@@ -6,9 +6,11 @@
     "country": "PH",
     "region": "DAS",
     "identifiers": {
-        "national": null,
-        "wmo": "98753",
-        "icao": "RPMD"
+        "$wmo": "98753",
+        "$icao": "RPMD",
+        "$iata": "DVO",
+        "$usaf": "987530",
+        "$mosmix": "98753"
     },
     "location": {
         "latitude": 7.1167,

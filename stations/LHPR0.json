@@ -6,9 +6,8 @@
     "country": "HU",
     "region": "GS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LHPR"
+        "$icao": "LHPR",
+        "$usaf": "128220"
     },
     "location": {
         "latitude": 47.6244,

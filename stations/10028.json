@@ -6,9 +6,12 @@
     "country": "DE",
     "region": "SH",
     "identifiers": {
-        "national": "04393",
-        "wmo": "10028",
-        "icao": "EDXO"
+        "$national": "04393",
+        "$wmo": "10028",
+        "$icao": "EDXO",
+        "$iata": "PSH",
+        "$ghcn": "GMM00010028",
+        "$mosmix": "10028"
     },
     "location": {
         "latitude": 54.3297,

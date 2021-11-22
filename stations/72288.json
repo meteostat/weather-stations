@@ -6,9 +6,12 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "72288",
-        "icao": "KBUR"
+        "$wmo": "72288",
+        "$icao": "KBUR",
+        "$iata": "BUR",
+        "$ghcn": "USW00023152",
+        "$wban": "23152",
+        "$usaf": "722880"
     },
     "location": {
         "latitude": 34.2,

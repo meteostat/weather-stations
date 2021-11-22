@@ -6,9 +6,11 @@
     "country": "ZA",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "68994",
-        "icao": "FAME"
+        "$wmo": "68994",
+        "$icao": "FAME",
+        "$ghcn": "SF000068994",
+        "$usaf": "689940",
+        "$mosmix": "68994"
     },
     "location": {
         "latitude": -46.8833,

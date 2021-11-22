@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YGEL"
+        "$icao": "YGEL",
+        "$iata": "GET",
+        "$usaf": "944030"
     },
     "location": {
         "latitude": -28.7961,

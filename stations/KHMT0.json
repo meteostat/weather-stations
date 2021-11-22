@@ -6,9 +6,7 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHMT"
+        "$icao": "KHMT"
     },
     "location": {
         "latitude": 33.734,

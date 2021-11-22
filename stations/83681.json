@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "83681",
-        "icao": "SBPC"
+        "$wmo": "83681",
+        "$icao": "SBPC",
+        "$iata": "POO",
+        "$usaf": "836440"
     },
     "location": {
         "latitude": -21.85,

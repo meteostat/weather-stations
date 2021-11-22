@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "COR",
     "identifiers": {
-        "national": null,
-        "wmo": "17084",
-        "icao": null
+        "$wmo": "17084",
+        "$ghcn": "TUM00017084"
     },
     "location": {
         "latitude": 40.55,

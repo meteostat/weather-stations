@@ -6,9 +6,8 @@
     "country": "TF",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "61997",
-        "icao": null
+        "$wmo": "61997",
+        "$ghcn": "FSM00061997"
     },
     "location": {
         "latitude": -46.4333,

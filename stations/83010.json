@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "83010",
-        "icao": null
+        "$wmo": "83010",
+        "$iata": "BZY"
     },
     "location": {
         "latitude": -11.0167,

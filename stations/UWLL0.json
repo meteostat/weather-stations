@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "ULY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UWLL"
+        "$icao": "UWLL",
+        "$iata": "ULV",
+        "$usaf": "277850"
     },
     "location": {
         "latitude": 54.2667,

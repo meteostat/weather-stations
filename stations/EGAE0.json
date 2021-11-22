@@ -6,9 +6,9 @@
     "country": "GB",
     "region": "NIR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EGAE"
+        "$icao": "EGAE",
+        "$iata": "LDY",
+        "$usaf": "039084"
     },
     "location": {
         "latitude": 55.05,

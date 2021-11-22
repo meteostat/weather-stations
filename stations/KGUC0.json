@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KGUC"
+        "$icao": "KGUC",
+        "$iata": "GUC",
+        "$wban": "93007",
+        "$usaf": "724677"
     },
     "location": {
         "latitude": 38.5339,

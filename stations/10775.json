@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": null,
-        "wmo": "10775",
-        "icao": "ETIH"
+        "$wmo": "10775",
+        "$icao": "ETIH",
+        "$ghcn": "GMW00034195",
+        "$usaf": "107750"
     },
     "location": {
         "latitude": 49.2167,

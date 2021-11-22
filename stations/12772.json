@@ -6,9 +6,12 @@
     "country": "HU",
     "region": "BZ",
     "identifiers": {
-        "national": null,
-        "wmo": "12772",
-        "icao": "LHMC"
+        "$wmo": "12772",
+        "$icao": "LHMC",
+        "$iata": "MCQ",
+        "$ghcn": "HUM00012772",
+        "$usaf": "127720",
+        "$mosmix": "12772"
     },
     "location": {
         "latitude": 48.0833,

@@ -6,9 +6,10 @@
     "country": "RU",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": "30393",
-        "icao": "UELL"
+        "$wmo": "30393",
+        "$icao": "UELL",
+        "$iata": "CNN",
+        "$ghcn": "RSM00030393"
     },
     "location": {
         "latitude": 56.8333,

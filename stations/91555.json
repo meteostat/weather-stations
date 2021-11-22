@@ -6,9 +6,11 @@
     "country": "VU",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "91555",
-        "icao": "NVSL"
+        "$wmo": "91555",
+        "$icao": "NVSL",
+        "$iata": "LPM",
+        "$ghcn": "NHM00091555",
+        "$usaf": "915550"
     },
     "location": {
         "latitude": -16.4167,

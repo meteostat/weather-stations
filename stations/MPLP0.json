@@ -6,9 +6,8 @@
     "country": "PA",
     "region": "DA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MPLP"
+        "$icao": "MPLP",
+        "$usaf": "788076"
     },
     "location": {
         "latitude": 8.4,

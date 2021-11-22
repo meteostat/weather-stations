@@ -6,9 +6,11 @@
     "country": "DK",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "06110",
-        "icao": "EKSP"
+        "$wmo": "06110",
+        "$icao": "EKSP",
+        "$iata": "SKS",
+        "$usaf": "061100",
+        "$mosmix": "06110"
     },
     "location": {
         "latitude": 55.2333,

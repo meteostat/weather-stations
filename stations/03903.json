@@ -6,9 +6,8 @@
     "country": "GB",
     "region": "NIR",
     "identifiers": {
-        "national": null,
-        "wmo": "03903",
-        "icao": null
+        "$wmo": "03903",
+        "$mosmix": "03903"
     },
     "location": {
         "latitude": 54.4,

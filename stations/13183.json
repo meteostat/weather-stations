@@ -6,9 +6,9 @@
     "country": "RS",
     "region": "SI",
     "identifiers": {
-        "national": null,
-        "wmo": "13183",
-        "icao": "LYVR"
+        "$wmo": "13183",
+        "$icao": "LYVR",
+        "$usaf": "131830"
     },
     "location": {
         "latitude": 45.15,

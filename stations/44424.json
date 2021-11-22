@@ -6,9 +6,10 @@
     "country": "NP",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "44424",
-        "icao": "VNJL"
+        "$wmo": "44424",
+        "$icao": "VNJL",
+        "$iata": "JUM",
+        "$usaf": "444240"
     },
     "location": {
         "latitude": 29.2833,

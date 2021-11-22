@@ -6,9 +6,12 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": "72529",
-        "icao": "KROC"
+        "$wmo": "72529",
+        "$icao": "KROC",
+        "$iata": "ROC",
+        "$ghcn": "USW00014768",
+        "$wban": "14768",
+        "$usaf": "725290"
     },
     "location": {
         "latitude": 43.1167,

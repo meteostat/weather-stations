@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "RI",
     "identifiers": {
-        "national": null,
-        "wmo": "96145",
-        "icao": null
+        "$wmo": "96145",
+        "$ghcn": "ID000096145",
+        "$usaf": "961450"
     },
     "location": {
         "latitude": 3.2,

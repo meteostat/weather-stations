@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "SAN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTCS"
+        "$icao": "LTCS",
+        "$iata": "GNY",
+        "$usaf": "172710"
     },
     "location": {
         "latitude": 37.4457,

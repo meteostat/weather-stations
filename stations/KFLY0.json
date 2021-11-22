@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFLY"
+        "$icao": "KFLY",
+        "$wban": "00280",
+        "$usaf": "720852"
     },
     "location": {
         "latitude": 38.9457,

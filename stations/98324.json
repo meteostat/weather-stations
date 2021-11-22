@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "ZMB",
     "identifiers": {
-        "national": null,
-        "wmo": "98324",
-        "icao": "RPUI"
+        "$wmo": "98324",
+        "$icao": "RPUI",
+        "$usaf": "983240"
     },
     "location": {
         "latitude": 15.3333,

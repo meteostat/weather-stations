@@ -6,9 +6,10 @@
     "country": "AO",
     "region": "CUS",
     "identifiers": {
-        "national": null,
-        "wmo": "66270",
-        "icao": "FNWK"
+        "$wmo": "66270",
+        "$icao": "FNWK",
+        "$iata": "CEO",
+        "$ghcn": "AO000066270"
     },
     "location": {
         "latitude": -11.4167,

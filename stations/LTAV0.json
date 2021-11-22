@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "ESK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTAV"
+        "$icao": "LTAV",
+        "$usaf": "171185"
     },
     "location": {
         "latitude": 39.45,

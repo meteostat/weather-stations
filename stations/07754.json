@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "H",
     "identifiers": {
-        "national": null,
-        "wmo": "07754",
-        "icao": "LFKC"
+        "$wmo": "07754",
+        "$icao": "LFKC",
+        "$iata": "CLY",
+        "$usaf": "077540",
+        "$mosmix": "07754"
     },
     "location": {
         "latitude": 42.5333,

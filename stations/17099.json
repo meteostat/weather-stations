@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "AGR",
     "identifiers": {
-        "national": null,
-        "wmo": "17099",
-        "icao": "LTCB"
+        "$wmo": "17099",
+        "$icao": "LTCB",
+        "$ghcn": "TUM00017099"
     },
     "location": {
         "latitude": 39.7167,

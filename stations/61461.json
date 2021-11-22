@@ -6,9 +6,11 @@
     "country": "MR",
     "region": "TR",
     "identifiers": {
-        "national": null,
-        "wmo": "61461",
-        "icao": "GQNB"
+        "$wmo": "61461",
+        "$icao": "GQNB",
+        "$iata": "OTL",
+        "$ghcn": "MR000001461",
+        "$usaf": "614610"
     },
     "location": {
         "latitude": 17.5333,

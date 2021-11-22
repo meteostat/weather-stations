@@ -6,9 +6,12 @@
     "country": "KW",
     "region": "KU",
     "identifiers": {
-        "national": null,
-        "wmo": "40582",
-        "icao": "OKBK"
+        "$wmo": "40582",
+        "$icao": "OKBK",
+        "$iata": "KWI",
+        "$ghcn": "KU000405820",
+        "$usaf": "405820",
+        "$mosmix": "40582"
     },
     "location": {
         "latitude": 29.2167,

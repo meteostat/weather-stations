@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "G",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LFFS"
+        "$icao": "LFFS",
+        "$wban": "34072",
+        "$usaf": "070743"
     },
     "location": {
         "latitude": 49.15,

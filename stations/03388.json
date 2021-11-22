@@ -6,9 +6,8 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "national": null,
-        "wmo": "03388",
-        "icao": "EGXB"
+        "$wmo": "03388",
+        "$icao": "EGXB"
     },
     "location": {
         "latitude": 53.45,

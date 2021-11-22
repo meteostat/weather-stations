@@ -6,9 +6,10 @@
     "country": "FK",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "88891",
-        "icao": "SFAL"
+        "$wmo": "88891",
+        "$icao": "SFAL",
+        "$iata": "PSY",
+        "$usaf": "888910"
     },
     "location": {
         "latitude": -51.6833,

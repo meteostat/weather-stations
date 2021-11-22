@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "SII",
     "identifiers": {
-        "national": null,
-        "wmo": "17210",
-        "icao": null
+        "$wmo": "17210",
+        "$ghcn": "TUM00017210"
     },
     "location": {
         "latitude": 37.9333,

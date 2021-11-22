@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "08045",
-        "icao": "LEVX"
+        "$wmo": "08045",
+        "$icao": "LEVX",
+        "$iata": "VGO",
+        "$ghcn": "SPE00120413",
+        "$usaf": "080450",
+        "$mosmix": "08045"
     },
     "location": {
         "latitude": 42.2167,

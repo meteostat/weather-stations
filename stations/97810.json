@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "97810",
-        "icao": null
+        "$wmo": "97810",
+        "$ghcn": "IDM00097810",
+        "$usaf": "978100"
     },
     "location": {
         "latitude": -5.6833,

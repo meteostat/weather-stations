@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "ZJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZSZS"
+        "$icao": "ZSZS",
+        "$iata": "HSN",
+        "$usaf": "583213"
     },
     "location": {
         "latitude": 29.9342,

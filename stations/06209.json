@@ -6,9 +6,8 @@
     "country": "NL",
     "region": "NH",
     "identifiers": {
-        "national": null,
-        "wmo": "06209",
-        "icao": null
+        "$wmo": "06209",
+        "$usaf": "062090"
     },
     "location": {
         "latitude": 52.4636,

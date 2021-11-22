@@ -6,9 +6,8 @@
     "country": "DE",
     "region": "SN",
     "identifiers": {
-        "national": null,
-        "wmo": "09499",
-        "icao": "EDAB"
+        "$wmo": "09499",
+        "$icao": "EDAB"
     },
     "location": {
         "latitude": 51.1939,

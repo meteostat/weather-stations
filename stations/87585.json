@@ -6,9 +6,11 @@
     "country": "AR",
     "region": "C",
     "identifiers": {
-        "national": null,
-        "wmo": "87585",
-        "icao": "SABA"
+        "$wmo": "87585",
+        "$icao": "SABA",
+        "$ghcn": "AR000875850",
+        "$usaf": "875850",
+        "$mosmix": "87585"
     },
     "location": {
         "latitude": -34.5833,

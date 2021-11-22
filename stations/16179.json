@@ -6,9 +6,10 @@
     "country": "IT",
     "region": "MH",
     "identifiers": {
-        "national": null,
-        "wmo": "16179",
-        "icao": "LIVF"
+        "$wmo": "16179",
+        "$icao": "LIVF",
+        "$ghcn": "ITM00016179",
+        "$usaf": "161790"
     },
     "location": {
         "latitude": 43.5167,

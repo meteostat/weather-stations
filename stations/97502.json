@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "97502",
-        "icao": "WASS"
+        "$wmo": "97502",
+        "$icao": "WASS",
+        "$iata": "SOQ",
+        "$ghcn": "ID000097502",
+        "$usaf": "975020"
     },
     "location": {
         "latitude": -0.9333,

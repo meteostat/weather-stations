@@ -6,9 +6,10 @@
     "country": "WS",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91759",
-        "icao": "NSFA"
+        "$wmo": "91759",
+        "$icao": "NSFA",
+        "$iata": "APW",
+        "$usaf": "917590"
     },
     "location": {
         "latitude": -13.8167,

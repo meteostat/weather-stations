@@ -6,9 +6,12 @@
     "country": "IR",
     "region": "HRM",
     "identifiers": {
-        "national": null,
-        "wmo": "40875",
-        "icao": "OIKB"
+        "$wmo": "40875",
+        "$icao": "OIKB",
+        "$iata": "BND",
+        "$ghcn": "IRM00040875",
+        "$usaf": "408750",
+        "$mosmix": "40875"
     },
     "location": {
         "latitude": 27.2167,

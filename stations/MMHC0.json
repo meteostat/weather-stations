@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "PUE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMHC"
+        "$icao": "MMHC",
+        "$iata": "TCN",
+        "$usaf": "767375"
     },
     "location": {
         "latitude": 18.4971,

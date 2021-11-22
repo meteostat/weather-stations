@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "TYU",
     "identifiers": {
-        "national": null,
-        "wmo": "28275",
-        "icao": null
+        "$wmo": "28275",
+        "$ghcn": "RSM00028275"
     },
     "location": {
         "latitude": 58.15,

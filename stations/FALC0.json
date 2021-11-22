@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FALC"
+        "$icao": "FALC",
+        "$iata": "LMR",
+        "$usaf": "684164"
     },
     "location": {
         "latitude": -28.3667,

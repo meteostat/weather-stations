@@ -6,9 +6,12 @@
     "country": "SL",
     "region": "N",
     "identifiers": {
-        "national": null,
-        "wmo": "61856",
-        "icao": "GFLL"
+        "$wmo": "61856",
+        "$icao": "GFLL",
+        "$iata": "FNA",
+        "$ghcn": "SL000061856",
+        "$usaf": "618560",
+        "$mosmix": "61856"
     },
     "location": {
         "latitude": 8.6167,

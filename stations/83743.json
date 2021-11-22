@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "RJ",
     "identifiers": {
-        "national": null,
-        "wmo": "83743",
-        "icao": null
+        "$wmo": "83743",
+        "$ghcn": "BR000083743",
+        "$mosmix": "83743"
     },
     "location": {
         "latitude": -22.9167,

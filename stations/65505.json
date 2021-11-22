@@ -6,9 +6,11 @@
     "country": "BF",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "65505",
-        "icao": "DFOD"
+        "$wmo": "65505",
+        "$icao": "DFOD",
+        "$iata": "DGU",
+        "$ghcn": "UVM00065505",
+        "$usaf": "655050"
     },
     "location": {
         "latitude": 12.4667,

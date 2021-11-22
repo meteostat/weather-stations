@@ -6,9 +6,9 @@
     "country": "AO",
     "region": "CNN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FNGI"
+        "$icao": "FNGI",
+        "$iata": "VPE",
+        "$usaf": "664600"
     },
     "location": {
         "latitude": -17.0435,

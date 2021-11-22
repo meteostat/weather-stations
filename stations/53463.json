@@ -6,9 +6,11 @@
     "country": "CN",
     "region": "NM",
     "identifiers": {
-        "national": null,
-        "wmo": "53463",
-        "icao": "ZBHH"
+        "$wmo": "53463",
+        "$icao": "ZBHH",
+        "$iata": "HET",
+        "$ghcn": "CHM00053463",
+        "$usaf": "534630"
     },
     "location": {
         "latitude": 40.8167,

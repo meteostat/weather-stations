@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "AI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RJGG"
+        "$icao": "RJGG",
+        "$iata": "NGO",
+        "$usaf": "476345"
     },
     "location": {
         "latitude": 34.85,

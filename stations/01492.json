@@ -6,9 +6,10 @@
     "country": "NO",
     "region": "OS",
     "identifiers": {
-        "national": null,
-        "wmo": "01492",
-        "icao": null
+        "$wmo": "01492",
+        "$ghcn": "NOM00001492",
+        "$usaf": "014920",
+        "$mosmix": "01492"
     },
     "location": {
         "latitude": 59.95,

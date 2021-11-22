@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": "10903",
-        "wmo": "71281",
-        "icao": "CWGH"
+        "$national": "10903",
+        "$wmo": "71281",
+        "$icao": "CWGH",
+        "$ghcn": "CA006103024",
+        "$usaf": "712810"
     },
     "location": {
         "latitude": 44.42,

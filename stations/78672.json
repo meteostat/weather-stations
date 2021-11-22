@@ -6,9 +6,9 @@
     "country": "SV",
     "region": "UN",
     "identifiers": {
-        "national": null,
-        "wmo": "78672",
-        "icao": null
+        "$wmo": "78672",
+        "$iata": "LUI",
+        "$ghcn": "ES004881415"
     },
     "location": {
         "latitude": 13.3333,

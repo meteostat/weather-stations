@@ -6,9 +6,11 @@
     "country": "IS",
     "region": "VL",
     "identifiers": {
-        "national": null,
-        "wmo": "04013",
-        "icao": "BIST"
+        "$wmo": "04013",
+        "$icao": "BIST",
+        "$iata": "SYK",
+        "$ghcn": "IC000004013",
+        "$usaf": "040130"
     },
     "location": {
         "latitude": 65.0833,

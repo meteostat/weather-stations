@@ -6,9 +6,8 @@
     "country": "PH",
     "region": "ISA",
     "identifiers": {
-        "national": null,
-        "wmo": "98904",
-        "icao": "RPLN"
+        "$wmo": "98904",
+        "$icao": "RPLN"
     },
     "location": {
         "latitude": 17.0667,

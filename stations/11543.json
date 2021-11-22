@@ -6,9 +6,8 @@
     "country": "CZ",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "11543",
-        "icao": "LKCR"
+        "$wmo": "11543",
+        "$icao": "LKCR"
     },
     "location": {
         "latitude": 49.9364,

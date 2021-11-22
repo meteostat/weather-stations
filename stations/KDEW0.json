@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KDEW"
+        "$icao": "KDEW",
+        "$wban": "94119",
+        "$usaf": "727854"
     },
     "location": {
         "latitude": 47.9667,

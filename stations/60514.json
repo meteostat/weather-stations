@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "DJE",
     "identifiers": {
-        "national": null,
-        "wmo": "60514",
-        "icao": null
+        "$wmo": "60514",
+        "$ghcn": "AGM00060514"
     },
     "location": {
         "latitude": 35.1667,

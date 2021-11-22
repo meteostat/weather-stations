@@ -6,9 +6,10 @@
     "country": "TR",
     "region": "IZM",
     "identifiers": {
-        "national": null,
-        "wmo": "17218",
-        "icao": "LTBL"
+        "$wmo": "17218",
+        "$icao": "LTBL",
+        "$iata": "IGL",
+        "$usaf": "172180"
     },
     "location": {
         "latitude": 38.5,

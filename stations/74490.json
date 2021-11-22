@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "74490",
-        "icao": "KBED"
+        "$wmo": "74490",
+        "$icao": "KBED",
+        "$iata": "BED",
+        "$ghcn": "USW00014702",
+        "$wban": "14702",
+        "$usaf": "725059"
     },
     "location": {
         "latitude": 42.4667,

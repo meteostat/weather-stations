@@ -6,9 +6,10 @@
     "country": "AO",
     "region": "NAM",
     "identifiers": {
-        "national": null,
-        "wmo": "66422",
-        "icao": "FNMO"
+        "$wmo": "66422",
+        "$icao": "FNMO",
+        "$iata": "MSZ",
+        "$ghcn": "AO000066422"
     },
     "location": {
         "latitude": -15.2,

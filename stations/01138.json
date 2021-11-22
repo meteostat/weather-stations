@@ -1,15 +1,13 @@
 {
     "id": "01138",
     "name": {
-        "en": "Tennholmen Lighthouse",
-        "no": "Tennholmen Fyr"
+        "no": "Tennholmen Fyr",
+        "en": "Tennholmen Lighthouse"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "national": null,
-        "wmo": "01138",
-        "icao": null
+        "$wmo": "01138"
     },
     "location": {
         "latitude": 67.3,

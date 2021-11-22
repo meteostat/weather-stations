@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "AN",
     "identifiers": {
-        "national": null,
-        "wmo": "69669",
-        "icao": "KQQQ"
+        "$wmo": "69669",
+        "$icao": "KQQQ",
+        "$usaf": "696694"
     },
     "location": {
         "latitude": 37.1667,

@@ -6,9 +6,13 @@
     "country": "TT",
     "region": "TP",
     "identifiers": {
-        "national": null,
-        "wmo": "78970",
-        "icao": "TTPP"
+        "$wmo": "78970",
+        "$icao": "TTPP",
+        "$iata": "POS",
+        "$ghcn": "TDM00078970",
+        "$wban": "11634",
+        "$usaf": "789700",
+        "$mosmix": "78970"
     },
     "location": {
         "latitude": 10.6167,

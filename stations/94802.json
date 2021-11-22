@@ -6,9 +6,12 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "94802",
-        "icao": "YPAL"
+        "$wmo": "94802",
+        "$icao": "YPAL",
+        "$iata": "ALH",
+        "$ghcn": "ASN00009741",
+        "$usaf": "948020",
+        "$mosmix": "94802"
     },
     "location": {
         "latitude": -34.9333,

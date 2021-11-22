@@ -6,9 +6,10 @@
     "country": "LA",
     "region": "XI",
     "identifiers": {
-        "national": null,
-        "wmo": "48935",
-        "icao": "VLXK"
+        "$wmo": "48935",
+        "$icao": "VLXK",
+        "$iata": "XKH",
+        "$usaf": "489350"
     },
     "location": {
         "latitude": 19.4667,

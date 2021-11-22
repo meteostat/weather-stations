@@ -6,9 +6,10 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHOT"
+        "$icao": "KHOT",
+        "$iata": "HOT",
+        "$wban": "03962",
+        "$usaf": "723415"
     },
     "location": {
         "latitude": 34.478,

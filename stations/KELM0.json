@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KELM"
+        "$icao": "KELM",
+        "$iata": "ELM",
+        "$wban": "14748",
+        "$usaf": "725156"
     },
     "location": {
         "latitude": 42.1599,

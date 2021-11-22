@@ -1,15 +1,13 @@
 {
     "id": "02256",
     "name": {
-        "en": "Ristraesk",
-        "sv": "Risträsk"
+        "sv": "Risträsk",
+        "en": "Ristraesk"
     },
     "country": "SE",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "02256",
-        "icao": null
+        "$wmo": "02256"
     },
     "location": {
         "latitude": 64.7344,

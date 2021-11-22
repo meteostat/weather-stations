@@ -6,9 +6,10 @@
     "country": "JP",
     "region": "KM",
     "identifiers": {
-        "national": null,
-        "wmo": "47856",
-        "icao": "RJFT"
+        "$wmo": "47856",
+        "$icao": "RJFT",
+        "$iata": "KMJ",
+        "$usaf": "478560"
     },
     "location": {
         "latitude": 32.8333,

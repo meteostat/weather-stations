@@ -6,9 +6,11 @@
     "country": "ZA",
     "region": "KN",
     "identifiers": {
-        "national": null,
-        "wmo": "68476",
-        "icao": "FALY"
+        "$wmo": "68476",
+        "$icao": "FALY",
+        "$iata": "LAY",
+        "$usaf": "684760",
+        "$mosmix": "68476"
     },
     "location": {
         "latitude": -28.5667,

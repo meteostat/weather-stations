@@ -6,9 +6,11 @@
     "country": "HU",
     "region": "CS",
     "identifiers": {
-        "national": null,
-        "wmo": "12982",
-        "icao": "LHUD"
+        "$wmo": "12982",
+        "$icao": "LHUD",
+        "$ghcn": "HUM00012982",
+        "$usaf": "129820",
+        "$mosmix": "12982"
     },
     "location": {
         "latitude": 46.25,

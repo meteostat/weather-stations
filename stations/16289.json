@@ -6,9 +6,12 @@
     "country": "IT",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": "16289",
-        "icao": "LIRN"
+        "$wmo": "16289",
+        "$icao": "LIRN",
+        "$iata": "NAP",
+        "$wban": "34113",
+        "$usaf": "162890",
+        "$mosmix": "16289"
     },
     "location": {
         "latitude": 40.85,

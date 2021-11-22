@@ -6,9 +6,11 @@
     "country": "MX",
     "region": "CAM",
     "identifiers": {
-        "national": null,
-        "wmo": "76695",
-        "icao": "MMCP"
+        "$wmo": "76695",
+        "$icao": "MMCP",
+        "$iata": "CPE",
+        "$ghcn": "MXM00076695",
+        "$usaf": "766950"
     },
     "location": {
         "latitude": 19.85,

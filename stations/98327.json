@@ -6,9 +6,10 @@
     "country": "PH",
     "region": "PAM",
     "identifiers": {
-        "national": null,
-        "wmo": "98327",
-        "icao": "RPMK"
+        "$wmo": "98327",
+        "$icao": "RPMK",
+        "$iata": "CRK",
+        "$wban": "41207"
     },
     "location": {
         "latitude": 15.1667,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KARA"
+        "$icao": "KARA",
+        "$wban": "03934",
+        "$usaf": "722314"
     },
     "location": {
         "latitude": 30.0378,

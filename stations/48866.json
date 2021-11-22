@@ -6,9 +6,10 @@
     "country": "VN",
     "region": "GL",
     "identifiers": {
-        "national": null,
-        "wmo": "48866",
-        "icao": "VVPK"
+        "$wmo": "48866",
+        "$icao": "VVPK",
+        "$iata": "PXU",
+        "$usaf": "488660"
     },
     "location": {
         "latitude": 13.9833,

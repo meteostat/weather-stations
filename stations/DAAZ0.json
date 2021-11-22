@@ -6,9 +6,9 @@
     "country": "DZ",
     "region": "REL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DAAZ"
+        "$icao": "DAAZ",
+        "$iata": "QZN",
+        "$usaf": "604920"
     },
     "location": {
         "latitude": 35.7522,

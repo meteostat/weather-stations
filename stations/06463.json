@@ -6,9 +6,9 @@
     "country": "BE",
     "region": "VLG",
     "identifiers": {
-        "national": null,
-        "wmo": "06463",
-        "icao": "EBTN"
+        "$wmo": "06463",
+        "$icao": "EBTN",
+        "$usaf": "064630"
     },
     "location": {
         "latitude": 50.7833,

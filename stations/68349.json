@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": "68349",
-        "icao": "FAVE"
+        "$wmo": "68349",
+        "$icao": "FAVE",
+        "$usaf": "683490"
     },
     "location": {
         "latitude": -26.3169,

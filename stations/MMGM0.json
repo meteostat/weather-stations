@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "SON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMGM"
+        "$icao": "MMGM",
+        "$iata": "GYM",
+        "$usaf": "762555"
     },
     "location": {
         "latitude": 27.9698,

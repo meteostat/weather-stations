@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "83689",
-        "icao": "SBBQ"
+        "$wmo": "83689",
+        "$icao": "SBBQ",
+        "$iata": "QAK",
+        "$usaf": "836890"
     },
     "location": {
         "latitude": -21.25,

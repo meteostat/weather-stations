@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "BD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ORTI"
+        "$icao": "ORTI",
+        "$usaf": "406514"
     },
     "location": {
         "latitude": 33.52,

@@ -6,9 +6,12 @@
     "country": "CH",
     "region": "GE",
     "identifiers": {
-        "national": null,
-        "wmo": "06700",
-        "icao": "LSGG"
+        "$wmo": "06700",
+        "$icao": "LSGG",
+        "$iata": "GVA",
+        "$ghcn": "SZ000008440",
+        "$usaf": "067000",
+        "$mosmix": "06700"
     },
     "location": {
         "latitude": 46.25,

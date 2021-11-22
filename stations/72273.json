@@ -6,9 +6,12 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": "72273",
-        "icao": "KFHU"
+        "$wmo": "72273",
+        "$icao": "KFHU",
+        "$iata": "FHU",
+        "$ghcn": "USW00003124",
+        "$wban": "03124",
+        "$usaf": "722730"
     },
     "location": {
         "latitude": 47.6333,

@@ -6,9 +6,9 @@
     "country": "TW",
     "region": "TT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RCFN"
+        "$icao": "RCFN",
+        "$iata": "TTT",
+        "$usaf": "467403"
     },
     "location": {
         "latitude": 22.7667,

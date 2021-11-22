@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "AB",
     "identifiers": {
-        "national": null,
-        "wmo": "16229",
-        "icao": "LIQI"
+        "$wmo": "16229",
+        "$icao": "LIQI",
+        "$usaf": "162283"
     },
     "location": {
         "latitude": 42.45,

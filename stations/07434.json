@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "HV",
     "identifiers": {
-        "national": null,
-        "wmo": "07434",
-        "icao": "LFBL"
+        "$wmo": "07434",
+        "$icao": "LFBL",
+        "$ghcn": "FRM00007434",
+        "$usaf": "074340",
+        "$mosmix": "07434"
     },
     "location": {
         "latitude": 45.8667,

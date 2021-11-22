@@ -6,9 +6,9 @@
     "country": "UY",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SULS"
+        "$icao": "SULS",
+        "$iata": "PDP",
+        "$usaf": "865823"
     },
     "location": {
         "latitude": -34.8667,

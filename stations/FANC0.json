@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "NL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FANC"
+        "$icao": "FANC",
+        "$iata": "NCS",
+        "$usaf": "683783"
     },
     "location": {
         "latitude": -27.7833,

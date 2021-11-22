@@ -6,9 +6,11 @@
     "country": "BW",
     "region": "NG",
     "identifiers": {
-        "national": null,
-        "wmo": "68026",
-        "icao": "FBSW"
+        "$wmo": "68026",
+        "$icao": "FBSW",
+        "$iata": "SWX",
+        "$ghcn": "BC000068026",
+        "$usaf": "680260"
     },
     "location": {
         "latitude": -18.3667,

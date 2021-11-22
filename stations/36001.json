@@ -6,9 +6,10 @@
     "country": "RU",
     "region": "PAV",
     "identifiers": {
-        "national": null,
-        "wmo": "36001",
-        "icao": "UASB"
+        "$wmo": "36001",
+        "$icao": "UASB",
+        "$iata": "EKB",
+        "$ghcn": "KZ000036001"
     },
     "location": {
         "latitude": 51.7,

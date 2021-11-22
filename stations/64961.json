@@ -6,9 +6,9 @@
     "country": "CM",
     "region": "ES",
     "identifiers": {
-        "national": null,
-        "wmo": "64961",
-        "icao": "FKAL"
+        "$wmo": "64961",
+        "$icao": "FKAL",
+        "$usaf": "649610"
     },
     "location": {
         "latitude": 3.15,

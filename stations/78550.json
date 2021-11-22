@@ -6,9 +6,11 @@
     "country": "VG",
     "region": "W",
     "identifiers": {
-        "national": null,
-        "wmo": "78550",
-        "icao": "TUPJ"
+        "$wmo": "78550",
+        "$icao": "TUPJ",
+        "$iata": "EIS",
+        "$usaf": "785500",
+        "$mosmix": "78550"
     },
     "location": {
         "latitude": 18.45,

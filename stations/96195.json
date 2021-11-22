@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "JA",
     "identifiers": {
-        "national": null,
-        "wmo": "96195",
-        "icao": "WIPA"
+        "$wmo": "96195",
+        "$icao": "WIPA",
+        "$iata": "DJB",
+        "$ghcn": "IDM00096195",
+        "$usaf": "961950"
     },
     "location": {
         "latitude": -1.6333,

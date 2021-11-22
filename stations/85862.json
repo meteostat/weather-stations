@@ -6,9 +6,10 @@
     "country": "CL",
     "region": "AI",
     "identifiers": {
-        "national": null,
-        "wmo": "85862",
-        "icao": "SCAS"
+        "$wmo": "85862",
+        "$icao": "SCAS",
+        "$iata": "WPA",
+        "$usaf": "858620"
     },
     "location": {
         "latitude": -45.4,

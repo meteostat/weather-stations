@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "KIR",
     "identifiers": {
-        "national": null,
-        "wmo": "28009",
-        "icao": null
+        "$wmo": "28009",
+        "$ghcn": "RSM00028009"
     },
     "location": {
         "latitude": 59.3667,

@@ -6,9 +6,12 @@
     "country": "CA",
     "region": "NU",
     "identifiers": {
-        "national": "51277",
-        "wmo": "71083",
-        "icao": "CYRT"
+        "$national": "51277",
+        "$wmo": "71083",
+        "$icao": "CYRT",
+        "$iata": "YRT",
+        "$ghcn": "CA002303401",
+        "$usaf": "710830"
     },
     "location": {
         "latitude": 62.81,

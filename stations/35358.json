@@ -6,9 +6,10 @@
     "country": "KZ",
     "region": "QS",
     "identifiers": {
-        "national": null,
-        "wmo": "35358",
-        "icao": null
+        "$wmo": "35358",
+        "$ghcn": "KZ000035358",
+        "$usaf": "353580",
+        "$mosmix": "35358"
     },
     "location": {
         "latitude": 49.6333,

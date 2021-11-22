@@ -6,9 +6,7 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": "99424",
-        "icao": null
+        "$wmo": "99424"
     },
     "location": {
         "latitude": 43.3333,

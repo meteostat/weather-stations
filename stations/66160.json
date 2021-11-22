@@ -6,9 +6,12 @@
     "country": "AO",
     "region": "LUA",
     "identifiers": {
-        "national": null,
-        "wmo": "66160",
-        "icao": "FNLU"
+        "$wmo": "66160",
+        "$icao": "FNLU",
+        "$iata": "LAD",
+        "$ghcn": "AO000066160",
+        "$usaf": "661600",
+        "$mosmix": "66160"
     },
     "location": {
         "latitude": -8.85,

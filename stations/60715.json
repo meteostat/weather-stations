@@ -6,9 +6,12 @@
     "country": "TN",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": "60715",
-        "icao": "DTTA"
+        "$wmo": "60715",
+        "$icao": "DTTA",
+        "$iata": "TUN",
+        "$ghcn": "TSM00060715",
+        "$usaf": "607150",
+        "$mosmix": "60715"
     },
     "location": {
         "latitude": 36.8333,

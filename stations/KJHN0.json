@@ -6,9 +6,7 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KJHN"
+        "$icao": "KJHN"
     },
     "location": {
         "latitude": 37.5854,

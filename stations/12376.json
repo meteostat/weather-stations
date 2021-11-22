@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "MZ",
     "identifiers": {
-        "national": null,
-        "wmo": "12376",
-        "icao": "EPMM"
+        "$wmo": "12376",
+        "$icao": "EPMM",
+        "$usaf": "123760"
     },
     "location": {
         "latitude": 52.2,

@@ -6,9 +6,10 @@
     "country": "IR",
     "region": "SBL",
     "identifiers": {
-        "national": null,
-        "wmo": "40829",
-        "icao": "OIZB"
+        "$wmo": "40829",
+        "$icao": "OIZB",
+        "$iata": "ACZ",
+        "$usaf": "408290"
     },
     "location": {
         "latitude": 31.3333,

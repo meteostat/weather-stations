@@ -6,9 +6,13 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "national": null,
-        "wmo": "91190",
-        "icao": "PHOG"
+        "$wmo": "91190",
+        "$icao": "PHOG",
+        "$iata": "OGG",
+        "$ghcn": "USW00022516",
+        "$wban": "22516",
+        "$usaf": "911900",
+        "$mosmix": "91190"
     },
     "location": {
         "latitude": 20.9,

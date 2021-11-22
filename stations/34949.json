@@ -6,9 +6,11 @@
     "country": "RU",
     "region": "STA",
     "identifiers": {
-        "national": null,
-        "wmo": "34949",
-        "icao": "URMT"
+        "$wmo": "34949",
+        "$icao": "URMT",
+        "$iata": "STW",
+        "$ghcn": "RSM00034949",
+        "$usaf": "349490"
     },
     "location": {
         "latitude": 45.1167,

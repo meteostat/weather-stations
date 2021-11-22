@@ -6,9 +6,9 @@
     "country": "IQ",
     "region": "BG",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ORBI"
+        "$icao": "ORBI",
+        "$iata": "BGW",
+        "$usaf": "406500"
     },
     "location": {
         "latitude": 33.2625,

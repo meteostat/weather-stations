@@ -6,9 +6,12 @@
     "country": "BS",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": "78073",
-        "icao": "MYNN"
+        "$wmo": "78073",
+        "$icao": "MYNN",
+        "$iata": "NAS",
+        "$ghcn": "BF000078073",
+        "$usaf": "780730",
+        "$mosmix": "78073"
     },
     "location": {
         "latitude": 25.05,

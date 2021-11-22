@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "LD",
     "identifiers": {
-        "national": null,
-        "wmo": "84501",
-        "icao": "SPRU"
+        "$wmo": "84501",
+        "$icao": "SPRU",
+        "$iata": "TRU",
+        "$ghcn": "PEM00084501",
+        "$usaf": "845010"
     },
     "location": {
         "latitude": -8.1,

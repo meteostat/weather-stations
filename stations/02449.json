@@ -2,15 +2,16 @@
     "id": "02449",
     "name": {
         "de": "Eskilstuna Flacksta Flughafen",
-        "en": "Eskilstuna Flacksta Airport",
-        "sv": "Eskilstuna Flacksta Flyplats"
+        "sv": "Eskilstuna Flacksta Flyplats",
+        "en": "Eskilstuna Flacksta Airport"
     },
     "country": "SE",
     "region": "D",
     "identifiers": {
-        "national": null,
-        "wmo": "02449",
-        "icao": "ESSU"
+        "$wmo": "02449",
+        "$icao": "ESSU",
+        "$iata": "EKT",
+        "$usaf": "023750"
     },
     "location": {
         "latitude": 59.3825,

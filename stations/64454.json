@@ -6,9 +6,10 @@
     "country": "CG",
     "region": "PL",
     "identifiers": {
-        "national": null,
-        "wmo": "64454",
-        "icao": "FCOG"
+        "$wmo": "64454",
+        "$icao": "FCOG",
+        "$ghcn": "CF000004454",
+        "$usaf": "644540"
     },
     "location": {
         "latitude": -1.8667,

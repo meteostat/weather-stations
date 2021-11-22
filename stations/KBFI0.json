@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBFI"
+        "$icao": "KBFI",
+        "$iata": "BFI",
+        "$wban": "24234",
+        "$usaf": "727935"
     },
     "location": {
         "latitude": 47.53,

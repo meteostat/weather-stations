@@ -6,9 +6,10 @@
     "country": "NO",
     "region": "MR",
     "identifiers": {
-        "national": null,
-        "wmo": "01210",
-        "icao": "ENAL"
+        "$wmo": "01210",
+        "$icao": "ENAL",
+        "$usaf": "012100",
+        "$mosmix": "01210"
     },
     "location": {
         "latitude": 62.5667,

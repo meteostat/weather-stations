@@ -6,9 +6,12 @@
     "country": "BR",
     "region": "RJ",
     "identifiers": {
-        "national": null,
-        "wmo": "83746",
-        "icao": "SBGL"
+        "$wmo": "83746",
+        "$icao": "SBGL",
+        "$iata": "GIG",
+        "$ghcn": "BRM00083746",
+        "$usaf": "837460",
+        "$mosmix": "83746"
     },
     "location": {
         "latitude": -22.8167,

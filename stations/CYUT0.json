@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NU",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYUT"
+        "$icao": "CYUT",
+        "$iata": "YUT",
+        "$usaf": "710944"
     },
     "location": {
         "latitude": 66.5214,

@@ -6,9 +6,8 @@
     "country": "PY",
     "region": "SP",
     "identifiers": {
-        "national": null,
-        "wmo": "86185",
-        "icao": null
+        "$wmo": "86185",
+        "$ghcn": "PAM00086185"
     },
     "location": {
         "latitude": -24.0833,

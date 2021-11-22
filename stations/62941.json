@@ -6,9 +6,12 @@
     "country": "SD",
     "region": "BG",
     "identifiers": {
-        "national": null,
-        "wmo": "62941",
-        "icao": "HSSJ"
+        "$wmo": "62941",
+        "$icao": "HSSJ",
+        "$iata": "JUB",
+        "$ghcn": "SU000062941",
+        "$usaf": "629410",
+        "$mosmix": "62941"
     },
     "location": {
         "latitude": 4.8667,

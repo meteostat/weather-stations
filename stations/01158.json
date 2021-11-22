@@ -1,15 +1,14 @@
 {
     "id": "01158",
     "name": {
-        "en": "Setsa",
-        "no": "Setså"
+        "no": "Setså",
+        "en": "Setsa"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "national": null,
-        "wmo": "01158",
-        "icao": null
+        "$wmo": "01158",
+        "$usaf": "011580"
     },
     "location": {
         "latitude": 67.1656,

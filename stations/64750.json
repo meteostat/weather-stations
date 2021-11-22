@@ -6,9 +6,11 @@
     "country": "TD",
     "region": "MC",
     "identifiers": {
-        "national": null,
-        "wmo": "64750",
-        "icao": "FTTA"
+        "$wmo": "64750",
+        "$icao": "FTTA",
+        "$iata": "SRH",
+        "$ghcn": "CD000004750",
+        "$usaf": "647500"
     },
     "location": {
         "latitude": 9.15,

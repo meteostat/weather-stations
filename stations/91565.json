@@ -6,9 +6,11 @@
     "country": "VU",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "91565",
-        "icao": "NVVW"
+        "$wmo": "91565",
+        "$icao": "NVVW",
+        "$iata": "TAH",
+        "$ghcn": "NHM00091565",
+        "$usaf": "915650"
     },
     "location": {
         "latitude": -19.5333,

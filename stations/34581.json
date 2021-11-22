@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "ZAP",
     "identifiers": {
-        "national": null,
-        "wmo": "34581",
-        "icao": null
+        "$wmo": "34581",
+        "$ghcn": "KZ000034581"
     },
     "location": {
         "latitude": 48.7667,

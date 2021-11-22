@@ -6,9 +6,8 @@
     "country": "EG",
     "region": "JNS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HESC"
+        "$icao": "HESC",
+        "$iata": "SKV"
     },
     "location": {
         "latitude": 28.6853,

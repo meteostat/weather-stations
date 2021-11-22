@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "K",
     "identifiers": {
-        "national": null,
-        "wmo": "07638",
-        "icao": null
+        "$wmo": "07638",
+        "$usaf": "076380",
+        "$mosmix": "07638"
     },
     "location": {
         "latitude": 43.3219,

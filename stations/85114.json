@@ -6,9 +6,11 @@
     "country": "BO",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": "85114",
-        "icao": "SLMG"
+        "$wmo": "85114",
+        "$icao": "SLMG",
+        "$iata": "MGD",
+        "$ghcn": "BL000085114",
+        "$usaf": "851140"
     },
     "location": {
         "latitude": -13.3333,

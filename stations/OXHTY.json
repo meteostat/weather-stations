@@ -6,13 +6,11 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": "5361",
-        "wmo": null,
-        "icao": null
+        "$national": "5361"
     },
     "location": {
         "latitude": 45.8,
-        "longitude": -73.0,
+        "longitude": -73,
         "elevation": 30
     },
     "timezone": "America/Toronto"

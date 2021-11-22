@@ -6,9 +6,8 @@
     "country": "TG",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DXDP"
+        "$icao": "DXDP",
+        "$usaf": "653765"
     },
     "location": {
         "latitude": 10.8,

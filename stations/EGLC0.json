@@ -6,9 +6,9 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EGLC"
+        "$icao": "EGLC",
+        "$iata": "LCY",
+        "$usaf": "037683"
     },
     "location": {
         "latitude": 51.5,

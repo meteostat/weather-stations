@@ -6,9 +6,12 @@
     "country": "ZA",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": "68438",
-        "icao": "FAKM"
+        "$wmo": "68438",
+        "$icao": "FAKM",
+        "$iata": "KIM",
+        "$ghcn": "SF000068438",
+        "$usaf": "684380",
+        "$mosmix": "68438"
     },
     "location": {
         "latitude": -28.8,

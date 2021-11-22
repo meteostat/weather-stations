@@ -6,9 +6,9 @@
     "country": "RS",
     "region": "JC",
     "identifiers": {
-        "national": null,
-        "wmo": "13168",
-        "icao": null
+        "$wmo": "13168",
+        "$ghcn": "RIE00111909",
+        "$mosmix": "13168"
     },
     "location": {
         "latitude": 45.3333,

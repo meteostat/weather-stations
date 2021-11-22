@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "national": null,
-        "wmo": "71664",
-        "icao": "CXWL"
+        "$wmo": "71664",
+        "$icao": "CXWL"
     },
     "location": {
         "latitude": 50.1539,

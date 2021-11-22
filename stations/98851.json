@@ -6,9 +6,10 @@
     "country": "PH",
     "region": "SCO",
     "identifiers": {
-        "national": null,
-        "wmo": "98851",
-        "icao": "RPWB"
+        "$wmo": "98851",
+        "$icao": "RPWB",
+        "$iata": "GES",
+        "$ghcn": "RP000098851"
     },
     "location": {
         "latitude": 6.1167,

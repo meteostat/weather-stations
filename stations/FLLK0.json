@@ -6,9 +6,8 @@
     "country": "ZM",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FLLK"
+        "$icao": "FLLK",
+        "$iata": "LXU"
     },
     "location": {
         "latitude": -14.3748,

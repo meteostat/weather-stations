@@ -6,9 +6,8 @@
     "country": "PE",
     "region": "LI",
     "identifiers": {
-        "national": null,
-        "wmo": "84582",
-        "icao": "SPPG"
+        "$wmo": "84582",
+        "$icao": "SPPG"
     },
     "location": {
         "latitude": -10.6667,

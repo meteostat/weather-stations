@@ -6,9 +6,12 @@
     "country": "BG",
     "region": "VN",
     "identifiers": {
-        "national": null,
-        "wmo": "15552",
-        "icao": "LBWN"
+        "$wmo": "15552",
+        "$icao": "LBWN",
+        "$iata": "VAR",
+        "$ghcn": "BUM00015552",
+        "$usaf": "155520",
+        "$mosmix": "15552"
     },
     "location": {
         "latitude": 43.2,

@@ -2,15 +2,17 @@
     "id": "02286",
     "name": {
         "de": "Umea Flughafen",
-        "en": "Umea Airport",
-        "sv": "Umea Flygplats"
+        "sv": "Umea Flygplats",
+        "en": "Umea Airport"
     },
     "country": "SE",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "02286",
-        "icao": "ESNU"
+        "$wmo": "02286",
+        "$icao": "ESNU",
+        "$iata": "UME",
+        "$usaf": "022860",
+        "$mosmix": "02286"
     },
     "location": {
         "latitude": 63.8,

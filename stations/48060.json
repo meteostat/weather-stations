@@ -6,9 +6,10 @@
     "country": "MM",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": "48060",
-        "icao": "VBKG"
+        "$wmo": "48060",
+        "$icao": "VBKG",
+        "$iata": "KET",
+        "$usaf": "480600"
     },
     "location": {
         "latitude": 21.3,

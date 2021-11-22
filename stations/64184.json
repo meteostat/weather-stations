@@ -6,9 +6,10 @@
     "country": "CD",
     "region": "GS",
     "identifiers": {
-        "national": null,
-        "wmo": "64184",
-        "icao": "FZNA"
+        "$wmo": "64184",
+        "$icao": "FZNA",
+        "$iata": "GOM",
+        "$usaf": "641840"
     },
     "location": {
         "latitude": -1.6833,

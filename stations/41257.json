@@ -6,9 +6,9 @@
     "country": "OM",
     "region": "DA",
     "identifiers": {
-        "national": null,
-        "wmo": "41257",
-        "icao": null
+        "$wmo": "41257",
+        "$ghcn": "MUM00041257",
+        "$mosmix": "41257"
     },
     "location": {
         "latitude": 23.3089,

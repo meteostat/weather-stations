@@ -6,9 +6,11 @@
     "country": "PK",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": "41641",
-        "icao": "OPLA"
+        "$wmo": "41641",
+        "$icao": "OPLA",
+        "$iata": "LHE",
+        "$usaf": "416410",
+        "$mosmix": "41641"
     },
     "location": {
         "latitude": 31.5167,

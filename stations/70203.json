@@ -6,9 +6,11 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "70203",
-        "icao": "PASA"
+        "$wmo": "70203",
+        "$icao": "PASA",
+        "$iata": "SVA",
+        "$wban": "26704",
+        "$usaf": "702035"
     },
     "location": {
         "latitude": 63.67,

@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "MP",
     "identifiers": {
-        "national": null,
-        "wmo": "42667",
-        "icao": "VABP"
+        "$wmo": "42667",
+        "$icao": "VABP",
+        "$iata": "BHO",
+        "$ghcn": "IN011351500",
+        "$usaf": "426670"
     },
     "location": {
         "latitude": 23.2833,

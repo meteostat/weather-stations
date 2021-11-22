@@ -6,9 +6,8 @@
     "country": "PE",
     "region": "AM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SPAC"
+        "$icao": "SPAC",
+        "$usaf": "843903"
     },
     "location": {
         "latitude": -4.5667,

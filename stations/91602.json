@@ -6,9 +6,8 @@
     "country": "KI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91602",
-        "icao": null
+        "$wmo": "91602",
+        "$wban": "80606"
     },
     "location": {
         "latitude": -0.8667,

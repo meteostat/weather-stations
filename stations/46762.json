@@ -6,9 +6,10 @@
     "country": "TW",
     "region": "TT",
     "identifiers": {
-        "national": null,
-        "wmo": "46762",
-        "icao": "RCLY"
+        "$wmo": "46762",
+        "$icao": "RCLY",
+        "$iata": "KYD",
+        "$usaf": "467620"
     },
     "location": {
         "latitude": 22.0333,

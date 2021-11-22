@@ -6,9 +6,9 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KDYL"
+        "$icao": "KDYL",
+        "$wban": "54786",
+        "$usaf": "725113"
     },
     "location": {
         "latitude": 40.3331,

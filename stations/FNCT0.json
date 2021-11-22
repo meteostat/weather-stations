@@ -6,9 +6,8 @@
     "country": "AO",
     "region": "BGU",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FNCT"
+        "$icao": "FNCT",
+        "$iata": "CBT"
     },
     "location": {
         "latitude": -12.4792,

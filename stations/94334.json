@@ -6,9 +6,10 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "national": null,
-        "wmo": "94334",
-        "icao": "YBIE"
+        "$wmo": "94334",
+        "$icao": "YBIE",
+        "$iata": "BEU",
+        "$ghcn": "ASN00038000"
     },
     "location": {
         "latitude": -24.3597,

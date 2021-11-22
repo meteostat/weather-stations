@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": "42203",
-        "wmo": "71741",
-        "icao": "CZKA"
+        "$national": "42203",
+        "$wmo": "71741",
+        "$icao": "CZKA",
+        "$ghcn": "CA001163842",
+        "$usaf": "717410"
     },
     "location": {
         "latitude": 50.7,

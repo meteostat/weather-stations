@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UERP"
+        "$icao": "UERP",
+        "$iata": "PYJ",
+        "$usaf": "243220"
     },
     "location": {
         "latitude": 66.4167,

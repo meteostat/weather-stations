@@ -6,9 +6,10 @@
     "country": "TN",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": "60740",
-        "icao": "DTTM"
+        "$wmo": "60740",
+        "$icao": "DTTM",
+        "$usaf": "607400",
+        "$mosmix": "60740"
     },
     "location": {
         "latitude": 35.6667,

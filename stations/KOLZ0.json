@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOLZ"
+        "$icao": "KOLZ",
+        "$wban": "04955",
+        "$usaf": "725488"
     },
     "location": {
         "latitude": 42.6808,

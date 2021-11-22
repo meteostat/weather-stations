@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSTE"
+        "$icao": "KSTE",
+        "$wban": "04895",
+        "$usaf": "726426"
     },
     "location": {
         "latitude": 44.5451,

@@ -6,9 +6,8 @@
     "country": "DE",
     "region": "BB",
     "identifiers": {
-        "national": null,
-        "wmo": "10395",
-        "icao": "EDNZ"
+        "$wmo": "10395",
+        "$icao": "EDNZ"
     },
     "location": {
         "latitude": 52.6167,

@@ -6,9 +6,10 @@
     "country": "RW",
     "region": "RU",
     "identifiers": {
-        "national": null,
-        "wmo": "64383",
-        "icao": "HRYU"
+        "$wmo": "64383",
+        "$icao": "HRYU",
+        "$iata": "RHG",
+        "$usaf": "643830"
     },
     "location": {
         "latitude": -1.5,

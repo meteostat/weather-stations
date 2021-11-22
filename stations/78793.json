@@ -6,9 +6,10 @@
     "country": "PA",
     "region": "CH",
     "identifiers": {
-        "national": null,
-        "wmo": "78793",
-        "icao": "MPDA"
+        "$wmo": "78793",
+        "$icao": "MPDA",
+        "$iata": "DAV",
+        "$usaf": "787930"
     },
     "location": {
         "latitude": 8.4,

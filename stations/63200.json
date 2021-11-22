@@ -6,9 +6,9 @@
     "country": "SO",
     "region": "BR",
     "identifiers": {
-        "national": null,
-        "wmo": "63200",
-        "icao": "HCMA"
+        "$wmo": "63200",
+        "$icao": "HCMA",
+        "$iata": "ALU"
     },
     "location": {
         "latitude": 11.95,

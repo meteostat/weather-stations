@@ -6,9 +6,8 @@
     "country": "UA",
     "region": "IF",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UKLI"
+        "$icao": "UKLI",
+        "$iata": "IFO"
     },
     "location": {
         "latitude": 48.8833,

@@ -6,9 +6,8 @@
     "country": "EH",
     "region": "LB",
     "identifiers": {
-        "national": null,
-        "wmo": "60033",
-        "icao": "GSAI"
+        "$wmo": "60033",
+        "$icao": "GSAI"
     },
     "location": {
         "latitude": 27.15,

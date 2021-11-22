@@ -6,9 +6,12 @@
     "country": "NG",
     "region": "KN",
     "identifiers": {
-        "national": null,
-        "wmo": "65046",
-        "icao": "DNKN"
+        "$wmo": "65046",
+        "$icao": "DNKN",
+        "$iata": "KAN",
+        "$ghcn": "NIM00065046",
+        "$usaf": "650460",
+        "$mosmix": "65046"
     },
     "location": {
         "latitude": 12.05,

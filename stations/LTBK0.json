@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "IZM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTBK"
+        "$icao": "LTBK",
+        "$usaf": "172191"
     },
     "location": {
         "latitude": 38.3191,

@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "SK",
     "identifiers": {
-        "national": null,
-        "wmo": "71866",
-        "icao": "CYXE"
+        "$wmo": "71866",
+        "$icao": "CYXE",
+        "$iata": "YXE",
+        "$ghcn": "CA004057120",
+        "$usaf": "718660"
     },
     "location": {
         "latitude": 52.1667,

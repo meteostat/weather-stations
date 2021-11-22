@@ -6,9 +6,10 @@
     "country": "RS",
     "region": "PG",
     "identifiers": {
-        "national": null,
-        "wmo": "13462",
-        "icao": "LYTI"
+        "$wmo": "13462",
+        "$icao": "LYTI",
+        "$usaf": "134620",
+        "$mosmix": "13462"
     },
     "location": {
         "latitude": 42.3667,

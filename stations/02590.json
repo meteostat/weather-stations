@@ -2,15 +2,18 @@
     "id": "02590",
     "name": {
         "de": "Visby Flughafen",
-        "en": "Visby Airport",
-        "sv": "Visby Flygplats"
+        "sv": "Visby Flygplats",
+        "en": "Visby Airport"
     },
     "country": "SE",
     "region": "I",
     "identifiers": {
-        "national": null,
-        "wmo": "02590",
-        "icao": "ESSV"
+        "$wmo": "02590",
+        "$icao": "ESSV",
+        "$iata": "VBY",
+        "$ghcn": "SW000002590",
+        "$usaf": "025900",
+        "$mosmix": "02590"
     },
     "location": {
         "latitude": 57.6667,

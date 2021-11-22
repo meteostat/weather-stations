@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "IB",
     "identifiers": {
-        "national": null,
-        "wmo": "08314",
-        "icao": "LEMH"
+        "$wmo": "08314",
+        "$icao": "LEMH",
+        "$iata": "MAH",
+        "$ghcn": "SPE00119864",
+        "$usaf": "083140",
+        "$mosmix": "08314"
     },
     "location": {
         "latitude": 39.8667,

@@ -6,9 +6,7 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFRR"
+        "$icao": "KFRR"
     },
     "location": {
         "latitude": 38.9175,

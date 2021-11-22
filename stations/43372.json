@@ -6,9 +6,12 @@
     "country": "IN",
     "region": "KL",
     "identifiers": {
-        "national": null,
-        "wmo": "43372",
-        "icao": "VOTV"
+        "$wmo": "43372",
+        "$icao": "VOTV",
+        "$iata": "TRV",
+        "$ghcn": "IN010100700",
+        "$usaf": "433720",
+        "$mosmix": "43372"
     },
     "location": {
         "latitude": 8.4667,

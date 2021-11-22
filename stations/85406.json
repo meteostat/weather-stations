@@ -6,9 +6,11 @@
     "country": "CL",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "85406",
-        "icao": "SCAR"
+        "$wmo": "85406",
+        "$icao": "SCAR",
+        "$iata": "ARI",
+        "$ghcn": "CI000085406",
+        "$usaf": "854060"
     },
     "location": {
         "latitude": -18.3333,

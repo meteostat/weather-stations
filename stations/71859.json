@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYBV"
+        "$icao": "CYBV",
+        "$iata": "YBV",
+        "$usaf": "718428"
     },
     "location": {
         "latitude": 52.35,

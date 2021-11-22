@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": "51517",
-        "wmo": "71944",
-        "icao": "CYZY"
+        "$national": "51517",
+        "$wmo": "71944",
+        "$icao": "CYZY",
+        "$ghcn": "CA001184790",
+        "$usaf": "719440"
     },
     "location": {
         "latitude": 55.31,

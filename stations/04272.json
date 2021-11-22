@@ -6,9 +6,10 @@
     "country": "GL",
     "region": "KU",
     "identifiers": {
-        "national": null,
-        "wmo": "04272",
-        "icao": "BGJH"
+        "$wmo": "04272",
+        "$icao": "BGJH",
+        "$iata": "JJU",
+        "$usaf": "042720"
     },
     "location": {
         "latitude": 60.7167,

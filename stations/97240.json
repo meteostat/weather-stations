@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "NB",
     "identifiers": {
-        "national": null,
-        "wmo": "97240",
-        "icao": "WRRA"
+        "$wmo": "97240",
+        "$icao": "WRRA",
+        "$iata": "AMI",
+        "$ghcn": "IDM00097240",
+        "$mosmix": "97240"
     },
     "location": {
         "latitude": -8.5333,

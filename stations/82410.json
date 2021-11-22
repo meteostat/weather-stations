@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "AM",
     "identifiers": {
-        "national": null,
-        "wmo": "82410",
-        "icao": "SBBC"
+        "$wmo": "82410",
+        "$icao": "SBBC",
+        "$iata": "BEJ",
+        "$ghcn": "BRM00082410",
+        "$usaf": "824100"
     },
     "location": {
         "latitude": -4.3833,

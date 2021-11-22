@@ -6,9 +6,11 @@
     "country": "KE",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": "63799",
-        "icao": "HKML"
+        "$wmo": "63799",
+        "$icao": "HKML",
+        "$iata": "MYD",
+        "$ghcn": "KEM00063799",
+        "$usaf": "637990"
     },
     "location": {
         "latitude": -3.2333,

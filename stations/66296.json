@@ -6,9 +6,9 @@
     "country": "AO",
     "region": "MOX",
     "identifiers": {
-        "national": null,
-        "wmo": "66296",
-        "icao": "FNCZ"
+        "$wmo": "66296",
+        "$icao": "FNCZ",
+        "$iata": "CAV"
     },
     "location": {
         "latitude": -11.8667,

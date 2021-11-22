@@ -6,9 +6,8 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEFC"
+        "$icao": "KEFC",
+        "$usaf": "726606"
     },
     "location": {
         "latitude": 44.7346,

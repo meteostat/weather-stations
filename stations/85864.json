@@ -6,9 +6,11 @@
     "country": "CL",
     "region": "AI",
     "identifiers": {
-        "national": null,
-        "wmo": "85864",
-        "icao": "SCCY"
+        "$wmo": "85864",
+        "$icao": "SCCY",
+        "$iata": "GXQ",
+        "$ghcn": "CIM00085864",
+        "$usaf": "858640"
     },
     "location": {
         "latitude": -45.5833,

@@ -6,9 +6,12 @@
     "country": "EE",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "26242",
-        "icao": "EETU"
+        "$wmo": "26242",
+        "$icao": "EETU",
+        "$iata": "TAY",
+        "$ghcn": "EN000026242",
+        "$usaf": "262420",
+        "$mosmix": "26242"
     },
     "location": {
         "latitude": 58.3,

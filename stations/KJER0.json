@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KJER"
+        "$icao": "KJER",
+        "$wban": "04110",
+        "$usaf": "726816"
     },
     "location": {
         "latitude": 42.7267,

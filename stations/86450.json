@@ -6,9 +6,8 @@
     "country": "UY",
     "region": "RN",
     "identifiers": {
-        "national": null,
-        "wmo": "86450",
-        "icao": null
+        "$wmo": "86450",
+        "$ghcn": "UY000001856"
     },
     "location": {
         "latitude": -32.6833,

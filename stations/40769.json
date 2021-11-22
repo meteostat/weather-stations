@@ -6,9 +6,11 @@
     "country": "IR",
     "region": "MKZ",
     "identifiers": {
-        "national": null,
-        "wmo": "40769",
-        "icao": "OIHR"
+        "$wmo": "40769",
+        "$icao": "OIHR",
+        "$iata": "AJK",
+        "$ghcn": "IRM00040769",
+        "$usaf": "407690"
     },
     "location": {
         "latitude": 34.1,

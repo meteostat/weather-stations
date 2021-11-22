@@ -6,9 +6,12 @@
     "country": "CZ",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "11518",
-        "icao": "LKPR"
+        "$wmo": "11518",
+        "$icao": "LKPR",
+        "$iata": "PRG",
+        "$ghcn": "EZM00011518",
+        "$usaf": "115180",
+        "$mosmix": "11518"
     },
     "location": {
         "latitude": 50.1,

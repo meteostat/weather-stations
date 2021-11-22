@@ -6,9 +6,12 @@
     "country": "PE",
     "region": "CL",
     "identifiers": {
-        "national": null,
-        "wmo": "84628",
-        "icao": "SPIM"
+        "$wmo": "84628",
+        "$icao": "SPIM",
+        "$iata": "LIM",
+        "$ghcn": "PEM00084628",
+        "$usaf": "846280",
+        "$mosmix": "84628"
     },
     "location": {
         "latitude": -12,

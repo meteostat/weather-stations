@@ -6,9 +6,8 @@
     "country": "IR",
     "region": "SMN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OIMJ"
+        "$icao": "OIMJ",
+        "$iata": "RUD"
     },
     "location": {
         "latitude": 36.4253,

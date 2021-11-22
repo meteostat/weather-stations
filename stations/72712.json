@@ -6,9 +6,12 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "national": null,
-        "wmo": "72712",
-        "icao": "KCAR"
+        "$wmo": "72712",
+        "$icao": "KCAR",
+        "$iata": "CAR",
+        "$ghcn": "USW00014607",
+        "$wban": "14607",
+        "$usaf": "727120"
     },
     "location": {
         "latitude": 46.8667,

@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "83347",
-        "icao": "SBIK"
+        "$wmo": "83347",
+        "$icao": "SBIK"
     },
     "location": {
         "latitude": -14.8,

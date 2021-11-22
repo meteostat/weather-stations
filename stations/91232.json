@@ -6,9 +6,12 @@
     "country": "US",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": "91232",
-        "icao": "PGSN"
+        "$wmo": "91232",
+        "$icao": "PGSN",
+        "$iata": "SPN",
+        "$ghcn": "CQC00914855",
+        "$wban": "41408",
+        "$usaf": "912320"
     },
     "location": {
         "latitude": 15.1167,

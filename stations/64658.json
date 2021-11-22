@@ -6,9 +6,11 @@
     "country": "CF",
     "region": "VAK",
     "identifiers": {
-        "national": null,
-        "wmo": "64658",
-        "icao": "FEFI"
+        "$wmo": "64658",
+        "$icao": "FEFI",
+        "$iata": "IRO",
+        "$ghcn": "CT000004658",
+        "$usaf": "646580"
     },
     "location": {
         "latitude": 10.2833,

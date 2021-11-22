@@ -6,9 +6,11 @@
     "country": "SN",
     "region": "ZI",
     "identifiers": {
-        "national": null,
-        "wmo": "61697",
-        "icao": "GOGS"
+        "$wmo": "61697",
+        "$icao": "GOGS",
+        "$iata": "CSK",
+        "$ghcn": "SGM00061697",
+        "$usaf": "616970"
     },
     "location": {
         "latitude": 12.4,

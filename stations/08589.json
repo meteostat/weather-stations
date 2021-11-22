@@ -6,9 +6,10 @@
     "country": "CV",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "08589",
-        "icao": null
+        "$wmo": "08589",
+        "$ghcn": "CVM00008589",
+        "$usaf": "085890",
+        "$mosmix": "08589"
     },
     "location": {
         "latitude": 14.9,

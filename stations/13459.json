@@ -6,9 +6,8 @@
     "country": "RS",
     "region": "NK",
     "identifiers": {
-        "national": null,
-        "wmo": "13459",
-        "icao": null
+        "$wmo": "13459",
+        "$ghcn": "MJM00013459"
     },
     "location": {
         "latitude": 42.7667,

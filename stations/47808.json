@@ -6,9 +6,10 @@
     "country": "JP",
     "region": "FO",
     "identifiers": {
-        "national": null,
-        "wmo": "47808",
-        "icao": "RJFF"
+        "$wmo": "47808",
+        "$icao": "RJFF",
+        "$iata": "FUK",
+        "$usaf": "478080"
     },
     "location": {
         "latitude": 33.5833,

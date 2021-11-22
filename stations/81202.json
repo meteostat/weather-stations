@@ -6,9 +6,10 @@
     "country": "SR",
     "region": "NI",
     "identifiers": {
-        "national": null,
-        "wmo": "81202",
-        "icao": "SMNI"
+        "$wmo": "81202",
+        "$icao": "SMNI",
+        "$iata": "ICK",
+        "$usaf": "812020"
     },
     "location": {
         "latitude": 5.95,

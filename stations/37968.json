@@ -6,9 +6,8 @@
     "country": "AZ",
     "region": "ZAN",
     "identifiers": {
-        "national": null,
-        "wmo": "37968",
-        "icao": null
+        "$wmo": "37968",
+        "$ghcn": "AJ000037968"
     },
     "location": {
         "latitude": 39,

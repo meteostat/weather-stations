@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "43296",
-        "icao": "VOBG"
+        "$wmo": "43296",
+        "$icao": "VOBG",
+        "$ghcn": "IN009012800",
+        "$usaf": "433025",
+        "$mosmix": "43296"
     },
     "location": {
         "latitude": 12.95,

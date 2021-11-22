@@ -6,9 +6,12 @@
     "country": "KH",
     "region": "KL",
     "identifiers": {
-        "national": null,
-        "wmo": "48991",
-        "icao": "VDPP"
+        "$wmo": "48991",
+        "$icao": "VDPP",
+        "$iata": "PNH",
+        "$ghcn": "CBM00048991",
+        "$usaf": "489910",
+        "$mosmix": "48991"
     },
     "location": {
         "latitude": 11.55,

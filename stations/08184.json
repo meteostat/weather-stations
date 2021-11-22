@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "CT",
     "identifiers": {
-        "national": null,
-        "wmo": "08184",
-        "icao": "LEGE"
+        "$wmo": "08184",
+        "$icao": "LEGE",
+        "$iata": "GRO",
+        "$ghcn": "SPE00120080",
+        "$usaf": "081840",
+        "$mosmix": "08184"
     },
     "location": {
         "latitude": 41.9,

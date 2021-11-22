@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "BW",
     "identifiers": {
-        "national": "04175",
-        "wmo": null,
-        "icao": "EDTR"
+        "$national": "04175",
+        "$icao": "EDTR",
+        "$iata": "ZNM"
     },
     "location": {
         "latitude": 47.5583,

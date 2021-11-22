@@ -6,9 +6,8 @@
     "country": "RS",
     "region": "RS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LYKV"
+        "$icao": "LYKV",
+        "$usaf": "133760"
     },
     "location": {
         "latitude": 43.8181,

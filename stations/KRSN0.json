@@ -6,9 +6,9 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRSN"
+        "$icao": "KRSN",
+        "$wban": "53958",
+        "$usaf": "722251"
     },
     "location": {
         "latitude": 32.5146,

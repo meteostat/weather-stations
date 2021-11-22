@@ -6,9 +6,8 @@
     "country": "PG",
     "region": "EB",
     "identifiers": {
-        "national": null,
-        "wmo": "92100",
-        "icao": null
+        "$wmo": "92100",
+        "$ghcn": "PPM00092100"
     },
     "location": {
         "latitude": -4.3333,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSWO"
+        "$icao": "KSWO",
+        "$iata": "SWO",
+        "$wban": "03965",
+        "$usaf": "723545"
     },
     "location": {
         "latitude": 36.1612,

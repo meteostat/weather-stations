@@ -6,9 +6,10 @@
     "country": "TW",
     "region": "HS",
     "identifiers": {
-        "national": null,
-        "wmo": "46756",
-        "icao": "RCPO"
+        "$wmo": "46756",
+        "$icao": "RCPO",
+        "$iata": "HSZ",
+        "$usaf": "467560"
     },
     "location": {
         "latitude": 24.8167,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "SC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCRE"
+        "$icao": "KCRE",
+        "$iata": "CRE",
+        "$wban": "93718",
+        "$usaf": "747915"
     },
     "location": {
         "latitude": 33.8118,

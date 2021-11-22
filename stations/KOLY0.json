@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOLY"
+        "$icao": "KOLY",
+        "$wban": "53822",
+        "$usaf": "744659"
     },
     "location": {
         "latitude": 38.7218,

@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "ORE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UWOO"
+        "$icao": "UWOO",
+        "$iata": "REN",
+        "$usaf": "351210"
     },
     "location": {
         "latitude": 51.7833,

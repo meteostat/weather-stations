@@ -6,9 +6,12 @@
     "country": "IE",
     "region": "L",
     "identifiers": {
-        "national": null,
-        "wmo": "03969",
-        "icao": "EIDW"
+        "$wmo": "03969",
+        "$icao": "EIDW",
+        "$iata": "DUB",
+        "$ghcn": "EI000003969",
+        "$usaf": "039690",
+        "$mosmix": "03969"
     },
     "location": {
         "latitude": 53.4333,

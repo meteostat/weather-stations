@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "CHP",
     "identifiers": {
-        "national": null,
-        "wmo": "76903",
-        "icao": null
+        "$wmo": "76903",
+        "$ghcn": "MXM00076903",
+        "$usaf": "769030"
     },
     "location": {
         "latitude": 14.9167,

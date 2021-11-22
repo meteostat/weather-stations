@@ -6,9 +6,8 @@
     "country": "MX",
     "region": "CHP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMPQ"
+        "$icao": "MMPQ",
+        "$iata": "PQM"
     },
     "location": {
         "latitude": 17.5334,

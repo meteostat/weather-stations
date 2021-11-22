@@ -6,9 +6,10 @@
     "country": "TZ",
     "region": "PS",
     "identifiers": {
-        "national": null,
-        "wmo": "63845",
-        "icao": "HTPE"
+        "$wmo": "63845",
+        "$icao": "HTPE",
+        "$iata": "PMA",
+        "$usaf": "638450"
     },
     "location": {
         "latitude": -5.25,

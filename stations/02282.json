@@ -1,15 +1,13 @@
 {
     "id": "02282",
     "name": {
-        "en": "Petistraesk",
-        "sv": "Petisträsk"
+        "sv": "Petisträsk",
+        "en": "Petistraesk"
     },
     "country": "SE",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "02282",
-        "icao": null
+        "$wmo": "02282"
     },
     "location": {
         "latitude": 64.5669,

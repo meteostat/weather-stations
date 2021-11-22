@@ -6,9 +6,8 @@
     "country": "PE",
     "region": "CU",
     "identifiers": {
-        "national": null,
-        "wmo": "84710",
-        "icao": "SPIY"
+        "$wmo": "84710",
+        "$icao": "SPIY"
     },
     "location": {
         "latitude": -14.7833,

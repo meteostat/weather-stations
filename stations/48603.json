@@ -6,9 +6,10 @@
     "country": "MY",
     "region": "KD",
     "identifiers": {
-        "national": null,
-        "wmo": "48603",
-        "icao": "WMKA"
+        "$wmo": "48603",
+        "$icao": "WMKA",
+        "$iata": "AOR",
+        "$usaf": "486022"
     },
     "location": {
         "latitude": 6.2,

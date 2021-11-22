@@ -6,9 +6,12 @@
     "country": "BD",
     "region": "BAR",
     "identifiers": {
-        "national": null,
-        "wmo": "41978",
-        "icao": "VGEG"
+        "$wmo": "41978",
+        "$icao": "VGEG",
+        "$iata": "CGP",
+        "$ghcn": "BGM00041978",
+        "$usaf": "419780",
+        "$mosmix": "41978"
     },
     "location": {
         "latitude": 22.2667,

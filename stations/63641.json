@@ -6,9 +6,10 @@
     "country": "KE",
     "region": "EA",
     "identifiers": {
-        "national": null,
-        "wmo": "63641",
-        "icao": "HKMB"
+        "$wmo": "63641",
+        "$icao": "HKMB",
+        "$iata": "RBT",
+        "$usaf": "636410"
     },
     "location": {
         "latitude": 2.3,

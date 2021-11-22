@@ -6,9 +6,9 @@
     "country": "ID",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "97004",
-        "icao": "WAMN"
+        "$wmo": "97004",
+        "$icao": "WAMN",
+        "$iata": "MNA"
     },
     "location": {
         "latitude": 4.2167,

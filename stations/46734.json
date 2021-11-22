@@ -6,9 +6,10 @@
     "country": "TW",
     "region": "PH",
     "identifiers": {
-        "national": null,
-        "wmo": "46734",
-        "icao": "RCQC"
+        "$wmo": "46734",
+        "$icao": "RCQC",
+        "$iata": "MZG",
+        "$usaf": "467340"
     },
     "location": {
         "latitude": 23.5833,

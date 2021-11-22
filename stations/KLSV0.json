@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLSV"
+        "$icao": "KLSV",
+        "$iata": "LVS",
+        "$wban": "23112",
+        "$usaf": "746140"
     },
     "location": {
         "latitude": 36.2362,

@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YOLD"
+        "$icao": "YOLD",
+        "$iata": "OLP"
     },
     "location": {
         "latitude": -30.485,

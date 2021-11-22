@@ -6,9 +6,13 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "72781",
-        "icao": "KYKM"
+        "$wmo": "72781",
+        "$icao": "KYKM",
+        "$iata": "YKM",
+        "$ghcn": "USW00024243",
+        "$wban": "24243",
+        "$usaf": "727810",
+        "$mosmix": "72781"
     },
     "location": {
         "latitude": 46.5667,

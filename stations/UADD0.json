@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "ZHA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UADD"
+        "$icao": "UADD",
+        "$iata": "DMB",
+        "$usaf": "383285"
     },
     "location": {
         "latitude": 42.85,

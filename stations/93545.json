@@ -6,9 +6,8 @@
     "country": "NZ",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": "93545",
-        "icao": null
+        "$wmo": "93545",
+        "$iata": "NSN"
     },
     "location": {
         "latitude": -41.3,

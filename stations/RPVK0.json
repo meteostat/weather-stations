@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "AKL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPVK"
+        "$icao": "RPVK",
+        "$iata": "KLO",
+        "$usaf": "985370"
     },
     "location": {
         "latitude": 11.6833,

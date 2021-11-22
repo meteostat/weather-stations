@@ -6,9 +6,9 @@
     "country": "AT",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "11176",
-        "icao": "LOGK"
+        "$wmo": "11176",
+        "$icao": "LOGK",
+        "$mosmix": "11176"
     },
     "location": {
         "latitude": 47.4667,

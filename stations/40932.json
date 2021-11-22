@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "PAR",
     "identifiers": {
-        "national": null,
-        "wmo": "40932",
-        "icao": "OAJS"
+        "$wmo": "40932",
+        "$icao": "OAJS",
+        "$usaf": "409320"
     },
     "location": {
         "latitude": 35.1333,

@@ -6,9 +6,8 @@
     "country": "CK",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "NCAT"
+        "$icao": "NCAT",
+        "$iata": "AIU"
     },
     "location": {
         "latitude": -19.9678,

@@ -6,9 +6,8 @@
     "country": "ID",
     "region": "RI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "WIDN"
+        "$icao": "WIDN",
+        "$iata": "TNJ"
     },
     "location": {
         "latitude": 0.9227,

@@ -6,9 +6,8 @@
     "country": "JP",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RJDK"
+        "$icao": "RJDK",
+        "$usaf": "478123"
     },
     "location": {
         "latitude": 33.0167,

@@ -6,9 +6,12 @@
     "country": "BR",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": "82993",
-        "icao": "SBMO"
+        "$wmo": "82993",
+        "$icao": "SBMO",
+        "$iata": "MCZ",
+        "$ghcn": "BR038983570",
+        "$usaf": "829930",
+        "$mosmix": "82993"
     },
     "location": {
         "latitude": -9.5167,

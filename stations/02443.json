@@ -6,9 +6,9 @@
     "country": "SE",
     "region": "C",
     "identifiers": {
-        "national": null,
-        "wmo": "02443",
-        "icao": "ESSK"
+        "$wmo": "02443",
+        "$icao": "ESSK",
+        "$usaf": "024530"
     },
     "location": {
         "latitude": 60.6,

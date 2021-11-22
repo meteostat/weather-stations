@@ -6,9 +6,12 @@
     "country": "CN",
     "region": "GX",
     "identifiers": {
-        "national": null,
-        "wmo": "59431",
-        "icao": "ZGNN"
+        "$wmo": "59431",
+        "$icao": "ZGNN",
+        "$iata": "NNG",
+        "$ghcn": "CHM00059431",
+        "$usaf": "594310",
+        "$mosmix": "59431"
     },
     "location": {
         "latitude": 22.8167,

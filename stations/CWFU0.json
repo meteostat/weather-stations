@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "NF",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWFU"
+        "$icao": "CWFU",
+        "$usaf": "711835"
     },
     "location": {
         "latitude": 52.2333,

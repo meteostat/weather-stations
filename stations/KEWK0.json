@@ -6,9 +6,9 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEWK"
+        "$icao": "KEWK",
+        "$wban": "53939",
+        "$usaf": "724509"
     },
     "location": {
         "latitude": 38.0582,

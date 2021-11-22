@@ -6,9 +6,11 @@
     "country": "RU",
     "region": "ROS",
     "identifiers": {
-        "national": null,
-        "wmo": "34731",
-        "icao": "URRR"
+        "$wmo": "34731",
+        "$icao": "URRR",
+        "$iata": "ROV",
+        "$usaf": "347300",
+        "$mosmix": "34731"
     },
     "location": {
         "latitude": 47.2667,

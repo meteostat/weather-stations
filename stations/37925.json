@@ -6,9 +6,8 @@
     "country": "AZ",
     "region": "NEF",
     "identifiers": {
-        "national": null,
-        "wmo": "37925",
-        "icao": null
+        "$wmo": "37925",
+        "$ghcn": "AJ000037925"
     },
     "location": {
         "latitude": 39.4,

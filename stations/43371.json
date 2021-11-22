@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "KL",
     "identifiers": {
-        "national": null,
-        "wmo": "43371",
-        "icao": null
+        "$wmo": "43371",
+        "$ghcn": "IN010100400",
+        "$usaf": "433710",
+        "$mosmix": "43371"
     },
     "location": {
         "latitude": 8.4833,

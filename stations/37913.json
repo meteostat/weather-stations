@@ -6,9 +6,8 @@
     "country": "AZ",
     "region": "SAL",
     "identifiers": {
-        "national": null,
-        "wmo": "37913",
-        "icao": null
+        "$wmo": "37913",
+        "$ghcn": "AJ000037913"
     },
     "location": {
         "latitude": 39.5833,

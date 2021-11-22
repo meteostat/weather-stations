@@ -6,9 +6,9 @@
     "country": "ET",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": "63472",
-        "icao": "HAML"
+        "$wmo": "63472",
+        "$icao": "HAML",
+        "$usaf": "634723"
     },
     "location": {
         "latitude": 6.37,

@@ -7,9 +7,11 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": "01262",
-        "wmo": "10866",
-        "icao": "EDDM"
+        "$national": "01262",
+        "$wmo": "10866",
+        "$icao": "EDDM",
+        "$iata": "MUC",
+        "$usaf": "108660"
     },
     "location": {
         "latitude": 48.35,

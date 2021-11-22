@@ -6,9 +6,13 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "national": null,
-        "wmo": "72206",
-        "icao": "KJAX"
+        "$wmo": "72206",
+        "$icao": "KJAX",
+        "$iata": "JAX",
+        "$ghcn": "USW00013889",
+        "$wban": "13889",
+        "$usaf": "722060",
+        "$mosmix": "72206"
     },
     "location": {
         "latitude": 30.5,

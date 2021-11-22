@@ -6,9 +6,11 @@
     "country": "PH",
     "region": "ZSI",
     "identifiers": {
-        "national": null,
-        "wmo": "98836",
-        "icao": "RPMZ"
+        "$wmo": "98836",
+        "$icao": "RPMZ",
+        "$iata": "ZAM",
+        "$ghcn": "RP000098836",
+        "$usaf": "988360"
     },
     "location": {
         "latitude": 6.9,

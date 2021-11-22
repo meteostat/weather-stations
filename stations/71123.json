@@ -6,9 +6,13 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": "50149",
-        "wmo": "71123",
-        "icao": "CYEG"
+        "$national": "50149",
+        "$wmo": "71123",
+        "$icao": "CYEG",
+        "$iata": "YEG",
+        "$ghcn": "CA003012205",
+        "$usaf": "711230",
+        "$mosmix": "71123"
     },
     "location": {
         "latitude": 53.31,

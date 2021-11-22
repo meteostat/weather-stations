@@ -6,9 +6,10 @@
     "country": "CH",
     "region": "VD",
     "identifiers": {
-        "national": null,
-        "wmo": "06610",
-        "icao": "LSMP"
+        "$wmo": "06610",
+        "$icao": "LSMP",
+        "$ghcn": "SZE00116090",
+        "$mosmix": "06610"
     },
     "location": {
         "latitude": 46.8167,

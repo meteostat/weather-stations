@@ -6,9 +6,8 @@
     "country": "AE",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OMAH"
+        "$icao": "OMAH",
+        "$usaf": "412161"
     },
     "location": {
         "latitude": 24.074,

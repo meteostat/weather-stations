@@ -6,9 +6,8 @@
     "country": "MM",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "48036",
-        "icao": "VBGG"
+        "$wmo": "48036",
+        "$icao": "VBGG"
     },
     "location": {
         "latitude": 22.1667,

@@ -6,9 +6,11 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": null,
-        "wmo": "10677",
-        "icao": "EDQD"
+        "$wmo": "10677",
+        "$icao": "EDQD",
+        "$iata": "BYU",
+        "$usaf": "106770",
+        "$mosmix": "10677"
     },
     "location": {
         "latitude": 49.9833,

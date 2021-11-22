@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "KZT",
     "identifiers": {
-        "national": null,
-        "wmo": "40794",
-        "icao": null
+        "$wmo": "40794",
+        "$usaf": "407940",
+        "$mosmix": "40794"
     },
     "location": {
         "latitude": 32.2667,

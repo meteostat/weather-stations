@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHNZ"
+        "$icao": "KHNZ",
+        "$wban": "03711",
+        "$usaf": "720288"
     },
     "location": {
         "latitude": 36.3616,

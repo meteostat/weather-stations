@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "SS",
     "identifiers": {
-        "national": null,
-        "wmo": "96237",
-        "icao": "WIKK"
+        "$wmo": "96237",
+        "$icao": "WIKK",
+        "$iata": "PGK",
+        "$ghcn": "IDM00096237",
+        "$usaf": "962370"
     },
     "location": {
         "latitude": -2.1667,

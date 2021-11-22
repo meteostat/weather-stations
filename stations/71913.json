@@ -6,9 +6,13 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "national": "10745",
-        "wmo": "71913",
-        "icao": "CYYQ"
+        "$national": "10745",
+        "$wmo": "71913",
+        "$icao": "CYYQ",
+        "$iata": "YYQ",
+        "$ghcn": "CA005060600",
+        "$usaf": "716180",
+        "$mosmix": "71913"
     },
     "location": {
         "latitude": 58.73,

@@ -6,9 +6,8 @@
     "country": "KH",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VDSV"
+        "$icao": "VDSV",
+        "$iata": "KOS"
     },
     "location": {
         "latitude": 10.5797,

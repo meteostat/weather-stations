@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KORG"
+        "$icao": "KORG",
+        "$wban": "53998",
+        "$usaf": "723629"
     },
     "location": {
         "latitude": 30.0685,

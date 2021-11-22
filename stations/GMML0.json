@@ -6,9 +6,9 @@
     "country": "EH",
     "region": "LB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "GMML"
+        "$icao": "GMML",
+        "$iata": "EUN",
+        "$usaf": "600330"
     },
     "location": {
         "latitude": 27.1333,

@@ -6,9 +6,12 @@
     "country": "DZ",
     "region": "GHA",
     "identifiers": {
-        "national": null,
-        "wmo": "60590",
-        "icao": "DAUE"
+        "$wmo": "60590",
+        "$icao": "DAUE",
+        "$iata": "ELG",
+        "$ghcn": "AG000060590",
+        "$usaf": "605900",
+        "$mosmix": "60590"
     },
     "location": {
         "latitude": 30.5667,

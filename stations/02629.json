@@ -1,15 +1,13 @@
 {
     "id": "02629",
     "name": {
-        "en": "Hastveda",
-        "sv": "Hästveda"
+        "sv": "Hästveda",
+        "en": "Hastveda"
     },
     "country": "SE",
     "region": "SN",
     "identifiers": {
-        "national": null,
-        "wmo": "02629",
-        "icao": null
+        "$wmo": "02629"
     },
     "location": {
         "latitude": 56.2744,

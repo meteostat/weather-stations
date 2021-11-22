@@ -6,9 +6,11 @@
     "country": "NE",
     "region": "ZI",
     "identifiers": {
-        "national": null,
-        "wmo": "61090",
-        "icao": "DRZR"
+        "$wmo": "61090",
+        "$icao": "DRZR",
+        "$iata": "ZND",
+        "$ghcn": "NG000001090",
+        "$usaf": "610900"
     },
     "location": {
         "latitude": 13.7833,

@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "NP",
     "identifiers": {
-        "national": null,
-        "wmo": "68156",
-        "icao": "FAER"
+        "$wmo": "68156",
+        "$icao": "FAER",
+        "$usaf": "681550"
     },
     "location": {
         "latitude": -23.7167,

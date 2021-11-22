@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "U",
     "identifiers": {
-        "national": null,
-        "wmo": "07591",
-        "icao": null
+        "$wmo": "07591",
+        "$ghcn": "FRM00007591",
+        "$usaf": "075910"
     },
     "location": {
         "latitude": 44.5667,

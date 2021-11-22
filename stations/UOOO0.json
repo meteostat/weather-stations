@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "TAY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UOOO"
+        "$icao": "UOOO",
+        "$iata": "NSK",
+        "$usaf": "319811"
     },
     "location": {
         "latitude": 69.3167,

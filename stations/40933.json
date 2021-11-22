@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "WAR",
     "identifiers": {
-        "national": null,
-        "wmo": "40933",
-        "icao": "OAHJ"
+        "$wmo": "40933",
+        "$icao": "OAHJ",
+        "$usaf": "409330"
     },
     "location": {
         "latitude": 34.5833,

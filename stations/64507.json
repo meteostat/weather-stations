@@ -6,9 +6,11 @@
     "country": "GA",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": "64507",
-        "icao": "FOOT"
+        "$wmo": "64507",
+        "$icao": "FOOT",
+        "$iata": "TCH",
+        "$ghcn": "GB000004507",
+        "$usaf": "645070"
     },
     "location": {
         "latitude": -2.85,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "national": null,
-        "wmo": "72672",
-        "icao": "KRIW"
+        "$wmo": "72672",
+        "$icao": "KRIW",
+        "$wban": "24061",
+        "$usaf": "726720"
     },
     "location": {
         "latitude": 43.0667,

@@ -6,9 +6,8 @@
     "country": "SA",
     "region": "ML",
     "identifiers": {
-        "national": null,
-        "wmo": "41020",
-        "icao": null
+        "$wmo": "41020",
+        "$mosmix": "41020"
     },
     "location": {
         "latitude": 21.4167,

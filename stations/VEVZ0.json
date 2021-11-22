@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "AP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VEVZ"
+        "$icao": "VEVZ",
+        "$iata": "VTZ"
     },
     "location": {
         "latitude": 17.7212,

@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "NUE",
     "identifiers": {
-        "national": null,
-        "wmo": "98330",
-        "icao": "RPUC"
+        "$wmo": "98330",
+        "$icao": "RPUC",
+        "$ghcn": "RPM00098330"
     },
     "location": {
         "latitude": 15.4833,

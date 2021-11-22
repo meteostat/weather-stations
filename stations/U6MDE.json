@@ -6,13 +6,11 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": "1881",
-        "wmo": null,
-        "icao": null
+        "$national": "1881"
     },
     "location": {
         "latitude": 52.97,
-        "longitude": -111.0,
+        "longitude": -111,
         "elevation": 698
     },
     "timezone": "America/Edmonton"

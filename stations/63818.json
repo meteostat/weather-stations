@@ -6,9 +6,9 @@
     "country": "TZ",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": "63818",
-        "icao": "HTMO"
+        "$wmo": "63818",
+        "$icao": "HTMO",
+        "$usaf": "638180"
     },
     "location": {
         "latitude": -4.8833,

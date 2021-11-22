@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "RP",
     "identifiers": {
-        "national": "05426",
-        "wmo": "10724",
-        "icao": null
+        "$national": "05426",
+        "$wmo": "10724",
+        "$ghcn": "GMM00010724",
+        "$mosmix": "10724"
     },
     "location": {
         "latitude": 49.3833,

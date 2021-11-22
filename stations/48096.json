@@ -6,9 +6,9 @@
     "country": "MM",
     "region": "YG",
     "identifiers": {
-        "national": null,
-        "wmo": "48096",
-        "icao": "VBRR"
+        "$wmo": "48096",
+        "$icao": "VBRR",
+        "$iata": "RGN"
     },
     "location": {
         "latitude": 16.9,

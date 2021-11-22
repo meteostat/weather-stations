@@ -6,9 +6,8 @@
     "country": "GN",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "GUXN"
+        "$icao": "GUXN",
+        "$iata": "KNN"
     },
     "location": {
         "latitude": 10.394,

@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": "02542",
-        "wmo": "10953",
-        "icao": "EDSK"
+        "$national": "02542",
+        "$wmo": "10953",
+        "$icao": "EDSK",
+        "$wban": "34161"
     },
     "location": {
         "latitude": 47.8667,

@@ -6,9 +6,11 @@
     "country": "BD",
     "region": "DH",
     "identifiers": {
-        "national": null,
-        "wmo": "41923",
-        "icao": "VGTJ"
+        "$wmo": "41923",
+        "$icao": "VGTJ",
+        "$ghcn": "BGM00041923",
+        "$usaf": "419230",
+        "$mosmix": "41923"
     },
     "location": {
         "latitude": 23.7667,

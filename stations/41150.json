@@ -6,9 +6,12 @@
     "country": "BH",
     "region": "MUH",
     "identifiers": {
-        "national": null,
-        "wmo": "41150",
-        "icao": "OBBI"
+        "$wmo": "41150",
+        "$icao": "OBBI",
+        "$iata": "BAH",
+        "$ghcn": "BA000041150",
+        "$usaf": "411500",
+        "$mosmix": "41150"
     },
     "location": {
         "latitude": 26.2667,

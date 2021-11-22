@@ -6,9 +6,10 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLWC"
+        "$icao": "KLWC",
+        "$iata": "LWC",
+        "$wban": "03997",
+        "$usaf": "724508"
     },
     "location": {
         "latitude": 39.0111,

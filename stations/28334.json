@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "SVE",
     "identifiers": {
-        "national": null,
-        "wmo": "28334",
-        "icao": null
+        "$wmo": "28334",
+        "$ghcn": "RSM00028334"
     },
     "location": {
         "latitude": 57.35,

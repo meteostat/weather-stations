@@ -6,9 +6,9 @@
     "country": "TH",
     "region": "CP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VTSE"
+        "$icao": "VTSE",
+        "$iata": "CJM",
+        "$usaf": "485170"
     },
     "location": {
         "latitude": 10.7112,

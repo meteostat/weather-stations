@@ -6,9 +6,10 @@
     "country": "UY",
     "region": "TT",
     "identifiers": {
-        "national": null,
-        "wmo": "86500",
-        "icao": "SUTR"
+        "$wmo": "86500",
+        "$icao": "SUTR",
+        "$ghcn": "UYM00086500",
+        "$usaf": "865000"
     },
     "location": {
         "latitude": -33.2167,

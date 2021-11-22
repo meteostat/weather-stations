@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "NAA",
     "identifiers": {
-        "national": null,
-        "wmo": "60560",
-        "icao": null
+        "$wmo": "60560",
+        "$ghcn": "AGM00060560"
     },
     "location": {
         "latitude": 32.7667,

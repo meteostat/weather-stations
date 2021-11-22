@@ -6,9 +6,10 @@
     "country": "CM",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": "64892",
-        "icao": "FKKV"
+        "$wmo": "64892",
+        "$icao": "FKKV",
+        "$iata": "BPC",
+        "$usaf": "648920"
     },
     "location": {
         "latitude": 6.05,

@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "MSI",
     "identifiers": {
-        "national": null,
-        "wmo": "60515",
-        "icao": "DAAD"
+        "$wmo": "60515",
+        "$icao": "DAAD",
+        "$iata": "BUJ",
+        "$ghcn": "AGM00060515",
+        "$usaf": "605150"
     },
     "location": {
         "latitude": 35.3333,

@@ -6,9 +6,10 @@
     "country": "CL",
     "region": "AN",
     "identifiers": {
-        "national": null,
-        "wmo": "85432",
-        "icao": "SCCF"
+        "$wmo": "85432",
+        "$icao": "SCCF",
+        "$iata": "CJC",
+        "$usaf": "859211"
     },
     "location": {
         "latitude": -22.5,

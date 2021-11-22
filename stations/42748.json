@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "GJ",
     "identifiers": {
-        "national": null,
-        "wmo": "42748",
-        "icao": "VABO"
+        "$wmo": "42748",
+        "$icao": "VABO",
+        "$iata": "BDQ",
+        "$usaf": "427480"
     },
     "location": {
         "latitude": 22.3333,

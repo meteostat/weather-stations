@@ -6,9 +6,12 @@
     "country": "IT",
     "region": "ER",
     "identifiers": {
-        "national": null,
-        "wmo": "16149",
-        "icao": "LIPR"
+        "$wmo": "16149",
+        "$icao": "LIPR",
+        "$iata": "RMI",
+        "$ghcn": "ITM00016149",
+        "$usaf": "161490",
+        "$mosmix": "16149"
     },
     "location": {
         "latitude": 44.0333,

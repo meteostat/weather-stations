@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "43257",
-        "icao": null
+        "$wmo": "43257",
+        "$usaf": "432570"
     },
     "location": {
         "latitude": 13.5,

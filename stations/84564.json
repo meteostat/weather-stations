@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "HO",
     "identifiers": {
-        "national": null,
-        "wmo": "84564",
-        "icao": "SPNC"
+        "$wmo": "84564",
+        "$icao": "SPNC",
+        "$iata": "HUU",
+        "$ghcn": "PEM00084564",
+        "$usaf": "845640"
     },
     "location": {
         "latitude": -9.9,

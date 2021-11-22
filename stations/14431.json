@@ -6,9 +6,11 @@
     "country": "HR",
     "region": "ZD",
     "identifiers": {
-        "national": null,
-        "wmo": "14431",
-        "icao": "LDZD"
+        "$wmo": "14431",
+        "$icao": "LDZD",
+        "$iata": "ZAD",
+        "$usaf": "144310",
+        "$mosmix": "14431"
     },
     "location": {
         "latitude": 44.1,

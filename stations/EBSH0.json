@@ -6,9 +6,8 @@
     "country": "BE",
     "region": "WLX",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EBSH"
+        "$icao": "EBSH",
+        "$usaf": "064765"
     },
     "location": {
         "latitude": 50.0359,

@@ -6,9 +6,9 @@
     "country": "KR",
     "region": "KB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RKTL"
+        "$icao": "RKTL",
+        "$iata": "UJN",
+        "$usaf": "471285"
     },
     "location": {
         "latitude": 36.7769,

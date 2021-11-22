@@ -6,9 +6,11 @@
     "country": "DE",
     "region": "SH",
     "identifiers": {
-        "national": "02303",
-        "wmo": "10038",
-        "icao": "ETNH"
+        "$national": "02303",
+        "$wmo": "10038",
+        "$icao": "ETNH",
+        "$usaf": "100380",
+        "$mosmix": "10038"
     },
     "location": {
         "latitude": 54.3167,

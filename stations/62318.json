@@ -6,9 +6,12 @@
     "country": "EG",
     "region": "IDR",
     "identifiers": {
-        "national": null,
-        "wmo": "62318",
-        "icao": "HEAX"
+        "$wmo": "62318",
+        "$icao": "HEAX",
+        "$iata": "ALY",
+        "$ghcn": "EGM00062318",
+        "$usaf": "623180",
+        "$mosmix": "62318"
     },
     "location": {
         "latitude": 31.2,

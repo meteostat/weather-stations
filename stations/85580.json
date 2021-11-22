@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "RM",
     "identifiers": {
-        "national": null,
-        "wmo": "85580",
-        "icao": "SCTB"
+        "$wmo": "85580",
+        "$icao": "SCTB",
+        "$usaf": "855800"
     },
     "location": {
         "latitude": -33.45,

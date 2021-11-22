@@ -6,9 +6,12 @@
     "country": "LY",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": "62010",
-        "icao": "HLLT"
+        "$wmo": "62010",
+        "$icao": "HLLT",
+        "$iata": "TIP",
+        "$ghcn": "LYE00147744",
+        "$usaf": "620100",
+        "$mosmix": "62010"
     },
     "location": {
         "latitude": 32.6667,

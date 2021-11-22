@@ -6,9 +6,12 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "72591",
-        "icao": "KRBL"
+        "$wmo": "72591",
+        "$icao": "KRBL",
+        "$iata": "RBL",
+        "$ghcn": "USW00024216",
+        "$wban": "24216",
+        "$usaf": "725910"
     },
     "location": {
         "latitude": 40.15,

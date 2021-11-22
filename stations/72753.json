@@ -6,9 +6,13 @@
     "country": "US",
     "region": "ND",
     "identifiers": {
-        "national": null,
-        "wmo": "72753",
-        "icao": "KFAR"
+        "$wmo": "72753",
+        "$icao": "KFAR",
+        "$iata": "FAR",
+        "$ghcn": "USW00014914",
+        "$wban": "14914",
+        "$usaf": "727530",
+        "$mosmix": "72753"
     },
     "location": {
         "latitude": 46.9333,

@@ -6,9 +6,13 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": "72565",
-        "icao": "KDEN"
+        "$wmo": "72565",
+        "$icao": "KDEN",
+        "$iata": "DEN",
+        "$ghcn": "USW00003017",
+        "$wban": "03017",
+        "$usaf": "725650",
+        "$mosmix": "72565"
     },
     "location": {
         "latitude": 39.8667,

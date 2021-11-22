@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMEH"
+        "$icao": "KMEH",
+        "$wban": "24152",
+        "$usaf": "726885"
     },
     "location": {
         "latitude": 45.5167,

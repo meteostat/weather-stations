@@ -6,9 +6,10 @@
     "country": "TH",
     "region": "CR",
     "identifiers": {
-        "national": null,
-        "wmo": "48303",
-        "icao": "VTCR"
+        "$wmo": "48303",
+        "$icao": "VTCR",
+        "$ghcn": "TH000048303",
+        "$usaf": "483030"
     },
     "location": {
         "latitude": 19.9167,

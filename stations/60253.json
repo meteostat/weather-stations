@@ -6,9 +6,8 @@
     "country": "MA",
     "region": "SM",
     "identifiers": {
-        "national": null,
-        "wmo": "60253",
-        "icao": "GMMO"
+        "$wmo": "60253",
+        "$icao": "GMMO"
     },
     "location": {
         "latitude": 30.5,

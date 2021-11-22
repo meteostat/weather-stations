@@ -6,9 +6,10 @@
     "country": "PH",
     "region": "ROM",
     "identifiers": {
-        "national": null,
-        "wmo": "98536",
-        "icao": "RPMR"
+        "$wmo": "98536",
+        "$icao": "RPMR",
+        "$iata": "TBH",
+        "$mosmix": "98536"
     },
     "location": {
         "latitude": 12.5833,

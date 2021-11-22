@@ -6,9 +6,9 @@
     "country": "YE",
     "region": "JA",
     "identifiers": {
-        "national": null,
-        "wmo": "41326",
-        "icao": "OYZM"
+        "$wmo": "41326",
+        "$icao": "OYZM",
+        "$usaf": "413260"
     },
     "location": {
         "latitude": 16.2,

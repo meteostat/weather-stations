@@ -6,9 +6,9 @@
     "country": "AM",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UDSG"
+        "$icao": "UDSG",
+        "$iata": "LWN",
+        "$usaf": "353948"
     },
     "location": {
         "latitude": 40.75,

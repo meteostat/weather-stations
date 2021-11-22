@@ -6,9 +6,12 @@
     "country": "IT",
     "region": "TC",
     "identifiers": {
-        "national": null,
-        "wmo": "16206",
-        "icao": "LIRS"
+        "$wmo": "16206",
+        "$icao": "LIRS",
+        "$iata": "GRS",
+        "$ghcn": "ITM00016206",
+        "$usaf": "162060",
+        "$mosmix": "16206"
     },
     "location": {
         "latitude": 42.75,

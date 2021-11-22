@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "IB",
     "identifiers": {
-        "national": null,
-        "wmo": "08307",
-        "icao": "LEPO"
+        "$wmo": "08307",
+        "$icao": "LEPO",
+        "$mosmix": "08307"
     },
     "location": {
         "latitude": 39.9,

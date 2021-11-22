@@ -6,9 +6,13 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": "72554",
-        "icao": "KOFF"
+        "$wmo": "72554",
+        "$icao": "KOFF",
+        "$iata": "OFF",
+        "$ghcn": "USW00014949",
+        "$wban": "14949",
+        "$usaf": "725540",
+        "$mosmix": "72554"
     },
     "location": {
         "latitude": 41.1167,

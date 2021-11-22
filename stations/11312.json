@@ -6,9 +6,8 @@
     "country": "AT",
     "region": "TR",
     "identifiers": {
-        "national": null,
-        "wmo": "11312",
-        "icao": null
+        "$wmo": "11312",
+        "$mosmix": "11312"
     },
     "location": {
         "latitude": 46.9678,

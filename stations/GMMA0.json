@@ -6,9 +6,9 @@
     "country": "EH",
     "region": "GE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "GMMA"
+        "$icao": "GMMA",
+        "$iata": "SMW",
+        "$usaf": "603350"
     },
     "location": {
         "latitude": 26.7318,

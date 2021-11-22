@@ -6,9 +6,8 @@
     "country": "GT",
     "region": "RE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MGCP"
+        "$icao": "MGCP",
+        "$usaf": "786374"
     },
     "location": {
         "latitude": 14.3069,

@@ -6,9 +6,8 @@
     "country": "TD",
     "region": "BE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FTTZ"
+        "$icao": "FTTZ",
+        "$usaf": "647200"
     },
     "location": {
         "latitude": 21.45,

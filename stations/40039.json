@@ -6,9 +6,8 @@
     "country": "SY",
     "region": "RQ",
     "identifiers": {
-        "national": null,
-        "wmo": "40039",
-        "icao": null
+        "$wmo": "40039",
+        "$mosmix": "40039"
     },
     "location": {
         "latitude": 35.9333,

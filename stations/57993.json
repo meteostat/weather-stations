@@ -6,9 +6,11 @@
     "country": "CN",
     "region": "JX",
     "identifiers": {
-        "national": null,
-        "wmo": "57993",
-        "icao": "ZSGZ"
+        "$wmo": "57993",
+        "$icao": "ZSGZ",
+        "$iata": "KOW",
+        "$ghcn": "CHM00057993",
+        "$usaf": "579930"
     },
     "location": {
         "latitude": 25.85,

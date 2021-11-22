@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTIF"
+        "$icao": "KTIF",
+        "$iata": "TIF",
+        "$wban": "94087",
+        "$usaf": "722211"
     },
     "location": {
         "latitude": 41.9627,

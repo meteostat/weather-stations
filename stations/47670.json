@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "KN",
     "identifiers": {
-        "national": null,
-        "wmo": "47670",
-        "icao": null
+        "$wmo": "47670",
+        "$ghcn": "JA000047670",
+        "$mosmix": "47670"
     },
     "location": {
         "latitude": 35.4333,

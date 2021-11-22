@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "GIL",
     "identifiers": {
-        "national": null,
-        "wmo": "40718",
-        "icao": null
+        "$wmo": "40718",
+        "$ghcn": "IRM00040718",
+        "$usaf": "407180"
     },
     "location": {
         "latitude": 37.4667,

@@ -6,9 +6,9 @@
     "country": "SR",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "81208",
-        "icao": "SMBN"
+        "$wmo": "81208",
+        "$icao": "SMBN",
+        "$usaf": "812080"
     },
     "location": {
         "latitude": 5.5,

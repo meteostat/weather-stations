@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "IRK",
     "identifiers": {
-        "national": null,
-        "wmo": "30424",
-        "icao": null
+        "$wmo": "30424",
+        "$ghcn": "RSM00030424"
     },
     "location": {
         "latitude": 55.4833,

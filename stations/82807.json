@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "82807",
-        "icao": "SBTK"
+        "$wmo": "82807",
+        "$icao": "SBTK",
+        "$iata": "TRQ",
+        "$usaf": "828080"
     },
     "location": {
         "latitude": -8.1667,

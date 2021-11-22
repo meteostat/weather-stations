@@ -6,9 +6,10 @@
     "country": "PL",
     "region": "DO",
     "identifiers": {
-        "national": null,
-        "wmo": "12500",
-        "icao": "EPJG"
+        "$wmo": "12500",
+        "$icao": "EPJG",
+        "$usaf": "125000",
+        "$mosmix": "12500"
     },
     "location": {
         "latitude": 50.9,

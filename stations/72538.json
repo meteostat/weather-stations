@@ -6,9 +6,11 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": "72538",
-        "icao": "KP59"
+        "$wmo": "72538",
+        "$icao": "KP59",
+        "$ghcn": "USW00054810",
+        "$wban": "94899",
+        "$usaf": "725387"
     },
     "location": {
         "latitude": 47.4667,

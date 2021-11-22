@@ -6,9 +6,10 @@
     "country": "FR",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "07610",
-        "icao": "LFBP"
+        "$wmo": "07610",
+        "$icao": "LFBP",
+        "$usaf": "076100",
+        "$mosmix": "07610"
     },
     "location": {
         "latitude": 43.3833,

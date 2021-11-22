@@ -6,9 +6,10 @@
     "country": "DK",
     "region": "ND",
     "identifiers": {
-        "national": null,
-        "wmo": "06034",
-        "icao": "EKSN"
+        "$wmo": "06034",
+        "$icao": "EKSN",
+        "$iata": "CNL",
+        "$usaf": "060340"
     },
     "location": {
         "latitude": 57.5,

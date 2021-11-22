@@ -6,9 +6,12 @@
     "country": "AR",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "87480",
-        "icao": "SAAR"
+        "$wmo": "87480",
+        "$icao": "SAAR",
+        "$iata": "ROS",
+        "$ghcn": "ARM00087480",
+        "$usaf": "874800",
+        "$mosmix": "87480"
     },
     "location": {
         "latitude": -32.9167,

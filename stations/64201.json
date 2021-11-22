@@ -6,9 +6,10 @@
     "country": "CD",
     "region": "BC",
     "identifiers": {
-        "national": null,
-        "wmo": "64201",
-        "icao": "FZAG"
+        "$wmo": "64201",
+        "$icao": "FZAG",
+        "$iata": "MNB",
+        "$usaf": "642010"
     },
     "location": {
         "latitude": -6,

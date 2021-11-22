@@ -6,9 +6,10 @@
     "country": "ST",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": "61934",
-        "icao": "FPPR"
+        "$wmo": "61934",
+        "$icao": "FPPR",
+        "$iata": "PCP",
+        "$usaf": "619340"
     },
     "location": {
         "latitude": 1.65,

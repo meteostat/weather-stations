@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "SC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBCM"
+        "$icao": "SBCM",
+        "$iata": "CCM",
+        "$usaf": "836727"
     },
     "location": {
         "latitude": -28.7258,

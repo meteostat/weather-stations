@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "MAN",
     "identifiers": {
-        "national": null,
-        "wmo": "17184",
-        "icao": "LTBT"
+        "$wmo": "17184",
+        "$icao": "LTBT",
+        "$usaf": "171840"
     },
     "location": {
         "latitude": 38.9167,

@@ -2,15 +2,16 @@
     "id": "02446",
     "name": {
         "de": "Vasteras Hasslo Flughafen",
-        "en": "Vasteras Hasslo Airport",
-        "sv": "Vasteras Hasslo Flygplats"
+        "sv": "Vasteras Hasslo Flygplats",
+        "en": "Vasteras Hasslo Airport"
     },
     "country": "SE",
     "region": "U",
     "identifiers": {
-        "national": null,
-        "wmo": "02446",
-        "icao": "ESOW"
+        "$wmo": "02446",
+        "$icao": "ESOW",
+        "$iata": "VST",
+        "$usaf": "024460"
     },
     "location": {
         "latitude": 59.5833,

@@ -6,9 +6,8 @@
     "country": "NL",
     "region": "VWV",
     "identifiers": {
-        "national": null,
-        "wmo": "06313",
-        "icao": null
+        "$wmo": "06313",
+        "$usaf": "063130"
     },
     "location": {
         "latitude": 51.5036,

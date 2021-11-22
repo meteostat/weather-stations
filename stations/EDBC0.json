@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EDBC"
+        "$icao": "EDBC",
+        "$iata": "CSO",
+        "$usaf": "106164"
     },
     "location": {
         "latitude": 51.8564,

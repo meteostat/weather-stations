@@ -6,9 +6,7 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRNC"
+        "$icao": "KRNC"
     },
     "location": {
         "latitude": 35.6987,

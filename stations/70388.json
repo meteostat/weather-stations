@@ -6,9 +6,8 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "70388",
-        "icao": null
+        "$wmo": "70388",
+        "$wban": "25315"
     },
     "location": {
         "latitude": 56,

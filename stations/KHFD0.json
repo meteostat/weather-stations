@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHFD"
+        "$icao": "KHFD",
+        "$iata": "HFD",
+        "$wban": "14752",
+        "$usaf": "725087"
     },
     "location": {
         "latitude": 41.7367,

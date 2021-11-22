@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "AN",
     "identifiers": {
-        "national": null,
-        "wmo": "08487",
-        "icao": "LEAM"
+        "$wmo": "08487",
+        "$icao": "LEAM",
+        "$iata": "LEI",
+        "$ghcn": "SPE00119783",
+        "$usaf": "084870",
+        "$mosmix": "08487"
     },
     "location": {
         "latitude": 36.85,

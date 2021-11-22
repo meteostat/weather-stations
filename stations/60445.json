@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "BBA",
     "identifiers": {
-        "national": null,
-        "wmo": "60445",
-        "icao": "DAAS"
+        "$wmo": "60445",
+        "$icao": "DAAS",
+        "$iata": "QSF",
+        "$ghcn": "AGM00060445",
+        "$usaf": "604450"
     },
     "location": {
         "latitude": 36.1833,

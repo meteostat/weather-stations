@@ -6,9 +6,9 @@
     "country": "UG",
     "region": "BR",
     "identifiers": {
-        "national": null,
-        "wmo": "63676",
-        "icao": "HUFP"
+        "$wmo": "63676",
+        "$icao": "HUFP",
+        "$usaf": "636763"
     },
     "location": {
         "latitude": 0.6667,

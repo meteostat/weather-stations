@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "WATT"
+        "$icao": "WATT",
+        "$iata": "KOE",
+        "$usaf": "973725"
     },
     "location": {
         "latitude": -10.1716,

@@ -6,9 +6,12 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": "01515",
-        "wmo": "10858",
-        "icao": "ETSF"
+        "$national": "01515",
+        "$wmo": "10858",
+        "$icao": "ETSF",
+        "$iata": "FEL",
+        "$usaf": "108580",
+        "$mosmix": "10858"
     },
     "location": {
         "latitude": 48.2,

@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "82588",
-        "icao": null
+        "$wmo": "82588",
+        "$ghcn": "BR038032250"
     },
     "location": {
         "latitude": -5.1167,

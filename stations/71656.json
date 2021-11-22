@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": null,
-        "wmo": "71656",
-        "icao": "CXBU"
+        "$wmo": "71656",
+        "$icao": "CXBU"
     },
     "location": {
         "latitude": 50.3125,

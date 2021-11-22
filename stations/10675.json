@@ -6,9 +6,13 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": "00282",
-        "wmo": "10675",
-        "icao": "ETEJ"
+        "$national": "00282",
+        "$wmo": "10675",
+        "$icao": "ETEJ",
+        "$iata": "ZCD",
+        "$ghcn": "GM000004063",
+        "$wban": "34183",
+        "$mosmix": "10675"
     },
     "location": {
         "latitude": 49.9167,

@@ -2,15 +2,16 @@
     "id": "01151",
     "name": {
         "de": "Mo i Rana Flughafen",
-        "en": "Mo i Rana Airport",
-        "no": "Mo i Rana Lufthavn"
+        "no": "Mo i Rana Lufthavn",
+        "en": "Mo i Rana Airport"
     },
     "country": "NO",
     "region": "18",
     "identifiers": {
-        "national": null,
-        "wmo": "01151",
-        "icao": "ENRA"
+        "$wmo": "01151",
+        "$icao": "ENRA",
+        "$iata": "MQN",
+        "$usaf": "011510"
     },
     "location": {
         "latitude": 66.3667,

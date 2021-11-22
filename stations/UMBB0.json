@@ -6,9 +6,9 @@
     "country": "BY",
     "region": "BR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UMBB"
+        "$icao": "UMBB",
+        "$iata": "BQT",
+        "$usaf": "330080"
     },
     "location": {
         "latitude": 52.1,

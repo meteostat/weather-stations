@@ -6,9 +6,8 @@
     "country": "AO",
     "region": "CNO",
     "identifiers": {
-        "national": null,
-        "wmo": "66172",
-        "icao": null
+        "$wmo": "66172",
+        "$usaf": "661720"
     },
     "location": {
         "latitude": -9.2833,

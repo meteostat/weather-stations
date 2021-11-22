@@ -6,9 +6,9 @@
     "country": "AR",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": "87642",
-        "icao": "SAZA"
+        "$wmo": "87642",
+        "$icao": "SAZA",
+        "$usaf": "876420"
     },
     "location": {
         "latitude": -36.75,

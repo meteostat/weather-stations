@@ -6,9 +6,11 @@
     "country": "PM",
     "region": "PM",
     "identifiers": {
-        "national": null,
-        "wmo": "71805",
-        "icao": "LFVP"
+        "$wmo": "71805",
+        "$icao": "LFVP",
+        "$iata": "FSP",
+        "$ghcn": "SBM00071805",
+        "$usaf": "718050"
     },
     "location": {
         "latitude": 46.7667,

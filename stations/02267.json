@@ -2,15 +2,17 @@
     "id": "02267",
     "name": {
         "de": "Ornskoldsvik Flughafen",
-        "en": "Ornskoldsvik Airport",
-        "sv": "Ornskoldsvik Flygplats"
+        "sv": "Ornskoldsvik Flygplats",
+        "en": "Ornskoldsvik Airport"
     },
     "country": "SE",
     "region": "Y",
     "identifiers": {
-        "national": null,
-        "wmo": "02267",
-        "icao": "ESNO"
+        "$wmo": "02267",
+        "$icao": "ESNO",
+        "$iata": "OER",
+        "$usaf": "022670",
+        "$mosmix": "02267"
     },
     "location": {
         "latitude": 63.4,

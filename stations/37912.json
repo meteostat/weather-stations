@@ -6,9 +6,8 @@
     "country": "AZ",
     "region": "SAT",
     "identifiers": {
-        "national": null,
-        "wmo": "37912",
-        "icao": null
+        "$wmo": "37912",
+        "$ghcn": "AJ000037912"
     },
     "location": {
         "latitude": 39.9333,

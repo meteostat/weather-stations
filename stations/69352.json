@@ -6,9 +6,9 @@
     "country": "KR",
     "region": "KG",
     "identifiers": {
-        "national": null,
-        "wmo": "69352",
-        "icao": "KQFM"
+        "$wmo": "69352",
+        "$icao": "KQFM",
+        "$usaf": "693524"
     },
     "location": {
         "latitude": 37.7833,

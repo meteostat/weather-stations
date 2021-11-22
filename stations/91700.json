@@ -6,9 +6,9 @@
     "country": "KI",
     "region": "KI",
     "identifiers": {
-        "national": null,
-        "wmo": "91700",
-        "icao": "PCIS"
+        "$wmo": "91700",
+        "$icao": "PCIS",
+        "$usaf": "917000"
     },
     "location": {
         "latitude": -2.7667,

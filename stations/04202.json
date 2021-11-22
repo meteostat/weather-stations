@@ -6,9 +6,11 @@
     "country": "GL",
     "region": "QS",
     "identifiers": {
-        "national": null,
-        "wmo": "04202",
-        "icao": "BGTL"
+        "$wmo": "04202",
+        "$icao": "BGTL",
+        "$iata": "THU",
+        "$ghcn": "GLW00017605",
+        "$usaf": "042020"
     },
     "location": {
         "latitude": 76.5333,

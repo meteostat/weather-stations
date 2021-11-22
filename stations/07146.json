@@ -6,9 +6,10 @@
     "country": "FR",
     "region": "Q",
     "identifiers": {
-        "national": null,
-        "wmo": "07146",
-        "icao": "LFPN"
+        "$wmo": "07146",
+        "$icao": "LFPN",
+        "$iata": "TNF",
+        "$usaf": "071460"
     },
     "location": {
         "latitude": 48.7667,

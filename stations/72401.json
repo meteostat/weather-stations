@@ -6,9 +6,12 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": "72401",
-        "icao": "KRIC"
+        "$wmo": "72401",
+        "$icao": "KRIC",
+        "$iata": "RIC",
+        "$ghcn": "USW00013740",
+        "$wban": "13740",
+        "$usaf": "724010"
     },
     "location": {
         "latitude": 37.5167,

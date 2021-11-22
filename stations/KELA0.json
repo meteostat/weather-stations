@@ -6,9 +6,7 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KELA"
+        "$icao": "KELA"
     },
     "location": {
         "latitude": 29.6006,

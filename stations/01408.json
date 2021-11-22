@@ -6,9 +6,10 @@
     "country": "NO",
     "region": "RO",
     "identifiers": {
-        "national": null,
-        "wmo": "01408",
-        "icao": "ENHD"
+        "$wmo": "01408",
+        "$icao": "ENHD",
+        "$iata": "HAU",
+        "$usaf": "014080"
     },
     "location": {
         "latitude": 59.35,

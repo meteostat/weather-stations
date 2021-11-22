@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOLF"
+        "$icao": "KOLF",
+        "$iata": "OLF",
+        "$wban": "94017",
+        "$usaf": "727686"
     },
     "location": {
         "latitude": 48.0945,

@@ -6,9 +6,8 @@
     "country": "CS",
     "region": "SU",
     "identifiers": {
-        "national": null,
-        "wmo": "13278",
-        "icao": null
+        "$wmo": "13278",
+        "$mosmix": "13278"
     },
     "location": {
         "latitude": 44.0333,

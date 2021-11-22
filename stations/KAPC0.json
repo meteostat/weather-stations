@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KAPC"
+        "$icao": "KAPC",
+        "$iata": "APC",
+        "$wban": "93227",
+        "$usaf": "724955"
     },
     "location": {
         "latitude": 38.2132,

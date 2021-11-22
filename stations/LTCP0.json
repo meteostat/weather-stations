@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "ADI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTCP"
+        "$icao": "LTCP",
+        "$iata": "ADF",
+        "$usaf": "172650"
     },
     "location": {
         "latitude": 37.7314,

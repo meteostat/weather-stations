@@ -6,9 +6,12 @@
     "country": "GA",
     "region": "ES",
     "identifiers": {
-        "national": null,
-        "wmo": "64500",
-        "icao": "FOOL"
+        "$wmo": "64500",
+        "$icao": "FOOL",
+        "$iata": "LBV",
+        "$ghcn": "GBM00064500",
+        "$usaf": "645000",
+        "$mosmix": "64500"
     },
     "location": {
         "latitude": 0.45,

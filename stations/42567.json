@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "MP",
     "identifiers": {
-        "national": null,
-        "wmo": "42567",
-        "icao": "VIKJ"
+        "$wmo": "42567",
+        "$icao": "VIKJ",
+        "$iata": "HJR",
+        "$usaf": "425670"
     },
     "location": {
         "latitude": 24.9833,

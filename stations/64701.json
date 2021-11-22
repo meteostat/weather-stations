@@ -6,9 +6,10 @@
     "country": "TD",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "64701",
-        "icao": "FTTU"
+        "$wmo": "64701",
+        "$icao": "FTTU",
+        "$iata": "AMO",
+        "$usaf": "647010"
     },
     "location": {
         "latitude": 14.1167,

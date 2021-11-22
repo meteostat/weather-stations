@@ -6,9 +6,12 @@
     "country": "AN",
     "region": "BO",
     "identifiers": {
-        "national": null,
-        "wmo": "78990",
-        "icao": "TNCB"
+        "$wmo": "78990",
+        "$icao": "TNCB",
+        "$iata": "BON",
+        "$wban": "00413",
+        "$usaf": "789900",
+        "$mosmix": "78990"
     },
     "location": {
         "latitude": 12.15,

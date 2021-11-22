@@ -6,9 +6,12 @@
     "country": "SA",
     "region": "ML",
     "identifiers": {
-        "national": null,
-        "wmo": "41024",
-        "icao": "OEJN"
+        "$wmo": "41024",
+        "$icao": "OEJN",
+        "$iata": "JED",
+        "$ghcn": "SA000041024",
+        "$usaf": "410240",
+        "$mosmix": "41024"
     },
     "location": {
         "latitude": 21.7,

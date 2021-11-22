@@ -6,9 +6,8 @@
     "country": "HR",
     "region": "BB",
     "identifiers": {
-        "national": null,
-        "wmo": "14258",
-        "icao": null
+        "$wmo": "14258",
+        "$usaf": "142580"
     },
     "location": {
         "latitude": 45.6,

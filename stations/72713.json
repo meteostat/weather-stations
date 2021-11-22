@@ -6,9 +6,11 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "national": null,
-        "wmo": "72713",
-        "icao": "KPQI"
+        "$wmo": "72713",
+        "$icao": "KPQI",
+        "$iata": "PQI",
+        "$wban": "14604",
+        "$usaf": "727130"
     },
     "location": {
         "latitude": 46.6833,

@@ -1,15 +1,13 @@
 {
     "id": "01154",
     "name": {
-        "en": "Litloy Lighthouse",
-        "no": "Litloy Fyr"
+        "no": "Litloy Fyr",
+        "en": "Litloy Lighthouse"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "national": null,
-        "wmo": "01154",
-        "icao": null
+        "$wmo": "01154"
     },
     "location": {
         "latitude": 68.5833,

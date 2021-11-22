@@ -6,9 +6,8 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "national": null,
-        "wmo": "72650",
-        "icao": null
+        "$wmo": "72650",
+        "$ghcn": "USC00137844"
     },
     "location": {
         "latitude": 43.1667,

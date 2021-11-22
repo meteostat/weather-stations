@@ -6,9 +6,10 @@
     "country": "TG",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "65361",
-        "icao": "DXSK"
+        "$wmo": "65361",
+        "$icao": "DXSK",
+        "$ghcn": "TO000005361",
+        "$usaf": "653610"
     },
     "location": {
         "latitude": 8.9833,

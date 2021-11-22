@@ -6,9 +6,11 @@
     "country": "PH",
     "region": "CAT",
     "identifiers": {
-        "national": null,
-        "wmo": "98446",
-        "icao": "RPUV"
+        "$wmo": "98446",
+        "$icao": "RPUV",
+        "$iata": "VRC",
+        "$ghcn": "RPM00098446",
+        "$usaf": "984460"
     },
     "location": {
         "latitude": 13.5833,

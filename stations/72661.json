@@ -6,9 +6,8 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "72661",
-        "icao": null
+        "$wmo": "72661",
+        "$wban": "94022"
     },
     "location": {
         "latitude": 45.2667,

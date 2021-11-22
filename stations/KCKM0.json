@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCKM"
+        "$icao": "KCKM",
+        "$wban": "00314",
+        "$usaf": "720927"
     },
     "location": {
         "latitude": 34.2997,

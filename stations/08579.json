@@ -6,9 +6,8 @@
     "country": "PT",
     "region": "LI",
     "identifiers": {
-        "national": null,
-        "wmo": "08579",
-        "icao": null
+        "$wmo": "08579",
+        "$mosmix": "08579"
     },
     "location": {
         "latitude": 38.7667,

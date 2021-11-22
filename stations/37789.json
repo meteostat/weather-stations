@@ -6,9 +6,12 @@
     "country": "AM",
     "region": "VL",
     "identifiers": {
-        "national": null,
-        "wmo": "37789",
-        "icao": "UGEE"
+        "$wmo": "37789",
+        "$icao": "UGEE",
+        "$iata": "EVN",
+        "$ghcn": "AM000037789",
+        "$usaf": "377890",
+        "$mosmix": "37789"
     },
     "location": {
         "latitude": 40.1333,

@@ -6,9 +6,9 @@
     "country": "AE",
     "region": "DU",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OMDM"
+        "$icao": "OMDM",
+        "$iata": "NHD",
+        "$usaf": "412164"
     },
     "location": {
         "latitude": 25.0268,

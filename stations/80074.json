@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "MAG",
     "identifiers": {
-        "national": null,
-        "wmo": "80074",
-        "icao": "SKBC"
+        "$wmo": "80074",
+        "$icao": "SKBC",
+        "$iata": "ELB"
     },
     "location": {
         "latitude": 9.0667,

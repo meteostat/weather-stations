@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHYX"
+        "$icao": "KHYX",
+        "$wban": "04829",
+        "$usaf": "722125"
     },
     "location": {
         "latitude": 43.4334,

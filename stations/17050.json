@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "EDI",
     "identifiers": {
-        "national": null,
-        "wmo": "17050",
-        "icao": null
+        "$wmo": "17050",
+        "$ghcn": "TUM00017050",
+        "$mosmix": "17050"
     },
     "location": {
         "latitude": 41.6667,

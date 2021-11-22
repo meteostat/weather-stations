@@ -6,9 +6,9 @@
     "country": "CK",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "NCPK"
+        "$icao": "NCPK",
+        "$iata": "PZK",
+        "$usaf": "918110"
     },
     "location": {
         "latitude": -10.8833,

@@ -6,9 +6,10 @@
     "country": "SD",
     "region": "BN",
     "identifiers": {
-        "national": null,
-        "wmo": "62805",
-        "icao": "HSDZ"
+        "$wmo": "62805",
+        "$icao": "HSDZ",
+        "$ghcn": "SUM00062805",
+        "$usaf": "628050"
     },
     "location": {
         "latitude": 11.7833,

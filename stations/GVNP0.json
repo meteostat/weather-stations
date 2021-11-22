@@ -6,9 +6,8 @@
     "country": "CV",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "GVNP"
+        "$icao": "GVNP",
+        "$iata": "RAI"
     },
     "location": {
         "latitude": 14.9245,

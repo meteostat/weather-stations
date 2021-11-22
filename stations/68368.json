@@ -6,9 +6,12 @@
     "country": "ZA",
     "region": "GT",
     "identifiers": {
-        "national": null,
-        "wmo": "68368",
-        "icao": "FAJS"
+        "$wmo": "68368",
+        "$icao": "FAJS",
+        "$iata": "JNB",
+        "$ghcn": "SFM00068368",
+        "$usaf": "683680",
+        "$mosmix": "68368"
     },
     "location": {
         "latitude": -26.1333,

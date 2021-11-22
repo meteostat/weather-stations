@@ -6,9 +6,11 @@
     "country": "DO",
     "region": "BH",
     "identifiers": {
-        "national": null,
-        "wmo": "78482",
-        "icao": "MDBH"
+        "$wmo": "78482",
+        "$icao": "MDBH",
+        "$iata": "BRX",
+        "$ghcn": "DRM00078482",
+        "$usaf": "784820"
     },
     "location": {
         "latitude": 18.2,

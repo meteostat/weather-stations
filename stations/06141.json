@@ -6,9 +6,8 @@
     "country": "DK",
     "region": "SL",
     "identifiers": {
-        "national": null,
-        "wmo": "06141",
-        "icao": null
+        "$wmo": "06141",
+        "$mosmix": "06141"
     },
     "location": {
         "latitude": 54.8275,

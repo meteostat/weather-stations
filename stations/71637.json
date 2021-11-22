@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CXDR"
+        "$icao": "CXDR"
     },
     "location": {
         "latitude": 49.8583,

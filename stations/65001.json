@@ -6,9 +6,7 @@
     "country": "NG",
     "region": "KE",
     "identifiers": {
-        "national": null,
-        "wmo": "65001",
-        "icao": null
+        "$wmo": "65001"
     },
     "location": {
         "latitude": 10.8833,
