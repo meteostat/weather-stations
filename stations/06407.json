@@ -6,9 +6,11 @@
     "country": "BE",
     "region": "VWV",
     "identifiers": {
-        "national": null,
-        "wmo": "06407",
-        "icao": "EBOS"
+        "$wmo": "06407",
+        "$icao": "EBOS",
+        "$iata": "OST",
+        "$usaf": "064070",
+        "$mosmix": "06407"
     },
     "location": {
         "latitude": 51.2,

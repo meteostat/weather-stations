@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KVER"
+        "$icao": "KVER",
+        "$wban": "00295",
+        "$usaf": "720869"
     },
     "location": {
         "latitude": 38.9467,

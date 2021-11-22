@@ -6,9 +6,10 @@
     "country": "TH",
     "region": "PU",
     "identifiers": {
-        "national": null,
-        "wmo": "48565",
-        "icao": "VTSP"
+        "$wmo": "48565",
+        "$icao": "VTSP",
+        "$ghcn": "TH000048565",
+        "$usaf": "485650"
     },
     "location": {
         "latitude": 8.1167,

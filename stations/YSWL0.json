@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "VIC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YSWL"
+        "$icao": "YSWL",
+        "$iata": "SWC",
+        "$usaf": "948360"
     },
     "location": {
         "latitude": -37.0717,

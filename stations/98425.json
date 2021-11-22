@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "NCR",
     "identifiers": {
-        "national": null,
-        "wmo": "98425",
-        "icao": null
+        "$wmo": "98425",
+        "$ghcn": "RPW00041229",
+        "$mosmix": "98425"
     },
     "location": {
         "latitude": 14.5833,

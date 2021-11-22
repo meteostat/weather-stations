@@ -6,9 +6,9 @@
     "country": "VN",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": "48910",
-        "icao": "VVVL"
+        "$wmo": "48910",
+        "$icao": "VVVL",
+        "$wban": "41006"
     },
     "location": {
         "latitude": 10.25,

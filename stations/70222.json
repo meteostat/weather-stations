@@ -6,9 +6,12 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "70222",
-        "icao": "PAGA"
+        "$wmo": "70222",
+        "$icao": "PAGA",
+        "$iata": "GAL",
+        "$ghcn": "USW00026501",
+        "$wban": "26501",
+        "$usaf": "702220"
     },
     "location": {
         "latitude": 64.7333,

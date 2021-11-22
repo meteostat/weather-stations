@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": "10312",
-        "icao": null
+        "$wmo": "10312",
+        "$ghcn": "GMM00010312",
+        "$mosmix": "10312"
     },
     "location": {
         "latitude": 52.3183,

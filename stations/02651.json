@@ -2,15 +2,17 @@
     "id": "02651",
     "name": {
         "de": "Kristianstad Everod Flughafen",
-        "en": "Kristianstad Everod Airport",
-        "sv": "Kristianstad Everod Flygplats"
+        "sv": "Kristianstad Everod Flygplats",
+        "en": "Kristianstad Everod Airport"
     },
     "country": "SE",
     "region": "SN",
     "identifiers": {
-        "national": null,
-        "wmo": "02651",
-        "icao": "ESMK"
+        "$wmo": "02651",
+        "$icao": "ESMK",
+        "$iata": "KID",
+        "$usaf": "026510",
+        "$mosmix": "02651"
     },
     "location": {
         "latitude": 55.9167,

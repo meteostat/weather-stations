@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "LD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VOAT"
+        "$icao": "VOAT",
+        "$iata": "AGX"
     },
     "location": {
         "latitude": 10.8237,

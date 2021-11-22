@@ -6,9 +6,11 @@
     "country": "NO",
     "region": "HO",
     "identifiers": {
-        "national": null,
-        "wmo": "01311",
-        "icao": "ENBR"
+        "$wmo": "01311",
+        "$icao": "ENBR",
+        "$iata": "BGO",
+        "$usaf": "013110",
+        "$mosmix": "01311"
     },
     "location": {
         "latitude": 60.2833,

@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CZFM"
+        "$icao": "CZFM",
+        "$iata": "ZFM",
+        "$usaf": "719574"
     },
     "location": {
         "latitude": 67.4078,

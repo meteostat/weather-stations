@@ -6,9 +6,10 @@
     "country": "GL",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "04209",
-        "icao": "BGUK"
+        "$wmo": "04209",
+        "$icao": "BGUK",
+        "$iata": "JUV",
+        "$wban": "17501"
     },
     "location": {
         "latitude": 72.7833,

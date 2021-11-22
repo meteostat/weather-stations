@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": "71755",
-        "icao": "CZMD"
+        "$wmo": "71755",
+        "$icao": "CZMD",
+        "$iata": "MSA",
+        "$ghcn": "CA006015025",
+        "$usaf": "717550"
     },
     "location": {
         "latitude": 53.4414,

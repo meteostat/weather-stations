@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "TJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZBTJ"
+        "$icao": "ZBTJ",
+        "$iata": "TSN",
+        "$usaf": "545273"
     },
     "location": {
         "latitude": 39.1833,

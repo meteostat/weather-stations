@@ -6,9 +6,8 @@
     "country": "UA",
     "region": "MY",
     "identifiers": {
-        "national": null,
-        "wmo": "33615",
-        "icao": null
+        "$wmo": "33615",
+        "$ghcn": "UPM00033615"
     },
     "location": {
         "latitude": 49.0333,

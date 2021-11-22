@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": null,
-        "wmo": "71562",
-        "icao": "CWXH"
+        "$wmo": "71562",
+        "$icao": "CWXH",
+        "$usaf": "710344"
     },
     "location": {
         "latitude": 50.6333,

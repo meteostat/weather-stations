@@ -6,9 +6,8 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLNN"
+        "$icao": "KLNN",
+        "$usaf": "725244"
     },
     "location": {
         "latitude": 41.684,

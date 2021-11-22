@@ -6,9 +6,10 @@
     "country": "AO",
     "region": "MOX",
     "identifiers": {
-        "national": null,
-        "wmo": "66285",
-        "icao": "FNUE"
+        "$wmo": "66285",
+        "$icao": "FNUE",
+        "$iata": "LUO",
+        "$usaf": "662850"
     },
     "location": {
         "latitude": -11.7833,

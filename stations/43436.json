@@ -6,9 +6,10 @@
     "country": "LK",
     "region": "EA",
     "identifiers": {
-        "national": null,
-        "wmo": "43436",
-        "icao": "VCCB"
+        "$wmo": "43436",
+        "$icao": "VCCB",
+        "$iata": "BTC",
+        "$usaf": "434360"
     },
     "location": {
         "latitude": 7.7167,

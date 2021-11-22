@@ -6,9 +6,10 @@
     "country": "TN",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "60780",
-        "icao": "DTTR"
+        "$wmo": "60780",
+        "$icao": "DTTR",
+        "$iata": "EBM",
+        "$usaf": "607800"
     },
     "location": {
         "latitude": 31.6833,

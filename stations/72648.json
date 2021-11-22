@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": "72648",
-        "icao": "KESC"
+        "$wmo": "72648",
+        "$icao": "KESC",
+        "$iata": "ESC",
+        "$ghcn": "USW00014824",
+        "$wban": "94853",
+        "$usaf": "726480"
     },
     "location": {
         "latitude": 45.75,

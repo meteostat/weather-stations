@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VOJV"
+        "$icao": "VOJV",
+        "$iata": "VDY"
     },
     "location": {
         "latitude": 15.1758,

@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "72510",
-        "icao": "KORH"
+        "$wmo": "72510",
+        "$icao": "KORH",
+        "$iata": "ORH",
+        "$ghcn": "USW00094746",
+        "$wban": "94746",
+        "$usaf": "725095"
     },
     "location": {
         "latitude": 42.2673,

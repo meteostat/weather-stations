@@ -6,9 +6,8 @@
     "country": "CN",
     "region": "TC",
     "identifiers": {
-        "national": null,
-        "wmo": "58968",
-        "icao": null
+        "$wmo": "58968",
+        "$mosmix": "58968"
     },
     "location": {
         "latitude": 25.0333,

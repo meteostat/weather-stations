@@ -6,9 +6,9 @@
     "country": "DJ",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "63115",
-        "icao": "HDTJ"
+        "$wmo": "63115",
+        "$icao": "HDTJ",
+        "$iata": "TDJ"
     },
     "location": {
         "latitude": 11.783,

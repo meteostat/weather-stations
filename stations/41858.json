@@ -6,9 +6,9 @@
     "country": "BD",
     "region": "RAJ",
     "identifiers": {
-        "national": null,
-        "wmo": "41858",
-        "icao": "VGSD"
+        "$wmo": "41858",
+        "$icao": "VGSD",
+        "$iata": "SPD"
     },
     "location": {
         "latitude": 25.75,

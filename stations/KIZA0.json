@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIZA"
+        "$icao": "KIZA",
+        "$wban": "93244",
+        "$usaf": "723762"
     },
     "location": {
         "latitude": 34.6068,

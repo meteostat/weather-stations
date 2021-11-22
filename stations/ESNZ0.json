@@ -6,9 +6,9 @@
     "country": "SE",
     "region": "Z",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ESNZ"
+        "$icao": "ESNZ",
+        "$iata": "OSD",
+        "$usaf": "022260"
     },
     "location": {
         "latitude": 63.1944,

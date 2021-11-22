@@ -6,9 +6,10 @@
     "country": "MM",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": "48110",
-        "icao": "VBRN"
+        "$wmo": "48110",
+        "$icao": "VBRN",
+        "$iata": "MGZ",
+        "$usaf": "481100"
     },
     "location": {
         "latitude": 12.4333,

@@ -6,9 +6,8 @@
     "country": "GL",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "04228",
-        "icao": null
+        "$wmo": "04228",
+        "$usaf": "042280"
     },
     "location": {
         "latitude": 67.7833,

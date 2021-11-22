@@ -6,9 +6,8 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KP08"
+        "$icao": "KP08",
+        "$usaf": "749173"
     },
     "location": {
         "latitude": 32.9359,

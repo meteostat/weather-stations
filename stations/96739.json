@@ -6,9 +6,10 @@
     "country": "ID",
     "region": "JB",
     "identifiers": {
-        "national": null,
-        "wmo": "96739",
-        "icao": "WIIA"
+        "$wmo": "96739",
+        "$icao": "WIIA",
+        "$ghcn": "IDM00096739",
+        "$usaf": "967390"
     },
     "location": {
         "latitude": -6.2333,

@@ -6,9 +6,10 @@
     "country": "PL",
     "region": "ML",
     "identifiers": {
-        "national": null,
-        "wmo": "12660",
-        "icao": "EPNL"
+        "$wmo": "12660",
+        "$icao": "EPNL",
+        "$usaf": "126600",
+        "$mosmix": "12660"
     },
     "location": {
         "latitude": 49.6167,

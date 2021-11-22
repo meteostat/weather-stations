@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "NRW",
     "identifiers": {
-        "national": null,
-        "wmo": "10401",
-        "icao": "ETUR"
+        "$wmo": "10401",
+        "$icao": "ETUR",
+        "$usaf": "104010",
+        "$mosmix": "10401"
     },
     "location": {
         "latitude": 51.2,

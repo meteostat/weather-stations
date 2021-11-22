@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "CAU",
     "identifiers": {
-        "national": null,
-        "wmo": "80300",
-        "icao": "SKGP"
+        "$wmo": "80300",
+        "$icao": "SKGP",
+        "$iata": "GPI"
     },
     "location": {
         "latitude": 2.5833,

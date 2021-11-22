@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOLS"
+        "$icao": "KOLS",
+        "$wban": "03196",
+        "$usaf": "722728"
     },
     "location": {
         "latitude": 31.4177,

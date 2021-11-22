@@ -6,9 +6,9 @@
     "country": "BW",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "68040",
-        "icao": "FBLT"
+        "$wmo": "68040",
+        "$icao": "FBLT",
+        "$usaf": "680400"
     },
     "location": {
         "latitude": -21.4167,

@@ -6,9 +6,10 @@
     "country": "CU",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "78346",
-        "icao": "MUCA"
+        "$wmo": "78346",
+        "$icao": "MUCA",
+        "$iata": "AVI",
+        "$usaf": "783460"
     },
     "location": {
         "latitude": 21.7833,

@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "RJ",
     "identifiers": {
-        "national": null,
-        "wmo": "42339",
-        "icao": "VIJO"
+        "$wmo": "42339",
+        "$icao": "VIJO",
+        "$iata": "JDH",
+        "$ghcn": "IN019180500",
+        "$usaf": "423390"
     },
     "location": {
         "latitude": 26.3,

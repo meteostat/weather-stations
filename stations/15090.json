@@ -6,9 +6,11 @@
     "country": "RO",
     "region": "IS",
     "identifiers": {
-        "national": null,
-        "wmo": "15090",
-        "icao": "LRIA"
+        "$wmo": "15090",
+        "$icao": "LRIA",
+        "$iata": "IAS",
+        "$ghcn": "ROE00108896",
+        "$usaf": "150900"
     },
     "location": {
         "latitude": 47.1667,

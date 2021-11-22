@@ -6,9 +6,11 @@
     "country": "FM",
     "region": "Y",
     "identifiers": {
-        "national": null,
-        "wmo": "91413",
-        "icao": "PTYA"
+        "$wmo": "91413",
+        "$icao": "PTYA",
+        "$iata": "YAP",
+        "$wban": "40308",
+        "$usaf": "914130"
     },
     "location": {
         "latitude": 9.4833,

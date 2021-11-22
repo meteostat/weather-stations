@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "BEC",
     "identifiers": {
-        "national": null,
-        "wmo": "60570",
-        "icao": "DAOC"
+        "$wmo": "60570",
+        "$icao": "DAOC"
     },
     "location": {
         "latitude": 31.6425,

@@ -6,9 +6,12 @@
     "country": "MT",
     "region": "MT",
     "identifiers": {
-        "national": null,
-        "wmo": "16597",
-        "icao": "LMML"
+        "$wmo": "16597",
+        "$icao": "LMML",
+        "$iata": "MLA",
+        "$ghcn": "MT000016597",
+        "$usaf": "165970",
+        "$mosmix": "16597"
     },
     "location": {
         "latitude": 35.85,

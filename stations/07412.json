@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "CT",
     "identifiers": {
-        "national": null,
-        "wmo": "07412",
-        "icao": "LFBG"
+        "$wmo": "07412",
+        "$icao": "LFBG",
+        "$usaf": "074120"
     },
     "location": {
         "latitude": 45.6667,

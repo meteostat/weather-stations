@@ -6,9 +6,10 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLMT"
+        "$icao": "KLMT",
+        "$iata": "LMT",
+        "$wban": "94236",
+        "$usaf": "725895"
     },
     "location": {
         "latitude": 42.1561,

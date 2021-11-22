@@ -6,9 +6,8 @@
     "country": "CH",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LSGC"
+        "$icao": "LSGC",
+        "$usaf": "066045"
     },
     "location": {
         "latitude": 47.0855,

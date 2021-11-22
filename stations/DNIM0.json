@@ -6,9 +6,9 @@
     "country": "NG",
     "region": "IM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DNIM"
+        "$icao": "DNIM",
+        "$iata": "QOW",
+        "$usaf": "652016"
     },
     "location": {
         "latitude": 5.4271,

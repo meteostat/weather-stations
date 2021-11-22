@@ -6,9 +6,8 @@
     "country": "PY",
     "region": "AN",
     "identifiers": {
-        "national": null,
-        "wmo": "86248",
-        "icao": null
+        "$wmo": "86248",
+        "$ghcn": "PA000086248"
     },
     "location": {
         "latitude": -25.5333,

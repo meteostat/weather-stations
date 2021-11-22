@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CMGB"
+        "$icao": "CMGB",
+        "$usaf": "710367"
     },
     "location": {
         "latitude": 45.3728,

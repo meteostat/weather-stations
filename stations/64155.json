@@ -6,9 +6,10 @@
     "country": "CD",
     "region": "D.",
     "identifiers": {
-        "national": null,
-        "wmo": "64155",
-        "icao": "FZOA"
+        "$wmo": "64155",
+        "$icao": "FZOA",
+        "$iata": "KND",
+        "$usaf": "641550"
     },
     "location": {
         "latitude": -2.95,

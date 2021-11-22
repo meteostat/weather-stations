@@ -6,9 +6,10 @@
     "country": "FI",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": "02845",
-        "icao": "EFRO"
+        "$wmo": "02845",
+        "$icao": "EFRO",
+        "$iata": "RVN",
+        "$usaf": "028450"
     },
     "location": {
         "latitude": 66.5667,

@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "GT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FALA"
+        "$icao": "FALA",
+        "$iata": "HLA",
+        "$usaf": "682635"
     },
     "location": {
         "latitude": -25.9333,

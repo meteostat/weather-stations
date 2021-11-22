@@ -6,9 +6,8 @@
     "country": "MZ",
     "region": "N",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FQNC"
+        "$icao": "FQNC",
+        "$iata": "MNC"
     },
     "location": {
         "latitude": -14.4882,

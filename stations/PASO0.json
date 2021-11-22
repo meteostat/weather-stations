@@ -6,9 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "PASO"
+        "$icao": "PASO",
+        "$iata": "SOV",
+        "$wban": "25516",
+        "$usaf": "703621"
     },
     "location": {
         "latitude": 59.4424,

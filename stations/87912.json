@@ -6,9 +6,10 @@
     "country": "AR",
     "region": "Z",
     "identifiers": {
-        "national": null,
-        "wmo": "87912",
-        "icao": "SAWU"
+        "$wmo": "87912",
+        "$icao": "SAWU",
+        "$iata": "RZA",
+        "$usaf": "879120"
     },
     "location": {
         "latitude": -50.0167,

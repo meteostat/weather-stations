@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "CHL",
     "identifiers": {
-        "national": null,
-        "wmo": "60410",
-        "icao": null
+        "$wmo": "60410",
+        "$ghcn": "AGM00060410"
     },
     "location": {
         "latitude": 36.5,

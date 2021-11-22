@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": "31027",
-        "wmo": "71404",
-        "icao": "CXEL"
+        "$national": "31027",
+        "$wmo": "71404",
+        "$icao": "CXEL",
+        "$ghcn": "CA003072246",
+        "$usaf": "714040"
     },
     "location": {
         "latitude": 58.98,

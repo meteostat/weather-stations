@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "CI",
     "identifiers": {
-        "national": null,
-        "wmo": "16422",
-        "icao": "LICR"
+        "$wmo": "16422",
+        "$icao": "LICR",
+        "$iata": "REG",
+        "$usaf": "164220",
+        "$mosmix": "16422"
     },
     "location": {
         "latitude": 38.0667,

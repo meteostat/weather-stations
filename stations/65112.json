@@ -6,9 +6,9 @@
     "country": "NG",
     "region": "NI",
     "identifiers": {
-        "national": null,
-        "wmo": "65112",
-        "icao": "DNBI"
+        "$wmo": "65112",
+        "$icao": "DNBI",
+        "$usaf": "651120"
     },
     "location": {
         "latitude": 9.1,

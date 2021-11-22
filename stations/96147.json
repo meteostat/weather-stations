@@ -6,9 +6,10 @@
     "country": "ID",
     "region": "RI",
     "identifiers": {
-        "national": null,
-        "wmo": "96147",
-        "icao": "WION"
+        "$wmo": "96147",
+        "$icao": "WION",
+        "$iata": "NTX",
+        "$usaf": "961470"
     },
     "location": {
         "latitude": 3.95,

@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "MWT",
     "identifiers": {
-        "national": null,
-        "wmo": "93405",
-        "icao": "NZPM"
+        "$wmo": "93405",
+        "$icao": "NZPM",
+        "$iata": "PMR"
     },
     "location": {
         "latitude": -40.3167,

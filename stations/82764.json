@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "82764",
-        "icao": "SBCI"
+        "$wmo": "82764",
+        "$icao": "SBCI",
+        "$iata": "CLN",
+        "$ghcn": "BR000747000",
+        "$usaf": "827640"
     },
     "location": {
         "latitude": -7.3167,

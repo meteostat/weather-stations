@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "PM",
     "identifiers": {
-        "national": null,
-        "wmo": "12691",
-        "icao": "EPSK"
+        "$wmo": "12691",
+        "$icao": "EPSK",
+        "$usaf": "121163"
     },
     "location": {
         "latitude": 54.4667,

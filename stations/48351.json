@@ -6,9 +6,10 @@
     "country": "TH",
     "region": "UD",
     "identifiers": {
-        "national": null,
-        "wmo": "48351",
-        "icao": "VTPU"
+        "$wmo": "48351",
+        "$icao": "VTPU",
+        "$ghcn": "TH000048351",
+        "$usaf": "483510"
     },
     "location": {
         "latitude": 17.6167,

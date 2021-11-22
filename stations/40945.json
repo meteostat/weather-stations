@@ -6,9 +6,10 @@
     "country": "AF",
     "region": "BAM",
     "identifiers": {
-        "national": null,
-        "wmo": "40945",
-        "icao": "OABN"
+        "$wmo": "40945",
+        "$icao": "OABN",
+        "$iata": "BIN",
+        "$usaf": "409450"
     },
     "location": {
         "latitude": 34.8167,

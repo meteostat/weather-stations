@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBCJ"
+        "$icao": "SBCJ",
+        "$iata": "CKS",
+        "$usaf": "825670"
     },
     "location": {
         "latitude": -6.1167,

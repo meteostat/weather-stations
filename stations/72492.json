@@ -6,9 +6,13 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "72492",
-        "icao": "KSCK"
+        "$wmo": "72492",
+        "$icao": "KSCK",
+        "$iata": "SCK",
+        "$ghcn": "USW00023237",
+        "$wban": "23237",
+        "$usaf": "724920",
+        "$mosmix": "72492"
     },
     "location": {
         "latitude": 37.9,

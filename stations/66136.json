@@ -6,9 +6,8 @@
     "country": "AO",
     "region": "UIG",
     "identifiers": {
-        "national": null,
-        "wmo": "66136",
-        "icao": "FNTO"
+        "$wmo": "66136",
+        "$icao": "FNTO"
     },
     "location": {
         "latitude": -7.1667,

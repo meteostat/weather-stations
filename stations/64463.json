@@ -6,9 +6,8 @@
     "country": "CG",
     "region": "BC",
     "identifiers": {
-        "national": null,
-        "wmo": "64463",
-        "icao": null
+        "$wmo": "64463",
+        "$ghcn": "CFM00064463"
     },
     "location": {
         "latitude": -5.5833,

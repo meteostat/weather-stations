@@ -6,9 +6,8 @@
     "country": "PL",
     "region": "KP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EPGI"
+        "$icao": "EPGI",
+        "$usaf": "122370"
     },
     "location": {
         "latitude": 53.5244,

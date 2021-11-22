@@ -6,9 +6,8 @@
     "country": "UY",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": "86585",
-        "icao": null
+        "$wmo": "86585",
+        "$usaf": "865850"
     },
     "location": {
         "latitude": -34.85,

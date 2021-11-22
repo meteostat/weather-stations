@@ -6,9 +6,8 @@
     "country": "EG",
     "region": "MT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HEAL"
+        "$icao": "HEAL",
+        "$iata": "DBB"
     },
     "location": {
         "latitude": 30.9245,

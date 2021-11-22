@@ -6,9 +6,10 @@
     "country": "ES",
     "region": "MU",
     "identifiers": {
-        "national": null,
-        "wmo": "08429",
-        "icao": "LERI"
+        "$wmo": "08429",
+        "$icao": "LERI",
+        "$ghcn": "SPE00120332",
+        "$usaf": "084290"
     },
     "location": {
         "latitude": 37.95,

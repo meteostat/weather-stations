@@ -6,9 +6,9 @@
     "country": "BB",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": "78953",
-        "icao": "TBPO"
+        "$wmo": "78953",
+        "$icao": "TBPO",
+        "$usaf": "789543"
     },
     "location": {
         "latitude": 13.1,

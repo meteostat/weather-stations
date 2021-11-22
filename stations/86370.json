@@ -6,9 +6,11 @@
     "country": "UY",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "86370",
-        "icao": "SUTB"
+        "$wmo": "86370",
+        "$icao": "SUTB",
+        "$iata": "TAW",
+        "$ghcn": "UY000001405",
+        "$usaf": "863700"
     },
     "location": {
         "latitude": -31.7,

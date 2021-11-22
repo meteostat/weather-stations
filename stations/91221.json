@@ -6,9 +6,12 @@
     "country": "US",
     "region": "RO",
     "identifiers": {
-        "national": null,
-        "wmo": "91221",
-        "icao": "PGRO"
+        "$wmo": "91221",
+        "$icao": "PGRO",
+        "$iata": "ROP",
+        "$ghcn": "CQC00914801",
+        "$wban": "41419",
+        "$usaf": "912210"
     },
     "location": {
         "latitude": 14.1833,

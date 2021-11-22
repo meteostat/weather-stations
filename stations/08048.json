@@ -6,9 +6,8 @@
     "country": "ES",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "08048",
-        "icao": null
+        "$wmo": "08048",
+        "$ghcn": "SPE00120368"
     },
     "location": {
         "latitude": 42.3333,

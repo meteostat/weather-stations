@@ -6,9 +6,8 @@
     "country": "FR",
     "region": "G",
     "identifiers": {
-        "national": null,
-        "wmo": "07160",
-        "icao": "LFQR"
+        "$wmo": "07160",
+        "$icao": "LFQR"
     },
     "location": {
         "latitude": 48.5006,

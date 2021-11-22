@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KORE"
+        "$icao": "KORE",
+        "$wban": "54756",
+        "$usaf": "725085"
     },
     "location": {
         "latitude": 42.5701,

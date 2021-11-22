@@ -6,9 +6,9 @@
     "country": "LK",
     "region": "EA",
     "identifiers": {
-        "national": null,
-        "wmo": "43400",
-        "icao": "VCCJ"
+        "$wmo": "43400",
+        "$icao": "VCCJ",
+        "$iata": "JAF"
     },
     "location": {
         "latitude": 9.8,

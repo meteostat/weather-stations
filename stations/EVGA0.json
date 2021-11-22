@@ -6,9 +6,7 @@
     "country": "LV",
     "region": "OG",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EVGA"
+        "$icao": "EVGA"
     },
     "location": {
         "latitude": 56.7783,

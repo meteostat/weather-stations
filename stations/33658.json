@@ -6,9 +6,10 @@
     "country": "UA",
     "region": "CV",
     "identifiers": {
-        "national": null,
-        "wmo": "33658",
-        "icao": "UKLN"
+        "$wmo": "33658",
+        "$icao": "UKLN",
+        "$iata": "CWC",
+        "$ghcn": "UPM00033658"
     },
     "location": {
         "latitude": 48.3667,

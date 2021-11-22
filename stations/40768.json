@@ -6,9 +6,12 @@
     "country": "IR",
     "region": "HMD",
     "identifiers": {
-        "national": null,
-        "wmo": "40768",
-        "icao": "OIHH"
+        "$wmo": "40768",
+        "$icao": "OIHH",
+        "$iata": "HDM",
+        "$ghcn": "IRM00040768",
+        "$wban": "33406",
+        "$mosmix": "40768"
     },
     "location": {
         "latitude": 34.85,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KVAY"
+        "$icao": "KVAY",
+        "$wban": "93780",
+        "$usaf": "724074"
     },
     "location": {
         "latitude": 39.9429,

@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "NEN",
     "identifiers": {
-        "national": null,
-        "wmo": "23114",
-        "icao": null
+        "$wmo": "23114",
+        "$ghcn": "RSM00023114"
     },
     "location": {
         "latitude": 68.5833,

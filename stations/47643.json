@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "47643",
-        "icao": "RJTJ"
+        "$wmo": "47643",
+        "$icao": "RJTJ",
+        "$usaf": "476430"
     },
     "location": {
         "latitude": 35.8333,

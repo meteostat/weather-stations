@@ -6,9 +6,10 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "94205",
-        "icao": "YPDB"
+        "$wmo": "94205",
+        "$icao": "YPDB",
+        "$iata": "DRB",
+        "$usaf": "942050"
     },
     "location": {
         "latitude": -17.3,

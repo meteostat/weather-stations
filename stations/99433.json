@@ -6,9 +6,7 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": "99433",
-        "icao": null
+        "$wmo": "99433"
     },
     "location": {
         "latitude": 43.75,

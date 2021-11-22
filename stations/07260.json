@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "D",
     "identifiers": {
-        "national": null,
-        "wmo": "07260",
-        "icao": "LFQG"
+        "$wmo": "07260",
+        "$icao": "LFQG",
+        "$iata": "NVS",
+        "$usaf": "072600",
+        "$mosmix": "07260"
     },
     "location": {
         "latitude": 47,

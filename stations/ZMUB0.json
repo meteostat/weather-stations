@@ -6,9 +6,9 @@
     "country": "MN",
     "region": "UB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZMUB"
+        "$icao": "ZMUB",
+        "$iata": "ULN",
+        "$usaf": "442920"
     },
     "location": {
         "latitude": 47.85,

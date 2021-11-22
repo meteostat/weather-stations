@@ -6,9 +6,8 @@
     "country": "NE",
     "region": "DS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DRRD"
+        "$icao": "DRRD",
+        "$usaf": "610530"
     },
     "location": {
         "latitude": 13.0481,

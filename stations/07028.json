@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "Q",
     "identifiers": {
-        "national": null,
-        "wmo": "07028",
-        "icao": "LFOH"
+        "$wmo": "07028",
+        "$icao": "LFOH",
+        "$iata": "LEH",
+        "$usaf": "070280",
+        "$mosmix": "07028"
     },
     "location": {
         "latitude": 49.5167,

@@ -6,9 +6,11 @@
     "country": "MR",
     "region": "HC",
     "identifiers": {
-        "national": null,
-        "wmo": "61497",
-        "icao": "GQNI"
+        "$wmo": "61497",
+        "$icao": "GQNI",
+        "$iata": "EMN",
+        "$ghcn": "MR000061497",
+        "$usaf": "614970"
     },
     "location": {
         "latitude": 16.6,

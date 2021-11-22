@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "WB",
     "identifiers": {
-        "national": null,
-        "wmo": "42506",
-        "icao": "VEBG"
+        "$wmo": "42506",
+        "$icao": "VEBG",
+        "$iata": "RGH",
+        "$usaf": "425060"
     },
     "location": {
         "latitude": 25.2167,

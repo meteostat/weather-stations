@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "CHH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMCS"
+        "$icao": "MMCS",
+        "$iata": "CJS",
+        "$usaf": "760753"
     },
     "location": {
         "latitude": 31.6364,

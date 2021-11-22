@@ -6,9 +6,10 @@
     "country": "ET",
     "region": "CN",
     "identifiers": {
-        "national": null,
-        "wmo": "63476",
-        "icao": "HAGH"
+        "$wmo": "63476",
+        "$icao": "HAGH",
+        "$iata": "GNN",
+        "$usaf": "634763"
     },
     "location": {
         "latitude": 7.15,

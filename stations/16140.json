@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "ER",
     "identifiers": {
-        "national": null,
-        "wmo": "16140",
-        "icao": "LIPE"
+        "$wmo": "16140",
+        "$icao": "LIPE",
+        "$iata": "BLQ",
+        "$usaf": "161400",
+        "$mosmix": "16140"
     },
     "location": {
         "latitude": 44.5333,

@@ -6,9 +6,11 @@
     "country": "VE",
     "region": "F",
     "identifiers": {
-        "national": null,
-        "wmo": "80462",
-        "icao": "SVSE"
+        "$wmo": "80462",
+        "$icao": "SVSE",
+        "$iata": "SNV",
+        "$ghcn": "VE000080462",
+        "$usaf": "804620"
     },
     "location": {
         "latitude": 4.6,

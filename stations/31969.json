@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "PRI",
     "identifiers": {
-        "national": null,
-        "wmo": "31969",
-        "icao": null
+        "$wmo": "31969",
+        "$ghcn": "RSM00031969"
     },
     "location": {
         "latitude": 42.65,

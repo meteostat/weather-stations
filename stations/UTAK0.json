@@ -6,9 +6,9 @@
     "country": "TM",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UTAK"
+        "$icao": "UTAK",
+        "$iata": "KRW",
+        "$usaf": "381412"
     },
     "location": {
         "latitude": 40.05,

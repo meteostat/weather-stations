@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "83583",
-        "icao": "SBBH"
+        "$wmo": "83583",
+        "$icao": "SBBH",
+        "$iata": "PLU",
+        "$usaf": "835830",
+        "$mosmix": "83583"
     },
     "location": {
         "latitude": -19.85,

@@ -1,15 +1,14 @@
 {
     "id": "02738",
     "name": {
-        "en": "Pyhajarvi Ol Ojakyla",
-        "fi": "Pyhajarvi Ol Ojakylä"
+        "fi": "Pyhajarvi Ol Ojakylä",
+        "en": "Pyhajarvi Ol Ojakyla"
     },
     "country": "FI",
     "region": "OU",
     "identifiers": {
-        "national": null,
-        "wmo": "02738",
-        "icao": null
+        "$wmo": "02738",
+        "$usaf": "027380"
     },
     "location": {
         "latitude": 63.7333,

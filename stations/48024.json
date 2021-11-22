@@ -6,9 +6,9 @@
     "country": "MM",
     "region": "SG",
     "identifiers": {
-        "national": null,
-        "wmo": "48024",
-        "icao": "VBKM"
+        "$wmo": "48024",
+        "$icao": "VBKM",
+        "$iata": "KMV"
     },
     "location": {
         "latitude": 23.2,

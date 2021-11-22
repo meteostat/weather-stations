@@ -6,9 +6,10 @@
     "country": "IR",
     "region": "KJ",
     "identifiers": {
-        "national": null,
-        "wmo": "40791",
-        "icao": "OIMT"
+        "$wmo": "40791",
+        "$icao": "OIMT",
+        "$iata": "TCX",
+        "$usaf": "407910"
     },
     "location": {
         "latitude": 33.6,

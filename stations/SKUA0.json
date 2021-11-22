@@ -6,9 +6,8 @@
     "country": "CO",
     "region": "VID",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SKUA"
+        "$icao": "SKUA",
+        "$usaf": "698689"
     },
     "location": {
         "latitude": 5.5245,

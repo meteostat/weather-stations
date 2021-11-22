@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "GO",
     "identifiers": {
-        "national": null,
-        "wmo": "83470",
-        "icao": null
+        "$wmo": "83470",
+        "$iata": "RIZ",
+        "$usaf": "834700",
+        "$mosmix": "83470"
     },
     "location": {
         "latitude": -17.9167,

@@ -6,9 +6,8 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSIK"
+        "$icao": "KSIK",
+        "$usaf": "720488"
     },
     "location": {
         "latitude": 36.8989,

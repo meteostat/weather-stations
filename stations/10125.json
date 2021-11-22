@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "national": null,
-        "wmo": "10125",
-        "icao": "EDWI"
+        "$wmo": "10125",
+        "$icao": "EDWI",
+        "$iata": "WVN",
+        "$mosmix": "10125"
     },
     "location": {
         "latitude": 53.5,

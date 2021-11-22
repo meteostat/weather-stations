@@ -6,9 +6,7 @@
     "country": "ES",
     "region": "PM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LESB"
+        "$icao": "LESB"
     },
     "location": {
         "latitude": 39.5989,

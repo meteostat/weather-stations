@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "GX",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZGBH"
+        "$icao": "ZGBH",
+        "$iata": "BHY",
+        "$usaf": "596441"
     },
     "location": {
         "latitude": 21.5394,

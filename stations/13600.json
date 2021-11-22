@@ -6,9 +6,10 @@
     "country": "AL",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": "13600",
-        "icao": "LASK"
+        "$wmo": "13600",
+        "$icao": "LASK",
+        "$usaf": "136000",
+        "$mosmix": "13600"
     },
     "location": {
         "latitude": 42.1,

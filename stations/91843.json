@@ -6,9 +6,12 @@
     "country": "CK",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91843",
-        "icao": "NCRG"
+        "$wmo": "91843",
+        "$icao": "NCRG",
+        "$iata": "RAR",
+        "$ghcn": "CWM00091843",
+        "$usaf": "918430",
+        "$mosmix": "91843"
     },
     "location": {
         "latitude": -21.2,

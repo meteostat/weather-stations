@@ -6,9 +6,8 @@
     "country": "UZ",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "38339",
-        "icao": null
+        "$wmo": "38339",
+        "$ghcn": "UZM00038339"
     },
     "location": {
         "latitude": 42.1667,

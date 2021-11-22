@@ -6,9 +6,8 @@
     "country": "ES",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LEMM"
+        "$icao": "LEMM",
+        "$usaf": "082211"
     },
     "location": {
         "latitude": 40.5,

@@ -6,9 +6,10 @@
     "country": "NZ",
     "region": "NTL",
     "identifiers": {
-        "national": null,
-        "wmo": "93012",
-        "icao": "NZKT"
+        "$wmo": "93012",
+        "$icao": "NZKT",
+        "$iata": "KAT",
+        "$usaf": "930110"
     },
     "location": {
         "latitude": -35.1,

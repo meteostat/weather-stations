@@ -6,9 +6,10 @@
     "country": "BG",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "15535",
-        "icao": "LBRS"
+        "$wmo": "15535",
+        "$icao": "LBRS",
+        "$iata": "ROU",
+        "$usaf": "155350"
     },
     "location": {
         "latitude": 43.85,

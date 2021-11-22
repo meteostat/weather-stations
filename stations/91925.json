@@ -6,9 +6,9 @@
     "country": "PF",
     "region": "IC",
     "identifiers": {
-        "national": null,
-        "wmo": "91925",
-        "icao": null
+        "$wmo": "91925",
+        "$ghcn": "FP000091925",
+        "$mosmix": "91925"
     },
     "location": {
         "latitude": -9.8,

@@ -6,9 +6,11 @@
     "country": "RU",
     "region": "VG",
     "identifiers": {
-        "national": null,
-        "wmo": "34560",
-        "icao": "URWW"
+        "$wmo": "34560",
+        "$icao": "URWW",
+        "$ghcn": "RS000034561",
+        "$usaf": "345600",
+        "$mosmix": "34560"
     },
     "location": {
         "latitude": 48.7833,

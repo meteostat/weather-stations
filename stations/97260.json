@@ -6,9 +6,12 @@
     "country": "ID",
     "region": "NB",
     "identifiers": {
-        "national": null,
-        "wmo": "97260",
-        "icao": "WRRS"
+        "$wmo": "97260",
+        "$icao": "WRRS",
+        "$iata": "SWQ",
+        "$ghcn": "IDM00097260",
+        "$usaf": "972600",
+        "$mosmix": "97260"
     },
     "location": {
         "latitude": -8.4333,

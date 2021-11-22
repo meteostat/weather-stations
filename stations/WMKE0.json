@@ -6,9 +6,9 @@
     "country": "MY",
     "region": "TR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "WMKE"
+        "$icao": "WMKE",
+        "$iata": "KTE",
+        "$usaf": "486726"
     },
     "location": {
         "latitude": 4.5372,

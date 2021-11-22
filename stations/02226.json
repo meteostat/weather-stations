@@ -2,15 +2,17 @@
     "id": "02226",
     "name": {
         "de": "Ostersund Froson Flughafen",
-        "en": "Ostersund Froson Airport",
-        "sv": "Ostersund Froson Flygplats"
+        "sv": "Ostersund Froson Flygplats",
+        "en": "Ostersund Froson Airport"
     },
     "country": "SE",
     "region": "Z",
     "identifiers": {
-        "national": null,
-        "wmo": "02226",
-        "icao": "ESPC"
+        "$wmo": "02226",
+        "$icao": "ESPC",
+        "$iata": "OSD",
+        "$ghcn": "SWE00100026",
+        "$mosmix": "02226"
     },
     "location": {
         "latitude": 63.1833,

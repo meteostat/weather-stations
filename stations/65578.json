@@ -6,9 +6,12 @@
     "country": "CI",
     "region": "ABI",
     "identifiers": {
-        "national": null,
-        "wmo": "65578",
-        "icao": "DIAP"
+        "$wmo": "65578",
+        "$icao": "DIAP",
+        "$iata": "ABJ",
+        "$ghcn": "IVM00065578",
+        "$usaf": "655780",
+        "$mosmix": "65578"
     },
     "location": {
         "latitude": 5.25,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLUM"
+        "$icao": "KLUM",
+        "$wban": "04995",
+        "$usaf": "720327"
     },
     "location": {
         "latitude": 44.8923,

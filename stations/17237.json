@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "DEN",
     "identifiers": {
-        "national": null,
-        "wmo": "17237",
-        "icao": null
+        "$wmo": "17237",
+        "$ghcn": "TUM00017237"
     },
     "location": {
         "latitude": 37.7667,

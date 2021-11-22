@@ -6,9 +6,12 @@
     "country": "SY",
     "region": "HI",
     "identifiers": {
-        "national": null,
-        "wmo": "40061",
-        "icao": "OSPR"
+        "$wmo": "40061",
+        "$icao": "OSPR",
+        "$iata": "PMS",
+        "$ghcn": "SY000040061",
+        "$usaf": "400610",
+        "$mosmix": "40061"
     },
     "location": {
         "latitude": 34.55,

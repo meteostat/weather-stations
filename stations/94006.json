@@ -6,9 +6,8 @@
     "country": "PG",
     "region": "GU",
     "identifiers": {
-        "national": null,
-        "wmo": "94006",
-        "icao": null
+        "$wmo": "94006",
+        "$iata": "KRI"
     },
     "location": {
         "latitude": -5.4833,

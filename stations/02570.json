@@ -2,15 +2,15 @@
     "id": "02570",
     "name": {
         "de": "Norrkoping Östra Eneby Flughafen",
-        "en": "Norrkoping Östra Eneby Airport",
-        "sv": "Norrkoping Östra Eneby Flygplats"
+        "sv": "Norrkoping Östra Eneby Flygplats",
+        "en": "Norrkoping Östra Eneby Airport"
     },
     "country": "SE",
     "region": "E",
     "identifiers": {
-        "national": null,
-        "wmo": "02570",
-        "icao": "ESCK"
+        "$wmo": "02570",
+        "$icao": "ESCK",
+        "$usaf": "021480"
     },
     "location": {
         "latitude": 58.6167,

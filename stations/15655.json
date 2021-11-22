@@ -6,9 +6,11 @@
     "country": "BG",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "15655",
-        "icao": "LBBG"
+        "$wmo": "15655",
+        "$icao": "LBBG",
+        "$iata": "BOJ",
+        "$usaf": "156550",
+        "$mosmix": "15655"
     },
     "location": {
         "latitude": 42.4833,

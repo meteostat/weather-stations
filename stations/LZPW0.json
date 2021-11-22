@@ -6,9 +6,9 @@
     "country": "SK",
     "region": "PV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LZPW"
+        "$icao": "LZPW",
+        "$iata": "POV",
+        "$usaf": "119550"
     },
     "location": {
         "latitude": 49.0297,

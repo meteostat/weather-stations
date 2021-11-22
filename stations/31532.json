@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "KHA",
     "identifiers": {
-        "national": null,
-        "wmo": "31532",
-        "icao": null
+        "$wmo": "31532",
+        "$ghcn": "RSM00031532"
     },
     "location": {
         "latitude": 50.8667,

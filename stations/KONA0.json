@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KONA"
+        "$icao": "KONA",
+        "$iata": "ONA",
+        "$wban": "04956",
+        "$usaf": "726588"
     },
     "location": {
         "latitude": 44.0772,

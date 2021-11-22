@@ -6,9 +6,10 @@
     "country": "SO",
     "region": "BN",
     "identifiers": {
-        "national": null,
-        "wmo": "63260",
-        "icao": "HCMM"
+        "$wmo": "63260",
+        "$icao": "HCMM",
+        "$iata": "MGQ",
+        "$usaf": "632600"
     },
     "location": {
         "latitude": 2.0333,

@@ -6,9 +6,9 @@
     "country": "HU",
     "region": "ZA",
     "identifiers": {
-        "national": null,
-        "wmo": "12922",
-        "icao": null
+        "$wmo": "12922",
+        "$usaf": "129220",
+        "$mosmix": "12922"
     },
     "location": {
         "latitude": 46.6833,

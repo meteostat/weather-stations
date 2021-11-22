@@ -6,9 +6,12 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "83692",
-        "icao": "SBJF"
+        "$wmo": "83692",
+        "$icao": "SBJF",
+        "$iata": "JDF",
+        "$ghcn": "BR002143012",
+        "$usaf": "836920",
+        "$mosmix": "83692"
     },
     "location": {
         "latitude": -21.7667,

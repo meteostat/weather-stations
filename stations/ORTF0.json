@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "NN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ORTF"
+        "$icao": "ORTF",
+        "$usaf": "406030"
     },
     "location": {
         "latitude": 36.27,

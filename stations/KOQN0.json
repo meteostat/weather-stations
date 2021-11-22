@@ -6,9 +6,7 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOQN"
+        "$icao": "KOQN"
     },
     "location": {
         "latitude": 39.9901,

@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "J",
     "identifiers": {
-        "national": null,
-        "wmo": "07157",
-        "icao": "LFPG"
+        "$wmo": "07157",
+        "$icao": "LFPG",
+        "$iata": "CDG",
+        "$usaf": "071570",
+        "$mosmix": "07157"
     },
     "location": {
         "latitude": 49.0167,

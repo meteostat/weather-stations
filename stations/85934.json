@@ -6,9 +6,11 @@
     "country": "CL",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "85934",
-        "icao": "SCCI"
+        "$wmo": "85934",
+        "$icao": "SCCI",
+        "$ghcn": "CI000085934",
+        "$usaf": "859340",
+        "$mosmix": "85934"
     },
     "location": {
         "latitude": -53,

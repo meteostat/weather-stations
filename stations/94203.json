@@ -6,9 +6,12 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "94203",
-        "icao": "YBRM"
+        "$wmo": "94203",
+        "$icao": "YBRM",
+        "$iata": "BME",
+        "$ghcn": "ASN00003003",
+        "$usaf": "942030",
+        "$mosmix": "94203"
     },
     "location": {
         "latitude": -17.95,

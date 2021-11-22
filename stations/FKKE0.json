@@ -6,9 +6,8 @@
     "country": "CM",
     "region": "CEN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FKKE"
+        "$icao": "FKKE",
+        "$usaf": "649420"
     },
     "location": {
         "latitude": 3.65,

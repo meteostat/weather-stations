@@ -6,9 +6,13 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": "72374",
-        "icao": "KINW"
+        "$wmo": "72374",
+        "$icao": "KINW",
+        "$iata": "INW",
+        "$ghcn": "USW00023194",
+        "$wban": "23194",
+        "$usaf": "723740",
+        "$mosmix": "72374"
     },
     "location": {
         "latitude": 35.0333,

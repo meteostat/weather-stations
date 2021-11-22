@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFRM"
+        "$icao": "KFRM",
+        "$iata": "FRM",
+        "$wban": "94948",
+        "$usaf": "726586"
     },
     "location": {
         "latitude": 43.6439,

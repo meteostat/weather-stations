@@ -6,9 +6,9 @@
     "country": "PK",
     "region": "NA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OPSD"
+        "$icao": "OPSD",
+        "$iata": "KDU",
+        "$usaf": "415170"
     },
     "location": {
         "latitude": 35.3355,

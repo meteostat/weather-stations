@@ -6,9 +6,9 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KAZE"
+        "$icao": "KAZE",
+        "$wban": "00352",
+        "$usaf": "721035"
     },
     "location": {
         "latitude": 31.8847,

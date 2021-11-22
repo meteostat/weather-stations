@@ -6,9 +6,12 @@
     "country": "OM",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": "41288",
-        "icao": "OOMA"
+        "$wmo": "41288",
+        "$icao": "OOMA",
+        "$iata": "MSH",
+        "$ghcn": "MU000041288",
+        "$usaf": "412880",
+        "$mosmix": "41288"
     },
     "location": {
         "latitude": 20.6667,

@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "LAN",
     "identifiers": {
-        "national": null,
-        "wmo": "98743",
-        "icao": "RPMI"
+        "$wmo": "98743",
+        "$icao": "RPMI",
+        "$iata": "IGN"
     },
     "location": {
         "latitude": 8.15,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KNDZ"
+        "$icao": "KNDZ",
+        "$wban": "53847",
+        "$usaf": "720383"
     },
     "location": {
         "latitude": 30.6986,

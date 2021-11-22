@@ -6,9 +6,11 @@
     "country": "AO",
     "region": "HUI",
     "identifiers": {
-        "national": null,
-        "wmo": "66390",
-        "icao": "FNUB"
+        "$wmo": "66390",
+        "$icao": "FNUB",
+        "$iata": "SDD",
+        "$ghcn": "AO000066390",
+        "$usaf": "663900"
     },
     "location": {
         "latitude": -14.9333,

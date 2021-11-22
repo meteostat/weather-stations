@@ -6,9 +6,10 @@
     "country": "ES",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": "08223",
-        "icao": "LEVS"
+        "$wmo": "08223",
+        "$icao": "LEVS",
+        "$ghcn": "SPE00120287",
+        "$usaf": "082230"
     },
     "location": {
         "latitude": 40.3833,

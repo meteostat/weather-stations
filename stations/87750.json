@@ -6,9 +6,12 @@
     "country": "AR",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": "87750",
-        "icao": "SAZB"
+        "$wmo": "87750",
+        "$icao": "SAZB",
+        "$iata": "BHI",
+        "$ghcn": "AR000877500",
+        "$usaf": "877500",
+        "$mosmix": "87750"
     },
     "location": {
         "latitude": -38.7333,

@@ -6,9 +6,11 @@
     "country": "BW",
     "region": "SE",
     "identifiers": {
-        "national": null,
-        "wmo": "68240",
-        "icao": "FBSK"
+        "$wmo": "68240",
+        "$icao": "FBSK",
+        "$iata": "GBE",
+        "$usaf": "682400",
+        "$mosmix": "68240"
     },
     "location": {
         "latitude": -24.2167,

@@ -6,9 +6,10 @@
     "country": "ID",
     "region": "JT",
     "identifiers": {
-        "national": null,
-        "wmo": "96837",
-        "icao": null
+        "$wmo": "96837",
+        "$iata": "SRG",
+        "$ghcn": "IDM00096837",
+        "$usaf": "968370"
     },
     "location": {
         "latitude": -6.9667,

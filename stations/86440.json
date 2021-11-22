@@ -6,9 +6,11 @@
     "country": "UY",
     "region": "CL",
     "identifiers": {
-        "national": null,
-        "wmo": "86440",
-        "icao": "SUMO"
+        "$wmo": "86440",
+        "$icao": "SUMO",
+        "$iata": "MLZ",
+        "$ghcn": "UY000001709",
+        "$usaf": "864400"
     },
     "location": {
         "latitude": -32.3667,

@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "TS",
     "identifiers": {
-        "national": null,
-        "wmo": "47884",
-        "icao": "RJOP"
+        "$wmo": "47884",
+        "$icao": "RJOP",
+        "$usaf": "478840"
     },
     "location": {
         "latitude": 34,

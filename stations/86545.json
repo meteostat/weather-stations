@@ -6,9 +6,8 @@
     "country": "UY",
     "region": "FA",
     "identifiers": {
-        "national": null,
-        "wmo": "86545",
-        "icao": null
+        "$wmo": "86545",
+        "$usaf": "865450"
     },
     "location": {
         "latitude": -34.0667,

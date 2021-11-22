@@ -6,9 +6,12 @@
     "country": "NA",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "68312",
-        "icao": "FYKT"
+        "$wmo": "68312",
+        "$icao": "FYKT",
+        "$iata": "KMP",
+        "$ghcn": "WA004191820",
+        "$usaf": "683120",
+        "$mosmix": "68312"
     },
     "location": {
         "latitude": -26.5333,

@@ -6,9 +6,11 @@
     "country": "TM",
     "region": "DA",
     "identifiers": {
-        "national": null,
-        "wmo": "38392",
-        "icao": "UTAT"
+        "$wmo": "38392",
+        "$icao": "UTAT",
+        "$iata": "TAZ",
+        "$ghcn": "TX000038392",
+        "$usaf": "384574"
     },
     "location": {
         "latitude": 41.75,

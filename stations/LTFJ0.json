@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "KOC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTFJ"
+        "$icao": "LTFJ",
+        "$iata": "SAW",
+        "$usaf": "170630"
     },
     "location": {
         "latitude": 40.9,

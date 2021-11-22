@@ -6,9 +6,8 @@
     "country": "PT",
     "region": "PG",
     "identifiers": {
-        "national": null,
-        "wmo": "08571",
-        "icao": null
+        "$wmo": "08571",
+        "$mosmix": "08571"
     },
     "location": {
         "latitude": 39.2833,

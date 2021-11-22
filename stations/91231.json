@@ -6,9 +6,9 @@
     "country": "UM",
     "region": "TI",
     "identifiers": {
-        "national": null,
-        "wmo": "91231",
-        "icao": null
+        "$wmo": "91231",
+        "$ghcn": "CQC00914874",
+        "$wban": "41413"
     },
     "location": {
         "latitude": 15,

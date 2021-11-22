@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "KAM",
     "identifiers": {
-        "national": null,
-        "wmo": "32509",
-        "icao": null
+        "$wmo": "32509",
+        "$ghcn": "RSM00032509"
     },
     "location": {
         "latitude": 54.1167,

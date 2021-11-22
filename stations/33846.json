@@ -6,9 +6,11 @@
     "country": "UA",
     "region": "LH",
     "identifiers": {
-        "national": null,
-        "wmo": "33846",
-        "icao": "UKON"
+        "$wmo": "33846",
+        "$icao": "UKON",
+        "$iata": "NLV",
+        "$ghcn": "UPM00033846",
+        "$mosmix": "33846"
     },
     "location": {
         "latitude": 47.0333,

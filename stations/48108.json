@@ -6,9 +6,9 @@
     "country": "MM",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": "48108",
-        "icao": "VBTV"
+        "$wmo": "48108",
+        "$icao": "VBTV",
+        "$usaf": "481080"
     },
     "location": {
         "latitude": 14.1,

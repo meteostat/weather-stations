@@ -6,9 +6,9 @@
     "country": "HR",
     "region": "SP",
     "identifiers": {
-        "national": null,
-        "wmo": "14370",
-        "icao": "LDOR"
+        "$wmo": "14370",
+        "$icao": "LDOR",
+        "$usaf": "143700"
     },
     "location": {
         "latitude": 45.1667,

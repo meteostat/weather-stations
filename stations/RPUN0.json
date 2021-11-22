@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "CAS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPUN"
+        "$icao": "RPUN",
+        "$iata": "WNP",
+        "$usaf": "984425"
     },
     "location": {
         "latitude": 13.5833,

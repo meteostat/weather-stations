@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTAD"
+        "$icao": "KTAD",
+        "$iata": "TAD",
+        "$wban": "23070",
+        "$usaf": "724645"
     },
     "location": {
         "latitude": 37.2594,

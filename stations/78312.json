@@ -6,9 +6,8 @@
     "country": "CU",
     "region": "PD",
     "identifiers": {
-        "national": null,
-        "wmo": "78312",
-        "icao": "MUSL"
+        "$wmo": "78312",
+        "$icao": "MUSL"
     },
     "location": {
         "latitude": 22.6667,

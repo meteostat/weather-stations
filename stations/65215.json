@@ -6,9 +6,9 @@
     "country": "NG",
     "region": "OS",
     "identifiers": {
-        "national": null,
-        "wmo": "65215",
-        "icao": "DNOS"
+        "$wmo": "65215",
+        "$icao": "DNOS",
+        "$usaf": "652150"
     },
     "location": {
         "latitude": 7.7833,

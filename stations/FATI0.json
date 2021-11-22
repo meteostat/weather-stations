@@ -6,9 +6,8 @@
     "country": "ZA",
     "region": "NP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FATI"
+        "$icao": "FATI",
+        "$usaf": "682530"
     },
     "location": {
         "latitude": -24.6,

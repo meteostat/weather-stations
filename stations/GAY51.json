@@ -6,13 +6,11 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": "161",
-        "wmo": null,
-        "icao": null
+        "$national": "161"
     },
     "location": {
         "latitude": 49.76,
-        "longitude": -125.0,
+        "longitude": -125,
         "elevation": 81
     },
     "timezone": "America/Vancouver"

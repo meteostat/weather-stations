@@ -6,9 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPFN"
+        "$icao": "KPFN",
+        "$iata": "PFN",
+        "$wban": "03882",
+        "$usaf": "722245"
     },
     "location": {
         "latitude": 30.2121,

@@ -6,9 +6,12 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": "52080",
-        "wmo": "71728",
-        "icao": "CYRJ"
+        "$national": "52080",
+        "$wmo": "71728",
+        "$icao": "CYRJ",
+        "$iata": "YRJ",
+        "$ghcn": "CA007066685",
+        "$usaf": "717280"
     },
     "location": {
         "latitude": 48.52,

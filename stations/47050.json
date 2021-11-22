@@ -6,9 +6,8 @@
     "country": "KP",
     "region": "PYB",
     "identifiers": {
-        "national": null,
-        "wmo": "47050",
-        "icao": null
+        "$wmo": "47050",
+        "$mosmix": "47050"
     },
     "location": {
         "latitude": 39.6167,

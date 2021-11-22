@@ -6,9 +6,11 @@
     "country": "SB",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91503",
-        "icao": "AGGM"
+        "$wmo": "91503",
+        "$icao": "AGGM",
+        "$iata": "MUA",
+        "$ghcn": "BP000091503",
+        "$usaf": "915030"
     },
     "location": {
         "latitude": -8.3333,

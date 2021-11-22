@@ -1,15 +1,14 @@
 {
     "id": "01055",
     "name": {
-        "en": "Fruholmen Lighthouse",
-        "no": "Fruholmen Fyr"
+        "no": "Fruholmen Fyr",
+        "en": "Fruholmen Lighthouse"
     },
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "national": null,
-        "wmo": "01055",
-        "icao": null
+        "$wmo": "01055",
+        "$usaf": "010550"
     },
     "location": {
         "latitude": 71.1,

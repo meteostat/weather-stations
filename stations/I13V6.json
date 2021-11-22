@@ -6,9 +6,10 @@
     "country": "CA",
     "region": "NS",
     "identifiers": {
-        "national": "54578",
-        "wmo": "71596",
-        "icao": null
+        "$national": "54578",
+        "$wmo": "71596",
+        "$iata": "YMN",
+        "$usaf": "710349"
     },
     "location": {
         "latitude": 45.92,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSJC"
+        "$icao": "KSJC",
+        "$iata": "SJC",
+        "$wban": "23293",
+        "$usaf": "724945"
     },
     "location": {
         "latitude": 37.3627,

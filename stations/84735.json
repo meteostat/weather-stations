@@ -6,9 +6,12 @@
     "country": "PE",
     "region": "PU",
     "identifiers": {
-        "national": null,
-        "wmo": "84735",
-        "icao": "SPJL"
+        "$wmo": "84735",
+        "$icao": "SPJL",
+        "$iata": "JUL",
+        "$ghcn": "PEM00084735",
+        "$usaf": "847350",
+        "$mosmix": "84735"
     },
     "location": {
         "latitude": -15.4833,

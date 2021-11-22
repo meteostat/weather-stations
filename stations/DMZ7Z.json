@@ -6,12 +6,10 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": "4750",
-        "wmo": null,
-        "icao": null
+        "$national": "4750"
     },
     "location": {
-        "latitude": 43.0,
+        "latitude": 43,
         "longitude": -81.03,
         "elevation": 271
     },

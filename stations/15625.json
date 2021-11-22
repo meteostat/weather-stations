@@ -6,9 +6,11 @@
     "country": "BG",
     "region": "PD",
     "identifiers": {
-        "national": null,
-        "wmo": "15625",
-        "icao": "LBPD"
+        "$wmo": "15625",
+        "$icao": "LBPD",
+        "$iata": "PDV",
+        "$usaf": "156250",
+        "$mosmix": "15625"
     },
     "location": {
         "latitude": 42.1333,

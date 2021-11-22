@@ -6,9 +6,12 @@
     "country": "CN",
     "region": "GZ",
     "identifiers": {
-        "national": null,
-        "wmo": "57816",
-        "icao": "ZUGY"
+        "$wmo": "57816",
+        "$icao": "ZUGY",
+        "$iata": "KWE",
+        "$ghcn": "CHM00057816",
+        "$usaf": "578160",
+        "$mosmix": "57816"
     },
     "location": {
         "latitude": 26.5833,

@@ -6,9 +6,9 @@
     "country": "NA",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FYGB"
+        "$icao": "FYGB",
+        "$iata": "GOG",
+        "$usaf": "681160"
     },
     "location": {
         "latitude": -22.5044,

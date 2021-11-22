@@ -6,9 +6,8 @@
     "country": "MD",
     "region": "BL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LUCH"
+        "$icao": "LUCH",
+        "$usaf": "338850"
     },
     "location": {
         "latitude": 45.8438,

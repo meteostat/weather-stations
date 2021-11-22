@@ -6,9 +6,10 @@
     "country": "CO",
     "region": "VAU",
     "identifiers": {
-        "national": null,
-        "wmo": "80361",
-        "icao": "SKMU"
+        "$wmo": "80361",
+        "$icao": "SKMU",
+        "$iata": "MVP",
+        "$usaf": "803610"
     },
     "location": {
         "latitude": 1.1333,

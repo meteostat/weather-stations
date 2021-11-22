@@ -6,9 +6,13 @@
     "country": "AN",
     "region": "SM",
     "identifiers": {
-        "national": null,
-        "wmo": "78866",
-        "icao": "TNCM"
+        "$wmo": "78866",
+        "$icao": "TNCM",
+        "$iata": "SXM",
+        "$ghcn": "NTM00078866",
+        "$wban": "00399",
+        "$usaf": "788660",
+        "$mosmix": "78866"
     },
     "location": {
         "latitude": 18.05,

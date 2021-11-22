@@ -6,9 +6,11 @@
     "country": "MX",
     "region": "BCS",
     "identifiers": {
-        "national": null,
-        "wmo": "76305",
-        "icao": "MMLT"
+        "$wmo": "76305",
+        "$icao": "MMLT",
+        "$iata": "LTO",
+        "$ghcn": "MX000003035",
+        "$usaf": "763050"
     },
     "location": {
         "latitude": 26.0167,

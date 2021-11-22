@@ -6,9 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSRQ"
+        "$icao": "KSRQ",
+        "$iata": "SRQ",
+        "$wban": "12871",
+        "$usaf": "722115"
     },
     "location": {
         "latitude": 27.3954,

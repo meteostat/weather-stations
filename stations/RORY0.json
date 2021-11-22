@@ -6,9 +6,9 @@
     "country": "JP",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RORY"
+        "$icao": "RORY",
+        "$iata": "RNJ",
+        "$usaf": "479425"
     },
     "location": {
         "latitude": 27.05,

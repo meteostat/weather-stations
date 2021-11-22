@@ -6,9 +6,12 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "national": null,
-        "wmo": "72486",
-        "icao": "KELY"
+        "$wmo": "72486",
+        "$icao": "KELY",
+        "$iata": "ELY",
+        "$ghcn": "USW00023154",
+        "$wban": "23154",
+        "$usaf": "724860"
     },
     "location": {
         "latitude": 39.3,

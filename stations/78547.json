@@ -6,9 +6,12 @@
     "country": "VI",
     "region": "W",
     "identifiers": {
-        "national": null,
-        "wmo": "78547",
-        "icao": "TISX"
+        "$wmo": "78547",
+        "$icao": "TISX",
+        "$iata": "STX",
+        "$wban": "11624",
+        "$usaf": "785470",
+        "$mosmix": "78547"
     },
     "location": {
         "latitude": 17.7,

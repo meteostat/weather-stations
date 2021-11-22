@@ -6,9 +6,10 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCGF"
+        "$icao": "KCGF",
+        "$iata": "CGF",
+        "$wban": "04805",
+        "$usaf": "725247"
     },
     "location": {
         "latitude": 41.5651,

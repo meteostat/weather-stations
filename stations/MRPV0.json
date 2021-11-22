@@ -6,9 +6,9 @@
     "country": "CR",
     "region": "SJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MRPV"
+        "$icao": "MRPV",
+        "$iata": "SYQ",
+        "$usaf": "787640"
     },
     "location": {
         "latitude": 9.95,

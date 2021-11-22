@@ -6,9 +6,10 @@
     "country": "ZA",
     "region": "EC",
     "identifiers": {
-        "national": null,
-        "wmo": "68752",
-        "icao": "FABE"
+        "$wmo": "68752",
+        "$icao": "FABE",
+        "$iata": "BIY",
+        "$usaf": "687520"
     },
     "location": {
         "latitude": -32.8333,

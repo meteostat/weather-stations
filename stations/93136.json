@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "AUK",
     "identifiers": {
-        "national": null,
-        "wmo": "93136",
-        "icao": "NZAR"
+        "$wmo": "93136",
+        "$icao": "NZAR",
+        "$iata": "AMZ"
     },
     "location": {
         "latitude": -37.0333,

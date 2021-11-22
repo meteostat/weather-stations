@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "KAH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTCN"
+        "$icao": "LTCN",
+        "$iata": "KCM",
+        "$usaf": "172550"
     },
     "location": {
         "latitude": 37.5388,

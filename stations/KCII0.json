@@ -6,9 +6,7 @@
     "country": "US",
     "region": "MT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCII"
+        "$icao": "KCII"
     },
     "location": {
         "latitude": 47.8283,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLWD"
+        "$icao": "KLWD",
+        "$wban": "94991",
+        "$usaf": "725499"
     },
     "location": {
         "latitude": 40.6333,

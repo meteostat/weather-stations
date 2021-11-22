@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ENBS"
+        "$icao": "ENBS",
+        "$iata": "BJF",
+        "$usaf": "010860"
     },
     "location": {
         "latitude": 70.6005,

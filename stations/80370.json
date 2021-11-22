@@ -6,9 +6,11 @@
     "country": "CO",
     "region": "NAR",
     "identifiers": {
-        "national": null,
-        "wmo": "80370",
-        "icao": "SKIP"
+        "$wmo": "80370",
+        "$icao": "SKIP",
+        "$iata": "IPI",
+        "$ghcn": "COM00080370",
+        "$usaf": "803700"
     },
     "location": {
         "latitude": 0.8167,

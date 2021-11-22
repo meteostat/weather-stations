@@ -6,9 +6,12 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": "72646",
-        "icao": "KAUW"
+        "$wmo": "72646",
+        "$icao": "KAUW",
+        "$iata": "AUW",
+        "$ghcn": "USW00014897",
+        "$wban": "14897",
+        "$usaf": "726463"
     },
     "location": {
         "latitude": 44.9263,

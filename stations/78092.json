@@ -6,9 +6,9 @@
     "country": "BS",
     "region": "EXU",
     "identifiers": {
-        "national": null,
-        "wmo": "78092",
-        "icao": "MYEG"
+        "$wmo": "78092",
+        "$icao": "MYEG",
+        "$usaf": "780920"
     },
     "location": {
         "latitude": 23.4667,

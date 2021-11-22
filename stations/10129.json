@@ -6,9 +6,12 @@
     "country": "DE",
     "region": "HB",
     "identifiers": {
-        "national": "00701",
-        "wmo": "10129",
-        "icao": "EDWB"
+        "$national": "00701",
+        "$wmo": "10129",
+        "$icao": "EDWB",
+        "$iata": "BRV",
+        "$ghcn": "GMM00010129",
+        "$mosmix": "10129"
     },
     "location": {
         "latitude": 53.5333,

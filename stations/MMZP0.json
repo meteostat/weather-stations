@@ -6,9 +6,8 @@
     "country": "MX",
     "region": "JAL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMZP"
+        "$icao": "MMZP",
+        "$usaf": "766015"
     },
     "location": {
         "latitude": 20.7507,

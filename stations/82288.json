@@ -6,9 +6,12 @@
     "country": "BR",
     "region": "PI",
     "identifiers": {
-        "national": null,
-        "wmo": "82288",
-        "icao": "SBPB"
+        "$wmo": "82288",
+        "$icao": "SBPB",
+        "$iata": "PHB",
+        "$ghcn": "BR027568450",
+        "$usaf": "822880",
+        "$mosmix": "82288"
     },
     "location": {
         "latitude": -2.9167,

@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "RR",
     "identifiers": {
-        "national": null,
-        "wmo": "82022",
-        "icao": "SBBV"
+        "$wmo": "82022",
+        "$icao": "SBBV",
+        "$iata": "BVB",
+        "$usaf": "820220",
+        "$mosmix": "82022"
     },
     "location": {
         "latitude": 2.8333,

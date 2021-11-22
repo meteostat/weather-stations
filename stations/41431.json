@@ -6,9 +6,11 @@
     "country": "YE",
     "region": "HU",
     "identifiers": {
-        "national": null,
-        "wmo": "41431",
-        "icao": "OYHD"
+        "$wmo": "41431",
+        "$icao": "OYHD",
+        "$iata": "HOD",
+        "$usaf": "414310",
+        "$mosmix": "41431"
     },
     "location": {
         "latitude": 14.75,

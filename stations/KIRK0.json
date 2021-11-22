@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIRK"
+        "$icao": "KIRK",
+        "$iata": "IRK",
+        "$wban": "14938",
+        "$usaf": "724455"
     },
     "location": {
         "latitude": 40.0935,

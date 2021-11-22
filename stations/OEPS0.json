@@ -6,9 +6,8 @@
     "country": "SA",
     "region": "RD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OEPS"
+        "$icao": "OEPS",
+        "$iata": "AKH"
     },
     "location": {
         "latitude": 24.0627,

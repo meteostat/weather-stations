@@ -6,9 +6,9 @@
     "country": "JP",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RJER"
+        "$icao": "RJER",
+        "$iata": "RIS",
+        "$usaf": "472025"
     },
     "location": {
         "latitude": 45.25,

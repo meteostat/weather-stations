@@ -6,9 +6,13 @@
     "country": "US",
     "region": "SC",
     "identifiers": {
-        "national": null,
-        "wmo": "72208",
-        "icao": "KCHS"
+        "$wmo": "72208",
+        "$icao": "KCHS",
+        "$iata": "CHS",
+        "$ghcn": "USW00013880",
+        "$wban": "13880",
+        "$usaf": "722080",
+        "$mosmix": "72208"
     },
     "location": {
         "latitude": 32.9,

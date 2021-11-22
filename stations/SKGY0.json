@@ -6,9 +6,8 @@
     "country": "CO",
     "region": "BOL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SKGY"
+        "$icao": "SKGY",
+        "$usaf": "802223"
     },
     "location": {
         "latitude": 4.8123,

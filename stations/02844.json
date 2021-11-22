@@ -6,9 +6,9 @@
     "country": "FI",
     "region": "BD",
     "identifiers": {
-        "national": null,
-        "wmo": "02844",
-        "icao": "EFPE"
+        "$wmo": "02844",
+        "$icao": "EFPE",
+        "$usaf": "028440"
     },
     "location": {
         "latitude": 66.8,

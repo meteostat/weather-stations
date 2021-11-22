@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "82398",
-        "icao": "SBFZ"
+        "$wmo": "82398",
+        "$icao": "SBFZ",
+        "$iata": "FOR",
+        "$usaf": "823980"
     },
     "location": {
         "latitude": -3.7833,

@@ -6,9 +6,8 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOKH"
+        "$icao": "KOKH",
+        "$usaf": "727964"
     },
     "location": {
         "latitude": 48.2515,

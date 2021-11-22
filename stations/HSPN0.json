@@ -6,9 +6,9 @@
     "country": "SD",
     "region": "RS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HSPN"
+        "$icao": "HSPN",
+        "$iata": "PZU",
+        "$usaf": "626414"
     },
     "location": {
         "latitude": 19.4333,

@@ -6,9 +6,12 @@
     "country": "AR",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": "87418",
-        "icao": "SAME"
+        "$wmo": "87418",
+        "$icao": "SAME",
+        "$iata": "MDZ",
+        "$ghcn": "AR000087418",
+        "$usaf": "874180",
+        "$mosmix": "87418"
     },
     "location": {
         "latitude": -32.8333,

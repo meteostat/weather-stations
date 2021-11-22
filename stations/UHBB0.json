@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "AMU",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UHBB"
+        "$icao": "UHBB",
+        "$iata": "BQS",
+        "$usaf": "313289"
     },
     "location": {
         "latitude": 50.4167,

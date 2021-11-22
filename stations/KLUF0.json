@@ -6,9 +6,10 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLUF"
+        "$icao": "KLUF",
+        "$iata": "LUF",
+        "$wban": "23111",
+        "$usaf": "722785"
     },
     "location": {
         "latitude": 33.535,

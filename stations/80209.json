@@ -6,9 +6,10 @@
     "country": "CO",
     "region": "VAC",
     "identifiers": {
-        "national": null,
-        "wmo": "80209",
-        "icao": "SKGO"
+        "$wmo": "80209",
+        "$icao": "SKGO",
+        "$iata": "CRC",
+        "$usaf": "802227"
     },
     "location": {
         "latitude": 4.7582,

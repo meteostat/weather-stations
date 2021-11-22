@@ -1,15 +1,13 @@
 {
     "id": "02442",
     "name": {
-        "en": "Vintjarn",
-        "sv": "Vintjärn"
+        "sv": "Vintjärn",
+        "en": "Vintjarn"
     },
     "country": "SE",
     "region": "W",
     "identifiers": {
-        "national": null,
-        "wmo": "02442",
-        "icao": null
+        "$wmo": "02442"
     },
     "location": {
         "latitude": 60.8333,

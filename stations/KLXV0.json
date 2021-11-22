@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLXV"
+        "$icao": "KLXV",
+        "$iata": "LXV",
+        "$wban": "93009",
+        "$usaf": "724673"
     },
     "location": {
         "latitude": 39.2203,

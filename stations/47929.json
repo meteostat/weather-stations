@@ -6,9 +6,11 @@
     "country": "JP",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": "47929",
-        "icao": "ROKJ"
+        "$wmo": "47929",
+        "$icao": "ROKJ",
+        "$iata": "UEO",
+        "$ghcn": "JA000047929",
+        "$usaf": "479290"
     },
     "location": {
         "latitude": 26.3333,

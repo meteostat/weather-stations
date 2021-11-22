@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTIW"
+        "$icao": "KTIW",
+        "$iata": "TIW",
+        "$wban": "94274",
+        "$usaf": "727938"
     },
     "location": {
         "latitude": 47.2679,

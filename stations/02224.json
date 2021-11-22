@@ -1,15 +1,13 @@
 {
     "id": "02224",
     "name": {
-        "en": "Follinge-Vagskalet",
-        "sv": "Follinge-Vägskälet"
+        "sv": "Follinge-Vägskälet",
+        "en": "Follinge-Vagskalet"
     },
     "country": "SE",
     "region": "Z",
     "identifiers": {
-        "national": null,
-        "wmo": "02224",
-        "icao": null
+        "$wmo": "02224"
     },
     "location": {
         "latitude": 63.7667,

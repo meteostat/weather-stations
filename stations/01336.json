@@ -2,15 +2,15 @@
     "id": "01336",
     "name": {
         "de": "Voss Flughafen",
-        "en": "Voss Airfield",
-        "no": "Voss Flughavn"
+        "no": "Voss Flughavn",
+        "en": "Voss Airfield"
     },
     "country": "NO",
     "region": "46",
     "identifiers": {
-        "national": null,
-        "wmo": "01336",
-        "icao": "ENBM"
+        "$wmo": "01336",
+        "$icao": "ENBM",
+        "$usaf": "013360"
     },
     "location": {
         "latitude": 60.65,

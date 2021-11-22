@@ -6,9 +6,10 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBYI"
+        "$icao": "KBYI",
+        "$iata": "BYI",
+        "$wban": "24133",
+        "$usaf": "725867"
     },
     "location": {
         "latitude": 42.5426,

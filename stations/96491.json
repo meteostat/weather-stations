@@ -6,9 +6,12 @@
     "country": "MY",
     "region": "SB",
     "identifiers": {
-        "national": null,
-        "wmo": "96491",
-        "icao": "WBKS"
+        "$wmo": "96491",
+        "$icao": "WBKS",
+        "$iata": "SDK",
+        "$ghcn": "MY000096491",
+        "$usaf": "964910",
+        "$mosmix": "96491"
     },
     "location": {
         "latitude": 5.9,

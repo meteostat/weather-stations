@@ -6,9 +6,12 @@
     "country": "BZ",
     "region": "BZ",
     "identifiers": {
-        "national": null,
-        "wmo": "78583",
-        "icao": "MZBZ"
+        "$wmo": "78583",
+        "$icao": "MZBZ",
+        "$iata": "BZE",
+        "$ghcn": "BHM00078583",
+        "$usaf": "785830",
+        "$mosmix": "78583"
     },
     "location": {
         "latitude": 17.5333,

@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "EBA",
     "identifiers": {
-        "national": null,
-        "wmo": "60550",
-        "icao": null
+        "$wmo": "60550",
+        "$ghcn": "AGM00060550"
     },
     "location": {
         "latitude": 33.6667,

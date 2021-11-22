@@ -6,9 +6,8 @@
     "country": "BE",
     "region": "WAL",
     "identifiers": {
-        "national": null,
-        "wmo": "06494",
-        "icao": null
+        "$wmo": "06494",
+        "$usaf": "064940"
     },
     "location": {
         "latitude": 50.5167,

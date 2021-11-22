@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KDMH"
+        "$icao": "KDMH",
+        "$wban": "93784",
+        "$usaf": "745944"
     },
     "location": {
         "latitude": 39.2833,

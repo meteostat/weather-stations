@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "ROO",
     "identifiers": {
-        "national": null,
-        "wmo": "76599",
-        "icao": "MMIM"
+        "$wmo": "76599",
+        "$icao": "MMIM",
+        "$iata": "ISJ"
     },
     "location": {
         "latitude": 21.2455,

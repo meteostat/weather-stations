@@ -6,9 +6,12 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "national": null,
-        "wmo": "72578",
-        "icao": "KPIH"
+        "$wmo": "72578",
+        "$icao": "KPIH",
+        "$iata": "PIH",
+        "$ghcn": "USW00024156",
+        "$wban": "24156",
+        "$usaf": "725780"
     },
     "location": {
         "latitude": 42.9167,

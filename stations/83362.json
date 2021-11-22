@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "MT",
     "identifiers": {
-        "national": null,
-        "wmo": "83362",
-        "icao": "SBCY"
+        "$wmo": "83362",
+        "$icao": "SBCY",
+        "$iata": "CGB",
+        "$usaf": "833620",
+        "$mosmix": "83362"
     },
     "location": {
         "latitude": -15.65,

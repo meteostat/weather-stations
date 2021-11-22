@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "AI",
     "identifiers": {
-        "national": null,
-        "wmo": "85892",
-        "icao": "SCHR"
+        "$wmo": "85892",
+        "$icao": "SCHR",
+        "$usaf": "858920"
     },
     "location": {
         "latitude": -47.2333,

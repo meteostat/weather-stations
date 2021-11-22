@@ -6,9 +6,10 @@
     "country": "VE",
     "region": "O",
     "identifiers": {
-        "national": null,
-        "wmo": "80421",
-        "icao": null
+        "$wmo": "80421",
+        "$iata": "PMV",
+        "$ghcn": "VEM00080421",
+        "$mosmix": "80421"
     },
     "location": {
         "latitude": 10.9167,

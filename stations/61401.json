@@ -6,9 +6,10 @@
     "country": "MR",
     "region": "TZ",
     "identifiers": {
-        "national": null,
-        "wmo": "61401",
-        "icao": "GQPT"
+        "$wmo": "61401",
+        "$icao": "GQPT",
+        "$ghcn": "MR000061401",
+        "$usaf": "614010"
     },
     "location": {
         "latitude": 25.2333,

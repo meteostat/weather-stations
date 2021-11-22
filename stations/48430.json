@@ -6,9 +6,10 @@
     "country": "TH",
     "region": "PB",
     "identifiers": {
-        "national": null,
-        "wmo": "48430",
-        "icao": "VTBI"
+        "$wmo": "48430",
+        "$icao": "VTBI",
+        "$ghcn": "TH000048430",
+        "$usaf": "484300"
     },
     "location": {
         "latitude": 14.05,

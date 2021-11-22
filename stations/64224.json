@@ -6,9 +6,9 @@
     "country": "CD",
     "region": "KW",
     "identifiers": {
-        "national": null,
-        "wmo": "64224",
-        "icao": "FZVS"
+        "$wmo": "64224",
+        "$icao": "FZVS",
+        "$iata": "PFR"
     },
     "location": {
         "latitude": -4.3333,

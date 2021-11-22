@@ -6,9 +6,11 @@
     "country": "CH",
     "region": "ZH",
     "identifiers": {
-        "national": null,
-        "wmo": "06670",
-        "icao": "LSZH"
+        "$wmo": "06670",
+        "$icao": "LSZH",
+        "$iata": "ZRH",
+        "$usaf": "066700",
+        "$mosmix": "06670"
     },
     "location": {
         "latitude": 47.4833,

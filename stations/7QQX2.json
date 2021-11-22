@@ -6,12 +6,10 @@
     "country": "CA",
     "region": "NB",
     "identifiers": {
-        "national": "6276",
-        "wmo": null,
-        "icao": null
+        "$national": "6276"
     },
     "location": {
-        "latitude": 46.0,
+        "latitude": 46,
         "longitude": -64.9,
         "elevation": 46
     },

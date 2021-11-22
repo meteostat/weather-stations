@@ -6,9 +6,8 @@
     "country": "NZ",
     "region": "GI",
     "identifiers": {
-        "national": null,
-        "wmo": "93196",
-        "icao": null
+        "$wmo": "93196",
+        "$usaf": "931960"
     },
     "location": {
         "latitude": -37.55,

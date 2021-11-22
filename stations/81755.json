@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "81755",
-        "icao": null
+        "$wmo": "81755",
+        "$usaf": "817550"
     },
     "location": {
         "latitude": -3.1208,

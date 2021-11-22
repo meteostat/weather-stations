@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": "10413",
-        "icao": "EDLM"
+        "$wmo": "10413",
+        "$icao": "EDLM",
+        "$iata": "ZOJ"
     },
     "location": {
         "latitude": 51.65,

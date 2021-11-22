@@ -6,9 +6,8 @@
     "country": "CD",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "64348",
-        "icao": "FZQV"
+        "$wmo": "64348",
+        "$icao": "FZQV"
     },
     "location": {
         "latitude": -8.6,

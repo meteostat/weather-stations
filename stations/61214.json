@@ -6,9 +6,11 @@
     "country": "ML",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "61214",
-        "icao": "GAKL"
+        "$wmo": "61214",
+        "$icao": "GAKL",
+        "$ghcn": "MLM00061214",
+        "$usaf": "612140",
+        "$mosmix": "61214"
     },
     "location": {
         "latitude": 18.4333,

@@ -6,9 +6,10 @@
     "country": "TH",
     "region": "RE",
     "identifiers": {
-        "national": null,
-        "wmo": "48405",
-        "icao": "VTUR"
+        "$wmo": "48405",
+        "$icao": "VTUR",
+        "$ghcn": "TH000048405",
+        "$usaf": "484050"
     },
     "location": {
         "latitude": 16.05,

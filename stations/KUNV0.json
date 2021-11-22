@@ -6,9 +6,10 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KUNV"
+        "$icao": "KUNV",
+        "$iata": "SCE",
+        "$wban": "54739",
+        "$usaf": "725128"
     },
     "location": {
         "latitude": 40.8493,

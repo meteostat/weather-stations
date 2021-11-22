@@ -6,9 +6,10 @@
     "country": "MA",
     "region": "MKN",
     "identifiers": {
-        "national": null,
-        "wmo": "60210",
-        "icao": "GMFK"
+        "$wmo": "60210",
+        "$icao": "GMFK",
+        "$iata": "ERH",
+        "$usaf": "602100"
     },
     "location": {
         "latitude": 31.9333,

@@ -6,9 +6,9 @@
     "country": "PG",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "AYMO"
+        "$icao": "AYMO",
+        "$iata": "MAS",
+        "$usaf": "920148"
     },
     "location": {
         "latitude": -2.05,

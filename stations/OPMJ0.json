@@ -6,9 +6,9 @@
     "country": "PK",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OPMJ"
+        "$icao": "OPMJ",
+        "$iata": "MJD",
+        "$usaf": "417470"
     },
     "location": {
         "latitude": 27.3352,

@@ -6,9 +6,11 @@
     "country": "VN",
     "region": "KH",
     "identifiers": {
-        "national": null,
-        "wmo": "48877",
-        "icao": "VVNT"
+        "$wmo": "48877",
+        "$icao": "VVNT",
+        "$iata": "NHA",
+        "$ghcn": "VMW00041010",
+        "$usaf": "488770"
     },
     "location": {
         "latitude": 12.25,

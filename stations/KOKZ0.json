@@ -6,9 +6,7 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOKZ"
+        "$icao": "KOKZ"
     },
     "location": {
         "latitude": 32.9667,

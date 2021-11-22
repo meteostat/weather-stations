@@ -6,9 +6,10 @@
     "country": "BE",
     "region": "WNA",
     "identifiers": {
-        "national": null,
-        "wmo": "06456",
-        "icao": "EBFS"
+        "$wmo": "06456",
+        "$icao": "EBFS",
+        "$usaf": "064560",
+        "$mosmix": "06456"
     },
     "location": {
         "latitude": 50.2333,

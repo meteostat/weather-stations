@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "DY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQOK"
+        "$icao": "KQOK",
+        "$usaf": "696374"
     },
     "location": {
         "latitude": 34.33,

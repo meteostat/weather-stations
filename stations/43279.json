@@ -6,9 +6,12 @@
     "country": "IN",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": "43279",
-        "icao": "VOMM"
+        "$wmo": "43279",
+        "$icao": "VOMM",
+        "$iata": "MAA",
+        "$ghcn": "IN020040900",
+        "$usaf": "432790",
+        "$mosmix": "43279"
     },
     "location": {
         "latitude": 13,

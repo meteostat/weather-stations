@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWPJ"
+        "$icao": "CWPJ"
     },
     "location": {
         "latitude": 47.0667,

@@ -6,9 +6,11 @@
     "country": "AT",
     "region": "OO",
     "identifiers": {
-        "national": null,
-        "wmo": "11010",
-        "icao": "LOWL"
+        "$wmo": "11010",
+        "$icao": "LOWL",
+        "$iata": "LNZ",
+        "$usaf": "110100",
+        "$mosmix": "11010"
     },
     "location": {
         "latitude": 48.2333,

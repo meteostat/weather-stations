@@ -6,9 +6,12 @@
     "country": "BW",
     "region": "NG",
     "identifiers": {
-        "national": null,
-        "wmo": "68032",
-        "icao": "FBMN"
+        "$wmo": "68032",
+        "$icao": "FBMN",
+        "$iata": "MUB",
+        "$ghcn": "BC000068032",
+        "$usaf": "680320",
+        "$mosmix": "68032"
     },
     "location": {
         "latitude": -19.9833,

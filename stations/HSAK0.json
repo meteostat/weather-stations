@@ -6,9 +6,8 @@
     "country": "SD",
     "region": "ANL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HSAK"
+        "$icao": "HSAK",
+        "$usaf": "628810"
     },
     "location": {
         "latitude": 7.7833,

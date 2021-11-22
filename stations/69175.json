@@ -6,9 +6,8 @@
     "country": "HR",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "69175",
-        "icao": "KQLB"
+        "$wmo": "69175",
+        "$icao": "KQLB"
     },
     "location": {
         "latitude": 44.18,

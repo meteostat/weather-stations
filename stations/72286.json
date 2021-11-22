@@ -6,9 +6,12 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "72286",
-        "icao": "KRIV"
+        "$wmo": "72286",
+        "$icao": "KRIV",
+        "$iata": "RIV",
+        "$ghcn": "USW00023119",
+        "$wban": "23119",
+        "$usaf": "722860"
     },
     "location": {
         "latitude": 33.9,

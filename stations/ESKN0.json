@@ -6,9 +6,9 @@
     "country": "SE",
     "region": "D",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ESKN"
+        "$icao": "ESKN",
+        "$iata": "NYO",
+        "$usaf": "024853"
     },
     "location": {
         "latitude": 58.7886,

@@ -6,9 +6,12 @@
     "country": "ET",
     "region": "SK",
     "identifiers": {
-        "national": null,
-        "wmo": "63023",
-        "icao": "HAMS"
+        "$wmo": "63023",
+        "$icao": "HAMS",
+        "$iata": "MSW",
+        "$ghcn": "ER000063023",
+        "$usaf": "630230",
+        "$mosmix": "63023"
     },
     "location": {
         "latitude": 15.6167,

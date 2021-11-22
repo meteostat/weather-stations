@@ -6,9 +6,8 @@
     "country": "RS",
     "region": "PL",
     "identifiers": {
-        "national": null,
-        "wmo": "13363",
-        "icao": null
+        "$wmo": "13363",
+        "$ghcn": "MJM00013363"
     },
     "location": {
         "latitude": 43.35,

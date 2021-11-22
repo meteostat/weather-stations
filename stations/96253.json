@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "BE",
     "identifiers": {
-        "national": null,
-        "wmo": "96253",
-        "icao": "WIPL"
+        "$wmo": "96253",
+        "$icao": "WIPL",
+        "$iata": "BKS",
+        "$ghcn": "IDM00096253",
+        "$usaf": "962530"
     },
     "location": {
         "latitude": -3.8833,

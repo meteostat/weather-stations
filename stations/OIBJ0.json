@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "BSH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OIBJ"
+        "$icao": "OIBJ",
+        "$iata": "TEW",
+        "$usaf": "407125"
     },
     "location": {
         "latitude": 27.8205,

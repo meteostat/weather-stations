@@ -6,9 +6,12 @@
     "country": "TC",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "78118",
-        "icao": "MBJT"
+        "$wmo": "78118",
+        "$icao": "MBJT",
+        "$iata": "TKI",
+        "$ghcn": "BFW00012714",
+        "$wban": "12714",
+        "$mosmix": "78118"
     },
     "location": {
         "latitude": 21.45,

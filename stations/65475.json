@@ -6,9 +6,10 @@
     "country": "GH",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "65475",
-        "icao": "DGAD"
+        "$wmo": "65475",
+        "$icao": "DGAD",
+        "$ghcn": "GHM00065475",
+        "$usaf": "654750"
     },
     "location": {
         "latitude": 5.7833,

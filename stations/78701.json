@@ -6,9 +6,9 @@
     "country": "HN",
     "region": "IB",
     "identifiers": {
-        "national": null,
-        "wmo": "78701",
-        "icao": "MHNO"
+        "$wmo": "78701",
+        "$icao": "MHNO",
+        "$usaf": "787180"
     },
     "location": {
         "latitude": 16.4667,

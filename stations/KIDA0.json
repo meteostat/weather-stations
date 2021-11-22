@@ -6,9 +6,10 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIDA"
+        "$icao": "KIDA",
+        "$iata": "IDA",
+        "$wban": "24145",
+        "$usaf": "725785"
     },
     "location": {
         "latitude": 43.5137,

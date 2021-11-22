@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYLU"
+        "$icao": "CYLU",
+        "$iata": "XGR",
+        "$usaf": "718435"
     },
     "location": {
         "latitude": 58.7075,

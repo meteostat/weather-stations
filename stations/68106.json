@@ -6,9 +6,10 @@
     "country": "NA",
     "region": "ER",
     "identifiers": {
-        "national": null,
-        "wmo": "68106",
-        "icao": "FYGO"
+        "$wmo": "68106",
+        "$icao": "FYGO",
+        "$ghcn": "WA006490640",
+        "$usaf": "681060"
     },
     "location": {
         "latitude": -23.5667,

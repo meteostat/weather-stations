@@ -6,9 +6,9 @@
     "country": "SE",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ESUT"
+        "$icao": "ESUT",
+        "$iata": "HMV",
+        "$usaf": "021010"
     },
     "location": {
         "latitude": 65.8061,

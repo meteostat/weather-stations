@@ -6,9 +6,11 @@
     "country": "TH",
     "region": "LE",
     "identifiers": {
-        "national": null,
-        "wmo": "48353",
-        "icao": "VTUL"
+        "$wmo": "48353",
+        "$icao": "VTUL",
+        "$iata": "LOE",
+        "$ghcn": "TH000048353",
+        "$usaf": "483530"
     },
     "location": {
         "latitude": 17.45,

@@ -6,9 +6,8 @@
     "country": "ZA",
     "region": "LP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FAGV"
+        "$icao": "FAGV",
+        "$usaf": "681903"
     },
     "location": {
         "latitude": -23.9,

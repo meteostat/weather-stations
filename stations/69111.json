@@ -6,9 +6,8 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": null,
-        "wmo": "69111",
-        "icao": "KQAB"
+        "$wmo": "69111",
+        "$icao": "KQAB"
     },
     "location": {
         "latitude": 49.23,

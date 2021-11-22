@@ -6,9 +6,11 @@
     "country": "NL",
     "region": "OV",
     "identifiers": {
-        "national": null,
-        "wmo": "06290",
-        "icao": "EHTW"
+        "$wmo": "06290",
+        "$icao": "EHTW",
+        "$iata": "ENS",
+        "$usaf": "062900",
+        "$mosmix": "06290"
     },
     "location": {
         "latitude": 52.2667,

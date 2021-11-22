@@ -6,9 +6,10 @@
     "country": "BW",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "68038",
-        "icao": "FBSN"
+        "$wmo": "68038",
+        "$icao": "FBSN",
+        "$iata": "SXN",
+        "$usaf": "680380"
     },
     "location": {
         "latitude": -20.4667,

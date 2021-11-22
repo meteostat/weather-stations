@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "RP",
     "identifiers": {
-        "national": "03921",
-        "wmo": "10626",
-        "icao": "ETSP"
+        "$national": "03921",
+        "$wmo": "10626",
+        "$icao": "ETSP",
+        "$usaf": "106260"
     },
     "location": {
         "latitude": 49.85,

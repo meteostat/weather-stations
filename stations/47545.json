@@ -6,9 +6,11 @@
     "country": "JP",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "47545",
-        "icao": "RJSK"
+        "$wmo": "47545",
+        "$icao": "RJSK",
+        "$iata": "AXT",
+        "$usaf": "475450",
+        "$mosmix": "47545"
     },
     "location": {
         "latitude": 39.6167,

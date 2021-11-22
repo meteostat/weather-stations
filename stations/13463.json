@@ -6,9 +6,8 @@
     "country": "RS",
     "region": "PG",
     "identifiers": {
-        "national": null,
-        "wmo": "13463",
-        "icao": null
+        "$wmo": "13463",
+        "$ghcn": "MJM00013463"
     },
     "location": {
         "latitude": 42.4333,

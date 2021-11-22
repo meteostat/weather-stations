@@ -6,12 +6,14 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": "49968",
-        "wmo": "71488",
-        "icao": null
+        "$national": "49968",
+        "$wmo": "71488",
+        "$iata": "YKJ",
+        "$ghcn": "CA003031402",
+        "$usaf": "714880"
     },
     "location": {
-        "latitude": 49.0,
+        "latitude": 49,
         "longitude": -113.38,
         "elevation": 1354
     },

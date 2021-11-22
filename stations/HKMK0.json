@@ -6,9 +6,9 @@
     "country": "KE",
     "region": "EA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HKMK"
+        "$icao": "HKMK",
+        "$iata": "JJM",
+        "$usaf": "636944"
     },
     "location": {
         "latitude": 0.233,

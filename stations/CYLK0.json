@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYLK"
+        "$icao": "CYLK",
+        "$iata": "YSG",
+        "$usaf": "718434"
     },
     "location": {
         "latitude": 62.4186,

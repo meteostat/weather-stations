@@ -6,9 +6,10 @@
     "country": "PE",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": "84773",
-        "icao": "SPLO"
+        "$wmo": "84773",
+        "$icao": "SPLO",
+        "$iata": "ILQ",
+        "$usaf": "847730"
     },
     "location": {
         "latitude": -17.6833,

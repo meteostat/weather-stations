@@ -6,9 +6,9 @@
     "country": "CZ",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "11406",
-        "icao": null
+        "$wmo": "11406",
+        "$ghcn": "EZM00011406",
+        "$mosmix": "11406"
     },
     "location": {
         "latitude": 50.0833,

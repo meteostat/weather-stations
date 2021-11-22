@@ -6,9 +6,12 @@
     "country": "BG",
     "region": "SF",
     "identifiers": {
-        "national": null,
-        "wmo": "15614",
-        "icao": "LBSF"
+        "$wmo": "15614",
+        "$icao": "LBSF",
+        "$iata": "SOF",
+        "$ghcn": "BUM00015614",
+        "$usaf": "156140",
+        "$mosmix": "15614"
     },
     "location": {
         "latitude": 42.65,

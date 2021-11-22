@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "96045",
-        "icao": "WITA"
+        "$wmo": "96045",
+        "$icao": "WITA",
+        "$iata": "TPK"
     },
     "location": {
         "latitude": 3.4667,

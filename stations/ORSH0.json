@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ORSH"
+        "$icao": "ORSH",
+        "$usaf": "406508"
     },
     "location": {
         "latitude": 34.66,

@@ -6,9 +6,11 @@
     "country": "ET",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "63043",
-        "icao": "HASB"
+        "$wmo": "63043",
+        "$icao": "HASB",
+        "$iata": "ASA",
+        "$ghcn": "ER000063043",
+        "$wban": "31403"
     },
     "location": {
         "latitude": 13.0667,

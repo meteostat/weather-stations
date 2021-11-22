@@ -6,9 +6,11 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "national": null,
-        "wmo": "70580",
-        "icao": "KEKO"
+        "$wmo": "70580",
+        "$icao": "KEKO",
+        "$iata": "EKO",
+        "$wban": "24121",
+        "$usaf": "725825"
     },
     "location": {
         "latitude": 40.8249,

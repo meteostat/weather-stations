@@ -6,9 +6,8 @@
     "country": "SZ",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FDHL"
+        "$icao": "FDHL",
+        "$usaf": "683950"
     },
     "location": {
         "latitude": -26.9667,

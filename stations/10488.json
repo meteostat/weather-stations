@@ -6,9 +6,13 @@
     "country": "DE",
     "region": "SN",
     "identifiers": {
-        "national": "01048",
-        "wmo": "10488",
-        "icao": "EDDC"
+        "$national": "01048",
+        "$wmo": "10488",
+        "$icao": "EDDC",
+        "$iata": "DRS",
+        "$ghcn": "GMM00010488",
+        "$usaf": "104880",
+        "$mosmix": "10488"
     },
     "location": {
         "latitude": 51.1333,

@@ -6,9 +6,9 @@
     "country": "BE",
     "region": "VWV",
     "identifiers": {
-        "national": null,
-        "wmo": "06400",
-        "icao": "EBFN"
+        "$wmo": "06400",
+        "$icao": "EBFN",
+        "$usaf": "064000"
     },
     "location": {
         "latitude": 51.0833,

@@ -6,9 +6,10 @@
     "country": "RU",
     "region": "ORE",
     "identifiers": {
-        "national": null,
-        "wmo": "35121",
-        "icao": null
+        "$wmo": "35121",
+        "$iata": "REN",
+        "$ghcn": "RSM00035121",
+        "$mosmix": "35121"
     },
     "location": {
         "latitude": 51.6833,

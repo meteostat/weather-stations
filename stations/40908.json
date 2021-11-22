@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "JOW",
     "identifiers": {
-        "national": null,
-        "wmo": "40908",
-        "icao": "OASG"
+        "$wmo": "40908",
+        "$icao": "OASG",
+        "$usaf": "409080"
     },
     "location": {
         "latitude": 36.6667,

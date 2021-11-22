@@ -6,9 +6,10 @@
     "country": "TW",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": "46740",
-        "icao": "RCKH"
+        "$wmo": "46740",
+        "$icao": "RCKH",
+        "$iata": "KHH",
+        "$usaf": "467400"
     },
     "location": {
         "latitude": 22.5833,

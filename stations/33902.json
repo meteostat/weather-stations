@@ -6,9 +6,10 @@
     "country": "UA",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": "33902",
-        "icao": "UKOH"
+        "$wmo": "33902",
+        "$icao": "UKOH",
+        "$iata": "KHE",
+        "$ghcn": "UPM00033902"
     },
     "location": {
         "latitude": 46.6333,

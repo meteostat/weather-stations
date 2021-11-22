@@ -6,9 +6,9 @@
     "country": "PT",
     "region": "SE",
     "identifiers": {
-        "national": null,
-        "wmo": "08534",
-        "icao": "LPMT"
+        "$wmo": "08534",
+        "$icao": "LPMT",
+        "$usaf": "085340"
     },
     "location": {
         "latitude": 38.7,

@@ -6,9 +6,8 @@
     "country": "NA",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FYKM"
+        "$icao": "FYKM",
+        "$iata": "MPA"
     },
     "location": {
         "latitude": -17.6344,

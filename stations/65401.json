@@ -6,9 +6,11 @@
     "country": "GH",
     "region": "UE",
     "identifiers": {
-        "national": null,
-        "wmo": "65401",
-        "icao": "DGLN"
+        "$wmo": "65401",
+        "$icao": "DGLN",
+        "$ghcn": "GHM00065401",
+        "$usaf": "654010",
+        "$mosmix": "65401"
     },
     "location": {
         "latitude": 10.9,

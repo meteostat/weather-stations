@@ -6,9 +6,11 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "74493",
-        "icao": "KACK"
+        "$wmo": "74493",
+        "$icao": "KACK",
+        "$iata": "ACK",
+        "$wban": "14756",
+        "$usaf": "725063"
     },
     "location": {
         "latitude": 41.2531,

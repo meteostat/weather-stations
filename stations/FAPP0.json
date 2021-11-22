@@ -6,9 +6,8 @@
     "country": "ZA",
     "region": "LP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FAPP"
+        "$icao": "FAPP",
+        "$iata": "PTG"
     },
     "location": {
         "latitude": -23.85,

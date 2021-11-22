@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "YT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYXQ"
+        "$icao": "CYXQ",
+        "$iata": "YXQ",
+        "$usaf": "719675"
     },
     "location": {
         "latitude": 62.4103,

@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "RIZ",
     "identifiers": {
-        "national": null,
-        "wmo": "17040",
-        "icao": null
+        "$wmo": "17040",
+        "$ghcn": "TU000017040"
     },
     "location": {
         "latitude": 41.0333,

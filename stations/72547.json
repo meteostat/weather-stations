@@ -6,9 +6,12 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": "72547",
-        "icao": "KDBQ"
+        "$wmo": "72547",
+        "$icao": "KDBQ",
+        "$ghcn": "USW00094908",
+        "$wban": "94908",
+        "$usaf": "725470",
+        "$mosmix": "72547"
     },
     "location": {
         "latitude": 42.4,

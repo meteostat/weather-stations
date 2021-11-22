@@ -6,9 +6,7 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPJC"
+        "$icao": "KPJC"
     },
     "location": {
         "latitude": 40.802,

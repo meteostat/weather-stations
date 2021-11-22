@@ -6,9 +6,7 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KECS"
+        "$icao": "KECS"
     },
     "location": {
         "latitude": 43.8855,

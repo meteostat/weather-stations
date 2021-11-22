@@ -6,9 +6,12 @@
     "country": "CI",
     "region": "MAN",
     "identifiers": {
-        "national": null,
-        "wmo": "65548",
-        "icao": "DIMN"
+        "$wmo": "65548",
+        "$icao": "DIMN",
+        "$iata": "MJC",
+        "$ghcn": "IV000005548",
+        "$usaf": "655480",
+        "$mosmix": "65548"
     },
     "location": {
         "latitude": 7.3833,

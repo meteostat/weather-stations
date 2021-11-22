@@ -6,9 +6,12 @@
     "country": "SY",
     "region": "HA",
     "identifiers": {
-        "national": null,
-        "wmo": "40001",
-        "icao": "OSKL"
+        "$wmo": "40001",
+        "$icao": "OSKL",
+        "$iata": "KAC",
+        "$ghcn": "SY000040001",
+        "$usaf": "400010",
+        "$mosmix": "40001"
     },
     "location": {
         "latitude": 37.05,

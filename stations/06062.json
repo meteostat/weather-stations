@@ -6,9 +6,11 @@
     "country": "DK",
     "region": "MJ",
     "identifiers": {
-        "national": null,
-        "wmo": "06062",
-        "icao": "EKSV"
+        "$wmo": "06062",
+        "$icao": "EKSV",
+        "$iata": "SQW",
+        "$usaf": "060620",
+        "$mosmix": "06062"
     },
     "location": {
         "latitude": 56.55,

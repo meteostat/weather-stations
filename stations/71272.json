@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWPB"
+        "$icao": "CWPB"
     },
     "location": {
         "latitude": 44.85,

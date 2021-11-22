@@ -6,9 +6,10 @@
     "country": "TR",
     "region": "SAN",
     "identifiers": {
-        "national": null,
-        "wmo": "17270",
-        "icao": "LTCH"
+        "$wmo": "17270",
+        "$icao": "LTCH",
+        "$iata": "SFQ",
+        "$ghcn": "TUM00017270"
     },
     "location": {
         "latitude": 37.1333,

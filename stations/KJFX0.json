@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KJFX"
+        "$icao": "KJFX",
+        "$wban": "00156",
+        "$usaf": "720505"
     },
     "location": {
         "latitude": 33.902,

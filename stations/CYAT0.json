@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYAT"
+        "$icao": "CYAT",
+        "$iata": "YAT"
     },
     "location": {
         "latitude": 52.9275,

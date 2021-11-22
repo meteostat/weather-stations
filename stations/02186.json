@@ -2,15 +2,17 @@
     "id": "02186",
     "name": {
         "de": "Lulea Kallax Flughafen",
-        "en": "Lulea Kallax Airport",
-        "sv": "Lulea Kallax Flygplats"
+        "sv": "Lulea Kallax Flygplats",
+        "en": "Lulea Kallax Airport"
     },
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "national": null,
-        "wmo": "02186",
-        "icao": "ESPA"
+        "$wmo": "02186",
+        "$icao": "ESPA",
+        "$iata": "LLA",
+        "$usaf": "021860",
+        "$mosmix": "02186"
     },
     "location": {
         "latitude": 65.55,

@@ -6,9 +6,10 @@
     "country": "GB",
     "region": "NIR",
     "identifiers": {
-        "national": null,
-        "wmo": "03924",
-        "icao": "EGAC"
+        "$wmo": "03924",
+        "$icao": "EGAC",
+        "$iata": "BHD",
+        "$usaf": "039240"
     },
     "location": {
         "latitude": 54.6,

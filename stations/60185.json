@@ -6,9 +6,9 @@
     "country": "MA",
     "region": "DA",
     "identifiers": {
-        "national": null,
-        "wmo": "60185",
-        "icao": "GMMS"
+        "$wmo": "60185",
+        "$icao": "GMMS",
+        "$usaf": "601850"
     },
     "location": {
         "latitude": 32.2833,

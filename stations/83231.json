@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "TO",
     "identifiers": {
-        "national": null,
-        "wmo": "83231",
-        "icao": null
+        "$wmo": "83231",
+        "$iata": "PXA"
     },
     "location": {
         "latitude": -12.55,

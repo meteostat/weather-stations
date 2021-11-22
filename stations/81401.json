@@ -6,9 +6,11 @@
     "country": "GF",
     "region": "GF",
     "identifiers": {
-        "national": null,
-        "wmo": "81401",
-        "icao": "SOOM"
+        "$wmo": "81401",
+        "$icao": "SOOM",
+        "$iata": "LDX",
+        "$ghcn": "FGM00081401",
+        "$usaf": "814010"
     },
     "location": {
         "latitude": 5.5,

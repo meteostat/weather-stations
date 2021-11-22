@@ -6,9 +6,12 @@
     "country": "IE",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "03962",
-        "icao": "EINN"
+        "$wmo": "03962",
+        "$icao": "EINN",
+        "$iata": "SNN",
+        "$ghcn": "EIM00003962",
+        "$usaf": "039620",
+        "$mosmix": "03962"
     },
     "location": {
         "latitude": 52.7,

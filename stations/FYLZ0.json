@@ -6,9 +6,9 @@
     "country": "NA",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FYLZ"
+        "$icao": "FYLZ",
+        "$iata": "LUD",
+        "$usaf": "683005"
     },
     "location": {
         "latitude": -26.6833,

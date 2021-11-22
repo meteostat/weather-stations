@@ -6,9 +6,10 @@
     "country": "PE",
     "region": "IC",
     "identifiers": {
-        "national": null,
-        "wmo": "84721",
-        "icao": "SPJN"
+        "$wmo": "84721",
+        "$icao": "SPJN",
+        "$ghcn": "PE000084721",
+        "$usaf": "847210"
     },
     "location": {
         "latitude": -15.3833,

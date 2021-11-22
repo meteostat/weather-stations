@@ -6,9 +6,10 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBKE"
+        "$icao": "KBKE",
+        "$iata": "BKE",
+        "$wban": "24130",
+        "$usaf": "726886"
     },
     "location": {
         "latitude": 44.8373,

@@ -6,9 +6,12 @@
     "country": "BR",
     "region": "SP",
     "identifiers": {
-        "national": null,
-        "wmo": "83716",
-        "icao": "SBDN"
+        "$wmo": "83716",
+        "$icao": "SBDN",
+        "$iata": "PPB",
+        "$ghcn": "BR00D8-0390",
+        "$usaf": "837160",
+        "$mosmix": "83716"
     },
     "location": {
         "latitude": -22.1167,

@@ -6,9 +6,7 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": "99429",
-        "icao": null
+        "$wmo": "99429"
     },
     "location": {
         "latitude": 29.2667,

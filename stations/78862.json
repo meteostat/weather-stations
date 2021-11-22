@@ -6,9 +6,9 @@
     "country": "AG",
     "region": "ASG",
     "identifiers": {
-        "national": null,
-        "wmo": "78862",
-        "icao": "TAPA"
+        "$wmo": "78862",
+        "$icao": "TAPA",
+        "$usaf": "788620"
     },
     "location": {
         "latitude": 17.1167,

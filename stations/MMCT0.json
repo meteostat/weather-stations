@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "YUC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMCT"
+        "$icao": "MMCT",
+        "$iata": "CZA",
+        "$usaf": "767501"
     },
     "location": {
         "latitude": 20.6333,

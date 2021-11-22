@@ -6,9 +6,8 @@
     "country": "CL",
     "region": "VS",
     "identifiers": {
-        "national": null,
-        "wmo": "85562",
-        "icao": "SCBL"
+        "$wmo": "85562",
+        "$icao": "SCBL"
     },
     "location": {
         "latitude": -33.05,

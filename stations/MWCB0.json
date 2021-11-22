@@ -6,9 +6,9 @@
     "country": "KY",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MWCB"
+        "$icao": "MWCB",
+        "$iata": "CYB",
+        "$usaf": "783841"
     },
     "location": {
         "latitude": 19.6833,

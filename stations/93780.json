@@ -6,9 +6,11 @@
     "country": "NZ",
     "region": "CAN",
     "identifiers": {
-        "national": null,
-        "wmo": "93780",
-        "icao": "NZCH"
+        "$wmo": "93780",
+        "$icao": "NZCH",
+        "$iata": "CHC",
+        "$usaf": "937800",
+        "$mosmix": "93780"
     },
     "location": {
         "latitude": -43.4833,

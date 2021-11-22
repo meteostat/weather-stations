@@ -6,9 +6,9 @@
     "country": "KH",
     "region": "KM",
     "identifiers": {
-        "national": null,
-        "wmo": "48995",
-        "icao": "VDKC"
+        "$wmo": "48995",
+        "$icao": "VDKC",
+        "$usaf": "489950"
     },
     "location": {
         "latitude": 12,

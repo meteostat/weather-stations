@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "BEL",
     "identifiers": {
-        "national": null,
-        "wmo": "34202",
-        "icao": null
+        "$wmo": "34202",
+        "$ghcn": "RSM00034202"
     },
     "location": {
         "latitude": 50.8,

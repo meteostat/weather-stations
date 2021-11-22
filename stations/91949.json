@@ -6,9 +6,9 @@
     "country": "PF",
     "region": "IC",
     "identifiers": {
-        "national": null,
-        "wmo": "91949",
-        "icao": "NTGE"
+        "$wmo": "91949",
+        "$icao": "NTGE",
+        "$iata": "REA"
     },
     "location": {
         "latitude": -18.4667,

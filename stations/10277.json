@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "BB",
     "identifiers": {
-        "national": "07244",
-        "wmo": "10277",
-        "icao": null
+        "$national": "07244",
+        "$wmo": "10277",
+        "$mosmix": "10277"
     },
     "location": {
         "latitude": 53.15,

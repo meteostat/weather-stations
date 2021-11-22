@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "47591",
-        "icao": "RJST"
+        "$wmo": "47591",
+        "$icao": "RJST",
+        "$usaf": "475910"
     },
     "location": {
         "latitude": 38.4,

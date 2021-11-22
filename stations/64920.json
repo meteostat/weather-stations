@@ -6,9 +6,9 @@
     "country": "CM",
     "region": "CEN",
     "identifiers": {
-        "national": null,
-        "wmo": "64920",
-        "icao": "FKAF"
+        "$wmo": "64920",
+        "$icao": "FKAF",
+        "$usaf": "649200"
     },
     "location": {
         "latitude": 4.7333,

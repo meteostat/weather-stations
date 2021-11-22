@@ -6,9 +6,11 @@
     "country": "TR",
     "region": "TOK",
     "identifiers": {
-        "national": null,
-        "wmo": "17086",
-        "icao": "LTAW"
+        "$wmo": "17086",
+        "$icao": "LTAW",
+        "$iata": "TJK",
+        "$ghcn": "TUM00017086",
+        "$usaf": "170860"
     },
     "location": {
         "latitude": 40.3,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KENW"
+        "$icao": "KENW",
+        "$iata": "ENW",
+        "$wban": "04845",
+        "$usaf": "726505"
     },
     "location": {
         "latitude": 42.5957,

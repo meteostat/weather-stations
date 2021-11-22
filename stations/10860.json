@@ -6,9 +6,12 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": "02410",
-        "wmo": "10860",
-        "icao": "ETSI"
+        "$national": "02410",
+        "$wmo": "10860",
+        "$icao": "ETSI",
+        "$iata": "IGS",
+        "$usaf": "108600",
+        "$mosmix": "10860"
     },
     "location": {
         "latitude": 48.7167,

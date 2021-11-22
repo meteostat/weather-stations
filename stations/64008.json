@@ -6,9 +6,10 @@
     "country": "CD",
     "region": "EQ",
     "identifiers": {
-        "national": null,
-        "wmo": "64008",
-        "icao": "FZEN"
+        "$wmo": "64008",
+        "$icao": "FZEN",
+        "$iata": "BSU",
+        "$mosmix": "64008"
     },
     "location": {
         "latitude": 1.2167,

@@ -6,9 +6,9 @@
     "country": "KG",
     "region": "YK",
     "identifiers": {
-        "national": null,
-        "wmo": "36982",
-        "icao": null
+        "$wmo": "36982",
+        "$ghcn": "KG000036982",
+        "$usaf": "369820"
     },
     "location": {
         "latitude": 41.8833,

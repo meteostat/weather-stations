@@ -6,9 +6,11 @@
     "country": "ES",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "08002",
-        "icao": "LECO"
+        "$wmo": "08002",
+        "$icao": "LECO",
+        "$iata": "LCG",
+        "$ghcn": "SPE00119720",
+        "$usaf": "080020"
     },
     "location": {
         "latitude": 43.3,

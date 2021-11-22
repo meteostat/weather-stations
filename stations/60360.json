@@ -6,9 +6,12 @@
     "country": "DZ",
     "region": "ETA",
     "identifiers": {
-        "national": null,
-        "wmo": "60360",
-        "icao": "DABB"
+        "$wmo": "60360",
+        "$icao": "DABB",
+        "$iata": "AAE",
+        "$ghcn": "AGM00060360",
+        "$usaf": "603600",
+        "$mosmix": "60360"
     },
     "location": {
         "latitude": 36.8333,

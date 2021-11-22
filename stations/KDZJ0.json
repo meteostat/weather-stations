@@ -6,9 +6,8 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KDZJ"
+        "$icao": "KDZJ",
+        "$usaf": "720409"
     },
     "location": {
         "latitude": 34.8544,

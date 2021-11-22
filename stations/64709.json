@@ -6,9 +6,10 @@
     "country": "TD",
     "region": "MK",
     "identifiers": {
-        "national": null,
-        "wmo": "64709",
-        "icao": "FTTP"
+        "$wmo": "64709",
+        "$icao": "FTTP",
+        "$iata": "PLF",
+        "$usaf": "647090"
     },
     "location": {
         "latitude": 9.3667,

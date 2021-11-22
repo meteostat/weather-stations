@@ -6,9 +6,9 @@
     "country": "GF",
     "region": "SL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SOOA"
+        "$icao": "SOOA",
+        "$iata": "MPY",
+        "$usaf": "814150"
     },
     "location": {
         "latitude": 3.6575,

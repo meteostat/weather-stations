@@ -6,12 +6,10 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": "1091",
-        "wmo": null,
-        "icao": null
+        "$national": "1091"
     },
     "location": {
-        "latitude": 49.0,
+        "latitude": 49,
         "longitude": -118.77,
         "elevation": 571
     },

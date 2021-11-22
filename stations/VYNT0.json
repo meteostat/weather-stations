@@ -6,9 +6,8 @@
     "country": "MM",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VYNT"
+        "$icao": "VYNT",
+        "$iata": "NYT"
     },
     "location": {
         "latitude": 19.6225,

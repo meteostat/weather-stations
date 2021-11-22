@@ -6,9 +6,10 @@
     "country": "ZA",
     "region": "FS",
     "identifiers": {
-        "national": null,
-        "wmo": "68346",
-        "icao": "FAWM"
+        "$wmo": "68346",
+        "$icao": "FAWM",
+        "$iata": "WEL",
+        "$usaf": "683460"
     },
     "location": {
         "latitude": -28,

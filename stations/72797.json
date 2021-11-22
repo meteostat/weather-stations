@@ -6,9 +6,11 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "72797",
-        "icao": "KUIL"
+        "$wmo": "72797",
+        "$icao": "KUIL",
+        "$ghcn": "USW00094240",
+        "$wban": "94240",
+        "$usaf": "727970"
     },
     "location": {
         "latitude": 47.9333,

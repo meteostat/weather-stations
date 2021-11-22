@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "NVS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UNNT"
+        "$icao": "UNNT",
+        "$iata": "OVB",
+        "$usaf": "296340"
     },
     "location": {
         "latitude": 55,

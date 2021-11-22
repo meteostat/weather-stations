@@ -6,9 +6,8 @@
     "country": "EC",
     "region": "U",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SENL"
+        "$icao": "SENL",
+        "$iata": "LGQ"
     },
     "location": {
         "latitude": 0.0925,

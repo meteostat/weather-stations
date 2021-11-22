@@ -6,9 +6,11 @@
     "country": "NG",
     "region": "PL",
     "identifiers": {
-        "national": null,
-        "wmo": "65134",
-        "icao": "DNJO"
+        "$wmo": "65134",
+        "$icao": "DNJO",
+        "$iata": "JOS",
+        "$ghcn": "NIM00065134",
+        "$usaf": "651340"
     },
     "location": {
         "latitude": 9.8667,

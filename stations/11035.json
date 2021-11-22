@@ -6,9 +6,9 @@
     "country": "AT",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": "11035",
-        "icao": null
+        "$wmo": "11035",
+        "$ghcn": "AU000005901",
+        "$mosmix": "11035"
     },
     "location": {
         "latitude": 48.25,

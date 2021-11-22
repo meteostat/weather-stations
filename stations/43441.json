@@ -6,9 +6,8 @@
     "country": "LK",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": "43441",
-        "icao": null
+        "$wmo": "43441",
+        "$ghcn": "CEM00043441"
     },
     "location": {
         "latitude": 7.4667,

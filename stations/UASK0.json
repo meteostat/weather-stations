@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "VOS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UASK"
+        "$icao": "UASK",
+        "$iata": "UKK",
+        "$usaf": "350675"
     },
     "location": {
         "latitude": 50.0333,

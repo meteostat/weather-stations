@@ -6,9 +6,11 @@
     "country": "SO",
     "region": "TO",
     "identifiers": {
-        "national": null,
-        "wmo": "63175",
-        "icao": "HCMV"
+        "$wmo": "63175",
+        "$icao": "HCMV",
+        "$iata": "BUO",
+        "$usaf": "631750",
+        "$mosmix": "63175"
     },
     "location": {
         "latitude": 9.5,

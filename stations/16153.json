@@ -6,9 +6,10 @@
     "country": "IT",
     "region": "LG",
     "identifiers": {
-        "national": null,
-        "wmo": "16153",
-        "icao": "LIMU"
+        "$wmo": "16153",
+        "$icao": "LIMU",
+        "$ghcn": "ITM00016153",
+        "$usaf": "161530"
     },
     "location": {
         "latitude": 43.95,

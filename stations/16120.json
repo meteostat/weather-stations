@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "LG",
     "identifiers": {
-        "national": null,
-        "wmo": "16120",
-        "icao": "LIMJ"
+        "$wmo": "16120",
+        "$icao": "LIMJ",
+        "$iata": "GOA",
+        "$usaf": "161200",
+        "$mosmix": "16120"
     },
     "location": {
         "latitude": 44.4167,

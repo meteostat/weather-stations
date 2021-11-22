@@ -6,9 +6,9 @@
     "country": "MK",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "13591",
-        "icao": null
+        "$wmo": "13591",
+        "$ghcn": "MKM00013591",
+        "$usaf": "135910"
     },
     "location": {
         "latitude": 41.75,

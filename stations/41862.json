@@ -6,9 +6,8 @@
     "country": "PK",
     "region": "RAJ",
     "identifiers": {
-        "national": null,
-        "wmo": "41862",
-        "icao": null
+        "$wmo": "41862",
+        "$wban": "32806"
     },
     "location": {
         "latitude": 25.8833,

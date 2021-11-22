@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "MZ",
     "identifiers": {
-        "national": null,
-        "wmo": "47854",
-        "icao": "RJFN"
+        "$wmo": "47854",
+        "$icao": "RJFN",
+        "$usaf": "478540"
     },
     "location": {
         "latitude": 32.0833,

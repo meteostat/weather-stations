@@ -6,9 +6,12 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": "72307",
-        "icao": "KECG"
+        "$wmo": "72307",
+        "$icao": "KECG",
+        "$iata": "ECG",
+        "$ghcn": "USW00013786",
+        "$wban": "13786",
+        "$usaf": "746943"
     },
     "location": {
         "latitude": 36.2606,

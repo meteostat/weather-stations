@@ -6,9 +6,8 @@
     "country": "XK",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "99858",
-        "icao": "EQAI"
+        "$wmo": "99858",
+        "$icao": "EQAI"
     },
     "location": {
         "latitude": 42.42,

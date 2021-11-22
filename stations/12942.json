@@ -6,9 +6,12 @@
     "country": "HU",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "12942",
-        "icao": "LHPP"
+        "$wmo": "12942",
+        "$icao": "LHPP",
+        "$iata": "PEV",
+        "$ghcn": "HU000012942",
+        "$usaf": "129420",
+        "$mosmix": "12942"
     },
     "location": {
         "latitude": 46.1,

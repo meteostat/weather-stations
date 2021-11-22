@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "KHE",
     "identifiers": {
-        "national": null,
-        "wmo": "60476",
-        "icao": null
+        "$wmo": "60476",
+        "$ghcn": "AGM00060476"
     },
     "location": {
         "latitude": 35.4167,

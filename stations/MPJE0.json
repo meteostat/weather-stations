@@ -6,9 +6,9 @@
     "country": "PA",
     "region": "DA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MPJE"
+        "$icao": "MPJE",
+        "$iata": "JQE",
+        "$usaf": "788079"
     },
     "location": {
         "latitude": 7.5167,

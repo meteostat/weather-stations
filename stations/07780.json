@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "H",
     "identifiers": {
-        "national": null,
-        "wmo": "07780",
-        "icao": "LFKF"
+        "$wmo": "07780",
+        "$icao": "LFKF",
+        "$iata": "FSC",
+        "$usaf": "077800",
+        "$mosmix": "07780"
     },
     "location": {
         "latitude": 41.5,

@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "CE",
     "identifiers": {
-        "national": null,
-        "wmo": "82392",
-        "icao": null
+        "$wmo": "82392",
+        "$iata": "SOB",
+        "$ghcn": "BR027794310",
+        "$usaf": "823920"
     },
     "location": {
         "latitude": -3.7,

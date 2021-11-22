@@ -1,15 +1,14 @@
 {
     "id": "02705",
     "name": {
-        "en": "Pelkosenniemi Pyhatunturi",
-        "fi": "Pelkosenniemi Pyhähuhta"
+        "fi": "Pelkosenniemi Pyhähuhta",
+        "en": "Pelkosenniemi Pyhatunturi"
     },
     "country": "FI",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": "02705",
-        "icao": null
+        "$wmo": "02705",
+        "$usaf": "027050"
     },
     "location": {
         "latitude": 67.0167,

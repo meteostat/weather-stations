@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "WP",
     "identifiers": {
-        "national": null,
-        "wmo": "12225",
-        "icao": "EPNA"
+        "$wmo": "12225",
+        "$icao": "EPNA",
+        "$usaf": "122250"
     },
     "location": {
         "latitude": 53.45,

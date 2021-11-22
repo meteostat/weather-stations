@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "YUC",
     "identifiers": {
-        "national": null,
-        "wmo": "76593",
-        "icao": null
+        "$wmo": "76593",
+        "$ghcn": "MXM00076593",
+        "$usaf": "765930"
     },
     "location": {
         "latitude": 21.3,

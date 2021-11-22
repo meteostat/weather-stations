@@ -6,9 +6,12 @@
     "country": "US",
     "region": "CT",
     "identifiers": {
-        "national": null,
-        "wmo": "72504",
-        "icao": "KBDR"
+        "$wmo": "72504",
+        "$icao": "KBDR",
+        "$iata": "BDR",
+        "$ghcn": "USW00094702",
+        "$wban": "94702",
+        "$usaf": "725040"
     },
     "location": {
         "latitude": 41.1667,

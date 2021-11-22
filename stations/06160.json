@@ -6,9 +6,10 @@
     "country": "DK",
     "region": "HS",
     "identifiers": {
-        "national": null,
-        "wmo": "06160",
-        "icao": "EKVL"
+        "$wmo": "06160",
+        "$icao": "EKVL",
+        "$usaf": "061600",
+        "$mosmix": "06160"
     },
     "location": {
         "latitude": 55.7667,

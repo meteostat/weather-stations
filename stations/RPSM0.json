@@ -6,9 +6,8 @@
     "country": "PH",
     "region": "SLE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPSM"
+        "$icao": "RPSM",
+        "$usaf": "986480"
     },
     "location": {
         "latitude": 10.1871,

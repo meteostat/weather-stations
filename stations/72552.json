@@ -6,9 +6,12 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": "72552",
-        "icao": "KGRI"
+        "$wmo": "72552",
+        "$icao": "KGRI",
+        "$iata": "GRI",
+        "$ghcn": "USW00014935",
+        "$wban": "14935",
+        "$usaf": "725520"
     },
     "location": {
         "latitude": 40.9667,

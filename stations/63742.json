@@ -6,9 +6,10 @@
     "country": "KE",
     "region": "NA",
     "identifiers": {
-        "national": null,
-        "wmo": "63742",
-        "icao": "HKNW"
+        "$wmo": "63742",
+        "$icao": "HKNW",
+        "$iata": "WIL",
+        "$usaf": "637420"
     },
     "location": {
         "latitude": -1.3167,

@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "AB",
     "identifiers": {
-        "national": null,
-        "wmo": "16230",
-        "icao": "LIBP"
+        "$wmo": "16230",
+        "$icao": "LIBP",
+        "$iata": "PSR",
+        "$usaf": "162300",
+        "$mosmix": "16230"
     },
     "location": {
         "latitude": 42.4333,

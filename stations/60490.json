@@ -6,9 +6,12 @@
     "country": "DZ",
     "region": "ORA",
     "identifiers": {
-        "national": null,
-        "wmo": "60490",
-        "icao": "DAOO"
+        "$wmo": "60490",
+        "$icao": "DAOO",
+        "$iata": "ORN",
+        "$ghcn": "AGM00060490",
+        "$usaf": "604900",
+        "$mosmix": "60490"
     },
     "location": {
         "latitude": 35.6333,

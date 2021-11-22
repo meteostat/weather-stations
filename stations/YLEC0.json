@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YLEC"
+        "$icao": "YLEC",
+        "$iata": "LGH"
     },
     "location": {
         "latitude": -30.5983,

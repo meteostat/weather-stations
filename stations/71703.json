@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "NB",
     "identifiers": {
-        "national": null,
-        "wmo": "71703",
-        "icao": "CYSL"
+        "$wmo": "71703",
+        "$icao": "CYSL",
+        "$iata": "YSL",
+        "$ghcn": "CA008104928",
+        "$usaf": "717030"
     },
     "location": {
         "latitude": 47.15,

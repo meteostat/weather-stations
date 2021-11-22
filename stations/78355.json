@@ -6,9 +6,9 @@
     "country": "CU",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": "78355",
-        "icao": null
+        "$wmo": "78355",
+        "$ghcn": "CUM00078355",
+        "$wban": "12711"
     },
     "location": {
         "latitude": 21.4,

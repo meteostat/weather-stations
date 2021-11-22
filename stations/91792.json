@@ -6,9 +6,11 @@
     "country": "TO",
     "region": "TT",
     "identifiers": {
-        "national": null,
-        "wmo": "91792",
-        "icao": "NFTF"
+        "$wmo": "91792",
+        "$icao": "NFTF",
+        "$iata": "TBU",
+        "$wban": "00487",
+        "$usaf": "917920"
     },
     "location": {
         "latitude": -21.2333,

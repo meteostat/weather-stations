@@ -6,9 +6,8 @@
     "country": "PY",
     "region": "BQ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SGPG"
+        "$icao": "SGPG",
+        "$usaf": "860650"
     },
     "location": {
         "latitude": -22.6619,

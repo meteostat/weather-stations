@@ -6,9 +6,12 @@
     "country": "PT",
     "region": "FA",
     "identifiers": {
-        "national": null,
-        "wmo": "08554",
-        "icao": "LPFR"
+        "$wmo": "08554",
+        "$icao": "LPFR",
+        "$iata": "FAO",
+        "$ghcn": "POM00008554",
+        "$usaf": "085540",
+        "$mosmix": "08554"
     },
     "location": {
         "latitude": 37.0167,

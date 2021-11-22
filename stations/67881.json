@@ -6,9 +6,9 @@
     "country": "ZW",
     "region": "ML",
     "identifiers": {
-        "national": null,
-        "wmo": "67881",
-        "icao": "FVRU"
+        "$wmo": "67881",
+        "$icao": "FVRU",
+        "$usaf": "678810"
     },
     "location": {
         "latitude": -18.5333,

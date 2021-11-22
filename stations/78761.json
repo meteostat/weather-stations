@@ -6,9 +6,9 @@
     "country": "CR",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": "78761",
-        "icao": "MRCH"
+        "$wmo": "78761",
+        "$icao": "MRCH",
+        "$usaf": "787613"
     },
     "location": {
         "latitude": 9.9833,

@@ -6,9 +6,8 @@
     "country": "ZW",
     "region": "MS",
     "identifiers": {
-        "national": null,
-        "wmo": "67969",
-        "icao": null
+        "$wmo": "67969",
+        "$ghcn": "ZI000067969"
     },
     "location": {
         "latitude": -21.05,

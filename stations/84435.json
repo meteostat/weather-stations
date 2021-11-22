@@ -6,9 +6,10 @@
     "country": "PE",
     "region": "SM",
     "identifiers": {
-        "national": null,
-        "wmo": "84435",
-        "icao": "SPBB"
+        "$wmo": "84435",
+        "$icao": "SPBB",
+        "$iata": "MBP",
+        "$usaf": "844350"
     },
     "location": {
         "latitude": -6.0333,

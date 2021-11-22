@@ -2,15 +2,17 @@
     "id": "02435",
     "name": {
         "de": "Borlange Flughafen",
-        "en": "Borlange Airport",
-        "sv": "Borlange Flygplats"
+        "sv": "Borlange Flygplats",
+        "en": "Borlange Airport"
     },
     "country": "SE",
     "region": "W",
     "identifiers": {
-        "national": null,
-        "wmo": "02435",
-        "icao": "ESSD"
+        "$wmo": "02435",
+        "$icao": "ESSD",
+        "$iata": "BLE",
+        "$usaf": "024350",
+        "$mosmix": "02435"
     },
     "location": {
         "latitude": 60.4333,

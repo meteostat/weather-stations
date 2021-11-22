@@ -6,9 +6,8 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFCT"
+        "$icao": "KFCT",
+        "$usaf": "727813"
     },
     "location": {
         "latitude": 46.6665,

@@ -6,9 +6,11 @@
     "country": "IR",
     "region": "KRB",
     "identifiers": {
-        "national": null,
-        "wmo": "40841",
-        "icao": "OIKK"
+        "$wmo": "40841",
+        "$icao": "OIKK",
+        "$iata": "KER",
+        "$ghcn": "IR000040841",
+        "$usaf": "408410"
     },
     "location": {
         "latitude": 30.25,

@@ -6,9 +6,11 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": "04104",
-        "wmo": "10776",
-        "icao": "EDNR"
+        "$national": "04104",
+        "$wmo": "10776",
+        "$icao": "EDNR",
+        "$ghcn": "GME00121138",
+        "$mosmix": "10776"
     },
     "location": {
         "latitude": 49.05,

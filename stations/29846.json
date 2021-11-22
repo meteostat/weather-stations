@@ -6,9 +6,12 @@
     "country": "RU",
     "region": "KEM",
     "identifiers": {
-        "national": null,
-        "wmo": "29846",
-        "icao": "UNWW"
+        "$wmo": "29846",
+        "$icao": "UNWW",
+        "$iata": "NOZ",
+        "$ghcn": "RSM00029846",
+        "$usaf": "298460",
+        "$mosmix": "29846"
     },
     "location": {
         "latitude": 53.8167,

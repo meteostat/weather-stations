@@ -6,9 +6,8 @@
     "country": "MA",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "GMMB"
+        "$icao": "GMMB",
+        "$iata": "GMD"
     },
     "location": {
         "latitude": 33.6554,

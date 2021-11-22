@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "JB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "WICC"
+        "$icao": "WICC",
+        "$iata": "BDO",
+        "$usaf": "967815"
     },
     "location": {
         "latitude": -6.9006,

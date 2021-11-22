@@ -6,9 +6,8 @@
     "country": "BD",
     "region": "CG",
     "identifiers": {
-        "national": null,
-        "wmo": "41943",
-        "icao": null
+        "$wmo": "41943",
+        "$ghcn": "BGM00041943"
     },
     "location": {
         "latitude": 23.0333,

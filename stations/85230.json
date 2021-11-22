@@ -6,9 +6,10 @@
     "country": "BO",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "85230",
-        "icao": "SLCN"
+        "$wmo": "85230",
+        "$icao": "SLCN",
+        "$ghcn": "BL000085230",
+        "$usaf": "852300"
     },
     "location": {
         "latitude": -17.5833,

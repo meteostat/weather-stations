@@ -6,9 +6,9 @@
     "country": "AL",
     "region": "VL",
     "identifiers": {
-        "national": null,
-        "wmo": "13622",
-        "icao": "LAVL"
+        "$wmo": "13622",
+        "$icao": "LAVL",
+        "$usaf": "136220"
     },
     "location": {
         "latitude": 40.4667,

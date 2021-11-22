@@ -6,9 +6,8 @@
     "country": "LB",
     "region": "BI",
     "identifiers": {
-        "national": null,
-        "wmo": "40101",
-        "icao": null
+        "$wmo": "40101",
+        "$ghcn": "LEM00040101"
     },
     "location": {
         "latitude": 33.8167,

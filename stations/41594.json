@@ -6,9 +6,10 @@
     "country": "PK",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": "41594",
-        "icao": "OPSR"
+        "$wmo": "41594",
+        "$icao": "OPSR",
+        "$ghcn": "PKM00041594",
+        "$usaf": "415940"
     },
     "location": {
         "latitude": 32.05,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRLD"
+        "$icao": "KRLD",
+        "$iata": "RLD",
+        "$usaf": "727884"
     },
     "location": {
         "latitude": 46.3056,

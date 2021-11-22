@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "VOS",
     "identifiers": {
-        "national": null,
-        "wmo": "36397",
-        "icao": null
+        "$wmo": "36397",
+        "$ghcn": "KZ000036397",
+        "$usaf": "363970"
     },
     "location": {
         "latitude": 49.2167,

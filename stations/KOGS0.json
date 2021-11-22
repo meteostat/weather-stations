@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOGS"
+        "$icao": "KOGS",
+        "$iata": "OGS",
+        "$usaf": "725186"
     },
     "location": {
         "latitude": 44.6819,

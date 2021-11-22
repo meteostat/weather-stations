@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KAZO"
+        "$icao": "KAZO",
+        "$iata": "AZO",
+        "$wban": "94815",
+        "$usaf": "726357"
     },
     "location": {
         "latitude": 42.2344,

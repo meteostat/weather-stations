@@ -6,9 +6,9 @@
     "country": "PE",
     "region": "IC",
     "identifiers": {
-        "national": null,
-        "wmo": "84720",
-        "icao": "SPZA"
+        "$wmo": "84720",
+        "$icao": "SPZA",
+        "$usaf": "847200"
     },
     "location": {
         "latitude": -14.85,

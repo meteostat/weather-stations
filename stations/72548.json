@@ -6,9 +6,12 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "national": null,
-        "wmo": "72548",
-        "icao": "KALO"
+        "$wmo": "72548",
+        "$icao": "KALO",
+        "$iata": "ALO",
+        "$ghcn": "USW00094910",
+        "$wban": "94910",
+        "$usaf": "725480"
     },
     "location": {
         "latitude": 42.55,

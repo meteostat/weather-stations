@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "GIR",
     "identifiers": {
-        "national": null,
-        "wmo": "17034",
-        "icao": null
+        "$wmo": "17034",
+        "$ghcn": "TUM00017034"
     },
     "location": {
         "latitude": 40.9167,

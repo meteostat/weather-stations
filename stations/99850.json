@@ -6,9 +6,9 @@
     "country": "BA",
     "region": "ZD",
     "identifiers": {
-        "national": null,
-        "wmo": "99850",
-        "icao": "EQAA"
+        "$wmo": "99850",
+        "$icao": "EQAA",
+        "$usaf": "998500"
     },
     "location": {
         "latitude": 45.17,

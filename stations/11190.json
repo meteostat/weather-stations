@@ -6,9 +6,8 @@
     "country": "AT",
     "region": "BGLD",
     "identifiers": {
-        "national": null,
-        "wmo": "11190",
-        "icao": null
+        "$wmo": "11190",
+        "$mosmix": "11190"
     },
     "location": {
         "latitude": 47.85,

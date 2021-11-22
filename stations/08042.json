@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "08042",
-        "icao": "LEST"
+        "$wmo": "08042",
+        "$icao": "LEST",
+        "$iata": "SCQ",
+        "$ghcn": "SPE00119729",
+        "$usaf": "080420",
+        "$mosmix": "08042"
     },
     "location": {
         "latitude": 42.9,

@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UWKD"
+        "$icao": "UWKD",
+        "$iata": "KZN",
+        "$usaf": "275950"
     },
     "location": {
         "latitude": 55.6,

@@ -6,9 +6,9 @@
     "country": "PA",
     "region": "PO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MPPA"
+        "$icao": "MPPA",
+        "$iata": "HOW",
+        "$usaf": "787955"
     },
     "location": {
         "latitude": 8.9147,

@@ -6,9 +6,9 @@
     "country": "SA",
     "region": "MD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OEAO"
+        "$icao": "OEAO",
+        "$iata": "ULH",
+        "$usaf": "404010"
     },
     "location": {
         "latitude": 26.4897,

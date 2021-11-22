@@ -6,9 +6,11 @@
     "country": "GA",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": "64551",
-        "icao": "FOGR"
+        "$wmo": "64551",
+        "$icao": "FOGR",
+        "$iata": "LBQ",
+        "$ghcn": "GBM00064551",
+        "$usaf": "645510"
     },
     "location": {
         "latitude": -0.7167,

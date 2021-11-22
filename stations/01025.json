@@ -2,15 +2,18 @@
     "id": "01025",
     "name": {
         "de": "Tromso Flughafen",
-        "en": "Tromso Airport",
-        "no": "Tromsø Lufthavn"
+        "no": "Tromsø Lufthavn",
+        "en": "Tromso Airport"
     },
     "country": "NO",
     "region": "TR",
     "identifiers": {
-        "national": null,
-        "wmo": "01025",
-        "icao": "ENTC"
+        "$wmo": "01025",
+        "$icao": "ENTC",
+        "$iata": "TOS",
+        "$ghcn": "NOE00134898",
+        "$usaf": "010250",
+        "$mosmix": "01025"
     },
     "location": {
         "latitude": 69.6833,

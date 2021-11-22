@@ -6,9 +6,8 @@
     "country": "BO",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SLVZ"
+        "$icao": "SLVZ",
+        "$usaf": "853730"
     },
     "location": {
         "latitude": -22.0777,

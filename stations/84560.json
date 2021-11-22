@@ -6,9 +6,9 @@
     "country": "PE",
     "region": "UC",
     "identifiers": {
-        "national": null,
-        "wmo": "84560",
-        "icao": "SPEP"
+        "$wmo": "84560",
+        "$icao": "SPEP",
+        "$usaf": "845600"
     },
     "location": {
         "latitude": -9.75,

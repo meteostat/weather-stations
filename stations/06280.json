@@ -6,9 +6,12 @@
     "country": "NL",
     "region": "DR",
     "identifiers": {
-        "national": null,
-        "wmo": "06280",
-        "icao": "EHGG"
+        "$wmo": "06280",
+        "$icao": "EHGG",
+        "$iata": "GRQ",
+        "$ghcn": "NLM00006280",
+        "$usaf": "062800",
+        "$mosmix": "06280"
     },
     "location": {
         "latitude": 53.1333,

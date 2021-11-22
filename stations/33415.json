@@ -6,9 +6,10 @@
     "country": "UA",
     "region": "TP",
     "identifiers": {
-        "national": null,
-        "wmo": "33415",
-        "icao": "UKLT"
+        "$wmo": "33415",
+        "$icao": "UKLT",
+        "$iata": "TNL",
+        "$ghcn": "UPM00033415"
     },
     "location": {
         "latitude": 49.5333,

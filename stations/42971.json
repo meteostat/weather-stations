@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": "42971",
-        "icao": "VEBS"
+        "$wmo": "42971",
+        "$icao": "VEBS",
+        "$iata": "BBI",
+        "$ghcn": "IN017111200",
+        "$usaf": "429710"
     },
     "location": {
         "latitude": 20.25,

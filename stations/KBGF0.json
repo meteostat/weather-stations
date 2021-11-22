@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBGF"
+        "$icao": "KBGF",
+        "$wban": "00344",
+        "$usaf": "720974"
     },
     "location": {
         "latitude": 35.1775,

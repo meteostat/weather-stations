@@ -6,9 +6,7 @@
     "country": "DK",
     "region": "SL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EKRS"
+        "$icao": "EKRS"
     },
     "location": {
         "latitude": 55.4258,

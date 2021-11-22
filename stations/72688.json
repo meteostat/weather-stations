@@ -6,9 +6,12 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": "72688",
-        "icao": "KPDT"
+        "$wmo": "72688",
+        "$icao": "KPDT",
+        "$iata": "PDT",
+        "$ghcn": "USW00024155",
+        "$wban": "24155",
+        "$usaf": "726880"
     },
     "location": {
         "latitude": 46.1667,

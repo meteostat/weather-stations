@@ -6,9 +6,11 @@
     "country": "IR",
     "region": "ZAN",
     "identifiers": {
-        "national": null,
-        "wmo": "40729",
-        "icao": "OITZ"
+        "$wmo": "40729",
+        "$icao": "OITZ",
+        "$iata": "JWN",
+        "$ghcn": "IRM00040729",
+        "$usaf": "407290"
     },
     "location": {
         "latitude": 36.6833,

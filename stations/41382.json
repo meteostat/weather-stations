@@ -6,9 +6,9 @@
     "country": "YE",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "41382",
-        "icao": "OYMK"
+        "$wmo": "41382",
+        "$icao": "OYMK",
+        "$usaf": "405790"
     },
     "location": {
         "latitude": 13.25,

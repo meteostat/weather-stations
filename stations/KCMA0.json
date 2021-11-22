@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCMA"
+        "$icao": "KCMA",
+        "$wban": "23136",
+        "$usaf": "723926"
     },
     "location": {
         "latitude": 34.2137,

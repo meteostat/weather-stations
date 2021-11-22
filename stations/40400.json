@@ -6,9 +6,11 @@
     "country": "SA",
     "region": "TB",
     "identifiers": {
-        "national": null,
-        "wmo": "40400",
-        "icao": "OEWJ"
+        "$wmo": "40400",
+        "$icao": "OEWJ",
+        "$iata": "EJH",
+        "$ghcn": "SAM00040400",
+        "$usaf": "404000"
     },
     "location": {
         "latitude": 26.2,

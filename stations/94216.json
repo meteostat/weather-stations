@@ -6,9 +6,11 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "94216",
-        "icao": "YPKU"
+        "$wmo": "94216",
+        "$icao": "YPKU",
+        "$iata": "KNX",
+        "$ghcn": "ASN00002056",
+        "$usaf": "942160"
     },
     "location": {
         "latitude": -15.7667,

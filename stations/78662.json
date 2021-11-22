@@ -6,9 +6,8 @@
     "country": "SV",
     "region": "SS",
     "identifiers": {
-        "national": null,
-        "wmo": "78662",
-        "icao": null
+        "$wmo": "78662",
+        "$mosmix": "78662"
     },
     "location": {
         "latitude": 13.7167,

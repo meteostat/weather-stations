@@ -2,15 +2,16 @@
     "id": "02044",
     "name": {
         "de": "Kiruna Flughafen",
-        "en": "Kiruna Airport",
-        "sv": "Kiruna Flygplats"
+        "sv": "Kiruna Flygplats",
+        "en": "Kiruna Airport"
     },
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "national": null,
-        "wmo": "02044",
-        "icao": "ESNQ"
+        "$wmo": "02044",
+        "$icao": "ESNQ",
+        "$iata": "KRN",
+        "$usaf": "020440"
     },
     "location": {
         "latitude": 67.8167,

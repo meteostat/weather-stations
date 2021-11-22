@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "NL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FALE"
+        "$icao": "FALE",
+        "$iata": "DUR",
+        "$usaf": "685920"
     },
     "location": {
         "latitude": -29.6108,

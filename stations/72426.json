@@ -6,9 +6,11 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": "72426",
-        "icao": "KILN"
+        "$wmo": "72426",
+        "$icao": "KILN",
+        "$ghcn": "USW00013841",
+        "$wban": "13841",
+        "$usaf": "724296"
     },
     "location": {
         "latitude": 39.4167,

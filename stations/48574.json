@@ -6,9 +6,8 @@
     "country": "TH",
     "region": "SG",
     "identifiers": {
-        "national": null,
-        "wmo": "48574",
-        "icao": null
+        "$wmo": "48574",
+        "$usaf": "485740"
     },
     "location": {
         "latitude": 6.7872,

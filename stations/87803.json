@@ -6,9 +6,12 @@
     "country": "AR",
     "region": "U",
     "identifiers": {
-        "national": null,
-        "wmo": "87803",
-        "icao": "SAVE"
+        "$wmo": "87803",
+        "$icao": "SAVE",
+        "$iata": "EQS",
+        "$ghcn": "AR000087803",
+        "$usaf": "878030",
+        "$mosmix": "87803"
     },
     "location": {
         "latitude": -42.9333,

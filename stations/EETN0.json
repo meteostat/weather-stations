@@ -6,9 +6,9 @@
     "country": "EE",
     "region": "HA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EETN"
+        "$icao": "EETN",
+        "$iata": "TLL",
+        "$usaf": "260380"
     },
     "location": {
         "latitude": 59.4133,

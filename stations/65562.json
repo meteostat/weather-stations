@@ -6,9 +6,12 @@
     "country": "CI",
     "region": "DIM",
     "identifiers": {
-        "national": null,
-        "wmo": "65562",
-        "icao": "DIDK"
+        "$wmo": "65562",
+        "$icao": "DIDK",
+        "$iata": "DIM",
+        "$ghcn": "IV000005562",
+        "$usaf": "655620",
+        "$mosmix": "65562"
     },
     "location": {
         "latitude": 6.65,

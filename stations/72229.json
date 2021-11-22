@@ -6,9 +6,11 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": "72229",
-        "icao": "KCKL"
+        "$wmo": "72229",
+        "$icao": "KCKL",
+        "$ghcn": "USW00003881",
+        "$wban": "03881",
+        "$usaf": "722290"
     },
     "location": {
         "latitude": 32.9,

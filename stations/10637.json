@@ -8,9 +8,13 @@
     "country": "DE",
     "region": "HE",
     "identifiers": {
-        "national": "01420",
-        "wmo": "10637",
-        "icao": "EDDF"
+        "$national": "01420",
+        "$wmo": "10637",
+        "$icao": "EDDF",
+        "$iata": "FRA",
+        "$ghcn": "GMW00035032",
+        "$usaf": "106370",
+        "$mosmix": "10637"
     },
     "location": {
         "latitude": 50.05,

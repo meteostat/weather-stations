@@ -6,9 +6,10 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "PHNY"
+        "$icao": "PHNY",
+        "$iata": "LNY",
+        "$wban": "22524",
+        "$usaf": "911905"
     },
     "location": {
         "latitude": 20.7856,

@@ -6,9 +6,10 @@
     "country": "FI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "02903",
-        "icao": "EFKK"
+        "$wmo": "02903",
+        "$icao": "EFKK",
+        "$iata": "KOK",
+        "$usaf": "029030"
     },
     "location": {
         "latitude": 63.7167,

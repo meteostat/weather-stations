@@ -6,9 +6,8 @@
     "country": "AO",
     "region": "BGU",
     "identifiers": {
-        "national": null,
-        "wmo": "66305",
-        "icao": "FNLB"
+        "$wmo": "66305",
+        "$icao": "FNLB"
     },
     "location": {
         "latitude": -12.3667,

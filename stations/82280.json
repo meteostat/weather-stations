@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "82280",
-        "icao": null
+        "$wmo": "82280",
+        "$iata": "SLZ",
+        "$ghcn": "BR027510430",
+        "$mosmix": "82280"
     },
     "location": {
         "latitude": -2.5333,

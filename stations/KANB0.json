@@ -6,9 +6,10 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KANB"
+        "$icao": "KANB",
+        "$iata": "ANB",
+        "$wban": "13871",
+        "$usaf": "722287"
     },
     "location": {
         "latitude": 33.5882,

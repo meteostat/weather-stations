@@ -6,9 +6,9 @@
     "country": "MA",
     "region": "GB",
     "identifiers": {
-        "national": null,
-        "wmo": "60136",
-        "icao": "GMSL"
+        "$wmo": "60136",
+        "$icao": "GMSL",
+        "$usaf": "601360"
     },
     "location": {
         "latitude": 34.2333,

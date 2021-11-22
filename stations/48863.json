@@ -6,9 +6,10 @@
     "country": "VN",
     "region": "BG",
     "identifiers": {
-        "national": null,
-        "wmo": "48863",
-        "icao": "VVQG"
+        "$wmo": "48863",
+        "$icao": "VVQG",
+        "$iata": "XNG",
+        "$wban": "41072"
     },
     "location": {
         "latitude": 15.1167,

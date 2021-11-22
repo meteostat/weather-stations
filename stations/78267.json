@@ -6,9 +6,10 @@
     "country": "CU",
     "region": "GU",
     "identifiers": {
-        "national": null,
-        "wmo": "78267",
-        "icao": "MUGT"
+        "$wmo": "78267",
+        "$icao": "MUGT",
+        "$iata": "GAO",
+        "$usaf": "782670"
     },
     "location": {
         "latitude": 20.0833,

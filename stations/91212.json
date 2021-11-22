@@ -6,9 +6,12 @@
     "country": "US",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91212",
-        "icao": "PGUM"
+        "$wmo": "91212",
+        "$icao": "PGUM",
+        "$iata": "GUM",
+        "$ghcn": "GQW00041415",
+        "$wban": "41415",
+        "$usaf": "912120"
     },
     "location": {
         "latitude": 13.4833,

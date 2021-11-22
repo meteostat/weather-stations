@@ -6,9 +6,9 @@
     "country": "CH",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LSZC"
+        "$icao": "LSZC",
+        "$iata": "BXO",
+        "$usaf": "068065"
     },
     "location": {
         "latitude": 46.9744,

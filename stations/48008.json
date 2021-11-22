@@ -6,9 +6,11 @@
     "country": "MM",
     "region": "KC",
     "identifiers": {
-        "national": null,
-        "wmo": "48008",
-        "icao": "VBMK"
+        "$wmo": "48008",
+        "$icao": "VBMK",
+        "$iata": "MYT",
+        "$ghcn": "BMM00048008",
+        "$usaf": "480080"
     },
     "location": {
         "latitude": 25.3667,

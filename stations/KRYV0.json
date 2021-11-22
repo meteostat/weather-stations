@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRYV"
+        "$icao": "KRYV",
+        "$wban": "54834",
+        "$usaf": "726464"
     },
     "location": {
         "latitude": 43.1696,

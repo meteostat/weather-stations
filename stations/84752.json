@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": "84752",
-        "icao": "SPQU"
+        "$wmo": "84752",
+        "$icao": "SPQU",
+        "$iata": "AQP",
+        "$ghcn": "PE000084752",
+        "$usaf": "847520"
     },
     "location": {
         "latitude": -16.3167,

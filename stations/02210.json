@@ -1,15 +1,13 @@
 {
     "id": "02210",
     "name": {
-        "en": "Blahammaren",
-        "sv": "Blåhammaren"
+        "sv": "Blåhammaren",
+        "en": "Blahammaren"
     },
     "country": "SE",
     "region": "Z",
     "identifiers": {
-        "national": null,
-        "wmo": "02210",
-        "icao": null
+        "$wmo": "02210"
     },
     "location": {
         "latitude": 63.1864,

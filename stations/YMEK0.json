@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YMEK"
+        "$icao": "YMEK",
+        "$iata": "MKR"
     },
     "location": {
         "latitude": -26.6117,

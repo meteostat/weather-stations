@@ -6,9 +6,9 @@
     "country": "TW",
     "region": "PT",
     "identifiers": {
-        "national": null,
-        "wmo": "46772",
-        "icao": "RCFS"
+        "$wmo": "46772",
+        "$icao": "RCFS",
+        "$usaf": "467720"
     },
     "location": {
         "latitude": 22.4167,

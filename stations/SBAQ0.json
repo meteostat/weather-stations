@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "SP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBAQ"
+        "$icao": "SBAQ",
+        "$iata": "AQA",
+        "$usaf": "836725"
     },
     "location": {
         "latitude": -21.812,

@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": "10326",
-        "icao": "EDLI"
+        "$wmo": "10326",
+        "$icao": "EDLI",
+        "$iata": "BFE",
+        "$mosmix": "10326"
     },
     "location": {
         "latitude": 51.9667,

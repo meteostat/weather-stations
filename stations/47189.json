@@ -6,9 +6,8 @@
     "country": "KR",
     "region": "CJ",
     "identifiers": {
-        "national": null,
-        "wmo": "47189",
-        "icao": null
+        "$wmo": "47189",
+        "$mosmix": "47189"
     },
     "location": {
         "latitude": 33.2333,

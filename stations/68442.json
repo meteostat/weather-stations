@@ -6,9 +6,12 @@
     "country": "ZA",
     "region": "FS",
     "identifiers": {
-        "national": null,
-        "wmo": "68442",
-        "icao": "FABL"
+        "$wmo": "68442",
+        "$icao": "FABL",
+        "$iata": "BFN",
+        "$ghcn": "SF002613650",
+        "$usaf": "684420",
+        "$mosmix": "68442"
     },
     "location": {
         "latitude": -29.1,

@@ -6,9 +6,12 @@
     "country": "ID",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "97230",
-        "icao": "WRRR"
+        "$wmo": "97230",
+        "$icao": "WRRR",
+        "$iata": "DPS",
+        "$ghcn": "IDM00097230",
+        "$usaf": "972300",
+        "$mosmix": "97230"
     },
     "location": {
         "latitude": -8.75,

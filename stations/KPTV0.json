@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPTV"
+        "$icao": "KPTV",
+        "$wban": "23149",
+        "$usaf": "723895"
     },
     "location": {
         "latitude": 36.0296,

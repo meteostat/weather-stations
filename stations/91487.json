@@ -6,9 +6,10 @@
     "country": "NZ",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91487",
-        "icao": "PLFA"
+        "$wmo": "91487",
+        "$icao": "PLFA",
+        "$iata": "TNV",
+        "$usaf": "914870"
     },
     "location": {
         "latitude": 3.85,

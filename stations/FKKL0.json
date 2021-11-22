@@ -6,9 +6,9 @@
     "country": "CM",
     "region": "EN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FKKL"
+        "$icao": "FKKL",
+        "$iata": "MVR",
+        "$usaf": "648510"
     },
     "location": {
         "latitude": 10.45,

@@ -6,9 +6,8 @@
     "country": "HU",
     "region": "PE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LHTL"
+        "$icao": "LHTL",
+        "$usaf": "128305"
     },
     "location": {
         "latitude": 47.35,

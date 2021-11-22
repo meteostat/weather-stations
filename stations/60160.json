@@ -6,9 +6,9 @@
     "country": "MA",
     "region": "MKN",
     "identifiers": {
-        "national": null,
-        "wmo": "60160",
-        "icao": "GMFI"
+        "$wmo": "60160",
+        "$icao": "GMFI",
+        "$usaf": "601600"
     },
     "location": {
         "latitude": 33.5,

@@ -6,9 +6,8 @@
     "country": "UA",
     "region": "KR",
     "identifiers": {
-        "national": null,
-        "wmo": "33973",
-        "icao": null
+        "$wmo": "33973",
+        "$ghcn": "UPM00033973"
     },
     "location": {
         "latitude": 45.1667,

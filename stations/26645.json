@@ -6,9 +6,8 @@
     "country": "BY",
     "region": "VI",
     "identifiers": {
-        "national": null,
-        "wmo": "26645",
-        "icao": null
+        "$wmo": "26645",
+        "$ghcn": "BOM00026645"
     },
     "location": {
         "latitude": 55.05,

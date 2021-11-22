@@ -6,9 +6,12 @@
     "country": "ID",
     "region": "JB",
     "identifiers": {
-        "national": null,
-        "wmo": "96749",
-        "icao": "WIII"
+        "$wmo": "96749",
+        "$icao": "WIII",
+        "$iata": "CGK",
+        "$ghcn": "IDM00096749",
+        "$usaf": "967490",
+        "$mosmix": "96749"
     },
     "location": {
         "latitude": -6.1167,

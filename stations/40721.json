@@ -6,9 +6,8 @@
     "country": "IR",
     "region": "MZD",
     "identifiers": {
-        "national": null,
-        "wmo": "40721",
-        "icao": null
+        "$wmo": "40721",
+        "$usaf": "407210"
     },
     "location": {
         "latitude": 37.9,

@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "ROO",
     "identifiers": {
-        "national": null,
-        "wmo": "76698",
-        "icao": null
+        "$wmo": "76698",
+        "$ghcn": "MX000023003",
+        "$usaf": "766980"
     },
     "location": {
         "latitude": 19.5833,

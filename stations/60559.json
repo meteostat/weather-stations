@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "EOU",
     "identifiers": {
-        "national": null,
-        "wmo": "60559",
-        "icao": "DAUO"
+        "$wmo": "60559",
+        "$icao": "DAUO",
+        "$iata": "ELU",
+        "$ghcn": "AGM00060559",
+        "$usaf": "605590"
     },
     "location": {
         "latitude": 33.5,

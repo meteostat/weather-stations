@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "UP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VIDN"
+        "$icao": "VIDN",
+        "$iata": "DED"
     },
     "location": {
         "latitude": 30.1897,

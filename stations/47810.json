@@ -6,9 +6,10 @@
     "country": "JP",
     "region": "SG",
     "identifiers": {
-        "national": null,
-        "wmo": "47810",
-        "icao": "RJFS"
+        "$wmo": "47810",
+        "$icao": "RJFS",
+        "$iata": "HSG",
+        "$usaf": "478100"
     },
     "location": {
         "latitude": 33.1497,

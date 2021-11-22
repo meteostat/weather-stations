@@ -6,9 +6,13 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": "72434",
-        "icao": "KSTL"
+        "$wmo": "72434",
+        "$icao": "KSTL",
+        "$iata": "BLV",
+        "$ghcn": "USW00013994",
+        "$wban": "13994",
+        "$usaf": "724340",
+        "$mosmix": "72434"
     },
     "location": {
         "latitude": 38.75,

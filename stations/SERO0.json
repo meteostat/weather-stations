@@ -6,9 +6,8 @@
     "country": "EC",
     "region": "O",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SERO"
+        "$icao": "SERO",
+        "$iata": "ETR"
     },
     "location": {
         "latitude": -3.4381,

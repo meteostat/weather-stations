@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "UP",
     "identifiers": {
-        "national": null,
-        "wmo": "42379",
-        "icao": "VEGK"
+        "$wmo": "42379",
+        "$icao": "VEGK",
+        "$iata": "GOP",
+        "$ghcn": "IN023261300",
+        "$usaf": "423790"
     },
     "location": {
         "latitude": 26.75,

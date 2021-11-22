@@ -6,9 +6,11 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "70121",
-        "icao": "PPIZ"
+        "$wmo": "70121",
+        "$icao": "PPIZ",
+        "$iata": "PIZ",
+        "$wban": "26624",
+        "$usaf": "701210"
     },
     "location": {
         "latitude": 69.7167,

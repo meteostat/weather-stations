@@ -6,9 +6,8 @@
     "country": "PG",
     "region": "BV",
     "identifiers": {
-        "national": null,
-        "wmo": "94097",
-        "icao": null
+        "$wmo": "94097",
+        "$iata": "KIE"
     },
     "location": {
         "latitude": -6.3167,

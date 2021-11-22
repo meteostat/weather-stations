@@ -6,9 +6,8 @@
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ESUP"
+        "$icao": "ESUP",
+        "$iata": "PJA"
     },
     "location": {
         "latitude": 67.2456,

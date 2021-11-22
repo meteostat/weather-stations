@@ -6,9 +6,10 @@
     "country": "PH",
     "region": "ILS",
     "identifiers": {
-        "national": null,
-        "wmo": "98222",
-        "icao": "RPUQ"
+        "$wmo": "98222",
+        "$icao": "RPUQ",
+        "$ghcn": "RPM00098222",
+        "$usaf": "982220"
     },
     "location": {
         "latitude": 17.5667,

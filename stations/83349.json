@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "83349",
-        "icao": "SBIL"
+        "$wmo": "83349",
+        "$icao": "SBIL",
+        "$iata": "IOS",
+        "$usaf": "833490",
+        "$mosmix": "83349"
     },
     "location": {
         "latitude": -14.8167,

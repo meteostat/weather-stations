@@ -6,9 +6,12 @@
     "country": "NI",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": "78741",
-        "icao": "MNMG"
+        "$wmo": "78741",
+        "$icao": "MNMG",
+        "$iata": "MGA",
+        "$ghcn": "NUM00078741",
+        "$usaf": "787410",
+        "$mosmix": "78741"
     },
     "location": {
         "latitude": 12.15,

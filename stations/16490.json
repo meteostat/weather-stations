@@ -6,9 +6,10 @@
     "country": "IT",
     "region": "SC",
     "identifiers": {
-        "national": null,
-        "wmo": "16490",
-        "icao": "LICD"
+        "$wmo": "16490",
+        "$icao": "LICD",
+        "$iata": "LMP",
+        "$usaf": "164900"
     },
     "location": {
         "latitude": 35.5,

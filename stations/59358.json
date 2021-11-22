@@ -6,9 +6,8 @@
     "country": "CN",
     "region": "TI",
     "identifiers": {
-        "national": null,
-        "wmo": "59358",
-        "icao": null
+        "$wmo": "59358",
+        "$iata": "TNN"
     },
     "location": {
         "latitude": 23,

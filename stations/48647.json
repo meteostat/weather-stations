@@ -6,9 +6,11 @@
     "country": "MY",
     "region": "SL",
     "identifiers": {
-        "national": null,
-        "wmo": "48647",
-        "icao": "WMKK"
+        "$wmo": "48647",
+        "$icao": "WMKK",
+        "$ghcn": "MYM00048647",
+        "$usaf": "486500",
+        "$mosmix": "48647"
     },
     "location": {
         "latitude": 2.7333,

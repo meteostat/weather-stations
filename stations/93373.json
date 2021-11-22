@@ -6,9 +6,8 @@
     "country": "NZ",
     "region": "HKB",
     "identifiers": {
-        "national": null,
-        "wmo": "93373",
-        "icao": null
+        "$wmo": "93373",
+        "$usaf": "933730"
     },
     "location": {
         "latitude": -39.45,

@@ -6,9 +6,8 @@
     "country": "ES",
     "region": "CN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "GCGM"
+        "$icao": "GCGM",
+        "$iata": "GMZ"
     },
     "location": {
         "latitude": 28.0296,

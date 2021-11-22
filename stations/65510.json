@@ -6,9 +6,12 @@
     "country": "BF",
     "region": "HB",
     "identifiers": {
-        "national": null,
-        "wmo": "65510",
-        "icao": "DFOO"
+        "$wmo": "65510",
+        "$icao": "DFOO",
+        "$iata": "BOY",
+        "$ghcn": "UVM00065510",
+        "$usaf": "655100",
+        "$mosmix": "65510"
     },
     "location": {
         "latitude": 11.1667,

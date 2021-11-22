@@ -6,9 +6,13 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": "72253",
-        "icao": "KSAT"
+        "$wmo": "72253",
+        "$icao": "KSAT",
+        "$iata": "SAT",
+        "$ghcn": "USW00012921",
+        "$wban": "12921",
+        "$usaf": "722530",
+        "$mosmix": "72253"
     },
     "location": {
         "latitude": 29.5333,

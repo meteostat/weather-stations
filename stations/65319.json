@@ -6,9 +6,11 @@
     "country": "BJ",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "65319",
-        "icao": "DBBN"
+        "$wmo": "65319",
+        "$icao": "DBBN",
+        "$iata": "NAE",
+        "$ghcn": "BN000005319",
+        "$usaf": "653190"
     },
     "location": {
         "latitude": 10.3167,

@@ -6,9 +6,11 @@
     "country": "CD",
     "region": "BN",
     "identifiers": {
-        "national": null,
-        "wmo": "64115",
-        "icao": "FZBA"
+        "$wmo": "64115",
+        "$icao": "FZBA",
+        "$iata": "INO",
+        "$ghcn": "CGM00064115",
+        "$usaf": "641150"
     },
     "location": {
         "latitude": -1.9667,

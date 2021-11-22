@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "PAV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UASP"
+        "$icao": "UASP",
+        "$iata": "PWQ",
+        "$usaf": "360030"
     },
     "location": {
         "latitude": 52.1833,

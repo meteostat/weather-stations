@@ -6,9 +6,9 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTBR"
+        "$icao": "KTBR",
+        "$wban": "63818",
+        "$usaf": "747805"
     },
     "location": {
         "latitude": 32.4827,

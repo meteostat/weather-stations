@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LFSG"
+        "$icao": "LFSG",
+        "$iata": "EPL",
+        "$usaf": "071825"
     },
     "location": {
         "latitude": 48.3167,

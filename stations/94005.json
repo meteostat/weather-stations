@@ -6,9 +6,10 @@
     "country": "PG",
     "region": "WH",
     "identifiers": {
-        "national": null,
-        "wmo": "94005",
-        "icao": "AYMH"
+        "$wmo": "94005",
+        "$icao": "AYMH",
+        "$iata": "HGU",
+        "$usaf": "920145"
     },
     "location": {
         "latitude": -5.8333,

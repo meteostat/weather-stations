@@ -6,9 +6,10 @@
     "country": "TZ",
     "region": "RK",
     "identifiers": {
-        "national": null,
-        "wmo": "63881",
-        "icao": "HTSU"
+        "$wmo": "63881",
+        "$icao": "HTSU",
+        "$iata": "SUT",
+        "$usaf": "638810"
     },
     "location": {
         "latitude": -7.9667,

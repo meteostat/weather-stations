@@ -6,9 +6,8 @@
     "country": "SE",
     "region": "SN",
     "identifiers": {
-        "national": null,
-        "wmo": "02611",
-        "icao": null
+        "$wmo": "02611",
+        "$mosmix": "02611"
     },
     "location": {
         "latitude": 56.0333,

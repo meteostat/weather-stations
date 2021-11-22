@@ -6,9 +6,12 @@
     "country": "TH",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": "48327",
-        "icao": "VTCC"
+        "$wmo": "48327",
+        "$icao": "VTCC",
+        "$iata": "CNX",
+        "$ghcn": "TH000048327",
+        "$usaf": "483270",
+        "$mosmix": "48327"
     },
     "location": {
         "latitude": 18.7833,

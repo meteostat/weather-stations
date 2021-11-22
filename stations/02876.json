@@ -6,9 +6,9 @@
     "country": "FI",
     "region": "OU",
     "identifiers": {
-        "national": null,
-        "wmo": "02876",
-        "icao": null
+        "$wmo": "02876",
+        "$usaf": "028760",
+        "$mosmix": "02876"
     },
     "location": {
         "latitude": 65,

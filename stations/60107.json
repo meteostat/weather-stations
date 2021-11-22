@@ -6,9 +6,10 @@
     "country": "MA",
     "region": "TH",
     "identifiers": {
-        "national": null,
-        "wmo": "60107",
-        "icao": "GMTA"
+        "$wmo": "60107",
+        "$icao": "GMTA",
+        "$iata": "AHU",
+        "$usaf": "601070"
     },
     "location": {
         "latitude": 35.1833,

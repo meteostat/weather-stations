@@ -6,9 +6,10 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": "72531",
-        "icao": "KTIP"
+        "$wmo": "72531",
+        "$icao": "KTIP",
+        "$wban": "04896",
+        "$usaf": "722194"
     },
     "location": {
         "latitude": 40.3,

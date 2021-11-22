@@ -6,9 +6,10 @@
     "country": "SB",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91517",
-        "icao": null
+        "$wmo": "91517",
+        "$iata": "HIR",
+        "$ghcn": "BP000091517",
+        "$mosmix": "91517"
     },
     "location": {
         "latitude": -9.4167,

@@ -6,9 +6,12 @@
     "country": "LR",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "65660",
-        "icao": "GLRB"
+        "$wmo": "65660",
+        "$icao": "GLRB",
+        "$iata": "ROB",
+        "$ghcn": "LIM00065660",
+        "$usaf": "656600",
+        "$mosmix": "65660"
     },
     "location": {
         "latitude": 6.25,

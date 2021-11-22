@@ -6,9 +6,8 @@
     "country": "KW",
     "region": "JA",
     "identifiers": {
-        "national": null,
-        "wmo": "40570",
-        "icao": null
+        "$wmo": "40570",
+        "$ghcn": "KUM00040570"
     },
     "location": {
         "latitude": 29.1167,

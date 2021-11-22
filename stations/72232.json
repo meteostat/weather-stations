@@ -6,9 +6,11 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBVE"
+        "$icao": "KBVE",
+        "$iata": "BTR",
+        "$ghcn": "USW00012884",
+        "$wban": "12884",
+        "$usaf": "722320"
     },
     "location": {
         "latitude": 29.3333,

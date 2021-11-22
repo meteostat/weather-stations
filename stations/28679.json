@@ -6,9 +6,10 @@
     "country": "KZ",
     "region": "SEV",
     "identifiers": {
-        "national": null,
-        "wmo": "28679",
-        "icao": "UACP"
+        "$wmo": "28679",
+        "$icao": "UACP",
+        "$iata": "PPK",
+        "$usaf": "286760"
     },
     "location": {
         "latitude": 54.8333,

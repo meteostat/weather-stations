@@ -6,9 +6,9 @@
     "country": "BT",
     "region": "PAR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VQPR"
+        "$icao": "VQPR",
+        "$iata": "PBH",
+        "$usaf": "433990"
     },
     "location": {
         "latitude": 27.4032,

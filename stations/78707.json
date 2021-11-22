@@ -6,9 +6,10 @@
     "country": "HN",
     "region": "YO",
     "identifiers": {
-        "national": null,
-        "wmo": "78707",
-        "icao": "MHYR"
+        "$wmo": "78707",
+        "$icao": "MHYR",
+        "$iata": "ORO",
+        "$usaf": "787070"
     },
     "location": {
         "latitude": 15.1667,

@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "ATY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UATG"
+        "$icao": "UATG",
+        "$iata": "GUW",
+        "$usaf": "381411"
     },
     "location": {
         "latitude": 47.1167,

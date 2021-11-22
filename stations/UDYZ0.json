@@ -6,9 +6,9 @@
     "country": "AM",
     "region": "VL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UDYZ"
+        "$icao": "UDYZ",
+        "$iata": "EVN",
+        "$usaf": "353946"
     },
     "location": {
         "latitude": 40.15,

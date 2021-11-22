@@ -6,9 +6,10 @@
     "country": "ID",
     "region": "KI",
     "identifiers": {
-        "national": null,
-        "wmo": "96529",
-        "icao": "WRLK"
+        "$wmo": "96529",
+        "$icao": "WRLK",
+        "$ghcn": "IDM00096529",
+        "$usaf": "965290"
     },
     "location": {
         "latitude": 2.1167,

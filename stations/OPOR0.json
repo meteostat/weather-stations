@@ -6,9 +6,9 @@
     "country": "PK",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OPOR"
+        "$icao": "OPOR",
+        "$iata": "ORW",
+        "$usaf": "417600"
     },
     "location": {
         "latitude": 25.2167,

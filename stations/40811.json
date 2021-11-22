@@ -6,9 +6,11 @@
     "country": "IR",
     "region": "KZT",
     "identifiers": {
-        "national": null,
-        "wmo": "40811",
-        "icao": "OIAW"
+        "$wmo": "40811",
+        "$icao": "OIAW",
+        "$iata": "AWZ",
+        "$ghcn": "IRM00040811",
+        "$usaf": "408110"
     },
     "location": {
         "latitude": 31.3333,

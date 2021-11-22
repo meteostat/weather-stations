@@ -6,9 +6,11 @@
     "country": "CF",
     "region": "NMM",
     "identifiers": {
-        "national": null,
-        "wmo": "64601",
-        "icao": "FEFO"
+        "$wmo": "64601",
+        "$icao": "FEFO",
+        "$iata": "BOP",
+        "$ghcn": "CTM00064601",
+        "$usaf": "646010"
     },
     "location": {
         "latitude": 5.9667,

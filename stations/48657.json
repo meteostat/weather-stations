@@ -6,9 +6,12 @@
     "country": "MY",
     "region": "PH",
     "identifiers": {
-        "national": null,
-        "wmo": "48657",
-        "icao": "WMKD"
+        "$wmo": "48657",
+        "$icao": "WMKD",
+        "$iata": "KUA",
+        "$ghcn": "MY000048657",
+        "$usaf": "486570",
+        "$mosmix": "48657"
     },
     "location": {
         "latitude": 3.6167,

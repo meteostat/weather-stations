@@ -6,9 +6,9 @@
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "national": null,
-        "wmo": "02120",
-        "icao": null
+        "$wmo": "02120",
+        "$ghcn": "SW000002120",
+        "$mosmix": "02120"
     },
     "location": {
         "latitude": 66.95,

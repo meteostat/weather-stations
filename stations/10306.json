@@ -6,9 +6,11 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "national": "04174",
-        "wmo": "10306",
-        "icao": "ETHE"
+        "$national": "04174",
+        "$wmo": "10306",
+        "$icao": "ETHE",
+        "$usaf": "103060",
+        "$mosmix": "10306"
     },
     "location": {
         "latitude": 52.3,

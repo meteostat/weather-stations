@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "national": "42729",
-        "wmo": "71536",
-        "icao": "CPRY"
+        "$national": "42729",
+        "$wmo": "71536",
+        "$icao": "CPRY",
+        "$ghcn": "CA003035422",
+        "$usaf": "715360"
     },
     "location": {
         "latitude": 49.48,

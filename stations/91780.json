@@ -6,9 +6,8 @@
     "country": "TO",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": "91780",
-        "icao": null
+        "$wmo": "91780",
+        "$ghcn": "TN000091780"
     },
     "location": {
         "latitude": -18.65,

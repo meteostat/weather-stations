@@ -6,9 +6,8 @@
     "country": "RS",
     "region": "PE",
     "identifiers": {
-        "national": null,
-        "wmo": "13473",
-        "icao": null
+        "$wmo": "13473",
+        "$mosmix": "13473"
     },
     "location": {
         "latitude": 42.6667,

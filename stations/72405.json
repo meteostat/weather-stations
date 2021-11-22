@@ -6,9 +6,13 @@
     "country": "US",
     "region": "DC",
     "identifiers": {
-        "national": null,
-        "wmo": "72405",
-        "icao": "KDCA"
+        "$wmo": "72405",
+        "$icao": "KDCA",
+        "$iata": "DCA",
+        "$ghcn": "USW00013743",
+        "$wban": "13743",
+        "$usaf": "724050",
+        "$mosmix": "72405"
     },
     "location": {
         "latitude": 38.85,

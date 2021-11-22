@@ -6,9 +6,8 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "national": null,
-        "wmo": "72341",
-        "icao": null
+        "$wmo": "72341",
+        "$wban": "03964"
     },
     "location": {
         "latitude": 34.6833,

@@ -6,9 +6,8 @@
     "country": "MG",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": "67020",
-        "icao": null
+        "$wmo": "67020",
+        "$iata": "WAI"
     },
     "location": {
         "latitude": -14.8833,

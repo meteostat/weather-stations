@@ -6,9 +6,10 @@
     "country": "KM",
     "region": "A",
     "identifiers": {
-        "national": null,
-        "wmo": "67004",
-        "icao": "FMCV"
+        "$wmo": "67004",
+        "$icao": "FMCV",
+        "$iata": "AJN",
+        "$usaf": "670040"
     },
     "location": {
         "latitude": -12.1167,

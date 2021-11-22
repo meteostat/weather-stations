@@ -6,9 +6,9 @@
     "country": "GL",
     "region": "QT",
     "identifiers": {
-        "national": null,
-        "wmo": "04230",
-        "icao": "BGHB"
+        "$wmo": "04230",
+        "$icao": "BGHB",
+        "$usaf": "042300"
     },
     "location": {
         "latitude": 66.9167,

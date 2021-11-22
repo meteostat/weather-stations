@@ -6,9 +6,10 @@
     "country": "NG",
     "region": "KD",
     "identifiers": {
-        "national": null,
-        "wmo": "65030",
-        "icao": "DNZA"
+        "$wmo": "65030",
+        "$icao": "DNZA",
+        "$iata": "ZAR",
+        "$usaf": "650300"
     },
     "location": {
         "latitude": 11.1333,

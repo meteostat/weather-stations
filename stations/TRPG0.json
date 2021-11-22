@@ -6,9 +6,9 @@
     "country": "MS",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "TRPG"
+        "$icao": "TRPG",
+        "$iata": "MNI",
+        "$usaf": "788625"
     },
     "location": {
         "latitude": 16.7914,

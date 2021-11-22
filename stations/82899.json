@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "PE",
     "identifiers": {
-        "national": null,
-        "wmo": "82899",
-        "icao": "SBRF"
+        "$wmo": "82899",
+        "$icao": "SBRF",
+        "$iata": "REC",
+        "$usaf": "828990",
+        "$mosmix": "82899"
     },
     "location": {
         "latitude": -8.0667,

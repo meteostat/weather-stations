@@ -6,9 +6,9 @@
     "country": "SY",
     "region": "HA",
     "identifiers": {
-        "national": null,
-        "wmo": "40016",
-        "icao": null
+        "$wmo": "40016",
+        "$usaf": "400160",
+        "$mosmix": "40016"
     },
     "location": {
         "latitude": 36.5,

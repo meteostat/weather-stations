@@ -6,9 +6,11 @@
     "country": "US",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "78535",
-        "icao": "TJNR"
+        "$wmo": "78535",
+        "$icao": "TJNR",
+        "$iata": "NRR",
+        "$wban": "11630",
+        "$usaf": "785350"
     },
     "location": {
         "latitude": 18.25,

@@ -6,9 +6,8 @@
     "country": "TD",
     "region": "BI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FTTE"
+        "$icao": "FTTE",
+        "$usaf": "647085"
     },
     "location": {
         "latitude": 14.517,

@@ -6,9 +6,8 @@
     "country": "NZ",
     "region": "CAN",
     "identifiers": {
-        "national": null,
-        "wmo": "93783",
-        "icao": "NZWG"
+        "$wmo": "93783",
+        "$icao": "NZWG"
     },
     "location": {
         "latitude": -43.55,

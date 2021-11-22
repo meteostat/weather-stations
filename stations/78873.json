@@ -6,9 +6,11 @@
     "country": "AN",
     "region": "SE",
     "identifiers": {
-        "national": null,
-        "wmo": "78873",
-        "icao": "TNCE"
+        "$wmo": "78873",
+        "$icao": "TNCE",
+        "$iata": "EUX",
+        "$wban": "00400",
+        "$usaf": "788730"
     },
     "location": {
         "latitude": 17.4833,

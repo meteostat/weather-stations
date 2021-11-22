@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": "72747",
-        "icao": "KINL"
+        "$wmo": "72747",
+        "$icao": "KINL",
+        "$iata": "INL",
+        "$ghcn": "USW00014918",
+        "$wban": "14918",
+        "$usaf": "727470"
     },
     "location": {
         "latitude": 48.5667,

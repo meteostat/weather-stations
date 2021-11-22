@@ -6,9 +6,11 @@
     "country": "AR",
     "region": "X",
     "identifiers": {
-        "national": null,
-        "wmo": "87328",
-        "icao": "SAOD"
+        "$wmo": "87328",
+        "$icao": "SAOD",
+        "$iata": "VDR",
+        "$ghcn": "ARM00087328",
+        "$usaf": "873280"
     },
     "location": {
         "latitude": -31.95,

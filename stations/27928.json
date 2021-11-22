@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "LIP",
     "identifiers": {
-        "national": null,
-        "wmo": "27928",
-        "icao": null
+        "$wmo": "27928",
+        "$ghcn": "RSM00027928"
     },
     "location": {
         "latitude": 52.6333,

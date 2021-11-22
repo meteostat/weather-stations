@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "SBA",
     "identifiers": {
-        "national": null,
-        "wmo": "60549",
-        "icao": "DAAY"
+        "$wmo": "60549",
+        "$icao": "DAAY",
+        "$iata": "MZW",
+        "$ghcn": "AGM00060549",
+        "$usaf": "605490"
     },
     "location": {
         "latitude": 34.9333,

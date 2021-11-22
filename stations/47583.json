@@ -6,9 +6,10 @@
     "country": "JP",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "47583",
-        "icao": "RJSR"
+        "$wmo": "47583",
+        "$icao": "RJSR",
+        "$iata": "ONJ",
+        "$usaf": "475830"
     },
     "location": {
         "latitude": 40.1919,

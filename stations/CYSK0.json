@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "NU",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYSK"
+        "$icao": "CYSK",
+        "$iata": "YSK"
     },
     "location": {
         "latitude": 56.5358,

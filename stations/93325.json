@@ -6,9 +6,8 @@
     "country": "NZ",
     "region": "MW",
     "identifiers": {
-        "national": null,
-        "wmo": "93325",
-        "icao": null
+        "$wmo": "93325",
+        "$iata": "WAG"
     },
     "location": {
         "latitude": -39.9667,

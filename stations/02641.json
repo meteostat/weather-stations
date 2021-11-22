@@ -2,15 +2,17 @@
     "id": "02641",
     "name": {
         "de": "Vaxjo Flughafen",
-        "en": "Vaxjo Airport",
-        "sv": "Vaxjo Flygplats"
+        "sv": "Vaxjo Flygplats",
+        "en": "Vaxjo Airport"
     },
     "country": "SE",
     "region": "G",
     "identifiers": {
-        "national": null,
-        "wmo": "02641",
-        "icao": "ESMX"
+        "$wmo": "02641",
+        "$icao": "ESMX",
+        "$iata": "VXO",
+        "$usaf": "026410",
+        "$mosmix": "02641"
     },
     "location": {
         "latitude": 56.85,

@@ -6,9 +6,9 @@
     "country": "CU",
     "region": "HO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MUMO"
+        "$icao": "MUMO",
+        "$iata": "MOA",
+        "$usaf": "782684"
     },
     "location": {
         "latitude": 20.65,

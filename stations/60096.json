@@ -6,9 +6,10 @@
     "country": "EH",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "60096",
-        "icao": "GSVO"
+        "$wmo": "60096",
+        "$icao": "GSVO",
+        "$ghcn": "WIM00060096",
+        "$usaf": "600960"
     },
     "location": {
         "latitude": 23.7,

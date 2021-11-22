@@ -6,9 +6,10 @@
     "country": "LA",
     "region": "BK",
     "identifiers": {
-        "national": null,
-        "wmo": "48926",
-        "icao": "VLHS"
+        "$wmo": "48926",
+        "$icao": "VLHS",
+        "$iata": "HOE",
+        "$usaf": "489235"
     },
     "location": {
         "latitude": 20.25,

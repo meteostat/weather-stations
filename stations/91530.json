@@ -6,9 +6,11 @@
     "country": "NR",
     "region": "AO",
     "identifiers": {
-        "national": null,
-        "wmo": "91530",
-        "icao": "ANAU"
+        "$wmo": "91530",
+        "$icao": "ANAU",
+        "$iata": "INU",
+        "$usaf": "915300",
+        "$mosmix": "91530"
     },
     "location": {
         "latitude": -0.5333,

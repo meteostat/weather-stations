@@ -6,9 +6,8 @@
     "country": "PY",
     "region": "GU",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SGVR"
+        "$icao": "SGVR",
+        "$usaf": "862330"
     },
     "location": {
         "latitude": -25.7414,

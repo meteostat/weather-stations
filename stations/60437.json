@@ -6,9 +6,8 @@
     "country": "DZ",
     "region": "MED",
     "identifiers": {
-        "national": null,
-        "wmo": "60437",
-        "icao": null
+        "$wmo": "60437",
+        "$ghcn": "AGM00060437"
     },
     "location": {
         "latitude": 36.2667,

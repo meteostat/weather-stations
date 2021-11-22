@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPMV"
+        "$icao": "KPMV",
+        "$iata": "PMV",
+        "$wban": "00470",
+        "$usaf": "722291"
     },
     "location": {
         "latitude": 40.9484,

@@ -6,9 +6,11 @@
     "country": "TL",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": "97390",
-        "icao": "WPDL"
+        "$wmo": "97390",
+        "$icao": "WPDL",
+        "$iata": "DIL",
+        "$usaf": "973900",
+        "$mosmix": "97390"
     },
     "location": {
         "latitude": -8.5667,

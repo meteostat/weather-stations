@@ -6,9 +6,8 @@
     "country": "GF",
     "region": "SI",
     "identifiers": {
-        "national": null,
-        "wmo": "81415",
-        "icao": null
+        "$wmo": "81415",
+        "$ghcn": "FGM00081415"
     },
     "location": {
         "latitude": 3.6333,

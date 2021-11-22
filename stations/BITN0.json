@@ -6,9 +6,8 @@
     "country": "IS",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "BITN"
+        "$icao": "BITN",
+        "$iata": "THO"
     },
     "location": {
         "latitude": 66.2185,

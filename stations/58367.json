@@ -6,9 +6,12 @@
     "country": "CN",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": "58367",
-        "icao": "ZSSS"
+        "$wmo": "58367",
+        "$icao": "ZSSS",
+        "$iata": "SHA",
+        "$ghcn": "CHM00058367",
+        "$usaf": "583670",
+        "$mosmix": "58367"
     },
     "location": {
         "latitude": 31.1667,

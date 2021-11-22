@@ -6,9 +6,12 @@
     "country": "NG",
     "region": "BO",
     "identifiers": {
-        "national": null,
-        "wmo": "65082",
-        "icao": "DNMA"
+        "$wmo": "65082",
+        "$icao": "DNMA",
+        "$iata": "MIU",
+        "$ghcn": "NIM00065082",
+        "$wban": "31101",
+        "$mosmix": "65082"
     },
     "location": {
         "latitude": 11.85,

@@ -6,9 +6,9 @@
     "country": "NI",
     "region": "RV",
     "identifiers": {
-        "national": null,
-        "wmo": "78733",
-        "icao": "MNRS"
+        "$wmo": "78733",
+        "$icao": "MNRS",
+        "$usaf": "787330"
     },
     "location": {
         "latitude": 11.4167,

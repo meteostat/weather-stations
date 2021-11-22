@@ -6,9 +6,10 @@
     "country": "AT",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "11157",
-        "icao": "LOXA"
+        "$wmo": "11157",
+        "$icao": "LOXA",
+        "$usaf": "111570",
+        "$mosmix": "11157"
     },
     "location": {
         "latitude": 47.5333,

@@ -6,9 +6,8 @@
     "country": "KG",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": "38628",
-        "icao": null
+        "$wmo": "38628",
+        "$ghcn": "KG000038628"
     },
     "location": {
         "latitude": 40.25,

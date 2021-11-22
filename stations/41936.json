@@ -6,9 +6,11 @@
     "country": "BD",
     "region": "KH",
     "identifiers": {
-        "national": null,
-        "wmo": "41936",
-        "icao": "VGJR"
+        "$wmo": "41936",
+        "$icao": "VGJR",
+        "$iata": "JSR",
+        "$ghcn": "BGM00041936",
+        "$usaf": "419360"
     },
     "location": {
         "latitude": 23.1833,

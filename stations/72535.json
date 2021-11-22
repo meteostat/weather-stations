@@ -6,9 +6,12 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": "72535",
-        "icao": "KSBN"
+        "$wmo": "72535",
+        "$icao": "KSBN",
+        "$iata": "SBN",
+        "$ghcn": "USW00014848",
+        "$wban": "14848",
+        "$usaf": "725350"
     },
     "location": {
         "latitude": 41.7,

@@ -6,9 +6,9 @@
     "country": "CY",
     "region": "NI",
     "identifiers": {
-        "national": null,
-        "wmo": "17607",
-        "icao": "LCNC"
+        "$wmo": "17607",
+        "$icao": "LCNC",
+        "$usaf": "176070"
     },
     "location": {
         "latitude": 35.15,

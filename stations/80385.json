@@ -6,9 +6,8 @@
     "country": "CO",
     "region": "PUT",
     "identifiers": {
-        "national": null,
-        "wmo": "80385",
-        "icao": null
+        "$wmo": "80385",
+        "$iata": "LQM"
     },
     "location": {
         "latitude": -0.2,

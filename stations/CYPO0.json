@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYPO"
+        "$icao": "CYPO",
+        "$iata": "YPO"
     },
     "location": {
         "latitude": 54.9881,

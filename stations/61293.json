@@ -6,9 +6,11 @@
     "country": "ML",
     "region": "SK",
     "identifiers": {
-        "national": null,
-        "wmo": "61293",
-        "icao": "GAKO"
+        "$wmo": "61293",
+        "$icao": "GAKO",
+        "$iata": "KTX",
+        "$ghcn": "MLM00061293",
+        "$usaf": "612930"
     },
     "location": {
         "latitude": 12.3833,

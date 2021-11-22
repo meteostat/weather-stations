@@ -6,9 +6,8 @@
     "country": "PY",
     "region": "SP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SGSP"
+        "$icao": "SGSP",
+        "$usaf": "861850"
     },
     "location": {
         "latitude": -24.0828,

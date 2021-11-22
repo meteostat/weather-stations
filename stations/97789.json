@@ -6,9 +6,10 @@
     "country": "AR",
     "region": "U",
     "identifiers": {
-        "national": null,
-        "wmo": "97789",
-        "icao": "SAVY"
+        "$wmo": "97789",
+        "$icao": "SAVY",
+        "$iata": "PMY",
+        "$usaf": "877895"
     },
     "location": {
         "latitude": -42.77,

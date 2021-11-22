@@ -6,9 +6,9 @@
     "country": "CU",
     "region": "PD",
     "identifiers": {
-        "national": null,
-        "wmo": "78310",
-        "icao": "MUAN"
+        "$wmo": "78310",
+        "$icao": "MUAN",
+        "$ghcn": "CUM00078310"
     },
     "location": {
         "latitude": 21.8667,

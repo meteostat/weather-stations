@@ -6,9 +6,9 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EGNJ"
+        "$icao": "EGNJ",
+        "$iata": "HUY",
+        "$usaf": "033735"
     },
     "location": {
         "latitude": 53.5833,

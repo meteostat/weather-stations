@@ -6,9 +6,7 @@
     "country": "GB",
     "region": "ZET",
     "identifiers": {
-        "national": null,
-        "wmo": "03008",
-        "icao": null
+        "$wmo": "03008"
     },
     "location": {
         "latitude": 59.5333,

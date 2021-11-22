@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "BR",
     "identifiers": {
-        "national": null,
-        "wmo": "42703",
-        "icao": "VEDB"
+        "$wmo": "42703",
+        "$icao": "VEDB",
+        "$iata": "DBD"
     },
     "location": {
         "latitude": 23.7833,

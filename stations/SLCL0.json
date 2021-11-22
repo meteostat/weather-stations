@@ -6,9 +6,7 @@
     "country": "BO",
     "region": "L",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SLCL"
+        "$icao": "SLCL"
     },
     "location": {
         "latitude": -15.8,

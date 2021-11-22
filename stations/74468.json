@@ -6,9 +6,8 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": "74468",
-        "icao": null
+        "$wmo": "74468",
+        "$wban": "53814"
     },
     "location": {
         "latitude": 38.8333,

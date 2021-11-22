@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "PFSH"
+        "$icao": "PFSH",
+        "$wban": "00111",
+        "$usaf": "703888"
     },
     "location": {
         "latitude": 64.3711,

@@ -6,9 +6,8 @@
     "country": "NE",
     "region": "DS",
     "identifiers": {
-        "national": null,
-        "wmo": "61053",
-        "icao": null
+        "$wmo": "61053",
+        "$ghcn": "NGM00061053"
     },
     "location": {
         "latitude": 13.0333,

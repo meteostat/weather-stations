@@ -6,9 +6,8 @@
     "country": "CH",
     "region": "GR",
     "identifiers": {
-        "national": null,
-        "wmo": "06795",
-        "icao": null
+        "$wmo": "06795",
+        "$mosmix": "06795"
     },
     "location": {
         "latitude": 46.5772,

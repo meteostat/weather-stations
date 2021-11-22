@@ -6,9 +6,10 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KYKN"
+        "$icao": "KYKN",
+        "$iata": "YKN",
+        "$wban": "94911",
+        "$usaf": "726525"
     },
     "location": {
         "latitude": 42.9167,

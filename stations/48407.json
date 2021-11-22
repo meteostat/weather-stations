@@ -6,9 +6,11 @@
     "country": "TH",
     "region": "UR",
     "identifiers": {
-        "national": null,
-        "wmo": "48407",
-        "icao": "VTUU"
+        "$wmo": "48407",
+        "$icao": "VTUU",
+        "$iata": "UBP",
+        "$ghcn": "TH000048407",
+        "$usaf": "484070"
     },
     "location": {
         "latitude": 15.25,

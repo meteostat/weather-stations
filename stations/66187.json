@@ -6,9 +6,8 @@
     "country": "AO",
     "region": "LNO",
     "identifiers": {
-        "national": null,
-        "wmo": "66187",
-        "icao": "FNCX"
+        "$wmo": "66187",
+        "$icao": "FNCX"
     },
     "location": {
         "latitude": -8.3667,

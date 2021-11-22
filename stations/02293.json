@@ -2,15 +2,17 @@
     "id": "02293",
     "name": {
         "de": "Skelleftea Flughafen",
-        "en": "Skelleftea Airport",
-        "sv": "Skelleftea Flygplats"
+        "sv": "Skelleftea Flygplats",
+        "en": "Skelleftea Airport"
     },
     "country": "SE",
     "region": "AC",
     "identifiers": {
-        "national": null,
-        "wmo": "02293",
-        "icao": "ESNS"
+        "$wmo": "02293",
+        "$icao": "ESNS",
+        "$iata": "SFT",
+        "$usaf": "022930",
+        "$mosmix": "02293"
     },
     "location": {
         "latitude": 64.6333,

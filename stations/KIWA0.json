@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIWA"
+        "$icao": "KIWA",
+        "$wban": "23104",
+        "$usaf": "722786"
     },
     "location": {
         "latitude": 33.3078,

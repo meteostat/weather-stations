@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KDAW"
+        "$icao": "KDAW",
+        "$wban": "54791",
+        "$usaf": "726056"
     },
     "location": {
         "latitude": 43.2841,

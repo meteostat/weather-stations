@@ -6,9 +6,10 @@
     "country": "RS",
     "region": "KT",
     "identifiers": {
-        "national": null,
-        "wmo": "13457",
-        "icao": "LYTV"
+        "$wmo": "13457",
+        "$icao": "LYTV",
+        "$iata": "TIV",
+        "$usaf": "134570"
     },
     "location": {
         "latitude": 42.4,

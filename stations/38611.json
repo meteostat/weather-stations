@@ -6,9 +6,11 @@
     "country": "UZ",
     "region": "NG",
     "identifiers": {
-        "national": null,
-        "wmo": "38611",
-        "icao": "UTFN"
+        "$wmo": "38611",
+        "$icao": "UTFN",
+        "$iata": "NMA",
+        "$ghcn": "UZM00038611",
+        "$usaf": "386110"
     },
     "location": {
         "latitude": 40.9833,

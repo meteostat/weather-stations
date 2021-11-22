@@ -6,9 +6,7 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KM21"
+        "$icao": "KM21"
     },
     "location": {
         "latitude": 37.2262,

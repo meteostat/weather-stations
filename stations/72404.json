@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "national": null,
-        "wmo": "72404",
-        "icao": "KNHK"
+        "$wmo": "72404",
+        "$icao": "KNHK",
+        "$iata": "NHK",
+        "$ghcn": "USW00013721",
+        "$wban": "13721",
+        "$usaf": "724040"
     },
     "location": {
         "latitude": 38.3,

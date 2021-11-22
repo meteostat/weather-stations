@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOLE"
+        "$icao": "KOLE",
+        "$iata": "OLE",
+        "$wban": "00465",
+        "$usaf": "725283"
     },
     "location": {
         "latitude": 42.2413,

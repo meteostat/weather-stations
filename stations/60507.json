@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "MC",
     "identifiers": {
-        "national": null,
-        "wmo": "60507",
-        "icao": "DAOV"
+        "$wmo": "60507",
+        "$icao": "DAOV",
+        "$iata": "MUW",
+        "$ghcn": "AGM00060507",
+        "$usaf": "605070"
     },
     "location": {
         "latitude": 35.2,

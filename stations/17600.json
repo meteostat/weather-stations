@@ -6,9 +6,11 @@
     "country": "CY",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "17600",
-        "icao": "LCPH"
+        "$wmo": "17600",
+        "$icao": "LCPH",
+        "$iata": "PFO",
+        "$usaf": "176000",
+        "$mosmix": "17600"
     },
     "location": {
         "latitude": 34.7167,

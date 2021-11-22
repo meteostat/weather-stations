@@ -6,9 +6,8 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTMT"
+        "$icao": "KTMT",
+        "$usaf": "720129"
     },
     "location": {
         "latitude": 39.468,

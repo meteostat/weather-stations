@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "CH",
     "identifiers": {
-        "national": null,
-        "wmo": "47727",
-        "icao": "RJTL"
+        "$wmo": "47727",
+        "$icao": "RJTL",
+        "$usaf": "477270"
     },
     "location": {
         "latitude": 35.8,

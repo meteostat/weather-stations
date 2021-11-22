@@ -6,9 +6,8 @@
     "country": "HU",
     "region": "KE",
     "identifiers": {
-        "national": null,
-        "wmo": "12836",
-        "icao": null
+        "$wmo": "12836",
+        "$usaf": "128360"
     },
     "location": {
         "latitude": 47.65,

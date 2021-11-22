@@ -6,9 +6,12 @@
     "country": "BY",
     "region": "HO",
     "identifiers": {
-        "national": null,
-        "wmo": "33041",
-        "icao": "UMGG"
+        "$wmo": "33041",
+        "$icao": "UMGG",
+        "$iata": "GME",
+        "$ghcn": "BOM00033041",
+        "$usaf": "330410",
+        "$mosmix": "33041"
     },
     "location": {
         "latitude": 52.4,

@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "USCM"
+        "$icao": "USCM",
+        "$iata": "MQF",
+        "$usaf": "232215"
     },
     "location": {
         "latitude": 53.3833,

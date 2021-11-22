@@ -6,9 +6,7 @@
     "country": "AZ",
     "region": "ISM",
     "identifiers": {
-        "national": null,
-        "wmo": "37750",
-        "icao": null
+        "$wmo": "37750"
     },
     "location": {
         "latitude": 40.7833,

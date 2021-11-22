@@ -6,9 +6,12 @@
     "country": "AT",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "11231",
-        "icao": "LOWK"
+        "$wmo": "11231",
+        "$icao": "LOWK",
+        "$iata": "KLU",
+        "$ghcn": "AUM00011231",
+        "$usaf": "112310",
+        "$mosmix": "11231"
     },
     "location": {
         "latitude": 46.65,

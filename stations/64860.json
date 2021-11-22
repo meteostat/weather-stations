@@ -6,9 +6,11 @@
     "country": "CM",
     "region": "NO",
     "identifiers": {
-        "national": null,
-        "wmo": "64860",
-        "icao": "FKKR"
+        "$wmo": "64860",
+        "$icao": "FKKR",
+        "$iata": "GOU",
+        "$ghcn": "CMM00064860",
+        "$usaf": "648600"
     },
     "location": {
         "latitude": 9.3333,

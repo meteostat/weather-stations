@@ -6,9 +6,8 @@
     "country": "IE",
     "region": "SO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EISG"
+        "$icao": "EISG",
+        "$iata": "SXL"
     },
     "location": {
         "latitude": 54.2802,

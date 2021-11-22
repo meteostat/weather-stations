@@ -6,9 +6,9 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KNYG"
+        "$icao": "KNYG",
+        "$wban": "13773",
+        "$usaf": "724035"
     },
     "location": {
         "latitude": 38.5036,

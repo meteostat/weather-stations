@@ -6,9 +6,11 @@
     "country": "NL",
     "region": "NH",
     "identifiers": {
-        "national": null,
-        "wmo": "06240",
-        "icao": "EHAM"
+        "$wmo": "06240",
+        "$icao": "EHAM",
+        "$iata": "AMS",
+        "$usaf": "062400",
+        "$mosmix": "06240"
     },
     "location": {
         "latitude": 52.3,

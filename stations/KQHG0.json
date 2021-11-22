@@ -6,9 +6,8 @@
     "country": "HN",
     "region": "FM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQHG"
+        "$icao": "KQHG",
+        "$wban": "11820"
     },
     "location": {
         "latitude": 14.2167,

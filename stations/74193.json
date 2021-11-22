@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NF",
     "identifiers": {
-        "national": null,
-        "wmo": "74193",
-        "icao": "CYHW"
+        "$wmo": "74193",
+        "$icao": "CYHW",
+        "$wban": "14528"
     },
     "location": {
         "latitude": 49.2667,

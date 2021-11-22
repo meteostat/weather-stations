@@ -6,9 +6,8 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KVSH"
+        "$icao": "KVSH",
+        "$usaf": "720466"
     },
     "location": {
         "latitude": 29.9527,

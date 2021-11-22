@@ -6,9 +6,11 @@
     "country": "MR",
     "region": "AD",
     "identifiers": {
-        "national": null,
-        "wmo": "61421",
-        "icao": "GQPA"
+        "$wmo": "61421",
+        "$icao": "GQPA",
+        "$iata": "ATR",
+        "$ghcn": "MR000061421",
+        "$usaf": "614210"
     },
     "location": {
         "latitude": 20.5167,

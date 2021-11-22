@@ -6,9 +6,11 @@
     "country": "UG",
     "region": "JI",
     "identifiers": {
-        "national": null,
-        "wmo": "63682",
-        "icao": "HUJI"
+        "$wmo": "63682",
+        "$icao": "HUJI",
+        "$iata": "JIN",
+        "$ghcn": "UG000063682",
+        "$usaf": "636820"
     },
     "location": {
         "latitude": 0.45,

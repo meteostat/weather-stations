@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YMDG"
+        "$icao": "YMDG",
+        "$iata": "DGE"
     },
     "location": {
         "latitude": -32.5625,

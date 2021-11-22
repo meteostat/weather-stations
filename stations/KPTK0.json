@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPTK"
+        "$icao": "KPTK",
+        "$iata": "PTK",
+        "$wban": "94817",
+        "$usaf": "726375"
     },
     "location": {
         "latitude": 42.6656,

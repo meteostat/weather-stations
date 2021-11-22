@@ -6,9 +6,8 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": "72318",
-        "icao": "KRNK"
+        "$wmo": "72318",
+        "$icao": "KRNK"
     },
     "location": {
         "latitude": 37.2,

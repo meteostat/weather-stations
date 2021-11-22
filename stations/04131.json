@@ -6,9 +6,9 @@
     "country": "IS",
     "region": "VF",
     "identifiers": {
-        "national": null,
-        "wmo": "04131",
-        "icao": "BIGJ"
+        "$wmo": "04131",
+        "$icao": "BIGJ",
+        "$iata": "GJR"
     },
     "location": {
         "latitude": 65.9833,

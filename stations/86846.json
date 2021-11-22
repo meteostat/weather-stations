@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "86846",
-        "icao": null
+        "$wmo": "86846",
+        "$usaf": "868460"
     },
     "location": {
         "latitude": -21.9178,

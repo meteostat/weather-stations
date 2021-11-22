@@ -6,9 +6,8 @@
     "country": "AZ",
     "region": "QOB",
     "identifiers": {
-        "national": null,
-        "wmo": "37756",
-        "icao": null
+        "$wmo": "37756",
+        "$ghcn": "AJ000037756"
     },
     "location": {
         "latitude": 40.5333,

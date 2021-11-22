@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "NEN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ULDD"
+        "$icao": "ULDD",
+        "$iata": "AMV",
+        "$usaf": "230220"
     },
     "location": {
         "latitude": 69.75,

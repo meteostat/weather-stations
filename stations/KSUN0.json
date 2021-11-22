@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSUN"
+        "$icao": "KSUN",
+        "$wban": "94161",
+        "$usaf": "725865"
     },
     "location": {
         "latitude": 43.5038,

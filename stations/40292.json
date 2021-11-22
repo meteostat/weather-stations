@@ -6,9 +6,8 @@
     "country": "JO",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "40292",
-        "icao": null
+        "$wmo": "40292",
+        "$mosmix": "40292"
     },
     "location": {
         "latitude": 31.2667,

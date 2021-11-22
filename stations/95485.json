@@ -6,9 +6,11 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "national": null,
-        "wmo": "95485",
-        "icao": "YTIB"
+        "$wmo": "95485",
+        "$icao": "YTIB",
+        "$iata": "TYB",
+        "$ghcn": "ASN00046126",
+        "$usaf": "954850"
     },
     "location": {
         "latitude": -29.4447,

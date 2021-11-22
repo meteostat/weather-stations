@@ -6,9 +6,11 @@
     "country": "PY",
     "region": "CC",
     "identifiers": {
-        "national": null,
-        "wmo": "86134",
-        "icao": "SGCO"
+        "$wmo": "86134",
+        "$icao": "SGCO",
+        "$iata": "CIO",
+        "$ghcn": "PA000086134",
+        "$usaf": "861340"
     },
     "location": {
         "latitude": -23.4167,

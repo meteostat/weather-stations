@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": "08280",
-        "icao": "LEAB"
+        "$wmo": "08280",
+        "$icao": "LEAB",
+        "$iata": "ABC",
+        "$ghcn": "SP000008280",
+        "$usaf": "082800",
+        "$mosmix": "08280"
     },
     "location": {
         "latitude": 38.95,

@@ -6,9 +6,13 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": "72340",
-        "icao": "KLZK"
+        "$wmo": "72340",
+        "$icao": "KLZK",
+        "$iata": "LIT",
+        "$ghcn": "USW00003952",
+        "$wban": "03952",
+        "$usaf": "723400",
+        "$mosmix": "72340"
     },
     "location": {
         "latitude": 34.8333,

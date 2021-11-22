@@ -6,9 +6,13 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": "72451",
-        "icao": "KDDC"
+        "$wmo": "72451",
+        "$icao": "KDDC",
+        "$iata": "DDC",
+        "$ghcn": "USW00013985",
+        "$wban": "13985",
+        "$usaf": "724510",
+        "$mosmix": "72451"
     },
     "location": {
         "latitude": 37.7667,

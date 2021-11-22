@@ -6,9 +6,10 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTXK"
+        "$icao": "KTXK",
+        "$iata": "TXK",
+        "$wban": "13977",
+        "$usaf": "723418"
     },
     "location": {
         "latitude": 33.4537,

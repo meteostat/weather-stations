@@ -6,9 +6,9 @@
     "country": "GT",
     "region": "QZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MGQZ"
+        "$icao": "MGQZ",
+        "$iata": "AAZ",
+        "$usaf": "786475"
     },
     "location": {
         "latitude": 14.8333,

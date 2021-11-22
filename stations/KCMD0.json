@@ -6,9 +6,7 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KCMD"
+        "$icao": "KCMD"
     },
     "location": {
         "latitude": 34.2687,

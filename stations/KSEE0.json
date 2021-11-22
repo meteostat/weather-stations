@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSEE"
+        "$icao": "KSEE",
+        "$iata": "SEE",
+        "$wban": "53143",
+        "$usaf": "722907"
     },
     "location": {
         "latitude": 32.8262,

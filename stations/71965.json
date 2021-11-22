@@ -6,9 +6,12 @@
     "country": "CA",
     "region": "YT",
     "identifiers": {
-        "national": "51426",
-        "wmo": "71965",
-        "icao": "CYMA"
+        "$national": "51426",
+        "$wmo": "71965",
+        "$icao": "CYMA",
+        "$iata": "YMA",
+        "$ghcn": "CA002100700",
+        "$usaf": "719650"
     },
     "location": {
         "latitude": 63.62,

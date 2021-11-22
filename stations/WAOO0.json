@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "KS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "WAOO"
+        "$icao": "WAOO",
+        "$iata": "BDJ",
+        "$usaf": "966850"
     },
     "location": {
         "latitude": -3.4424,

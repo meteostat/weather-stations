@@ -6,9 +6,8 @@
     "country": "CZ",
     "region": "VY",
     "identifiers": {
-        "national": null,
-        "wmo": "11628",
-        "icao": null
+        "$wmo": "11628",
+        "$mosmix": "11628"
     },
     "location": {
         "latitude": 49.5833,

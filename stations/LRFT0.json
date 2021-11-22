@@ -6,9 +6,8 @@
     "country": "RO",
     "region": "CL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LRFT"
+        "$icao": "LRFT",
+        "$usaf": "150002"
     },
     "location": {
         "latitude": 44.3922,

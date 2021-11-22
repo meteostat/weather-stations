@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": "71620",
-        "icao": "CYGK"
+        "$wmo": "71620",
+        "$icao": "CYGK",
+        "$iata": "YGK",
+        "$usaf": "716200",
+        "$mosmix": "71620"
     },
     "location": {
         "latitude": 44.2167,

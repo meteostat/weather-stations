@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YCBP"
+        "$icao": "YCBP",
+        "$iata": "CPD"
     },
     "location": {
         "latitude": -29.04,

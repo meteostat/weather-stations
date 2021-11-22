@@ -6,9 +6,12 @@
     "country": "BJ",
     "region": "AQ",
     "identifiers": {
-        "national": null,
-        "wmo": "65344",
-        "icao": "DBBB"
+        "$wmo": "65344",
+        "$icao": "DBBB",
+        "$iata": "COO",
+        "$ghcn": "BN000005344",
+        "$usaf": "653440",
+        "$mosmix": "65344"
     },
     "location": {
         "latitude": 6.35,

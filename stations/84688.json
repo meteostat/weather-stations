@@ -6,9 +6,10 @@
     "country": "PE",
     "region": "AP",
     "identifiers": {
-        "national": null,
-        "wmo": "84688",
-        "icao": "SPHY"
+        "$wmo": "84688",
+        "$icao": "SPHY",
+        "$iata": "ANS",
+        "$usaf": "846880"
     },
     "location": {
         "latitude": -13.7167,

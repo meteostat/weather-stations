@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": "48870",
-        "wmo": "71290",
-        "icao": null
+        "$national": "48870",
+        "$wmo": "71290"
     },
     "location": {
         "latitude": 55.3,

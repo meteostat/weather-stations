@@ -6,9 +6,10 @@
     "country": "PG",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": "92022",
-        "icao": "AYVN"
+        "$wmo": "92022",
+        "$icao": "AYVN",
+        "$iata": "VAI",
+        "$ghcn": "PPM00092022"
     },
     "location": {
         "latitude": -2.7,

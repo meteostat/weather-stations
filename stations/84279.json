@@ -6,9 +6,11 @@
     "country": "EC",
     "region": "L",
     "identifiers": {
-        "national": null,
-        "wmo": "84279",
-        "icao": "SEMA"
+        "$wmo": "84279",
+        "$icao": "SEMA",
+        "$iata": "MRR",
+        "$ghcn": "EC000084279",
+        "$usaf": "842790"
     },
     "location": {
         "latitude": -4.3667,

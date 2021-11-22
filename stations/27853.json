@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "PNZ",
     "identifiers": {
-        "national": null,
-        "wmo": "27853",
-        "icao": null
+        "$wmo": "27853",
+        "$ghcn": "RSM00027853"
     },
     "location": {
         "latitude": 53.8667,

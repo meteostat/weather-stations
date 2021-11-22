@@ -6,9 +6,10 @@
     "country": "KE",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": "63708",
-        "icao": "HKKI"
+        "$wmo": "63708",
+        "$icao": "HKKI",
+        "$iata": "KIS",
+        "$usaf": "637080"
     },
     "location": {
         "latitude": -0.1,

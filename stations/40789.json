@@ -6,9 +6,8 @@
     "country": "IR",
     "region": "EFH",
     "identifiers": {
-        "national": null,
-        "wmo": "40789",
-        "icao": null
+        "$wmo": "40789",
+        "$usaf": "407890"
     },
     "location": {
         "latitude": 33.7833,

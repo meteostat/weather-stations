@@ -6,9 +6,10 @@
     "country": "SR",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "81225",
-        "icao": "SMZY"
+        "$wmo": "81225",
+        "$icao": "SMZY",
+        "$iata": "PBM",
+        "$ghcn": "NSM00081225"
     },
     "location": {
         "latitude": 5.45,

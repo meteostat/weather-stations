@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "UN",
     "identifiers": {
-        "national": null,
-        "wmo": "33748",
-        "icao": null
+        "$wmo": "33748",
+        "$ghcn": "MD000033748",
+        "$usaf": "337480"
     },
     "location": {
         "latitude": 47.3333,

@@ -6,9 +6,9 @@
     "country": "BO",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SLVG"
+        "$icao": "SLVG",
+        "$iata": "VAH",
+        "$usaf": "852640"
     },
     "location": {
         "latitude": -18.4825,

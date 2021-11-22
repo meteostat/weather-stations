@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBAX"
+        "$icao": "SBAX",
+        "$iata": "AAX"
     },
     "location": {
         "latitude": -19.5632,

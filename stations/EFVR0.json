@@ -6,9 +6,9 @@
     "country": "FI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EFVR"
+        "$icao": "EFVR",
+        "$iata": "VRK",
+        "$usaf": "027480"
     },
     "location": {
         "latitude": 62.1667,

@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "VIC",
     "identifiers": {
-        "national": null,
-        "wmo": "69868",
-        "icao": "KQYV"
+        "$wmo": "69868",
+        "$icao": "KQYV",
+        "$usaf": "698684"
     },
     "location": {
         "latitude": 5.52,

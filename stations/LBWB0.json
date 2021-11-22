@@ -6,9 +6,8 @@
     "country": "BG",
     "region": "DO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LBWB"
+        "$icao": "LBWB",
+        "$usaf": "155257"
     },
     "location": {
         "latitude": 43.4238,

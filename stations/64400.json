@@ -6,9 +6,12 @@
     "country": "CG",
     "region": "KL",
     "identifiers": {
-        "national": null,
-        "wmo": "64400",
-        "icao": "FCPP"
+        "$wmo": "64400",
+        "$icao": "FCPP",
+        "$iata": "PNR",
+        "$ghcn": "CF000004400",
+        "$usaf": "644000",
+        "$mosmix": "64400"
     },
     "location": {
         "latitude": -4.8167,

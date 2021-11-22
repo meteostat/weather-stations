@@ -6,9 +6,11 @@
     "country": "JP",
     "region": "AO",
     "identifiers": {
-        "national": null,
-        "wmo": "47580",
-        "icao": "RJSM"
+        "$wmo": "47580",
+        "$icao": "RJSM",
+        "$iata": "MSJ",
+        "$wban": "44402",
+        "$usaf": "475800"
     },
     "location": {
         "latitude": 40.7,

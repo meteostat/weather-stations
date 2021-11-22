@@ -6,9 +6,8 @@
     "country": "GY",
     "region": "UD",
     "identifiers": {
-        "national": null,
-        "wmo": "81010",
-        "icao": "SYEB"
+        "$wmo": "81010",
+        "$icao": "SYEB"
     },
     "location": {
         "latitude": 5.5667,

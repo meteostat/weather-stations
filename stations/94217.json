@@ -6,9 +6,10 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "94217",
-        "icao": "YARG"
+        "$wmo": "94217",
+        "$icao": "YARG",
+        "$iata": "GYL",
+        "$ghcn": "ASN00002064"
     },
     "location": {
         "latitude": -16.6333,

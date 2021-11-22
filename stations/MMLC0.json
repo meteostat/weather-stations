@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "MIC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMLC"
+        "$icao": "MMLC",
+        "$iata": "LZC",
+        "$usaf": "769995"
     },
     "location": {
         "latitude": 18.0022,

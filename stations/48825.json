@@ -6,9 +6,11 @@
     "country": "VN",
     "region": "HP",
     "identifiers": {
-        "national": null,
-        "wmo": "48825",
-        "icao": "VVCI"
+        "$wmo": "48825",
+        "$icao": "VVCI",
+        "$iata": "HPH",
+        "$ghcn": "VMM00048825",
+        "$usaf": "488251"
     },
     "location": {
         "latitude": 20.9667,

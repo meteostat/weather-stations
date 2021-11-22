@@ -6,9 +6,12 @@
     "country": "CZ",
     "region": "JM",
     "identifiers": {
-        "national": null,
-        "wmo": "11723",
-        "icao": "LKTB"
+        "$wmo": "11723",
+        "$icao": "LKTB",
+        "$iata": "BRQ",
+        "$ghcn": "EZM00011723",
+        "$usaf": "117230",
+        "$mosmix": "11723"
     },
     "location": {
         "latitude": 49.15,

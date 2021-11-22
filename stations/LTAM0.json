@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "KAY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTAM"
+        "$icao": "LTAM",
+        "$iata": "ASR",
+        "$usaf": "171960"
     },
     "location": {
         "latitude": 38.7167,

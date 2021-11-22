@@ -6,9 +6,8 @@
     "country": "PE",
     "region": "JUN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SPMF"
+        "$icao": "SPMF",
+        "$usaf": "845800"
     },
     "location": {
         "latitude": -11.3254,

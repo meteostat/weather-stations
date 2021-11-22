@@ -6,9 +6,9 @@
     "country": "TJ",
     "region": "LE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UTDL"
+        "$icao": "UTDL",
+        "$iata": "LBD",
+        "$usaf": "381413"
     },
     "location": {
         "latitude": 40.2154,

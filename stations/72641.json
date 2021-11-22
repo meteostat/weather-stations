@@ -6,9 +6,12 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": "72641",
-        "icao": "KMSN"
+        "$wmo": "72641",
+        "$icao": "KMSN",
+        "$iata": "MSN",
+        "$ghcn": "USW00014837",
+        "$wban": "14837",
+        "$usaf": "726410"
     },
     "location": {
         "latitude": 43.1333,

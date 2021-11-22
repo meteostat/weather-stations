@@ -2,15 +2,14 @@
     "id": "02171",
     "name": {
         "de": "Boden Flughafen",
-        "en": "Boden Airport",
-        "sv": "Boden Flygplats"
+        "sv": "Boden Flygplats",
+        "en": "Boden Airport"
     },
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "national": null,
-        "wmo": "02171",
-        "icao": "ESPG"
+        "$wmo": "02171",
+        "$icao": "ESPG"
     },
     "location": {
         "latitude": 65.8167,

@@ -6,9 +6,11 @@
     "country": "CD",
     "region": "KW",
     "identifiers": {
-        "national": null,
-        "wmo": "64235",
-        "icao": "FZUA"
+        "$wmo": "64235",
+        "$icao": "FZUA",
+        "$iata": "KGA",
+        "$ghcn": "CGM00064235",
+        "$usaf": "642350"
     },
     "location": {
         "latitude": -5.8833,

@@ -6,9 +6,12 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": "72464",
-        "icao": "KPUB"
+        "$wmo": "72464",
+        "$icao": "KPUB",
+        "$iata": "PUB",
+        "$ghcn": "USW00093058",
+        "$wban": "93058",
+        "$usaf": "724640"
     },
     "location": {
         "latitude": 38.2833,

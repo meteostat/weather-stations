@@ -6,9 +6,12 @@
     "country": "MR",
     "region": "DN",
     "identifiers": {
-        "national": null,
-        "wmo": "61415",
-        "icao": "GQPP"
+        "$wmo": "61415",
+        "$icao": "GQPP",
+        "$iata": "NDB",
+        "$ghcn": "MR000061415",
+        "$usaf": "614150",
+        "$mosmix": "61415"
     },
     "location": {
         "latitude": 20.9333,

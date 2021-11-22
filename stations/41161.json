@@ -6,9 +6,8 @@
     "country": "QA",
     "region": "DY",
     "identifiers": {
-        "national": null,
-        "wmo": "41161",
-        "icao": null
+        "$wmo": "41161",
+        "$usaf": "411610"
     },
     "location": {
         "latitude": 25.6167,

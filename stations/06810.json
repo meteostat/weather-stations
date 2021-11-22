@@ -6,9 +6,8 @@
     "country": "CH",
     "region": "GL",
     "identifiers": {
-        "national": null,
-        "wmo": "06810",
-        "icao": "LSMF"
+        "$wmo": "06810",
+        "$icao": "LSMF"
     },
     "location": {
         "latitude": 47.0831,

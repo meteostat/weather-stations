@@ -6,9 +6,9 @@
     "country": "NG",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "DNAK"
+        "$icao": "DNAK",
+        "$iata": "AKR",
+        "$usaf": "652320"
     },
     "location": {
         "latitude": 7.2467,

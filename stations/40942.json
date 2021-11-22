@@ -6,9 +6,10 @@
     "country": "AF",
     "region": "ORU",
     "identifiers": {
-        "national": null,
-        "wmo": "40942",
-        "icao": "OACC"
+        "$wmo": "40942",
+        "$icao": "OACC",
+        "$iata": "CCN",
+        "$usaf": "409420"
     },
     "location": {
         "latitude": 33.5333,

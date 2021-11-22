@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "HE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ENHA"
+        "$icao": "ENHA",
+        "$iata": "HMR",
+        "$usaf": "013839"
     },
     "location": {
         "latitude": 60.8167,

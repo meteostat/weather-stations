@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "GT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FAGM"
+        "$icao": "FAGM",
+        "$iata": "QRA",
+        "$usaf": "683463"
     },
     "location": {
         "latitude": -26.25,

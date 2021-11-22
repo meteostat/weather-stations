@@ -6,9 +6,10 @@
     "country": "TW",
     "region": "TC",
     "identifiers": {
-        "national": null,
-        "wmo": "46696",
-        "icao": "RCSS"
+        "$wmo": "46696",
+        "$icao": "RCSS",
+        "$iata": "TSA",
+        "$usaf": "466960"
     },
     "location": {
         "latitude": 25.0667,

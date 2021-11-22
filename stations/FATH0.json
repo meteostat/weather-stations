@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "NP",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FATH"
+        "$icao": "FATH",
+        "$iata": "THY",
+        "$usaf": "681830"
     },
     "location": {
         "latitude": -23.0769,

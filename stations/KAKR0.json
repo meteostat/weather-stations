@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KAKR"
+        "$icao": "KAKR",
+        "$wban": "14813",
+        "$usaf": "724303"
     },
     "location": {
         "latitude": 41.0375,

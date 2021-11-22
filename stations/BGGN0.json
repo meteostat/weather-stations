@@ -6,9 +6,9 @@
     "country": "GL",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "BGGN"
+        "$icao": "BGGN",
+        "$iata": "JGO",
+        "$wban": "16505"
     },
     "location": {
         "latitude": 69.25,

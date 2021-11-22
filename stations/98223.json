@@ -6,9 +6,11 @@
     "country": "PH",
     "region": "ILN",
     "identifiers": {
-        "national": null,
-        "wmo": "98223",
-        "icao": "RPLI"
+        "$wmo": "98223",
+        "$icao": "RPLI",
+        "$iata": "LAO",
+        "$ghcn": "RP000982230",
+        "$usaf": "982230"
     },
     "location": {
         "latitude": 18.1833,

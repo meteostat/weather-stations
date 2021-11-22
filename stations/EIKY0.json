@@ -6,9 +6,8 @@
     "country": "IE",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EIKY"
+        "$icao": "EIKY",
+        "$iata": "KIR"
     },
     "location": {
         "latitude": 52.1809,

@@ -6,9 +6,8 @@
     "country": "MX",
     "region": "BCN",
     "identifiers": {
-        "national": null,
-        "wmo": "76151",
-        "icao": "MMGD"
+        "$wmo": "76151",
+        "$icao": "MMGD"
     },
     "location": {
         "latitude": 29.1667,

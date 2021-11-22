@@ -6,9 +6,11 @@
     "country": "NL",
     "region": "ZH",
     "identifiers": {
-        "national": null,
-        "wmo": "06344",
-        "icao": "EHRD"
+        "$wmo": "06344",
+        "$icao": "EHRD",
+        "$iata": "RTM",
+        "$usaf": "063440",
+        "$mosmix": "06344"
     },
     "location": {
         "latitude": 51.95,

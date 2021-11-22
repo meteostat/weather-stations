@@ -6,9 +6,8 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEAN"
+        "$icao": "KEAN",
+        "$usaf": "720684"
     },
     "location": {
         "latitude": 42.0555,

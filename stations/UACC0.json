@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "AS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UACC"
+        "$icao": "UACC",
+        "$iata": "TSE",
+        "$usaf": "351880"
     },
     "location": {
         "latitude": 51.0167,

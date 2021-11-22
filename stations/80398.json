@@ -6,9 +6,11 @@
     "country": "CO",
     "region": "AM",
     "identifiers": {
-        "national": null,
-        "wmo": "80398",
-        "icao": "SKLT"
+        "$wmo": "80398",
+        "$icao": "SKLT",
+        "$iata": "LET",
+        "$ghcn": "COM00080398",
+        "$usaf": "803980"
     },
     "location": {
         "latitude": -4.1667,

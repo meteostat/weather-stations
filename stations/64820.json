@@ -6,9 +6,11 @@
     "country": "GQ",
     "region": "LI",
     "identifiers": {
-        "national": null,
-        "wmo": "64820",
-        "icao": "FGBT"
+        "$wmo": "64820",
+        "$icao": "FGBT",
+        "$iata": "BSG",
+        "$ghcn": "EKM00064820",
+        "$usaf": "648200"
     },
     "location": {
         "latitude": 1.9,

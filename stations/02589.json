@@ -6,9 +6,8 @@
     "country": "SE",
     "region": "GT",
     "identifiers": {
-        "national": null,
-        "wmo": "02589",
-        "icao": null
+        "$wmo": "02589",
+        "$ghcn": "SWM00002589"
     },
     "location": {
         "latitude": 58.3944,

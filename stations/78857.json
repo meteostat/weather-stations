@@ -6,9 +6,9 @@
     "country": "KN",
     "region": "SGB",
     "identifiers": {
-        "national": null,
-        "wmo": "78857",
-        "icao": "MKBK"
+        "$wmo": "78857",
+        "$icao": "MKBK",
+        "$wban": "11622"
     },
     "location": {
         "latitude": 17.2833,

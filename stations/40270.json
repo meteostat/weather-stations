@@ -6,9 +6,11 @@
     "country": "JO",
     "region": "AM",
     "identifiers": {
-        "national": null,
-        "wmo": "40270",
-        "icao": "OJAM"
+        "$wmo": "40270",
+        "$icao": "OJAM",
+        "$iata": "ADJ",
+        "$usaf": "402700",
+        "$mosmix": "40270"
     },
     "location": {
         "latitude": 31.9833,

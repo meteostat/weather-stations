@@ -6,9 +6,8 @@
     "country": "YE",
     "region": "MR",
     "identifiers": {
-        "national": null,
-        "wmo": "41428",
-        "icao": "OYAG"
+        "$wmo": "41428",
+        "$icao": "OYAG"
     },
     "location": {
         "latitude": 16.0833,

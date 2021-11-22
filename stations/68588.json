@@ -6,9 +6,11 @@
     "country": "ZA",
     "region": "NL",
     "identifiers": {
-        "national": null,
-        "wmo": "68588",
-        "icao": "FADN"
+        "$wmo": "68588",
+        "$icao": "FADN",
+        "$ghcn": "SFM00068588",
+        "$usaf": "685880",
+        "$mosmix": "68588"
     },
     "location": {
         "latitude": -29.9667,

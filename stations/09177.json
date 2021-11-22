@@ -6,9 +6,8 @@
     "country": "DE",
     "region": "MV",
     "identifiers": {
-        "national": null,
-        "wmo": "09177",
-        "icao": "EDCU"
+        "$wmo": "09177",
+        "$icao": "EDCU"
     },
     "location": {
         "latitude": 53.8083,

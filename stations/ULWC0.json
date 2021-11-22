@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "VLG",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ULWC"
+        "$icao": "ULWC",
+        "$iata": "CEE",
+        "$usaf": "271130"
     },
     "location": {
         "latitude": 59.2667,

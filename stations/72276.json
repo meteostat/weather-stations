@@ -6,9 +6,11 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": "72276",
-        "icao": "KRQE"
+        "$wmo": "72276",
+        "$icao": "KRQE",
+        "$ghcn": "USW00053132",
+        "$wban": "03029",
+        "$usaf": "722764"
     },
     "location": {
         "latitude": 35.65,

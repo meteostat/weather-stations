@@ -6,9 +6,11 @@
     "country": "CF",
     "region": "BBA",
     "identifiers": {
-        "national": null,
-        "wmo": "64654",
-        "icao": "FEFN"
+        "$wmo": "64654",
+        "$icao": "FEFN",
+        "$iata": "NDL",
+        "$ghcn": "CT000004654",
+        "$usaf": "646540"
     },
     "location": {
         "latitude": 8.4,

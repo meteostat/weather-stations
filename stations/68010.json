@@ -6,9 +6,9 @@
     "country": "NA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": "68010",
-        "icao": null
+        "$wmo": "68010",
+        "$ghcn": "WA010517310",
+        "$mosmix": "68010"
     },
     "location": {
         "latitude": -19.1833,

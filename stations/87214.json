@@ -6,9 +6,9 @@
     "country": "AR",
     "region": "F",
     "identifiers": {
-        "national": null,
-        "wmo": "87214",
-        "icao": "SANO"
+        "$wmo": "87214",
+        "$icao": "SANO",
+        "$usaf": "872140"
     },
     "location": {
         "latitude": -29.2167,

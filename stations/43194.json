@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "43194",
-        "icao": "VAGO"
+        "$wmo": "43194",
+        "$icao": "VAGO",
+        "$iata": "GOI",
+        "$usaf": "431940",
+        "$mosmix": "43194"
     },
     "location": {
         "latitude": 15.3833,

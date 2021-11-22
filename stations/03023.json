@@ -6,9 +6,7 @@
     "country": "GB",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "03023",
-        "icao": null
+        "$wmo": "03023"
     },
     "location": {
         "latitude": 57.3333,

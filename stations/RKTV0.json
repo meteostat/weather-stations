@@ -6,9 +6,8 @@
     "country": "KR",
     "region": "HB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RKTV"
+        "$icao": "RKTV",
+        "$usaf": "471475"
     },
     "location": {
         "latitude": 37.02,

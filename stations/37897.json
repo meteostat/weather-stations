@@ -6,9 +6,9 @@
     "country": "AM",
     "region": "VL",
     "identifiers": {
-        "national": null,
-        "wmo": "37897",
-        "icao": null
+        "$wmo": "37897",
+        "$ghcn": "AM000037897",
+        "$usaf": "378970"
     },
     "location": {
         "latitude": 39.5333,

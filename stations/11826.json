@@ -6,9 +6,12 @@
     "country": "SK",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "11826",
-        "icao": "LKPP"
+        "$wmo": "11826",
+        "$icao": "LKPP",
+        "$iata": "PZY",
+        "$ghcn": "LOM00011826",
+        "$usaf": "118260",
+        "$mosmix": "11826"
     },
     "location": {
         "latitude": 48.6167,

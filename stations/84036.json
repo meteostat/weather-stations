@@ -6,9 +6,9 @@
     "country": "EC",
     "region": "C",
     "identifiers": {
-        "national": null,
-        "wmo": "84036",
-        "icao": null
+        "$wmo": "84036",
+        "$ghcn": "ECM00084036",
+        "$usaf": "840360"
     },
     "location": {
         "latitude": 0.6042,

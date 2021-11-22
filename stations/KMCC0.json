@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMCC"
+        "$icao": "KMCC",
+        "$iata": "MCC",
+        "$wban": "23208",
+        "$usaf": "724836"
     },
     "location": {
         "latitude": 38.6676,

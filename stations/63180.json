@@ -6,9 +6,9 @@
     "country": "SO",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": "63180",
-        "icao": "HCMU"
+        "$wmo": "63180",
+        "$icao": "HCMU",
+        "$iata": "ERA"
     },
     "location": {
         "latitude": 10.6333,

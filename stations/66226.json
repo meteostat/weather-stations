@@ -6,9 +6,10 @@
     "country": "AO",
     "region": "LSU",
     "identifiers": {
-        "national": null,
-        "wmo": "66226",
-        "icao": "FNSA"
+        "$wmo": "66226",
+        "$icao": "FNSA",
+        "$iata": "VHC",
+        "$usaf": "662260"
     },
     "location": {
         "latitude": -9.65,

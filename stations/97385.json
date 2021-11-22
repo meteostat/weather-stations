@@ -6,9 +6,10 @@
     "country": "TL",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": "97385",
-        "icao": "WPOC"
+        "$wmo": "97385",
+        "$icao": "WPOC",
+        "$iata": "OEC",
+        "$usaf": "973850"
     },
     "location": {
         "latitude": -9.2,

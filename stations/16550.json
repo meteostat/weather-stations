@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "16550",
-        "icao": "LIEB"
+        "$wmo": "16550",
+        "$icao": "LIEB",
+        "$ghcn": "IT000016550",
+        "$usaf": "165500",
+        "$mosmix": "16550"
     },
     "location": {
         "latitude": 39.9333,

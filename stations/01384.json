@@ -6,9 +6,12 @@
     "country": "NO",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "01384",
-        "icao": "ENGM"
+        "$wmo": "01384",
+        "$icao": "ENGM",
+        "$iata": "OSL",
+        "$ghcn": "NOE00109514",
+        "$usaf": "013840",
+        "$mosmix": "01384"
     },
     "location": {
         "latitude": 60.2,

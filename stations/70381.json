@@ -6,9 +6,13 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": "70381",
-        "icao": "PAJN"
+        "$wmo": "70381",
+        "$icao": "PAJN",
+        "$iata": "JNU",
+        "$ghcn": "USW00025309",
+        "$wban": "25309",
+        "$usaf": "703810",
+        "$mosmix": "70381"
     },
     "location": {
         "latitude": 58.35,

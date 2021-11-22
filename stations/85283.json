@@ -6,9 +6,11 @@
     "country": "BO",
     "region": "H",
     "identifiers": {
-        "national": null,
-        "wmo": "85283",
-        "icao": "SLSU"
+        "$wmo": "85283",
+        "$icao": "SLSU",
+        "$iata": "SRE",
+        "$ghcn": "BLM00085283",
+        "$usaf": "852830"
     },
     "location": {
         "latitude": -19.0167,

@@ -6,9 +6,9 @@
     "country": "IQ",
     "region": "NA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ORNI"
+        "$icao": "ORNI",
+        "$iata": "NJF",
+        "$usaf": "406700"
     },
     "location": {
         "latitude": 31.9897,

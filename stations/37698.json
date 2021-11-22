@@ -6,9 +6,8 @@
     "country": "AM",
     "region": "KT",
     "identifiers": {
-        "national": null,
-        "wmo": "37698",
-        "icao": null
+        "$wmo": "37698",
+        "$ghcn": "AM000037698"
     },
     "location": {
         "latitude": 40.6336,

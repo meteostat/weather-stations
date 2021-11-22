@@ -6,13 +6,11 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": "4823",
-        "wmo": null,
-        "icao": null
+        "$national": "4823"
     },
     "location": {
         "latitude": 43.37,
-        "longitude": -81.0,
+        "longitude": -81,
         "elevation": 345
     },
     "timezone": "America/Toronto"

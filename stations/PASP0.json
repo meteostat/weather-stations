@@ -6,9 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "PASP"
+        "$icao": "PASP",
+        "$iata": "SMU",
+        "$wban": "26439",
+        "$usaf": "702711"
     },
     "location": {
         "latitude": 61.812,

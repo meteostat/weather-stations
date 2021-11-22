@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": "42623",
-        "icao": "VEIM"
+        "$wmo": "42623",
+        "$icao": "VEIM",
+        "$iata": "IMF",
+        "$ghcn": "IN013010200",
+        "$usaf": "426230"
     },
     "location": {
         "latitude": 24.7667,

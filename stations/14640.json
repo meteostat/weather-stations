@@ -6,9 +6,10 @@
     "country": "BA",
     "region": "BF",
     "identifiers": {
-        "national": null,
-        "wmo": "14640",
-        "icao": "LQLV"
+        "$wmo": "14640",
+        "$icao": "LQLV",
+        "$usaf": "146400",
+        "$mosmix": "14640"
     },
     "location": {
         "latitude": 43.8333,

@@ -6,9 +6,8 @@
     "country": "PT",
     "region": "VC",
     "identifiers": {
-        "national": null,
-        "wmo": "08551",
-        "icao": null
+        "$wmo": "08551",
+        "$mosmix": "08551"
     },
     "location": {
         "latitude": 41.6333,

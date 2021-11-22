@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "CN",
     "identifiers": {
-        "national": null,
-        "wmo": "60025",
-        "icao": "GCTS"
+        "$wmo": "60025",
+        "$icao": "GCTS",
+        "$iata": "TFS",
+        "$ghcn": "SPE00120476",
+        "$usaf": "600250",
+        "$mosmix": "60025"
     },
     "location": {
         "latitude": 28.05,

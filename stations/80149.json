@@ -6,9 +6,10 @@
     "country": "CO",
     "region": "CAL",
     "identifiers": {
-        "national": null,
-        "wmo": "80149",
-        "icao": "SKMZ"
+        "$wmo": "80149",
+        "$icao": "SKMZ",
+        "$iata": "MZL",
+        "$usaf": "801490"
     },
     "location": {
         "latitude": 5.0333,

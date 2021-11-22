@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": "97284",
-        "icao": "WRKG"
+        "$wmo": "97284",
+        "$icao": "WRKG",
+        "$usaf": "972840"
     },
     "location": {
         "latitude": -8.6333,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "RI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KUUU"
+        "$icao": "KUUU",
+        "$wban": "14787",
+        "$usaf": "725079"
     },
     "location": {
         "latitude": 41.5324,

@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "93677",
-        "icao": "NZKI"
+        "$wmo": "93677",
+        "$icao": "NZKI",
+        "$iata": "KBZ"
     },
     "location": {
         "latitude": -42.4167,

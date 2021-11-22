@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "MM",
     "identifiers": {
-        "national": null,
-        "wmo": "42934",
-        "icao": "VAAK"
+        "$wmo": "42934",
+        "$icao": "VAAK",
+        "$iata": "AKD",
+        "$ghcn": "IN012021700",
+        "$usaf": "429340"
     },
     "location": {
         "latitude": 20.7,

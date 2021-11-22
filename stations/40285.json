@@ -6,9 +6,8 @@
     "country": "JO",
     "region": "IR",
     "identifiers": {
-        "national": null,
-        "wmo": "40285",
-        "icao": null
+        "$wmo": "40285",
+        "$mosmix": "40285"
     },
     "location": {
         "latitude": 32.2167,

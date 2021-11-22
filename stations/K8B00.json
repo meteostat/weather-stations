@@ -6,9 +6,8 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "K8B0"
+        "$icao": "K8B0",
+        "$usaf": "720472"
     },
     "location": {
         "latitude": 44.9919,

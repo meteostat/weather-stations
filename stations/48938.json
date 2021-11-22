@@ -6,9 +6,11 @@
     "country": "LA",
     "region": "XA",
     "identifiers": {
-        "national": null,
-        "wmo": "48938",
-        "icao": "VLSB"
+        "$wmo": "48938",
+        "$icao": "VLSB",
+        "$iata": "ZBY",
+        "$ghcn": "LAM00048938",
+        "$usaf": "489380"
     },
     "location": {
         "latitude": 19.2333,

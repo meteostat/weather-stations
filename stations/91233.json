@@ -6,9 +6,10 @@
     "country": "US",
     "region": "TI",
     "identifiers": {
-        "national": null,
-        "wmo": "91233",
-        "icao": "PGWT"
+        "$wmo": "91233",
+        "$icao": "PGWT",
+        "$wban": "41420",
+        "$usaf": "912310"
     },
     "location": {
         "latitude": 14.9833,

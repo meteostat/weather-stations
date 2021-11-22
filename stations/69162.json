@@ -6,9 +6,9 @@
     "country": "BA",
     "region": "BF",
     "identifiers": {
-        "national": null,
-        "wmo": "69162",
-        "icao": "KQKP"
+        "$wmo": "69162",
+        "$icao": "KQKP",
+        "$usaf": "691624"
     },
     "location": {
         "latitude": 44.3,

@@ -6,9 +6,10 @@
     "country": "ML",
     "region": "SK",
     "identifiers": {
-        "national": null,
-        "wmo": "61296",
-        "icao": "GABG"
+        "$wmo": "61296",
+        "$icao": "GABG",
+        "$ghcn": "MLM00061296",
+        "$usaf": "612960"
     },
     "location": {
         "latitude": 11.4167,

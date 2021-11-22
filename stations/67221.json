@@ -6,9 +6,9 @@
     "country": "MZ",
     "region": "NI",
     "identifiers": {
-        "national": null,
-        "wmo": "67221",
-        "icao": "FQMR"
+        "$wmo": "67221",
+        "$icao": "FQMR",
+        "$usaf": "672210"
     },
     "location": {
         "latitude": -13.7333,

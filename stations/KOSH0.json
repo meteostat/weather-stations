@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOSH"
+        "$icao": "KOSH",
+        "$iata": "OSH",
+        "$wban": "94855",
+        "$usaf": "726456"
     },
     "location": {
         "latitude": 43.9844,

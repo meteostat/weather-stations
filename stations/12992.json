@@ -6,9 +6,10 @@
     "country": "HU",
     "region": "BE",
     "identifiers": {
-        "national": null,
-        "wmo": "12992",
-        "icao": "LHBC"
+        "$wmo": "12992",
+        "$icao": "LHBC",
+        "$usaf": "129920",
+        "$mosmix": "12992"
     },
     "location": {
         "latitude": 46.6833,

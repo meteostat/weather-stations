@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KY63"
+        "$icao": "KY63",
+        "$wban": "00182",
+        "$usaf": "A07357"
     },
     "location": {
         "latitude": 45.9861,

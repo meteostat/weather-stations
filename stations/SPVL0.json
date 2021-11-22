@@ -6,9 +6,8 @@
     "country": "PE",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SPVL"
+        "$icao": "SPVL",
+        "$usaf": "847465"
     },
     "location": {
         "latitude": -15.7667,

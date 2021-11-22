@@ -6,9 +6,8 @@
     "country": "UG",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HULI"
+        "$icao": "HULI",
+        "$usaf": "636304"
     },
     "location": {
         "latitude": 2.25,

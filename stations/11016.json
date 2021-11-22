@@ -6,9 +6,9 @@
     "country": "AT",
     "region": "OO",
     "identifiers": {
-        "national": null,
-        "wmo": "11016",
-        "icao": "LOLF"
+        "$wmo": "11016",
+        "$icao": "LOLF",
+        "$usaf": "110164"
     },
     "location": {
         "latitude": 48.5167,

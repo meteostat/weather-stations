@@ -6,9 +6,11 @@
     "country": "PT",
     "region": "LI",
     "identifiers": {
-        "national": null,
-        "wmo": "08536",
-        "icao": "LPPT"
+        "$wmo": "08536",
+        "$icao": "LPPT",
+        "$iata": "LIS",
+        "$usaf": "085360",
+        "$mosmix": "08536"
     },
     "location": {
         "latitude": 38.7667,

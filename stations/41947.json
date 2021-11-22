@@ -6,9 +6,8 @@
     "country": "BD",
     "region": "KH",
     "identifiers": {
-        "national": null,
-        "wmo": "41947",
-        "icao": null
+        "$wmo": "41947",
+        "$mosmix": "41947"
     },
     "location": {
         "latitude": 22.7833,

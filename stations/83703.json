@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "MS",
     "identifiers": {
-        "national": null,
-        "wmo": "83703",
-        "icao": "SBPP"
+        "$wmo": "83703",
+        "$icao": "SBPP",
+        "$iata": "PMG",
+        "$usaf": "837030"
     },
     "location": {
         "latitude": -22.55,

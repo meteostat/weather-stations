@@ -6,9 +6,7 @@
     "country": "FR",
     "region": "O",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQIH"
+        "$icao": "KQIH"
     },
     "location": {
         "latitude": 50.57,

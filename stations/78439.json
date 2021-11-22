@@ -6,9 +6,11 @@
     "country": "HT",
     "region": "OU",
     "identifiers": {
-        "national": null,
-        "wmo": "78439",
-        "icao": "KQHA"
+        "$wmo": "78439",
+        "$icao": "KQHA",
+        "$iata": "PAP",
+        "$wban": "11701",
+        "$mosmix": "78439"
     },
     "location": {
         "latitude": 19.6667,

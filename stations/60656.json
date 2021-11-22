@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "TIN",
     "identifiers": {
-        "national": null,
-        "wmo": "60656",
-        "icao": "DAOF"
+        "$wmo": "60656",
+        "$icao": "DAOF",
+        "$iata": "TIN",
+        "$ghcn": "AGM00060656",
+        "$usaf": "606560"
     },
     "location": {
         "latitude": 27.6667,

@@ -6,9 +6,9 @@
     "country": "RO",
     "region": "TL",
     "identifiers": {
-        "national": null,
-        "wmo": "15360",
-        "icao": null
+        "$wmo": "15360",
+        "$ghcn": "ROM00015360",
+        "$usaf": "153600"
     },
     "location": {
         "latitude": 45.15,

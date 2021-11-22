@@ -6,9 +6,10 @@
     "country": "PE",
     "region": "CU",
     "identifiers": {
-        "national": null,
-        "wmo": "84677",
-        "icao": "SPIL"
+        "$wmo": "84677",
+        "$icao": "SPIL",
+        "$iata": "UMI",
+        "$usaf": "846770"
     },
     "location": {
         "latitude": -13.2667,

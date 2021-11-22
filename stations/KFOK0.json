@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFOK"
+        "$icao": "KFOK",
+        "$wban": "14719",
+        "$usaf": "744865"
     },
     "location": {
         "latitude": 40.8437,

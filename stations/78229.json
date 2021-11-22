@@ -6,9 +6,11 @@
     "country": "CU",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "78229",
-        "icao": "MUVR"
+        "$wmo": "78229",
+        "$icao": "MUVR",
+        "$iata": "VRA",
+        "$usaf": "782290",
+        "$mosmix": "78229"
     },
     "location": {
         "latitude": 23.1333,

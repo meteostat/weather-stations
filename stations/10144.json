@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": "10144",
-        "icao": "EDHE"
+        "$wmo": "10144",
+        "$icao": "EDHE",
+        "$iata": "QSM"
     },
     "location": {
         "latitude": 53.6486,

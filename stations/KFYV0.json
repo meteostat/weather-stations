@@ -6,9 +6,10 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFYV"
+        "$icao": "KFYV",
+        "$iata": "FYV",
+        "$wban": "93993",
+        "$usaf": "723445"
     },
     "location": {
         "latitude": 36.0051,

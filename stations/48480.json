@@ -6,9 +6,10 @@
     "country": "TH",
     "region": "CT",
     "identifiers": {
-        "national": null,
-        "wmo": "48480",
-        "icao": "VTBC"
+        "$wmo": "48480",
+        "$icao": "VTBC",
+        "$ghcn": "TH000048480",
+        "$usaf": "484800"
     },
     "location": {
         "latitude": 12.6,

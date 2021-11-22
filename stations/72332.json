@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MS",
     "identifiers": {
-        "national": null,
-        "wmo": "72332",
-        "icao": "KTUP"
+        "$wmo": "72332",
+        "$icao": "KTUP",
+        "$iata": "TUP",
+        "$ghcn": "USW00093862",
+        "$wban": "93862",
+        "$usaf": "723320"
     },
     "location": {
         "latitude": 34.2667,

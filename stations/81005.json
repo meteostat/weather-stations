@@ -6,9 +6,10 @@
     "country": "GY",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": "81005",
-        "icao": "SYKM"
+        "$wmo": "81005",
+        "$icao": "SYKM",
+        "$iata": "KAR",
+        "$usaf": "810050"
     },
     "location": {
         "latitude": 5.8833,

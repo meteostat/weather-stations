@@ -6,9 +6,8 @@
     "country": "MY",
     "region": "SR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "WBMU"
+        "$icao": "WBMU",
+        "$iata": "MZV"
     },
     "location": {
         "latitude": 4.0483,

@@ -6,9 +6,8 @@
     "country": "SK",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "11880",
-        "icao": null
+        "$wmo": "11880",
+        "$mosmix": "11880"
     },
     "location": {
         "latitude": 48.1667,

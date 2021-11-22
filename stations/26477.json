@@ -6,9 +6,11 @@
     "country": "RU",
     "region": "PSK",
     "identifiers": {
-        "national": null,
-        "wmo": "26477",
-        "icao": "ULOL"
+        "$wmo": "26477",
+        "$icao": "ULOL",
+        "$iata": "VLU",
+        "$ghcn": "RSM00026477",
+        "$usaf": "264770"
     },
     "location": {
         "latitude": 56.35,

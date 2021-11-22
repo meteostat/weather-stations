@@ -6,9 +6,9 @@
     "country": "AR",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "87640",
-        "icao": null
+        "$wmo": "87640",
+        "$ghcn": "ARM00087640",
+        "$usaf": "876400"
     },
     "location": {
         "latitude": -36.2,

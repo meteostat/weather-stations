@@ -6,9 +6,11 @@
     "country": "ET",
     "region": "CN",
     "identifiers": {
-        "national": null,
-        "wmo": "63331",
-        "icao": "HAGN"
+        "$wmo": "63331",
+        "$icao": "HAGN",
+        "$iata": "GDQ",
+        "$ghcn": "ET000063331",
+        "$usaf": "633310"
     },
     "location": {
         "latitude": 12.5333,

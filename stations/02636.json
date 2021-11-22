@@ -2,15 +2,17 @@
     "id": "02636",
     "name": {
         "de": "Malmo Sturup Flughafen",
-        "en": "Malmo Sturup Airport",
-        "sv": "Malmo Sturup Flygplats"
+        "sv": "Malmo Sturup Flygplats",
+        "en": "Malmo Sturup Airport"
     },
     "country": "SE",
     "region": "SN",
     "identifiers": {
-        "national": null,
-        "wmo": "02636",
-        "icao": "ESMS"
+        "$wmo": "02636",
+        "$icao": "ESMS",
+        "$iata": "MMX",
+        "$usaf": "026360",
+        "$mosmix": "02636"
     },
     "location": {
         "latitude": 55.55,

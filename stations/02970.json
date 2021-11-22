@@ -6,9 +6,11 @@
     "country": "FI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "02970",
-        "icao": "EFMA"
+        "$wmo": "02970",
+        "$icao": "EFMA",
+        "$iata": "MHQ",
+        "$usaf": "029700",
+        "$mosmix": "02970"
     },
     "location": {
         "latitude": 60.1167,

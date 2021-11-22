@@ -6,9 +6,12 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": "50517",
-        "wmo": "71114",
-        "icao": "CYHE"
+        "$national": "50517",
+        "$wmo": "71114",
+        "$icao": "CYHE",
+        "$iata": "YHE",
+        "$ghcn": "CA001113539",
+        "$usaf": "711140"
     },
     "location": {
         "latitude": 49.37,

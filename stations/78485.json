@@ -6,9 +6,11 @@
     "country": "DO",
     "region": "DN",
     "identifiers": {
-        "national": null,
-        "wmo": "78485",
-        "icao": "MDSD"
+        "$wmo": "78485",
+        "$icao": "MDSD",
+        "$iata": "SDQ",
+        "$usaf": "784850",
+        "$mosmix": "78485"
     },
     "location": {
         "latitude": 18.4333,

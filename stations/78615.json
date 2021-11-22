@@ -6,9 +6,10 @@
     "country": "GT",
     "region": "PE",
     "identifiers": {
-        "national": null,
-        "wmo": "78615",
-        "icao": "MGFL"
+        "$wmo": "78615",
+        "$icao": "MGFL",
+        "$iata": "FSM",
+        "$usaf": "786150"
     },
     "location": {
         "latitude": 16.9167,

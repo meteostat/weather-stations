@@ -6,9 +6,12 @@
     "country": "VI",
     "region": "W",
     "identifiers": {
-        "national": null,
-        "wmo": "78543",
-        "icao": "TIST"
+        "$wmo": "78543",
+        "$icao": "TIST",
+        "$iata": "STT",
+        "$ghcn": "VQW00011640",
+        "$wban": "11640",
+        "$usaf": "785430"
     },
     "location": {
         "latitude": 18.3333,

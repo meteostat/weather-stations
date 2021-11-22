@@ -6,9 +6,10 @@
     "country": "TO",
     "region": "HA",
     "identifiers": {
-        "national": null,
-        "wmo": "91784",
-        "icao": "NFTL"
+        "$wmo": "91784",
+        "$icao": "NFTL",
+        "$iata": "HPA",
+        "$usaf": "917840"
     },
     "location": {
         "latitude": -19.8,

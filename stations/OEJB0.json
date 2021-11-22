@@ -6,9 +6,9 @@
     "country": "SA",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OEJB"
+        "$icao": "OEJB",
+        "$iata": "QJB",
+        "$usaf": "404194"
     },
     "location": {
         "latitude": 27.05,

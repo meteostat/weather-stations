@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "QH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZLGM"
+        "$icao": "ZLGM",
+        "$iata": "GOQ",
+        "$usaf": "528180"
     },
     "location": {
         "latitude": 36.4006,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIZG"
+        "$icao": "KIZG",
+        "$wban": "54772",
+        "$usaf": "726183"
     },
     "location": {
         "latitude": 43.9833,

@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "ZAN",
     "identifiers": {
-        "national": null,
-        "wmo": "98741",
-        "icao": "RPWG"
+        "$wmo": "98741",
+        "$icao": "RPWG",
+        "$iata": "DPL"
     },
     "location": {
         "latitude": 8.6,

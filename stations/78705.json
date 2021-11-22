@@ -6,9 +6,11 @@
     "country": "HN",
     "region": "AT",
     "identifiers": {
-        "national": null,
-        "wmo": "78705",
-        "icao": "MHLC"
+        "$wmo": "78705",
+        "$icao": "MHLC",
+        "$iata": "LCE",
+        "$ghcn": "HOM00078705",
+        "$usaf": "787050"
     },
     "location": {
         "latitude": 15.7333,

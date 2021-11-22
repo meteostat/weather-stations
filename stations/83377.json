@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "DF",
     "identifiers": {
-        "national": null,
-        "wmo": "83377",
-        "icao": null
+        "$wmo": "83377",
+        "$ghcn": "BRM00083377",
+        "$mosmix": "83377"
     },
     "location": {
         "latitude": -15.7833,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTVL"
+        "$icao": "KTVL",
+        "$iata": "TVL",
+        "$wban": "93230",
+        "$usaf": "725847"
     },
     "location": {
         "latitude": 38.8939,

@@ -6,9 +6,9 @@
     "country": "PK",
     "region": "N",
     "identifiers": {
-        "national": null,
-        "wmo": "41506",
-        "icao": "OPCH"
+        "$wmo": "41506",
+        "$icao": "OPCH",
+        "$iata": "CJL"
     },
     "location": {
         "latitude": 35.85,

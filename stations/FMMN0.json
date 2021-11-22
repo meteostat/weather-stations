@@ -6,9 +6,9 @@
     "country": "MG",
     "region": "U",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FMMN"
+        "$icao": "FMMN",
+        "$iata": "ZVA",
+        "$usaf": "671131"
     },
     "location": {
         "latitude": -19.55,

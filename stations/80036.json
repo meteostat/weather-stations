@@ -6,9 +6,11 @@
     "country": "CO",
     "region": "CES",
     "identifiers": {
-        "national": null,
-        "wmo": "80036",
-        "icao": "SKVP"
+        "$wmo": "80036",
+        "$icao": "SKVP",
+        "$iata": "VUP",
+        "$ghcn": "COM00080036",
+        "$usaf": "800360"
     },
     "location": {
         "latitude": 10.4333,

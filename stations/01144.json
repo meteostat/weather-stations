@@ -1,15 +1,14 @@
 {
     "id": "01144",
     "name": {
-        "en": "Sorvaer (Helligvaer)",
-        "no": "Sørvær (Helligvær)"
+        "no": "Sørvær (Helligvær)",
+        "en": "Sorvaer (Helligvaer)"
     },
     "country": "NO",
     "region": "18",
     "identifiers": {
-        "national": null,
-        "wmo": "01144",
-        "icao": null
+        "$wmo": "01144",
+        "$usaf": "011440"
     },
     "location": {
         "latitude": 67.4047,

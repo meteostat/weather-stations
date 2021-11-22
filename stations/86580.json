@@ -6,9 +6,12 @@
     "country": "UY",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "86580",
-        "icao": "SUMU"
+        "$wmo": "86580",
+        "$icao": "SUMU",
+        "$iata": "MVD",
+        "$ghcn": "UYM00086580",
+        "$usaf": "865800",
+        "$mosmix": "86580"
     },
     "location": {
         "latitude": -34.8333,

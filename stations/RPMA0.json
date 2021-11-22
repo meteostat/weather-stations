@@ -6,9 +6,8 @@
     "country": "PH",
     "region": "SCO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPMA"
+        "$icao": "RPMA",
+        "$usaf": "988485"
     },
     "location": {
         "latitude": 6.3668,

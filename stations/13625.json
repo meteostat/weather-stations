@@ -6,9 +6,8 @@
     "country": "AL",
     "region": "GJ",
     "identifiers": {
-        "national": null,
-        "wmo": "13625",
-        "icao": null
+        "$wmo": "13625",
+        "$usaf": "136250"
     },
     "location": {
         "latitude": 40.0833,

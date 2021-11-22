@@ -6,9 +6,11 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "72316",
-        "icao": "KAMG"
+        "$wmo": "72316",
+        "$icao": "KAMG",
+        "$ghcn": "USW00013870",
+        "$wban": "13870",
+        "$usaf": "722135"
     },
     "location": {
         "latitude": 31.5361,

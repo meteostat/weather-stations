@@ -6,9 +6,12 @@
     "country": "FR",
     "region": "D",
     "identifiers": {
-        "national": null,
-        "wmo": "07280",
-        "icao": "LFSD"
+        "$wmo": "07280",
+        "$icao": "LFSD",
+        "$iata": "DIJ",
+        "$ghcn": "FRM00007280",
+        "$usaf": "072800",
+        "$mosmix": "07280"
     },
     "location": {
         "latitude": 47.2667,

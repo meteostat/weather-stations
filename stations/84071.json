@@ -6,9 +6,11 @@
     "country": "EC",
     "region": "P",
     "identifiers": {
-        "national": null,
-        "wmo": "84071",
-        "icao": "SEQU"
+        "$wmo": "84071",
+        "$icao": "SEQU",
+        "$iata": "UIO",
+        "$usaf": "840710",
+        "$mosmix": "84071"
     },
     "location": {
         "latitude": -0.15,

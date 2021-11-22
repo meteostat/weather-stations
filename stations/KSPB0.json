@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSPB"
+        "$icao": "KSPB",
+        "$wban": "04201",
+        "$usaf": "726836"
     },
     "location": {
         "latitude": 45.771,

@@ -2,15 +2,16 @@
     "id": "02535",
     "name": {
         "de": "Skovde Flughafen",
-        "en": "Skovde Airport",
-        "sv": "Skovde Flygplats"
+        "sv": "Skovde Flygplats",
+        "en": "Skovde Airport"
     },
     "country": "SE",
     "region": "VG",
     "identifiers": {
-        "national": null,
-        "wmo": "02535",
-        "icao": "ESGR"
+        "$wmo": "02535",
+        "$icao": "ESGR",
+        "$iata": "KVB",
+        "$usaf": "025350"
     },
     "location": {
         "latitude": 58.45,

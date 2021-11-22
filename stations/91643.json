@@ -6,9 +6,12 @@
     "country": "TV",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91643",
-        "icao": "NGFU"
+        "$wmo": "91643",
+        "$icao": "NGFU",
+        "$iata": "FUN",
+        "$ghcn": "TV000091643",
+        "$wban": "80705",
+        "$usaf": "916430"
     },
     "location": {
         "latitude": -8.5167,

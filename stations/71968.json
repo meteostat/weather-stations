@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "YT",
     "identifiers": {
-        "national": "1596",
-        "wmo": "71968",
-        "icao": "CYUA"
+        "$national": "1596",
+        "$wmo": "71968",
+        "$icao": "CYUA",
+        "$ghcn": "CA002100950",
+        "$usaf": "719680"
     },
     "location": {
         "latitude": 68.95,

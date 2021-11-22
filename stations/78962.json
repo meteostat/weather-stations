@@ -6,9 +6,12 @@
     "country": "TT",
     "region": "TO",
     "identifiers": {
-        "national": null,
-        "wmo": "78962",
-        "icao": "TTPT"
+        "$wmo": "78962",
+        "$icao": "TTPT",
+        "$iata": "TAB",
+        "$ghcn": "TDM00078962",
+        "$usaf": "789620",
+        "$mosmix": "78962"
     },
     "location": {
         "latitude": 11.15,

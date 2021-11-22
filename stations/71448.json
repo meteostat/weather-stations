@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "national": "10186",
-        "wmo": "71448",
-        "icao": "CWEA"
+        "$national": "10186",
+        "$wmo": "71448",
+        "$icao": "CWEA",
+        "$ghcn": "CA00503B1ER",
+        "$usaf": "714480"
     },
     "location": {
         "latitude": 50.18,

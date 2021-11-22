@@ -6,9 +6,11 @@
     "country": "SD",
     "region": "WF",
     "identifiers": {
-        "national": null,
-        "wmo": "62770",
-        "icao": "HSGN"
+        "$wmo": "62770",
+        "$icao": "HSGN",
+        "$iata": "EGN",
+        "$ghcn": "SU000062770",
+        "$usaf": "627700"
     },
     "location": {
         "latitude": 13.4833,

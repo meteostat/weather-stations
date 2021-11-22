@@ -6,9 +6,11 @@
     "country": "IL",
     "region": "HA",
     "identifiers": {
-        "national": null,
-        "wmo": "40155",
-        "icao": "LLHA"
+        "$wmo": "40155",
+        "$icao": "LLHA",
+        "$iata": "HFA",
+        "$usaf": "401550",
+        "$mosmix": "40155"
     },
     "location": {
         "latitude": 32.8,

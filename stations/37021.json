@@ -6,9 +6,10 @@
     "country": "RU",
     "region": "AD",
     "identifiers": {
-        "national": null,
-        "wmo": "37021",
-        "icao": "URKM"
+        "$wmo": "37021",
+        "$icao": "URKM",
+        "$ghcn": "RSM00037021",
+        "$usaf": "370210"
     },
     "location": {
         "latitude": 44.6167,

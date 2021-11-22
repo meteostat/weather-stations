@@ -6,9 +6,8 @@
     "country": "MX",
     "region": "OAX",
     "identifiers": {
-        "national": null,
-        "wmo": "76773",
-        "icao": null
+        "$wmo": "76773",
+        "$usaf": "767730"
     },
     "location": {
         "latitude": 17.8,

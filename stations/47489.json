@@ -6,9 +6,10 @@
     "country": "JP",
     "region": "HK",
     "identifiers": {
-        "national": null,
-        "wmo": "47489",
-        "icao": "RJCK"
+        "$wmo": "47489",
+        "$icao": "RJCK",
+        "$iata": "KUH",
+        "$usaf": "474890"
     },
     "location": {
         "latitude": 43.0333,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KHAI"
+        "$icao": "KHAI",
+        "$wban": "54850",
+        "$usaf": "720371"
     },
     "location": {
         "latitude": 41.9597,

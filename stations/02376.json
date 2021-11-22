@@ -2,15 +2,15 @@
     "id": "02376",
     "name": {
         "de": "Soderhamn Flughafen",
-        "en": "Soderhamn Airport",
-        "sv": "Soderhamn Flygplats"
+        "sv": "Soderhamn Flygplats",
+        "en": "Soderhamn Airport"
     },
     "country": "SE",
     "region": "X",
     "identifiers": {
-        "national": null,
-        "wmo": "02376",
-        "icao": "ESCL"
+        "$wmo": "02376",
+        "$icao": "ESCL",
+        "$usaf": "022861"
     },
     "location": {
         "latitude": 61.2667,

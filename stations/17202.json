@@ -6,9 +6,11 @@
     "country": "TR",
     "region": "ELA",
     "identifiers": {
-        "national": null,
-        "wmo": "17202",
-        "icao": "LTCA"
+        "$wmo": "17202",
+        "$icao": "LTCA",
+        "$iata": "EZS",
+        "$ghcn": "TUM00017202",
+        "$usaf": "172020"
     },
     "location": {
         "latitude": 38.6,

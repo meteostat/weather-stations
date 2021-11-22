@@ -6,9 +6,11 @@
     "country": "NP",
     "region": "LU",
     "identifiers": {
-        "national": null,
-        "wmo": "44438",
-        "icao": "VNBW"
+        "$wmo": "44438",
+        "$icao": "VNBW",
+        "$iata": "BWA",
+        "$usaf": "444380",
+        "$mosmix": "44438"
     },
     "location": {
         "latitude": 27.5167,

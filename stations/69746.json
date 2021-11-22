@@ -6,9 +6,8 @@
     "country": "OM",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": "69746",
-        "icao": "KQIP"
+        "$wmo": "69746",
+        "$icao": "KQIP"
     },
     "location": {
         "latitude": 20.66,

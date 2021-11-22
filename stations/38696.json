@@ -6,9 +6,11 @@
     "country": "UZ",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": "38696",
-        "icao": "UTSS"
+        "$wmo": "38696",
+        "$icao": "UTSS",
+        "$ghcn": "UZM00038696",
+        "$usaf": "386960",
+        "$mosmix": "38696"
     },
     "location": {
         "latitude": 39.5667,

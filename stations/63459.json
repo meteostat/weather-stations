@@ -6,9 +6,9 @@
     "country": "ET",
     "region": "AF",
     "identifiers": {
-        "national": null,
-        "wmo": "63459",
-        "icao": "HAAW"
+        "$wmo": "63459",
+        "$icao": "HAAW",
+        "$usaf": "634531"
     },
     "location": {
         "latitude": 8.98,

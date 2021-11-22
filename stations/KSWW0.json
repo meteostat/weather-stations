@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSWW"
+        "$icao": "KSWW",
+        "$wban": "23033",
+        "$usaf": "722192"
     },
     "location": {
         "latitude": 32.4674,

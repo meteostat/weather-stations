@@ -6,9 +6,8 @@
     "country": "LV",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EVSM"
+        "$icao": "EVSM",
+        "$usaf": "024100"
     },
     "location": {
         "latitude": 56.6656,

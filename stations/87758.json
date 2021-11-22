@@ -6,9 +6,9 @@
     "country": "AR",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": "87758",
-        "icao": "SAZO"
+        "$wmo": "87758",
+        "$icao": "SAZO",
+        "$iata": "NEC"
     },
     "location": {
         "latitude": -38.4833,

@@ -6,9 +6,13 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": "72314",
-        "icao": "KCLT"
+        "$wmo": "72314",
+        "$icao": "KCLT",
+        "$iata": "CLT",
+        "$ghcn": "USW00013881",
+        "$wban": "13881",
+        "$usaf": "723140",
+        "$mosmix": "72314"
     },
     "location": {
         "latitude": 35.214,

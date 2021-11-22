@@ -6,9 +6,9 @@
     "country": "AQ",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "89670",
-        "icao": "NZWD"
+        "$wmo": "89670",
+        "$icao": "NZWD",
+        "$usaf": "896740"
     },
     "location": {
         "latitude": -77.8833,

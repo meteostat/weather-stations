@@ -6,9 +6,10 @@
     "country": "MN",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "44277",
-        "icao": "ZMAT"
+        "$wmo": "44277",
+        "$icao": "ZMAT",
+        "$iata": "LTI",
+        "$ghcn": "MGM00044277"
     },
     "location": {
         "latitude": 46.4,

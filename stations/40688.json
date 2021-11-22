@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "40688",
-        "icao": "ORMS"
+        "$wmo": "40688",
+        "$icao": "ORMS"
     },
     "location": {
         "latitude": 30.4167,

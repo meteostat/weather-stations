@@ -6,9 +6,10 @@
     "country": "KE",
     "region": "RV",
     "identifiers": {
-        "national": null,
-        "wmo": "63714",
-        "icao": "HKNK"
+        "$wmo": "63714",
+        "$icao": "HKNK",
+        "$iata": "NUU",
+        "$usaf": "637140"
     },
     "location": {
         "latitude": -0.2667,

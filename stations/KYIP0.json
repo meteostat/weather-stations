@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KYIP"
+        "$icao": "KYIP",
+        "$iata": "YIP",
+        "$wban": "14853",
+        "$usaf": "725376"
     },
     "location": {
         "latitude": 42.2393,

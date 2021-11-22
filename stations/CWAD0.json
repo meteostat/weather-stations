@@ -6,12 +6,12 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": "152",
-        "wmo": null,
-        "icao": "CWAD"
+        "$national": "152",
+        "$icao": "CWAD",
+        "$usaf": "718916"
     },
     "location": {
-        "latitude": 50.0,
+        "latitude": 50,
         "longitude": -125.2,
         "elevation": 5
     },

@@ -6,9 +6,12 @@
     "country": "NP",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "44454",
-        "icao": "VNKT"
+        "$wmo": "44454",
+        "$icao": "VNKT",
+        "$iata": "KTM",
+        "$ghcn": "NP000444540",
+        "$usaf": "444540",
+        "$mosmix": "44454"
     },
     "location": {
         "latitude": 27.7,

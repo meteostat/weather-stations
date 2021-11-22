@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "NSN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "NZNS"
+        "$icao": "NZNS",
+        "$iata": "NSN",
+        "$usaf": "935460"
     },
     "location": {
         "latitude": -41.2983,

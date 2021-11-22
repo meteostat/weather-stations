@@ -6,9 +6,13 @@
     "country": "FM",
     "region": "C",
     "identifiers": {
-        "national": null,
-        "wmo": "91334",
-        "icao": "PTKK"
+        "$wmo": "91334",
+        "$icao": "PTKK",
+        "$iata": "TKK",
+        "$ghcn": "FMW00040505",
+        "$wban": "40505",
+        "$usaf": "913340",
+        "$mosmix": "91334"
     },
     "location": {
         "latitude": 7.4667,

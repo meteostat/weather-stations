@@ -6,9 +6,8 @@
     "country": "MV",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "43533",
-        "icao": null
+        "$wmo": "43533",
+        "$usaf": "435330"
     },
     "location": {
         "latitude": 6.7333,

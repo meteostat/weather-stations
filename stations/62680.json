@@ -6,9 +6,11 @@
     "country": "SD",
     "region": "ASH",
     "identifiers": {
-        "national": null,
-        "wmo": "62680",
-        "icao": "HSAT"
+        "$wmo": "62680",
+        "$icao": "HSAT",
+        "$iata": "ATB",
+        "$ghcn": "SUM00062680",
+        "$usaf": "626800"
     },
     "location": {
         "latitude": 17.7,

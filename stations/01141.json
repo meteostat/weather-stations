@@ -2,15 +2,16 @@
     "id": "01141",
     "name": {
         "de": "Leknes Flughafen",
-        "en": "Leknes Airport",
-        "no": "Leknes Flughavn"
+        "no": "Leknes Flughavn",
+        "en": "Leknes Airport"
     },
     "country": "NO",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "01141",
-        "icao": "ENLK"
+        "$wmo": "01141",
+        "$icao": "ENLK",
+        "$iata": "LKN",
+        "$usaf": "011410"
     },
     "location": {
         "latitude": 68.15,

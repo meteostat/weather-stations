@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "PAV",
     "identifiers": {
-        "national": null,
-        "wmo": "36126",
-        "icao": null
+        "$wmo": "36126",
+        "$ghcn": "KZ000036126"
     },
     "location": {
         "latitude": 50.8,

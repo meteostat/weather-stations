@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "PR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SBTD"
+        "$icao": "SBTD",
+        "$iata": "TOW"
     },
     "location": {
         "latitude": -24.6863,

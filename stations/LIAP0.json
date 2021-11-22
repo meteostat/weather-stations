@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "AB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LIAP"
+        "$icao": "LIAP",
+        "$iata": "QAQ",
+        "$usaf": "162280"
     },
     "location": {
         "latitude": 42.3799,

@@ -6,9 +6,11 @@
     "country": "TZ",
     "region": "KA",
     "identifiers": {
-        "national": null,
-        "wmo": "63729",
-        "icao": "HTBU"
+        "$wmo": "63729",
+        "$icao": "HTBU",
+        "$iata": "BKZ",
+        "$ghcn": "TZ000063729",
+        "$usaf": "637290"
     },
     "location": {
         "latitude": -1.3333,

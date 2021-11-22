@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "SAM",
     "identifiers": {
-        "national": null,
-        "wmo": "17030",
-        "icao": null
+        "$wmo": "17030",
+        "$ghcn": "TUM00017030",
+        "$mosmix": "17030"
     },
     "location": {
         "latitude": 41.2833,

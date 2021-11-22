@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "national": "6834",
-        "wmo": "71032",
-        "icao": "CWPR"
+        "$national": "6834",
+        "$wmo": "71032",
+        "$icao": "CWPR",
+        "$ghcn": "CA00112FN0M",
+        "$usaf": "710320"
     },
     "location": {
         "latitude": 49.47,

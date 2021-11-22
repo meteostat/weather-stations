@@ -6,9 +6,13 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": "72469",
-        "icao": "KDNR"
+        "$wmo": "72469",
+        "$icao": "KDNR",
+        "$iata": "DNR",
+        "$ghcn": "USW00023062",
+        "$wban": "23062",
+        "$usaf": "724690",
+        "$mosmix": "72469"
     },
     "location": {
         "latitude": 39.7833,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIGQ"
+        "$icao": "KIGQ",
+        "$wban": "04879",
+        "$usaf": "722126"
     },
     "location": {
         "latitude": 41.5349,

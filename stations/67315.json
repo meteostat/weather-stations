@@ -6,9 +6,12 @@
     "country": "MZ",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": "67315",
-        "icao": "FQVL"
+        "$wmo": "67315",
+        "$icao": "FQVL",
+        "$iata": "VNX",
+        "$ghcn": "MZM00067315",
+        "$usaf": "673150",
+        "$mosmix": "67315"
     },
     "location": {
         "latitude": -22,

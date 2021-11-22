@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRCZ"
+        "$icao": "KRCZ",
+        "$iata": "RCZ",
+        "$wban": "03738",
+        "$usaf": "722243"
     },
     "location": {
         "latitude": 34.8913,

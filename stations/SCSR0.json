@@ -6,9 +6,8 @@
     "country": "CL",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SCSR"
+        "$icao": "SCSR",
+        "$usaf": "858203"
     },
     "location": {
         "latitude": -42.0833,

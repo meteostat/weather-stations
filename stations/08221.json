@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "M",
     "identifiers": {
-        "national": null,
-        "wmo": "08221",
-        "icao": "LEMD"
+        "$wmo": "08221",
+        "$icao": "LEMD",
+        "$iata": "MAD",
+        "$ghcn": "SPE00120278",
+        "$usaf": "082210",
+        "$mosmix": "08221"
     },
     "location": {
         "latitude": 40.45,

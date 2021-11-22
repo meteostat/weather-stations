@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "TAW",
     "identifiers": {
-        "national": null,
-        "wmo": "98815",
-        "icao": "RPMU"
+        "$wmo": "98815",
+        "$icao": "RPMU",
+        "$iata": "CDY"
     },
     "location": {
         "latitude": 7,

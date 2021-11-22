@@ -6,9 +6,8 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "national": null,
-        "wmo": "74596",
-        "icao": null
+        "$wmo": "74596",
+        "$wban": "93789"
     },
     "location": {
         "latitude": 38.7833,

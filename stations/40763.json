@@ -6,9 +6,8 @@
     "country": "IR",
     "region": "KV",
     "identifiers": {
-        "national": null,
-        "wmo": "40763",
-        "icao": null
+        "$wmo": "40763",
+        "$usaf": "407630"
     },
     "location": {
         "latitude": 35.2,

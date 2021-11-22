@@ -1,15 +1,15 @@
 {
     "id": "01092",
     "name": {
-        "en": "Makkaur Fyr",
-        "no": "Makkaur Lighthouse"
+        "no": "Makkaur Lighthouse",
+        "en": "Makkaur Fyr"
     },
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "national": null,
-        "wmo": "01092",
-        "icao": null
+        "$wmo": "01092",
+        "$usaf": "010920",
+        "$mosmix": "01092"
     },
     "location": {
         "latitude": 70.7,

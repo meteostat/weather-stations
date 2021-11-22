@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "NLE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMMY"
+        "$icao": "MMMY",
+        "$iata": "MTY",
+        "$usaf": "763943"
     },
     "location": {
         "latitude": 25.7786,

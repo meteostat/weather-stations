@@ -6,9 +6,8 @@
     "country": "UA",
     "region": "VI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UKWW"
+        "$icao": "UKWW",
+        "$iata": "VIN"
     },
     "location": {
         "latitude": 49.2333,

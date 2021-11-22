@@ -6,9 +6,8 @@
     "country": "ES",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LEZA"
+        "$icao": "LEZA",
+        "$usaf": "081605"
     },
     "location": {
         "latitude": 41.6667,

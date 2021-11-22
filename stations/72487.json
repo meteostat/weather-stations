@@ -6,9 +6,12 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "national": null,
-        "wmo": "72487",
-        "icao": "KP38"
+        "$wmo": "72487",
+        "$icao": "KP38",
+        "$ghcn": "USW00003163",
+        "$wban": "03163",
+        "$usaf": "724870",
+        "$mosmix": "72487"
     },
     "location": {
         "latitude": 37.6,

@@ -6,9 +6,10 @@
     "country": "EE",
     "region": "HA",
     "identifiers": {
-        "national": null,
-        "wmo": "26038",
-        "icao": null
+        "$wmo": "26038",
+        "$iata": "TLL",
+        "$ghcn": "EN000026038",
+        "$mosmix": "26038"
     },
     "location": {
         "latitude": 59.3833,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KVKS"
+        "$icao": "KVKS",
+        "$iata": "VKS",
+        "$wban": "93999",
+        "$usaf": "722355"
     },
     "location": {
         "latitude": 32.2393,

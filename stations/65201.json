@@ -6,9 +6,12 @@
     "country": "NG",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": "65201",
-        "icao": "DNMM"
+        "$wmo": "65201",
+        "$icao": "DNMM",
+        "$iata": "LOS",
+        "$ghcn": "NIM00065201",
+        "$usaf": "652010",
+        "$mosmix": "65201"
     },
     "location": {
         "latitude": 6.5833,

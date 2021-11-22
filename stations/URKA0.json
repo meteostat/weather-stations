@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "KDA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "URKA"
+        "$icao": "URKA",
+        "$iata": "AAQ",
+        "$usaf": "370010"
     },
     "location": {
         "latitude": 45,

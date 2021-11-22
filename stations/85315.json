@@ -6,9 +6,11 @@
     "country": "BO",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "85315",
-        "icao": "SLCA"
+        "$wmo": "85315",
+        "$icao": "SLCA",
+        "$iata": "CAM",
+        "$ghcn": "BLM00085315",
+        "$usaf": "853150"
     },
     "location": {
         "latitude": -20,

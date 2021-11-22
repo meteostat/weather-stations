@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "GMS",
     "identifiers": {
-        "national": null,
-        "wmo": "17088",
-        "icao": null
+        "$wmo": "17088",
+        "$ghcn": "TUM00017088"
     },
     "location": {
         "latitude": 40.45,

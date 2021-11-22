@@ -6,9 +6,8 @@
     "country": "BD",
     "region": "RAJ",
     "identifiers": {
-        "national": null,
-        "wmo": "41883",
-        "icao": null
+        "$wmo": "41883",
+        "$ghcn": "BGM00041883"
     },
     "location": {
         "latitude": 24.85,

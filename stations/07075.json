@@ -6,9 +6,11 @@
     "country": "FR",
     "region": "G",
     "identifiers": {
-        "national": null,
-        "wmo": "07075",
-        "icao": "LFQV"
+        "$wmo": "07075",
+        "$icao": "LFQV",
+        "$iata": "XCZ",
+        "$usaf": "070750",
+        "$mosmix": "07075"
     },
     "location": {
         "latitude": 49.7833,

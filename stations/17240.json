@@ -6,9 +6,11 @@
     "country": "TR",
     "region": "ISP",
     "identifiers": {
-        "national": null,
-        "wmo": "17240",
-        "icao": "LTBM"
+        "$wmo": "17240",
+        "$icao": "LTBM",
+        "$ghcn": "TU000017240",
+        "$usaf": "172400",
+        "$mosmix": "17240"
     },
     "location": {
         "latitude": 37.75,

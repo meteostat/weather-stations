@@ -6,9 +6,7 @@
     "country": "SA",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OETN"
+        "$icao": "OETN"
     },
     "location": {
         "latitude": 27.8678,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMKC"
+        "$icao": "KMKC",
+        "$iata": "MKC",
+        "$wban": "13988",
+        "$usaf": "724463"
     },
     "location": {
         "latitude": 39.1232,

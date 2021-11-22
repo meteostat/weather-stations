@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBAM"
+        "$icao": "KBAM",
+        "$wban": "24119",
+        "$usaf": "725835"
     },
     "location": {
         "latitude": 40.599,

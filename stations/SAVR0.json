@@ -6,9 +6,9 @@
     "country": "AR",
     "region": "U",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SAVR"
+        "$icao": "SAVR",
+        "$iata": "ARR",
+        "$usaf": "878525"
     },
     "location": {
         "latitude": -45.0167,

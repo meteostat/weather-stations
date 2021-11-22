@@ -6,9 +6,10 @@
     "country": "AT",
     "region": "VO",
     "identifiers": {
-        "national": null,
-        "wmo": "11103",
-        "icao": "LOIH"
+        "$wmo": "11103",
+        "$icao": "LOIH",
+        "$iata": "HOH",
+        "$usaf": "113020"
     },
     "location": {
         "latitude": 47.3833,

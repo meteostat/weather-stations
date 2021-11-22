@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "CES",
     "identifiers": {
-        "national": null,
-        "wmo": "80077",
-        "icao": "SKOC"
+        "$wmo": "80077",
+        "$icao": "SKOC",
+        "$iata": "OCV"
     },
     "location": {
         "latitude": 8.3167,

@@ -6,9 +6,12 @@
     "country": "EG",
     "region": "MAT",
     "identifiers": {
-        "national": null,
-        "wmo": "62306",
-        "icao": "HEMM"
+        "$wmo": "62306",
+        "$icao": "HEMM",
+        "$iata": "MUH",
+        "$ghcn": "EG000062306",
+        "$usaf": "623060",
+        "$mosmix": "62306"
     },
     "location": {
         "latitude": 31.3333,

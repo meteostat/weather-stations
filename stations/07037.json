@@ -6,9 +6,12 @@
     "country": "FR",
     "region": "Q",
     "identifiers": {
-        "national": null,
-        "wmo": "07037",
-        "icao": "LFOP"
+        "$wmo": "07037",
+        "$icao": "LFOP",
+        "$iata": "URO",
+        "$ghcn": "FRM00007037",
+        "$usaf": "070370",
+        "$mosmix": "07037"
     },
     "location": {
         "latitude": 49.3833,

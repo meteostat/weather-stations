@@ -6,9 +6,8 @@
     "country": "IE",
     "region": "DL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EIDL"
+        "$icao": "EIDL",
+        "$iata": "CFN"
     },
     "location": {
         "latitude": 55.0442,

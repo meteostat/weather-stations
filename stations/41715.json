@@ -6,9 +6,11 @@
     "country": "PK",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "41715",
-        "icao": "OPJA"
+        "$wmo": "41715",
+        "$icao": "OPJA",
+        "$iata": "JAG",
+        "$ghcn": "PKM00041715",
+        "$usaf": "417150"
     },
     "location": {
         "latitude": 28.3,

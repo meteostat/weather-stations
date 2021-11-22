@@ -6,9 +6,12 @@
     "country": "US",
     "region": "WV",
     "identifiers": {
-        "national": null,
-        "wmo": "72414",
-        "icao": "KCRW"
+        "$wmo": "72414",
+        "$icao": "KCRW",
+        "$iata": "CRW",
+        "$ghcn": "USW00013866",
+        "$wban": "13866",
+        "$usaf": "724140"
     },
     "location": {
         "latitude": 38.3667,

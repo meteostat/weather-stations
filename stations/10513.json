@@ -6,9 +6,13 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "national": "02667",
-        "wmo": "10513",
-        "icao": "EDDK"
+        "$national": "02667",
+        "$wmo": "10513",
+        "$icao": "EDDK",
+        "$iata": "CGN",
+        "$ghcn": "GME00121042",
+        "$usaf": "105130",
+        "$mosmix": "10513"
     },
     "location": {
         "latitude": 50.8667,

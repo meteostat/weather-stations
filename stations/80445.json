@@ -6,9 +6,9 @@
     "country": "VE",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "80445",
-        "icao": "SVLF"
+        "$wmo": "80445",
+        "$icao": "SVLF",
+        "$usaf": "804453"
     },
     "location": {
         "latitude": 8.25,

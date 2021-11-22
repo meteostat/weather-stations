@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "TAM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MMMA"
+        "$icao": "MMMA",
+        "$iata": "MAM",
+        "$usaf": "763993"
     },
     "location": {
         "latitude": 25.77,

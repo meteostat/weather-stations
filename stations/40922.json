@@ -6,9 +6,11 @@
     "country": "AF",
     "region": "FYB",
     "identifiers": {
-        "national": null,
-        "wmo": "40922",
-        "icao": "OAMN"
+        "$wmo": "40922",
+        "$icao": "OAMN",
+        "$iata": "MMZ",
+        "$usaf": "409220",
+        "$mosmix": "40922"
     },
     "location": {
         "latitude": 35.9333,

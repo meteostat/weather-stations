@@ -6,9 +6,10 @@
     "country": "CL",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "85921",
-        "icao": "SCNT"
+        "$wmo": "85921",
+        "$icao": "SCNT",
+        "$iata": "PNT",
+        "$usaf": "859210"
     },
     "location": {
         "latitude": -51.7,

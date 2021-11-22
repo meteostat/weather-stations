@@ -6,9 +6,9 @@
     "country": "ZM",
     "region": "EA",
     "identifiers": {
-        "national": null,
-        "wmo": "67543",
-        "icao": "FLPO"
+        "$wmo": "67543",
+        "$icao": "FLPO",
+        "$ghcn": "ZA000067543"
     },
     "location": {
         "latitude": -13.6,

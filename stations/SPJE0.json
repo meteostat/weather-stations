@@ -6,9 +6,8 @@
     "country": "PE",
     "region": "CAJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SPJE"
+        "$icao": "SPJE",
+        "$usaf": "844100"
     },
     "location": {
         "latitude": -5.5925,

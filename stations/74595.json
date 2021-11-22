@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "national": null,
-        "wmo": "74595",
-        "icao": "KW30"
+        "$wmo": "74595",
+        "$icao": "KW30",
+        "$ghcn": "USC00186665",
+        "$wban": "13796"
     },
     "location": {
         "latitude": 38.3333,

@@ -6,9 +6,8 @@
     "country": "IR",
     "region": "SMN",
     "identifiers": {
-        "national": null,
-        "wmo": "40739",
-        "icao": null
+        "$wmo": "40739",
+        "$usaf": "407390"
     },
     "location": {
         "latitude": 36.4167,

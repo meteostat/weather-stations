@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "43196",
-        "icao": null
+        "$wmo": "43196",
+        "$ghcn": "IN022030400",
+        "$usaf": "431960"
     },
     "location": {
         "latitude": 15.4167,

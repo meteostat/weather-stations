@@ -2,15 +2,15 @@
     "id": "02556",
     "name": {
         "de": "Hagshult Flughafen",
-        "en": "Hagshult Airport",
-        "sv": "Hagshult Flygplats"
+        "sv": "Hagshult Flygplats",
+        "en": "Hagshult Airport"
     },
     "country": "SE",
     "region": "F",
     "identifiers": {
-        "national": null,
-        "wmo": "02556",
-        "icao": "ESMV"
+        "$wmo": "02556",
+        "$icao": "ESMV",
+        "$usaf": "025560"
     },
     "location": {
         "latitude": 57.3,

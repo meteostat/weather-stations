@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSAR"
+        "$icao": "KSAR",
+        "$wban": "63814",
+        "$usaf": "744653"
     },
     "location": {
         "latitude": 38.1489,

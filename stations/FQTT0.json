@@ -6,9 +6,9 @@
     "country": "MZ",
     "region": "TE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FQTT"
+        "$icao": "FQTT",
+        "$iata": "TET",
+        "$usaf": "672614"
     },
     "location": {
         "latitude": -16.1,

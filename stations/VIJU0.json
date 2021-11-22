@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "JK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VIJU"
+        "$icao": "VIJU",
+        "$iata": "IXJ"
     },
     "location": {
         "latitude": 32.6891,

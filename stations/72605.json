@@ -6,9 +6,12 @@
     "country": "US",
     "region": "NH",
     "identifiers": {
-        "national": null,
-        "wmo": "72605",
-        "icao": "KCON"
+        "$wmo": "72605",
+        "$icao": "KCON",
+        "$iata": "CON",
+        "$ghcn": "USW00014745",
+        "$wban": "14745",
+        "$usaf": "726050"
     },
     "location": {
         "latitude": 43.1833,

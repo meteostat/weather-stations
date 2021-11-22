@@ -6,9 +6,13 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": "02261",
-        "wmo": "10685",
-        "icao": "EDQM"
+        "$national": "02261",
+        "$wmo": "10685",
+        "$icao": "EDQM",
+        "$iata": "HOQ",
+        "$ghcn": "GME00102364",
+        "$usaf": "106850",
+        "$mosmix": "10685"
     },
     "location": {
         "latitude": 50.3167,

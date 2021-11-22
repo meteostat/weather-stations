@@ -6,9 +6,10 @@
     "country": "TZ",
     "region": "KI",
     "identifiers": {
-        "national": null,
-        "wmo": "63801",
-        "icao": "HTKA"
+        "$wmo": "63801",
+        "$icao": "HTKA",
+        "$iata": "TKQ",
+        "$usaf": "638010"
     },
     "location": {
         "latitude": -4.8833,

@@ -6,9 +6,7 @@
     "country": "DO",
     "region": "SM",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MDAB"
+        "$icao": "MDAB"
     },
     "location": {
         "latitude": 19.1986,

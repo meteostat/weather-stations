@@ -6,9 +6,11 @@
     "country": "GA",
     "region": "OM",
     "identifiers": {
-        "national": null,
-        "wmo": "64501",
-        "icao": "FOOG"
+        "$wmo": "64501",
+        "$icao": "FOOG",
+        "$iata": "POG",
+        "$ghcn": "GB000004501",
+        "$usaf": "645010"
     },
     "location": {
         "latitude": -0.7,

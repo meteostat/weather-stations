@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "AS",
     "identifiers": {
-        "national": null,
-        "wmo": "42410",
-        "icao": "VEGT"
+        "$wmo": "42410",
+        "$icao": "VEGT",
+        "$iata": "GAU",
+        "$ghcn": "IN003041800",
+        "$usaf": "424100"
     },
     "location": {
         "latitude": 26.1,

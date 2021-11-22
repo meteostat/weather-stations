@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "LN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZYTX"
+        "$icao": "ZYTX",
+        "$iata": "SHE",
+        "$usaf": "543424"
     },
     "location": {
         "latitude": 41.8,

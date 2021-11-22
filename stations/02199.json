@@ -1,15 +1,13 @@
 {
     "id": "02199",
     "name": {
-        "en": "Ylinenjaervi",
-        "sv": "Ylinenjärvi"
+        "sv": "Ylinenjärvi",
+        "en": "Ylinenjaervi"
     },
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "national": null,
-        "wmo": "02199",
-        "icao": null
+        "$wmo": "02199"
     },
     "location": {
         "latitude": 66.6236,

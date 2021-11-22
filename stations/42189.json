@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "UP",
     "identifiers": {
-        "national": null,
-        "wmo": "42189",
-        "icao": "VIBY"
+        "$wmo": "42189",
+        "$icao": "VIBY",
+        "$iata": "BEK",
+        "$ghcn": "IN023101700",
+        "$usaf": "421890"
     },
     "location": {
         "latitude": 28.3667,

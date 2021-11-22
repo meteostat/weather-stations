@@ -6,9 +6,9 @@
     "country": "YE",
     "region": "HD",
     "identifiers": {
-        "national": null,
-        "wmo": "41394",
-        "icao": "OYRN"
+        "$wmo": "41394",
+        "$icao": "OYRN",
+        "$usaf": "414430"
     },
     "location": {
         "latitude": 14.64,

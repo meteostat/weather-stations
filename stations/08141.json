@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "CL",
     "identifiers": {
-        "national": null,
-        "wmo": "08141",
-        "icao": null
+        "$wmo": "08141",
+        "$ghcn": "SPE00120593",
+        "$mosmix": "08141"
     },
     "location": {
         "latitude": 41.65,

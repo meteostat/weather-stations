@@ -6,9 +6,9 @@
     "country": "DO",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "78486",
-        "icao": null
+        "$wmo": "78486",
+        "$ghcn": "DRM00078486",
+        "$mosmix": "78486"
     },
     "location": {
         "latitude": 18.4333,

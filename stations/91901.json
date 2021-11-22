@@ -6,9 +6,8 @@
     "country": "UM",
     "region": "DQ",
     "identifiers": {
-        "national": null,
-        "wmo": "91901",
-        "icao": "PLUR"
+        "$wmo": "91901",
+        "$icao": "PLUR"
     },
     "location": {
         "latitude": -0.3833,

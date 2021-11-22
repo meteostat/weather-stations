@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "BC",
     "identifiers": {
-        "national": null,
-        "wmo": "16300",
-        "icao": "LIBZ"
+        "$wmo": "16300",
+        "$icao": "LIBZ",
+        "$iata": "QPO",
+        "$usaf": "163000",
+        "$mosmix": "16300"
     },
     "location": {
         "latitude": 40.6333,

@@ -6,9 +6,8 @@
     "country": "OM",
     "region": "JA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KQJL"
+        "$icao": "KQJL",
+        "$wban": "31502"
     },
     "location": {
         "latitude": 17.66,

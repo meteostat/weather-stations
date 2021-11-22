@@ -6,9 +6,12 @@
     "country": "TR",
     "region": "DIY",
     "identifiers": {
-        "national": null,
-        "wmo": "17280",
-        "icao": "LTCC"
+        "$wmo": "17280",
+        "$icao": "LTCC",
+        "$iata": "DIY",
+        "$ghcn": "TUM00017280",
+        "$usaf": "172800",
+        "$mosmix": "17280"
     },
     "location": {
         "latitude": 37.8833,

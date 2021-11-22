@@ -6,9 +6,10 @@
     "country": "GT",
     "region": "IZ",
     "identifiers": {
-        "national": null,
-        "wmo": "78637",
-        "icao": "MGPB"
+        "$wmo": "78637",
+        "$icao": "MGPB",
+        "$iata": "PBR",
+        "$usaf": "786370"
     },
     "location": {
         "latitude": 15.7167,

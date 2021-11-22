@@ -6,9 +6,8 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRAW"
+        "$icao": "KRAW",
+        "$usaf": "720487"
     },
     "location": {
         "latitude": 38.3469,

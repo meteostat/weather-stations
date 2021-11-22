@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "NAN",
     "identifiers": {
-        "national": null,
-        "wmo": "40953",
-        "icao": "OAGA"
+        "$wmo": "40953",
+        "$icao": "OAGA",
+        "$usaf": "409530"
     },
     "location": {
         "latitude": 34.3167,

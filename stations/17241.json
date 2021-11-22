@@ -6,9 +6,10 @@
     "country": "TR",
     "region": "ISP",
     "identifiers": {
-        "national": null,
-        "wmo": "17241",
-        "icao": "LTFC"
+        "$wmo": "17241",
+        "$icao": "LTFC",
+        "$iata": "ISE",
+        "$usaf": "172410"
     },
     "location": {
         "latitude": 37.85,

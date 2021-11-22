@@ -6,9 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KALI"
+        "$icao": "KALI",
+        "$iata": "ALI",
+        "$wban": "12932",
+        "$usaf": "722517"
     },
     "location": {
         "latitude": 27.7409,

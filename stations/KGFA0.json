@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KGFA"
+        "$icao": "KGFA",
+        "$wban": "24112",
+        "$usaf": "727755"
     },
     "location": {
         "latitude": 47.5047,

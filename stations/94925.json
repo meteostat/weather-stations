@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "ACT",
     "identifiers": {
-        "national": null,
-        "wmo": "94925",
-        "icao": null
+        "$wmo": "94925",
+        "$ghcn": "ASN00070339"
     },
     "location": {
         "latitude": -35.4183,

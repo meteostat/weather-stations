@@ -6,9 +6,9 @@
     "country": "OM",
     "region": "BS",
     "identifiers": {
-        "national": null,
-        "wmo": "41253",
-        "icao": null
+        "$wmo": "41253",
+        "$ghcn": "MUM00041253",
+        "$mosmix": "41253"
     },
     "location": {
         "latitude": 23.4092,

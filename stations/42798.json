@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "BR",
     "identifiers": {
-        "national": null,
-        "wmo": "42798",
-        "icao": "VEJS"
+        "$wmo": "42798",
+        "$icao": "VEJS",
+        "$iata": "IXW",
+        "$usaf": "427980"
     },
     "location": {
         "latitude": 22.8167,

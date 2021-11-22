@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYLH"
+        "$icao": "CYLH"
     },
     "location": {
         "latitude": 52.1961,

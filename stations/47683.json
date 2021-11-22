@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "TK",
     "identifiers": {
-        "national": null,
-        "wmo": "47683",
-        "icao": "RJTF"
+        "$wmo": "47683",
+        "$icao": "RJTF",
+        "$usaf": "476830"
     },
     "location": {
         "latitude": 35.6667,

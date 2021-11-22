@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "OTA",
     "identifiers": {
-        "national": null,
-        "wmo": "93830",
-        "icao": "NZQN"
+        "$wmo": "93830",
+        "$icao": "NZQN",
+        "$iata": "ZQN"
     },
     "location": {
         "latitude": -45.0167,

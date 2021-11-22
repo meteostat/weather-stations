@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "UC",
     "identifiers": {
-        "national": null,
-        "wmo": "84515",
-        "icao": "SPCL"
+        "$wmo": "84515",
+        "$icao": "SPCL",
+        "$iata": "PCL",
+        "$ghcn": "PEM00084515",
+        "$usaf": "845150"
     },
     "location": {
         "latitude": -8.4167,

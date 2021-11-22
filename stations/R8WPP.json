@@ -6,13 +6,11 @@
     "country": "CA",
     "region": "SK",
     "identifiers": {
-        "national": "2973",
-        "wmo": null,
-        "icao": null
+        "$national": "2973"
     },
     "location": {
         "latitude": 52.33,
-        "longitude": -105.0,
+        "longitude": -105,
         "elevation": 580
     },
     "timezone": "America/Regina"

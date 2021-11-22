@@ -6,9 +6,10 @@
     "country": "JP",
     "region": "YC",
     "identifiers": {
-        "national": null,
-        "wmo": "47786",
-        "icao": "RJDC"
+        "$wmo": "47786",
+        "$icao": "RJDC",
+        "$iata": "UBJ",
+        "$usaf": "477860"
     },
     "location": {
         "latitude": 33.9333,

@@ -6,9 +6,10 @@
     "country": "FR",
     "region": "L",
     "identifiers": {
-        "national": null,
-        "wmo": "07362",
-        "icao": "LFBK"
+        "$wmo": "07362",
+        "$icao": "LFBK",
+        "$iata": "MCU",
+        "$usaf": "073625"
     },
     "location": {
         "latitude": 46.21,

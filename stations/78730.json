@@ -6,9 +6,10 @@
     "country": "NI",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "78730",
-        "icao": "MNPC"
+        "$wmo": "78730",
+        "$icao": "MNPC",
+        "$iata": "PUZ",
+        "$usaf": "787300"
     },
     "location": {
         "latitude": 14.05,

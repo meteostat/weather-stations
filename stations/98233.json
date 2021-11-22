@@ -6,9 +6,11 @@
     "country": "PH",
     "region": "CAG",
     "identifiers": {
-        "national": null,
-        "wmo": "98233",
-        "icao": "RPUT"
+        "$wmo": "98233",
+        "$icao": "RPUT",
+        "$iata": "TUG",
+        "$ghcn": "RPM00098233",
+        "$usaf": "982330"
     },
     "location": {
         "latitude": 17.6167,

@@ -6,9 +6,10 @@
     "country": "BR",
     "region": "RJ",
     "identifiers": {
-        "national": null,
-        "wmo": "83741",
-        "icao": "SBSC"
+        "$wmo": "83741",
+        "$icao": "SBSC",
+        "$iata": "SNZ",
+        "$usaf": "837410"
     },
     "location": {
         "latitude": -22.9333,

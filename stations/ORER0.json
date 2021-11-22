@@ -6,9 +6,8 @@
     "country": "IQ",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ORER"
+        "$icao": "ORER",
+        "$iata": "EBL"
     },
     "location": {
         "latitude": 36.24,

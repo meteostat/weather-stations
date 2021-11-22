@@ -6,9 +6,13 @@
     "country": "DE",
     "region": "BW",
     "identifiers": {
-        "national": "02712",
-        "wmo": "10929",
-        "icao": "EDTZ"
+        "$national": "02712",
+        "$wmo": "10929",
+        "$icao": "EDTZ",
+        "$iata": "QKZ",
+        "$ghcn": "GME00102404",
+        "$usaf": "109290",
+        "$mosmix": "10929"
     },
     "location": {
         "latitude": 47.6833,

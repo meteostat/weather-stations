@@ -6,9 +6,11 @@
     "country": "RU",
     "region": "CN",
     "identifiers": {
-        "national": null,
-        "wmo": "37235",
-        "icao": "URMG"
+        "$wmo": "37235",
+        "$icao": "URMG",
+        "$iata": "GRV",
+        "$ghcn": "RSM00037235",
+        "$mosmix": "37235"
     },
     "location": {
         "latitude": 43.35,

@@ -6,9 +6,8 @@
     "country": "LT",
     "region": "KP",
     "identifiers": {
-        "national": null,
-        "wmo": "26600",
-        "icao": null
+        "$wmo": "26600",
+        "$ghcn": "LH000026600"
     },
     "location": {
         "latitude": 55.35,

@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWHE"
+        "$icao": "CWHE"
     },
     "location": {
         "latitude": 53.4167,

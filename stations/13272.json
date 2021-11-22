@@ -6,9 +6,11 @@
     "country": "RS",
     "region": "SI",
     "identifiers": {
-        "national": null,
-        "wmo": "13272",
-        "icao": "LYBE"
+        "$wmo": "13272",
+        "$icao": "LYBE",
+        "$iata": "BEG",
+        "$usaf": "132720",
+        "$mosmix": "13272"
     },
     "location": {
         "latitude": 44.8167,

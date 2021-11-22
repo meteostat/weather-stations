@@ -6,9 +6,10 @@
     "country": "SE",
     "region": "H",
     "identifiers": {
-        "national": null,
-        "wmo": "02565",
-        "icao": "ESSF"
+        "$wmo": "02565",
+        "$icao": "ESSF",
+        "$iata": "HLF",
+        "$usaf": "025650"
     },
     "location": {
         "latitude": 57.5167,

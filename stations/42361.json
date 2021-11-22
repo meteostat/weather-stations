@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "MP",
     "identifiers": {
-        "national": null,
-        "wmo": "42361",
-        "icao": "VIGR"
+        "$wmo": "42361",
+        "$icao": "VIGR",
+        "$ghcn": "IN011150300",
+        "$usaf": "423610"
     },
     "location": {
         "latitude": 26.2333,

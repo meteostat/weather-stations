@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KVIS"
+        "$icao": "KVIS",
+        "$iata": "VIS",
+        "$wban": "93144",
+        "$usaf": "723896"
     },
     "location": {
         "latitude": 36.3187,

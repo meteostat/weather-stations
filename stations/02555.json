@@ -1,15 +1,13 @@
 {
     "id": "02555",
     "name": {
-        "en": "Nassjo Hunseberg",
-        "sv": "Nässjö Hunseberg"
+        "sv": "Nässjö Hunseberg",
+        "en": "Nassjo Hunseberg"
     },
     "country": "SE",
     "region": "F",
     "identifiers": {
-        "national": null,
-        "wmo": "02555",
-        "icao": null
+        "$wmo": "02555"
     },
     "location": {
         "latitude": 57.65,

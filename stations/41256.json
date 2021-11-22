@@ -6,9 +6,12 @@
     "country": "OM",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "41256",
-        "icao": "OOMS"
+        "$wmo": "41256",
+        "$icao": "OOMS",
+        "$iata": "MCT",
+        "$ghcn": "MUM00041256",
+        "$usaf": "412560",
+        "$mosmix": "41256"
     },
     "location": {
         "latitude": 23.5833,

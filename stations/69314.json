@@ -6,9 +6,8 @@
     "country": "AF",
     "region": "KAN",
     "identifiers": {
-        "national": null,
-        "wmo": "69314",
-        "icao": "KQHN"
+        "$wmo": "69314",
+        "$icao": "KQHN"
     },
     "location": {
         "latitude": 31.62,

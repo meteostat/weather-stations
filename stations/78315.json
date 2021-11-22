@@ -6,9 +6,10 @@
     "country": "CU",
     "region": "PD",
     "identifiers": {
-        "national": null,
-        "wmo": "78315",
-        "icao": "MUPR"
+        "$wmo": "78315",
+        "$icao": "MUPR",
+        "$iata": "QPD",
+        "$mosmix": "78315"
     },
     "location": {
         "latitude": 22.4167,

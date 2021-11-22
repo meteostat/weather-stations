@@ -6,9 +6,7 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KIMS"
+        "$icao": "KIMS"
     },
     "location": {
         "latitude": 38.7599,

@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "CV",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LUKK"
+        "$icao": "LUKK",
+        "$iata": "KIV",
+        "$usaf": "338387"
     },
     "location": {
         "latitude": 46.9167,

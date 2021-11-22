@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "BOL",
     "identifiers": {
-        "national": null,
-        "wmo": "17070",
-        "icao": null
+        "$wmo": "17070",
+        "$ghcn": "TUM00017070",
+        "$mosmix": "17070"
     },
     "location": {
         "latitude": 40.7333,

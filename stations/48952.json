@@ -6,9 +6,10 @@
     "country": "LA",
     "region": "SL",
     "identifiers": {
-        "national": null,
-        "wmo": "48952",
-        "icao": "VLSV"
+        "$wmo": "48952",
+        "$icao": "VLSV",
+        "$iata": "VNA",
+        "$usaf": "489520"
     },
     "location": {
         "latitude": 15.6833,

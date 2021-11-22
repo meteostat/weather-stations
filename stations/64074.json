@@ -6,9 +6,8 @@
     "country": "CD",
     "region": "OR",
     "identifiers": {
-        "national": null,
-        "wmo": "64074",
-        "icao": "FZJI"
+        "$wmo": "64074",
+        "$icao": "FZJI"
     },
     "location": {
         "latitude": 3.0667,

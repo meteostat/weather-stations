@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "YT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWDB"
+        "$icao": "CWDB"
     },
     "location": {
         "latitude": 61.3667,

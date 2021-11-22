@@ -6,9 +6,12 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "72792",
-        "icao": "KOLM"
+        "$wmo": "72792",
+        "$icao": "KOLM",
+        "$iata": "OLM",
+        "$ghcn": "USW00024227",
+        "$wban": "24227",
+        "$usaf": "727920"
     },
     "location": {
         "latitude": 46.9667,

@@ -6,9 +6,12 @@
     "country": "VE",
     "region": "V",
     "identifiers": {
-        "national": null,
-        "wmo": "80407",
-        "icao": "SVMC"
+        "$wmo": "80407",
+        "$icao": "SVMC",
+        "$iata": "MAR",
+        "$ghcn": "VEM00080407",
+        "$usaf": "804070",
+        "$mosmix": "80407"
     },
     "location": {
         "latitude": 10.5667,

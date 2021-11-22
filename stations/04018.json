@@ -6,9 +6,12 @@
     "country": "IS",
     "region": "SU",
     "identifiers": {
-        "national": null,
-        "wmo": "04018",
-        "icao": "BIKF"
+        "$wmo": "04018",
+        "$icao": "BIKF",
+        "$ghcn": "ICW00016201",
+        "$wban": "16201",
+        "$usaf": "040180",
+        "$mosmix": "04018"
     },
     "location": {
         "latitude": 63.9667,

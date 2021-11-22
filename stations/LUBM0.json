@@ -6,9 +6,8 @@
     "country": "MD",
     "region": "FR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LUBM"
+        "$icao": "LUBM",
+        "$usaf": "337175"
     },
     "location": {
         "latitude": 47.8627,

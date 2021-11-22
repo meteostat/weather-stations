@@ -6,9 +6,8 @@
     "country": "RO",
     "region": "IS",
     "identifiers": {
-        "national": null,
-        "wmo": "15025",
-        "icao": null
+        "$wmo": "15025",
+        "$usaf": "150250"
     },
     "location": {
         "latitude": 47.8322,

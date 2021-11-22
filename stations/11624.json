@@ -6,9 +6,10 @@
     "country": "CZ",
     "region": "ST",
     "identifiers": {
-        "national": null,
-        "wmo": "11624",
-        "icao": "LKCV"
+        "$wmo": "11624",
+        "$icao": "LKCV",
+        "$usaf": "116240",
+        "$mosmix": "11624"
     },
     "location": {
         "latitude": 49.9333,

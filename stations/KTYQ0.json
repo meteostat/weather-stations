@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTYQ"
+        "$icao": "KTYQ",
+        "$wban": "00173",
+        "$usaf": "720575"
     },
     "location": {
         "latitude": 40.0307,

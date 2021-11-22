@@ -6,9 +6,10 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRDG"
+        "$icao": "KRDG",
+        "$iata": "RDG",
+        "$wban": "14712",
+        "$usaf": "725103"
     },
     "location": {
         "latitude": 40.3333,

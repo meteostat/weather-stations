@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "MAL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTAO"
+        "$icao": "LTAO",
+        "$usaf": "171970"
     },
     "location": {
         "latitude": 38.3537,

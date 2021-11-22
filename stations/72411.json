@@ -6,9 +6,13 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": "72411",
-        "icao": "KROA"
+        "$wmo": "72411",
+        "$icao": "KROA",
+        "$iata": "ROA",
+        "$ghcn": "USW00013741",
+        "$wban": "13741",
+        "$usaf": "724110",
+        "$mosmix": "72411"
     },
     "location": {
         "latitude": 37.3167,

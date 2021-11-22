@@ -6,9 +6,7 @@
     "country": "US",
     "region": "MT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KPWD"
+        "$icao": "KPWD"
     },
     "location": {
         "latitude": 48.7886,

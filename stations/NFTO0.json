@@ -6,9 +6,8 @@
     "country": "TO",
     "region": "NI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "NFTO"
+        "$icao": "NFTO",
+        "$iata": "NFO"
     },
     "location": {
         "latitude": -15.5708,

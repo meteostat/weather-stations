@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MS",
     "identifiers": {
-        "national": null,
-        "wmo": "74759",
-        "icao": "KHBG"
+        "$wmo": "74759",
+        "$icao": "KHBG",
+        "$iata": "HBG",
+        "$ghcn": "USW00013833",
+        "$wban": "13833",
+        "$usaf": "747590"
     },
     "location": {
         "latitude": 31.2649,

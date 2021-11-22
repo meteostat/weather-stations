@@ -6,9 +6,10 @@
     "country": "MA",
     "region": "GE",
     "identifiers": {
-        "national": null,
-        "wmo": "60285",
-        "icao": "GMAT"
+        "$wmo": "60285",
+        "$icao": "GMAT",
+        "$iata": "TTA",
+        "$usaf": "602850"
     },
     "location": {
         "latitude": 28.45,

@@ -6,9 +6,8 @@
     "country": "UY",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SUPE"
+        "$icao": "SUPE",
+        "$usaf": "865955"
     },
     "location": {
         "latitude": -34.9167,

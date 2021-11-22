@@ -6,9 +6,8 @@
     "country": "LT",
     "region": "UN",
     "identifiers": {
-        "national": null,
-        "wmo": "26547",
-        "icao": null
+        "$wmo": "26547",
+        "$ghcn": "LH000026547"
     },
     "location": {
         "latitude": 55.5167,

@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "TIA",
     "identifiers": {
-        "national": null,
-        "wmo": "60511",
-        "icao": "DAOB"
+        "$wmo": "60511",
+        "$icao": "DAOB",
+        "$iata": "TID",
+        "$ghcn": "AGM00060511",
+        "$usaf": "605110"
     },
     "location": {
         "latitude": 35.25,

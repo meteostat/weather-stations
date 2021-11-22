@@ -1,15 +1,13 @@
 {
     "id": "02454",
     "name": {
-        "en": "Utvalnas",
-        "sv": "Utvalnäs"
+        "sv": "Utvalnäs",
+        "en": "Utvalnas"
     },
     "country": "SE",
     "region": "GV",
     "identifiers": {
-        "national": null,
-        "wmo": "02454",
-        "icao": null
+        "$wmo": "02454"
     },
     "location": {
         "latitude": 60.75,

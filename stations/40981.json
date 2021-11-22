@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "PKA",
     "identifiers": {
-        "national": null,
-        "wmo": "40981",
-        "icao": "OADW"
+        "$wmo": "40981",
+        "$icao": "OADW",
+        "$usaf": "409810"
     },
     "location": {
         "latitude": 32.2,

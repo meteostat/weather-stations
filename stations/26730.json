@@ -6,9 +6,12 @@
     "country": "LT",
     "region": "VI",
     "identifiers": {
-        "national": null,
-        "wmo": "26730",
-        "icao": "EYVI"
+        "$wmo": "26730",
+        "$icao": "EYVI",
+        "$iata": "VNO",
+        "$ghcn": "LH000026730",
+        "$usaf": "267300",
+        "$mosmix": "26730"
     },
     "location": {
         "latitude": 54.6333,

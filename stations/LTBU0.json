@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "TEL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTBU"
+        "$icao": "LTBU",
+        "$iata": "TEQ",
+        "$usaf": "170540"
     },
     "location": {
         "latitude": 41.1333,

@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "82263",
-        "icao": null
+        "$wmo": "82263",
+        "$ghcn": "BR000249000"
     },
     "location": {
         "latitude": -2.25,

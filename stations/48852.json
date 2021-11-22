@@ -6,9 +6,10 @@
     "country": "VN",
     "region": "BC",
     "identifiers": {
-        "national": null,
-        "wmo": "48852",
-        "icao": "VVPB"
+        "$wmo": "48852",
+        "$icao": "VVPB",
+        "$iata": "HUI",
+        "$usaf": "488520"
     },
     "location": {
         "latitude": 16.4,

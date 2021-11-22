@@ -6,9 +6,8 @@
     "country": "TR",
     "region": "ANK",
     "identifiers": {
-        "national": null,
-        "wmo": "17130",
-        "icao": null
+        "$wmo": "17130",
+        "$ghcn": "TUM00017130"
     },
     "location": {
         "latitude": 39.95,

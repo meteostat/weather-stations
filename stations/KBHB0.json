@@ -6,9 +6,10 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBHB"
+        "$icao": "KBHB",
+        "$iata": "BHB",
+        "$wban": "14616",
+        "$usaf": "726077"
     },
     "location": {
         "latitude": 44.4498,

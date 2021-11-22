@@ -6,9 +6,9 @@
     "country": "GA",
     "region": "HO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FOON"
+        "$icao": "FOON",
+        "$iata": "MVB",
+        "$usaf": "645700"
     },
     "location": {
         "latitude": -1.65,

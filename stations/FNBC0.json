@@ -6,9 +6,9 @@
     "country": "AO",
     "region": "ZAI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FNBC"
+        "$icao": "FNBC",
+        "$iata": "SSY",
+        "$usaf": "661180"
     },
     "location": {
         "latitude": -6.2699,

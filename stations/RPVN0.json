@@ -6,9 +6,8 @@
     "country": "PH",
     "region": "CEB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "RPVN"
+        "$icao": "RPVN",
+        "$usaf": "986445"
     },
     "location": {
         "latitude": 11.16,

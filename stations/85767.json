@@ -6,9 +6,8 @@
     "country": "CL",
     "region": "LR",
     "identifiers": {
-        "national": null,
-        "wmo": "85767",
-        "icao": null
+        "$wmo": "85767",
+        "$iata": "ZAL"
     },
     "location": {
         "latitude": -39.7969,

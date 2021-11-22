@@ -6,9 +6,11 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "82444",
-        "icao": "SBIH"
+        "$wmo": "82444",
+        "$icao": "SBIH",
+        "$iata": "ITB",
+        "$usaf": "824440",
+        "$mosmix": "82444"
     },
     "location": {
         "latitude": -4.25,

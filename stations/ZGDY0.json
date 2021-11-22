@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "HN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ZGDY"
+        "$icao": "ZGDY",
+        "$iata": "DYG",
+        "$usaf": "564625"
     },
     "location": {
         "latitude": 29.1028,

@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "UP",
     "identifiers": {
-        "national": null,
-        "wmo": "42463",
-        "icao": "VIJN"
+        "$wmo": "42463",
+        "$icao": "VIJN",
+        "$ghcn": "IN023310500",
+        "$usaf": "424630"
     },
     "location": {
         "latitude": 25.45,

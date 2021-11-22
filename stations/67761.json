@@ -6,9 +6,12 @@
     "country": "ZW",
     "region": "MW",
     "identifiers": {
-        "national": null,
-        "wmo": "67761",
-        "icao": "FVKB"
+        "$wmo": "67761",
+        "$icao": "FVKB",
+        "$iata": "KAB",
+        "$ghcn": "ZI000067761",
+        "$usaf": "677610",
+        "$mosmix": "67761"
     },
     "location": {
         "latitude": -16.5167,

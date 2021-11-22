@@ -6,9 +6,13 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "72662",
-        "icao": "KRAP"
+        "$wmo": "72662",
+        "$icao": "KRAP",
+        "$iata": "RAP",
+        "$ghcn": "USW00024090",
+        "$wban": "24090",
+        "$usaf": "726620",
+        "$mosmix": "72662"
     },
     "location": {
         "latitude": 44.05,

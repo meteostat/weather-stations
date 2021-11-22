@@ -6,9 +6,10 @@
     "country": "ZW",
     "region": "ME",
     "identifiers": {
-        "national": null,
-        "wmo": "67781",
-        "icao": "FVMT"
+        "$wmo": "67781",
+        "$icao": "FVMT",
+        "$ghcn": "ZI000067781",
+        "$usaf": "677810"
     },
     "location": {
         "latitude": -17.4167,

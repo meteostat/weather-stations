@@ -6,9 +6,13 @@
     "country": "CA",
     "region": "NS",
     "identifiers": {
-        "national": "50620",
-        "wmo": "71395",
-        "icao": "CYHZ"
+        "$national": "50620",
+        "$wmo": "71395",
+        "$icao": "CYHZ",
+        "$iata": "YHZ",
+        "$ghcn": "CA008202250",
+        "$usaf": "713950",
+        "$mosmix": "71395"
     },
     "location": {
         "latitude": 44.88,

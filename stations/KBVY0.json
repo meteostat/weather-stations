@@ -6,9 +6,10 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBVY"
+        "$icao": "KBVY",
+        "$iata": "BVY",
+        "$wban": "54733",
+        "$usaf": "725088"
     },
     "location": {
         "latitude": 42.5841,

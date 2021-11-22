@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "ARA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SKSA"
+        "$icao": "SKSA",
+        "$iata": "RVE",
+        "$usaf": "802225"
     },
     "location": {
         "latitude": 6.9547,

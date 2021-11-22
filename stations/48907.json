@@ -6,9 +6,9 @@
     "country": "VN",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "48907",
-        "icao": "VVRG"
+        "$wmo": "48907",
+        "$icao": "VVRG",
+        "$iata": "VKG"
     },
     "location": {
         "latitude": 10,

@@ -1,15 +1,13 @@
 {
     "id": "02231",
     "name": {
-        "en": "Foellinge",
-        "sv": "Föllinge"
+        "sv": "Föllinge",
+        "en": "Foellinge"
     },
     "country": "SE",
     "region": "Z",
     "identifiers": {
-        "national": null,
-        "wmo": "02231",
-        "icao": null
+        "$wmo": "02231"
     },
     "location": {
         "latitude": 63.6772,

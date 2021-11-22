@@ -6,9 +6,10 @@
     "country": "DZ",
     "region": "TL",
     "identifiers": {
-        "national": null,
-        "wmo": "60531",
-        "icao": "DAON"
+        "$wmo": "60531",
+        "$icao": "DAON",
+        "$ghcn": "AGM00060531",
+        "$usaf": "605310"
     },
     "location": {
         "latitude": 35.0167,

@@ -6,9 +6,11 @@
     "country": "HN",
     "region": "CR",
     "identifiers": {
-        "national": null,
-        "wmo": "78708",
-        "icao": "MHLM"
+        "$wmo": "78708",
+        "$icao": "MHLM",
+        "$iata": "SAP",
+        "$ghcn": "HOM00078708",
+        "$usaf": "787080"
     },
     "location": {
         "latitude": 15.45,

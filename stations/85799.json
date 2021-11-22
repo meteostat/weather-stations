@@ -6,9 +6,12 @@
     "country": "CL",
     "region": "LL",
     "identifiers": {
-        "national": null,
-        "wmo": "85799",
-        "icao": "SCTE"
+        "$wmo": "85799",
+        "$icao": "SCTE",
+        "$iata": "PMC",
+        "$ghcn": "CI000085799",
+        "$usaf": "857990",
+        "$mosmix": "85799"
     },
     "location": {
         "latitude": -41.4167,

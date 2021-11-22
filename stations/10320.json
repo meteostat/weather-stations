@@ -6,9 +6,12 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "national": "01892",
-        "wmo": "10320",
-        "icao": "ETUO"
+        "$national": "01892",
+        "$wmo": "10320",
+        "$icao": "ETUO",
+        "$iata": "GUT",
+        "$usaf": "103200",
+        "$mosmix": "10320"
     },
     "location": {
         "latitude": 51.9167,

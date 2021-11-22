@@ -6,9 +6,13 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "national": null,
-        "wmo": "72211",
-        "icao": "KTPA"
+        "$wmo": "72211",
+        "$icao": "KTPA",
+        "$iata": "TPA",
+        "$ghcn": "USW00012842",
+        "$wban": "12842",
+        "$usaf": "722110",
+        "$mosmix": "72211"
     },
     "location": {
         "latitude": 27.9667,

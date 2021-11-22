@@ -1,15 +1,14 @@
 {
     "id": "01224",
     "name": {
-        "en": "Skalmen Lighthouse",
-        "no": "Skalmen Fyr"
+        "no": "Skalmen Fyr",
+        "en": "Skalmen Lighthouse"
     },
     "country": "NO",
     "region": "15",
     "identifiers": {
-        "national": null,
-        "wmo": "01224",
-        "icao": null
+        "$wmo": "01224",
+        "$usaf": "012240"
     },
     "location": {
         "latitude": 63.4667,

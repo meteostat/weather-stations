@@ -6,9 +6,10 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "national": null,
-        "wmo": "74000",
-        "icao": "KFWN"
+        "$wmo": "74000",
+        "$icao": "KFWN",
+        "$wban": "54793",
+        "$usaf": "740001"
     },
     "location": {
         "latitude": 41.2,

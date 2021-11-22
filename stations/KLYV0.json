@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLYV"
+        "$icao": "KLYV",
+        "$wban": "54926",
+        "$usaf": "722006"
     },
     "location": {
         "latitude": 43.6168,

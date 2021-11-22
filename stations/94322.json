@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": "94322",
-        "icao": "YPAY"
+        "$wmo": "94322",
+        "$icao": "YPAY",
+        "$ghcn": "ASN00015612"
     },
     "location": {
         "latitude": -20.1833,

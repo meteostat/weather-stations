@@ -6,9 +6,10 @@
     "country": "IR",
     "region": "KV",
     "identifiers": {
-        "national": null,
-        "wmo": "40743",
-        "icao": "OIMS"
+        "$wmo": "40743",
+        "$icao": "OIMS",
+        "$iata": "AFZ",
+        "$usaf": "407430"
     },
     "location": {
         "latitude": 36.2167,

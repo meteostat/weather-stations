@@ -6,9 +6,10 @@
     "country": "JP",
     "region": "TY",
     "identifiers": {
-        "national": null,
-        "wmo": "47707",
-        "icao": "RJNT"
+        "$wmo": "47707",
+        "$icao": "RJNT",
+        "$iata": "TOY",
+        "$usaf": "477070"
     },
     "location": {
         "latitude": 36.65,

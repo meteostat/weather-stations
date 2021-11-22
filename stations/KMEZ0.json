@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMEZ"
+        "$icao": "KMEZ",
+        "$wban": "53996",
+        "$usaf": "720172"
     },
     "location": {
         "latitude": 34.5454,

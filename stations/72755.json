@@ -6,9 +6,12 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "national": null,
-        "wmo": "72755",
-        "icao": "KBJI"
+        "$wmo": "72755",
+        "$icao": "KBJI",
+        "$iata": "BJI",
+        "$ghcn": "USC00210643",
+        "$wban": "14958",
+        "$usaf": "727550"
     },
     "location": {
         "latitude": 47.5,

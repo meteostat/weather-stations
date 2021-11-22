@@ -6,9 +6,12 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "national": null,
-        "wmo": "72225",
-        "icao": "KLSF"
+        "$wmo": "72225",
+        "$icao": "KLSF",
+        "$iata": "LSF",
+        "$ghcn": "USW00013829",
+        "$wban": "13829",
+        "$usaf": "722250"
     },
     "location": {
         "latitude": 32.3333,

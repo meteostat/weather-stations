@@ -6,9 +6,11 @@
     "country": "MX",
     "region": "MOR",
     "identifiers": {
-        "national": null,
-        "wmo": "76726",
-        "icao": "MMCB"
+        "$wmo": "76726",
+        "$icao": "MMCB",
+        "$iata": "CVJ",
+        "$ghcn": "MX000017004",
+        "$usaf": "767260"
     },
     "location": {
         "latitude": 18.8833,

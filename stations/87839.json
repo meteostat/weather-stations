@@ -6,9 +6,8 @@
     "country": "AR",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "87839",
-        "icao": null
+        "$wmo": "87839",
+        "$mosmix": "87839"
     },
     "location": {
         "latitude": -46.5167,

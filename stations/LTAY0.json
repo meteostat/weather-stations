@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "DEN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTAY"
+        "$icao": "LTAY",
+        "$iata": "DNZ",
+        "$usaf": "172375"
     },
     "location": {
         "latitude": 37.7833,

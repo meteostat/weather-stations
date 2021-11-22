@@ -6,13 +6,12 @@
     "country": "CA",
     "region": "NU",
     "identifiers": {
-        "national": "42583",
-        "wmo": "71356",
-        "icao": null
+        "$national": "42583",
+        "$wmo": "71356"
     },
     "location": {
         "latitude": 64.32,
-        "longitude": -96.0,
+        "longitude": -96,
         "elevation": 51
     },
     "timezone": "America/Rankin_Inlet"

@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "KI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "WALL"
+        "$icao": "WALL",
+        "$iata": "BPN",
+        "$usaf": "966330"
     },
     "location": {
         "latitude": -1.2683,

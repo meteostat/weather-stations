@@ -6,9 +6,11 @@
     "country": "IR",
     "region": "KBA",
     "identifiers": {
-        "national": null,
-        "wmo": "40835",
-        "icao": "OIAH"
+        "$wmo": "40835",
+        "$icao": "OIAH",
+        "$iata": "GCH",
+        "$usaf": "408350",
+        "$mosmix": "40835"
     },
     "location": {
         "latitude": 30.4333,

@@ -6,9 +6,9 @@
     "country": "SE",
     "region": "Q",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "ESGL"
+        "$icao": "ESGL",
+        "$iata": "LDK",
+        "$usaf": "025105"
     },
     "location": {
         "latitude": 58.4655,

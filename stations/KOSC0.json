@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KOSC"
+        "$icao": "KOSC",
+        "$wban": "14808",
+        "$usaf": "726395"
     },
     "location": {
         "latitude": 44.4515,

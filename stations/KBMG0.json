@@ -6,9 +6,10 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KBMG"
+        "$icao": "KBMG",
+        "$iata": "BMG",
+        "$wban": "03893",
+        "$usaf": "724375"
     },
     "location": {
         "latitude": 39.146,

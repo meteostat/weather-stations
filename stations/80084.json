@@ -6,9 +6,10 @@
     "country": "CO",
     "region": "ANT",
     "identifiers": {
-        "national": null,
-        "wmo": "80084",
-        "icao": "SKLC"
+        "$wmo": "80084",
+        "$icao": "SKLC",
+        "$ghcn": "COM00080084",
+        "$usaf": "800840"
     },
     "location": {
         "latitude": 7.8167,

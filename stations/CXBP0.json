@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "PE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CXBP"
+        "$icao": "CXBP",
+        "$usaf": "713315"
     },
     "location": {
         "latitude": 46.2333,

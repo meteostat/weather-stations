@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "HE",
     "identifiers": {
-        "national": null,
-        "wmo": "10642",
-        "icao": "ETID"
+        "$wmo": "10642",
+        "$icao": "ETID",
+        "$usaf": "106420"
     },
     "location": {
         "latitude": 50.1667,

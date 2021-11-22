@@ -6,9 +6,9 @@
     "country": "SO",
     "region": "GE",
     "identifiers": {
-        "national": null,
-        "wmo": "63250",
-        "icao": "HCMD"
+        "$wmo": "63250",
+        "$icao": "HCMD",
+        "$iata": "BSY"
     },
     "location": {
         "latitude": 2.35,

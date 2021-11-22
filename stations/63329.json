@@ -6,9 +6,10 @@
     "country": "ET",
     "region": "CN",
     "identifiers": {
-        "national": null,
-        "wmo": "63329",
-        "icao": "HAAX"
+        "$wmo": "63329",
+        "$icao": "HAAX",
+        "$iata": "AXU",
+        "$usaf": "633299"
     },
     "location": {
         "latitude": 14.1167,

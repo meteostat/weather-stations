@@ -6,9 +6,11 @@
     "country": "ZA",
     "region": "GT",
     "identifiers": {
-        "national": null,
-        "wmo": "68262",
-        "icao": "FAPR"
+        "$wmo": "68262",
+        "$icao": "FAPR",
+        "$ghcn": "SFM00068262",
+        "$usaf": "682620",
+        "$mosmix": "68262"
     },
     "location": {
         "latitude": -25.7333,

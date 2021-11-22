@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "KRB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OIKR"
+        "$icao": "OIKR",
+        "$iata": "RJN",
+        "$usaf": "408359"
     },
     "location": {
         "latitude": 30.2977,

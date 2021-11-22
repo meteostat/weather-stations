@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "WC",
     "identifiers": {
-        "national": null,
-        "wmo": "93516",
-        "icao": "NZWS"
+        "$wmo": "93516",
+        "$icao": "NZWS",
+        "$iata": "WSZ"
     },
     "location": {
         "latitude": -41.75,

@@ -6,9 +6,8 @@
     "country": "RS",
     "region": "PC",
     "identifiers": {
-        "national": null,
-        "wmo": "13489",
-        "icao": null
+        "$wmo": "13489",
+        "$mosmix": "13489"
     },
     "location": {
         "latitude": 42.55,

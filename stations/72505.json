@@ -6,9 +6,12 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": "72505",
-        "icao": "KISP"
+        "$wmo": "72505",
+        "$icao": "KISP",
+        "$iata": "ISP",
+        "$ghcn": "USW00004781",
+        "$wban": "04781",
+        "$usaf": "725035"
     },
     "location": {
         "latitude": 40.7953,

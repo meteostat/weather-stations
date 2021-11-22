@@ -6,9 +6,8 @@
     "country": "TV",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "91648",
-        "icao": null
+        "$wmo": "91648",
+        "$usaf": "916480"
     },
     "location": {
         "latitude": -10.75,

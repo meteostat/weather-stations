@@ -6,9 +6,12 @@
     "country": "RS",
     "region": "NS",
     "identifiers": {
-        "national": null,
-        "wmo": "13388",
-        "icao": "LYNI"
+        "$wmo": "13388",
+        "$icao": "LYNI",
+        "$iata": "INI",
+        "$ghcn": "RIE00100814",
+        "$usaf": "133880",
+        "$mosmix": "13388"
     },
     "location": {
         "latitude": 43.3333,

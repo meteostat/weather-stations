@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CWCU"
+        "$icao": "CWCU",
+        "$ghcn": "CA006166415",
+        "$wban": "54732"
     },
     "location": {
         "latitude": 44.3833,

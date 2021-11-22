@@ -6,9 +6,9 @@
     "country": "EG",
     "region": "WAD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HEOW"
+        "$icao": "HEOW",
+        "$iata": "GSQ",
+        "$usaf": "624250"
     },
     "location": {
         "latitude": 22.5857,

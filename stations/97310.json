@@ -6,9 +6,10 @@
     "country": "ID",
     "region": "NT",
     "identifiers": {
-        "national": null,
-        "wmo": "97310",
-        "icao": "WRKL"
+        "$wmo": "97310",
+        "$icao": "WRKL",
+        "$ghcn": "IDM00097310",
+        "$usaf": "973100"
     },
     "location": {
         "latitude": -8.2667,

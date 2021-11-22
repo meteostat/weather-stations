@@ -6,9 +6,10 @@
     "country": "DK",
     "region": "MJ",
     "identifiers": {
-        "national": null,
-        "wmo": "06078",
-        "icao": "EKAT"
+        "$wmo": "06078",
+        "$icao": "EKAT",
+        "$usaf": "060780",
+        "$mosmix": "06078"
     },
     "location": {
         "latitude": 56.7,

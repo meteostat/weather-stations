@@ -6,9 +6,7 @@
     "country": "IS",
     "region": "VF",
     "identifiers": {
-        "national": null,
-        "wmo": "04101",
-        "icao": null
+        "$wmo": "04101"
     },
     "location": {
         "latitude": 65.5,

@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "HO",
     "identifiers": {
-        "national": null,
-        "wmo": "84534",
-        "icao": "SPGM"
+        "$wmo": "84534",
+        "$icao": "SPGM",
+        "$iata": "TGI",
+        "$ghcn": "PEM00084534",
+        "$usaf": "845340"
     },
     "location": {
         "latitude": -9.1333,

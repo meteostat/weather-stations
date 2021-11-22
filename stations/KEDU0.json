@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEDU"
+        "$icao": "KEDU",
+        "$wban": "00174",
+        "$usaf": "720576"
     },
     "location": {
         "latitude": 38.5315,

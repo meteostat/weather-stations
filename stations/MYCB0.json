@@ -6,9 +6,8 @@
     "country": "BS",
     "region": "CI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "MYCB"
+        "$icao": "MYCB",
+        "$iata": "NET"
     },
     "location": {
         "latitude": 24.3153,

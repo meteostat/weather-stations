@@ -6,9 +6,12 @@
     "country": "AE",
     "region": "DU",
     "identifiers": {
-        "national": null,
-        "wmo": "41194",
-        "icao": "OMDB"
+        "$wmo": "41194",
+        "$icao": "OMDB",
+        "$iata": "DXB",
+        "$ghcn": "AEM00041194",
+        "$usaf": "411940",
+        "$mosmix": "41194"
     },
     "location": {
         "latitude": 25.25,

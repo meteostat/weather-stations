@@ -6,9 +6,8 @@
     "country": "CA",
     "region": "NF",
     "identifiers": {
-        "national": null,
-        "wmo": "71651",
-        "icao": "CXME"
+        "$wmo": "71651",
+        "$icao": "CXME"
     },
     "location": {
         "latitude": 48.9303,

@@ -6,9 +6,8 @@
     "country": "RU",
     "region": "KRS",
     "identifiers": {
-        "national": null,
-        "wmo": "34027",
-        "icao": null
+        "$wmo": "34027",
+        "$ghcn": "RSM00034027"
     },
     "location": {
         "latitude": 51.7833,

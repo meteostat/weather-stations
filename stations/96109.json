@@ -6,9 +6,11 @@
     "country": "ID",
     "region": "RI",
     "identifiers": {
-        "national": null,
-        "wmo": "96109",
-        "icao": "WIBB"
+        "$wmo": "96109",
+        "$icao": "WIBB",
+        "$iata": "PKU",
+        "$ghcn": "IDM00096109",
+        "$usaf": "961090"
     },
     "location": {
         "latitude": 0.4667,

@@ -6,9 +6,8 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEVU"
+        "$icao": "KEVU",
+        "$usaf": "720475"
     },
     "location": {
         "latitude": 40.3533,

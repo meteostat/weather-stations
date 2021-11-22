@@ -6,9 +6,10 @@
     "country": "PH",
     "region": "NSA",
     "identifiers": {
-        "national": null,
-        "wmo": "98546",
-        "icao": "RPVF"
+        "$wmo": "98546",
+        "$icao": "RPVF",
+        "$iata": "CRM",
+        "$usaf": "985460"
     },
     "location": {
         "latitude": 12.4833,

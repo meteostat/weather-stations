@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "JK",
     "identifiers": {
-        "national": null,
-        "wmo": "42042",
-        "icao": "VISR"
+        "$wmo": "42042",
+        "$icao": "VISR",
+        "$iata": "SXR",
+        "$mosmix": "42042"
     },
     "location": {
         "latitude": 33.9833,

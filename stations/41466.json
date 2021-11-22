@@ -6,9 +6,11 @@
     "country": "YE",
     "region": "TA",
     "identifiers": {
-        "national": null,
-        "wmo": "41466",
-        "icao": "OYTZ"
+        "$wmo": "41466",
+        "$icao": "OYTZ",
+        "$iata": "TAI",
+        "$usaf": "414660",
+        "$mosmix": "41466"
     },
     "location": {
         "latitude": 13.6833,

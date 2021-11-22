@@ -6,9 +6,9 @@
     "country": "MV",
     "region": "ADD",
     "identifiers": {
-        "national": null,
-        "wmo": "43599",
-        "icao": "VRGN"
+        "$wmo": "43599",
+        "$icao": "VRGN",
+        "$mosmix": "43599"
     },
     "location": {
         "latitude": -0.6833,

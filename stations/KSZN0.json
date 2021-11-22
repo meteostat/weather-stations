@@ -6,9 +6,8 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KSZN"
+        "$icao": "KSZN",
+        "$usaf": "723915"
     },
     "location": {
         "latitude": 34.0606,

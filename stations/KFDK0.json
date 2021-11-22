@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFDK"
+        "$icao": "KFDK",
+        "$wban": "13730",
+        "$usaf": "722081"
     },
     "location": {
         "latitude": 39.4176,

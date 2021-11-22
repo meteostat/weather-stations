@@ -6,9 +6,8 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "national": null,
-        "wmo": "72489",
-        "icao": "KREV"
+        "$wmo": "72489",
+        "$icao": "KREV"
     },
     "location": {
         "latitude": 39.5667,

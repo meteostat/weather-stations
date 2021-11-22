@@ -6,9 +6,10 @@
     "country": "IT",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "16538",
-        "icao": "LIEN"
+        "$wmo": "16538",
+        "$icao": "LIEN",
+        "$usaf": "165380",
+        "$mosmix": "16538"
     },
     "location": {
         "latitude": 40.1167,

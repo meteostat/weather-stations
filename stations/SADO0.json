@@ -6,9 +6,7 @@
     "country": "AR",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SADO"
+        "$icao": "SADO"
     },
     "location": {
         "latitude": -34.5344,

@@ -6,9 +6,9 @@
     "country": "SD",
     "region": "ASH",
     "identifiers": {
-        "national": null,
-        "wmo": "62700",
-        "icao": "HSND"
+        "$wmo": "62700",
+        "$icao": "HSND",
+        "$usaf": "627000"
     },
     "location": {
         "latitude": 16.7,

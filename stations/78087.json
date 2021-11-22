@@ -6,9 +6,8 @@
     "country": "BS",
     "region": "CAT",
     "identifiers": {
-        "national": null,
-        "wmo": "78087",
-        "icao": null
+        "$wmo": "78087",
+        "$iata": "BIF"
     },
     "location": {
         "latitude": 24.2833,

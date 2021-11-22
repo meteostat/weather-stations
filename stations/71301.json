@@ -6,13 +6,16 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": "27535",
-        "wmo": "71301",
-        "icao": "CYKX"
+        "$national": "27535",
+        "$wmo": "71301",
+        "$icao": "CYKX",
+        "$iata": "YKX",
+        "$ghcn": "CA006074211",
+        "$usaf": "713010"
     },
     "location": {
         "latitude": 48.15,
-        "longitude": -80.0,
+        "longitude": -80,
         "elevation": 324
     },
     "timezone": "America/Nipigon"

@@ -6,9 +6,8 @@
     "country": "DE",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EDHX"
+        "$icao": "EDHX",
+        "$usaf": "100195"
     },
     "location": {
         "latitude": 53.9428,

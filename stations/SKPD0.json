@@ -6,9 +6,8 @@
     "country": "CO",
     "region": "GUA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SKPD"
+        "$icao": "SKPD",
+        "$iata": "PDA"
     },
     "location": {
         "latitude": 3.8535,

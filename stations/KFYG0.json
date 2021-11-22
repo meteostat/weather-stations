@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KFYG"
+        "$icao": "KFYG",
+        "$wban": "00116",
+        "$usaf": "720169"
     },
     "location": {
         "latitude": 38.5876,

@@ -6,9 +6,11 @@
     "country": "TH",
     "region": "UN",
     "identifiers": {
-        "national": null,
-        "wmo": "48354",
-        "icao": "VTUD"
+        "$wmo": "48354",
+        "$icao": "VTUD",
+        "$iata": "UTH",
+        "$ghcn": "TH000048354",
+        "$usaf": "483540"
     },
     "location": {
         "latitude": 17.3833,

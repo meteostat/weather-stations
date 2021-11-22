@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "HH",
     "identifiers": {
-        "national": null,
-        "wmo": "10149",
-        "icao": "EDHI"
+        "$wmo": "10149",
+        "$icao": "EDHI",
+        "$iata": "XFW",
+        "$usaf": "101490"
     },
     "location": {
         "latitude": 53.5333,

@@ -6,9 +6,11 @@
     "country": "IT",
     "region": "VN",
     "identifiers": {
-        "national": null,
-        "wmo": "16094",
-        "icao": "LIPT"
+        "$wmo": "16094",
+        "$icao": "LIPT",
+        "$iata": "VIC",
+        "$usaf": "160940",
+        "$mosmix": "16094"
     },
     "location": {
         "latitude": 45.5667,

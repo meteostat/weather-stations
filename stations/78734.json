@@ -6,9 +6,9 @@
     "country": "NI",
     "region": "JI",
     "identifiers": {
-        "national": null,
-        "wmo": "78734",
-        "icao": "MNJG"
+        "$wmo": "78734",
+        "$icao": "MNJG",
+        "$usaf": "787340"
     },
     "location": {
         "latitude": 13.0833,

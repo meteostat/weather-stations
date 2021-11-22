@@ -6,9 +6,8 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLEM"
+        "$icao": "KLEM",
+        "$usaf": "726695"
     },
     "location": {
         "latitude": 45.9187,

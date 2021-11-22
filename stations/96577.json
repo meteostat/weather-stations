@@ -6,9 +6,8 @@
     "country": "ID",
     "region": "KI",
     "identifiers": {
-        "national": null,
-        "wmo": "96577",
-        "icao": "WRLU"
+        "$wmo": "96577",
+        "$icao": "WRLU"
     },
     "location": {
         "latitude": 1,

@@ -6,9 +6,10 @@
     "country": "AR",
     "region": "B",
     "identifiers": {
-        "national": null,
-        "wmo": "87571",
-        "icao": "SADP"
+        "$wmo": "87571",
+        "$icao": "SADP",
+        "$iata": "EPA",
+        "$usaf": "875710"
     },
     "location": {
         "latitude": -34.6,

@@ -6,9 +6,12 @@
     "country": "CG",
     "region": "BR",
     "identifiers": {
-        "national": null,
-        "wmo": "64450",
-        "icao": "FCBB"
+        "$wmo": "64450",
+        "$icao": "FCBB",
+        "$iata": "BZV",
+        "$ghcn": "CF000004450",
+        "$usaf": "644500",
+        "$mosmix": "64450"
     },
     "location": {
         "latitude": -4.25,

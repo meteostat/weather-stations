@@ -6,9 +6,8 @@
     "country": "RE",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "61968",
-        "icao": null
+        "$wmo": "61968",
+        "$ghcn": "FSM00061968"
     },
     "location": {
         "latitude": -11.5833,

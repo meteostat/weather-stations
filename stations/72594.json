@@ -6,9 +6,13 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": "72594",
-        "icao": "KEKA"
+        "$wmo": "72594",
+        "$icao": "KEKA",
+        "$iata": "EKA",
+        "$ghcn": "USW00024213",
+        "$wban": "24213",
+        "$usaf": "725940",
+        "$mosmix": "72594"
     },
     "location": {
         "latitude": 40.8,

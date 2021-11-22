@@ -6,9 +6,8 @@
     "country": "LV",
     "region": "CES",
     "identifiers": {
-        "national": null,
-        "wmo": "26335",
-        "icao": null
+        "$wmo": "26335",
+        "$ghcn": "LG000026335"
     },
     "location": {
         "latitude": 57.3167,

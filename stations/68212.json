@@ -6,9 +6,8 @@
     "country": "NA",
     "region": "HA",
     "identifiers": {
-        "national": null,
-        "wmo": "68212",
-        "icao": null
+        "$wmo": "68212",
+        "$mosmix": "68212"
     },
     "location": {
         "latitude": -24.5333,

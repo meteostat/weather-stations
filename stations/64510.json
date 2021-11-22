@@ -6,9 +6,11 @@
     "country": "GA",
     "region": "WN",
     "identifiers": {
-        "national": null,
-        "wmo": "64510",
-        "icao": "FOOB"
+        "$wmo": "64510",
+        "$icao": "FOOB",
+        "$iata": "BMM",
+        "$ghcn": "GB000004510",
+        "$usaf": "645100"
     },
     "location": {
         "latitude": 2.0833,

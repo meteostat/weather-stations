@@ -6,9 +6,9 @@
     "country": "TW",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": "46764",
-        "icao": "RCMS"
+        "$wmo": "46764",
+        "$icao": "RCMS",
+        "$usaf": "467640"
     },
     "location": {
         "latitude": 24.75,

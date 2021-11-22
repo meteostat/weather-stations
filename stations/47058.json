@@ -6,9 +6,11 @@
     "country": "KP",
     "region": "PYO",
     "identifiers": {
-        "national": null,
-        "wmo": "47058",
-        "icao": "ZKPY"
+        "$wmo": "47058",
+        "$icao": "ZKPY",
+        "$ghcn": "KNM00047058",
+        "$usaf": "470580",
+        "$mosmix": "47058"
     },
     "location": {
         "latitude": 39.0333,

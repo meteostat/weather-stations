@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "JK",
     "identifiers": {
-        "national": null,
-        "wmo": "96745",
-        "icao": null
+        "$wmo": "96745",
+        "$ghcn": "ID000096745",
+        "$usaf": "967450"
     },
     "location": {
         "latitude": -6.1833,

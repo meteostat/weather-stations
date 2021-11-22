@@ -6,9 +6,10 @@
     "country": "RO",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": "15014",
-        "icao": "LRBM"
+        "$wmo": "15014",
+        "$icao": "LRBM",
+        "$iata": "BAY",
+        "$usaf": "150140"
     },
     "location": {
         "latitude": 47.6667,

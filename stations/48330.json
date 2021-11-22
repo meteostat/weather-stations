@@ -6,9 +6,11 @@
     "country": "TH",
     "region": "PR",
     "identifiers": {
-        "national": null,
-        "wmo": "48330",
-        "icao": "VTCP"
+        "$wmo": "48330",
+        "$icao": "VTCP",
+        "$iata": "PRH",
+        "$ghcn": "TH000048330",
+        "$usaf": "483300"
     },
     "location": {
         "latitude": 18.1667,

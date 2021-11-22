@@ -6,12 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": null
+        "$ghcn": "USC00044412"
     },
     "location": {
-        "latitude": 33.08333,
+        "latitude": 33.0833,
         "longitude": -116.63,
         "elevation": 1285
     },

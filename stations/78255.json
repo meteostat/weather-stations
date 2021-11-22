@@ -6,9 +6,10 @@
     "country": "CU",
     "region": "CM",
     "identifiers": {
-        "national": null,
-        "wmo": "78255",
-        "icao": "MUCM"
+        "$wmo": "78255",
+        "$icao": "MUCM",
+        "$iata": "CMW",
+        "$usaf": "782550"
     },
     "location": {
         "latitude": 21.4167,

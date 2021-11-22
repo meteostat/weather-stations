@@ -6,9 +6,11 @@
     "country": "CN",
     "region": "SA",
     "identifiers": {
-        "national": null,
-        "wmo": "53845",
-        "icao": "ZLYA"
+        "$wmo": "53845",
+        "$icao": "ZLYA",
+        "$iata": "ENY",
+        "$ghcn": "CHM00053845",
+        "$usaf": "538450"
     },
     "location": {
         "latitude": 36.6,

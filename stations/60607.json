@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "ADR",
     "identifiers": {
-        "national": null,
-        "wmo": "60607",
-        "icao": "DAUT"
+        "$wmo": "60607",
+        "$icao": "DAUT",
+        "$iata": "TMX",
+        "$ghcn": "AGM00060607",
+        "$usaf": "606070"
     },
     "location": {
         "latitude": 29.25,

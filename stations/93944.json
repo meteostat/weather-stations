@@ -6,9 +6,8 @@
     "country": "NZ",
     "region": "STL",
     "identifiers": {
-        "national": null,
-        "wmo": "93944",
-        "icao": "NZCA"
+        "$wmo": "93944",
+        "$icao": "NZCA"
     },
     "location": {
         "latitude": -52.55,

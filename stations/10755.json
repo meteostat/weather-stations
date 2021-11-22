@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "national": null,
-        "wmo": "10755",
-        "icao": "ETEB"
+        "$wmo": "10755",
+        "$icao": "ETEB",
+        "$usaf": "107550",
+        "$mosmix": "10755"
     },
     "location": {
         "latitude": 49.3167,

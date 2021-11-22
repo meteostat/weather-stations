@@ -6,9 +6,11 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "national": "02338",
-        "wmo": "10314",
-        "icao": "ETNP"
+        "$national": "02338",
+        "$wmo": "10314",
+        "$icao": "ETNP",
+        "$usaf": "103140",
+        "$mosmix": "10314"
     },
     "location": {
         "latitude": 52.3333,

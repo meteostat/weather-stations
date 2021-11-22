@@ -6,9 +6,8 @@
     "country": "AG",
     "region": "ASG",
     "identifiers": {
-        "national": null,
-        "wmo": "78861",
-        "icao": null
+        "$wmo": "78861",
+        "$mosmix": "78861"
     },
     "location": {
         "latitude": 17.1167,

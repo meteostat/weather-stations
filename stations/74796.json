@@ -6,9 +6,11 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "national": null,
-        "wmo": "74796",
-        "icao": "KAGR"
+        "$wmo": "74796",
+        "$icao": "KAGR",
+        "$ghcn": "USW00012804",
+        "$wban": "12804",
+        "$usaf": "747960"
     },
     "location": {
         "latitude": 27.65,

@@ -6,9 +6,10 @@
     "country": "CD",
     "region": "KN",
     "identifiers": {
-        "national": null,
-        "wmo": "64211",
-        "icao": "FZAB"
+        "$wmo": "64211",
+        "$icao": "FZAB",
+        "$iata": "NLO",
+        "$usaf": "642110"
     },
     "location": {
         "latitude": -4.3167,

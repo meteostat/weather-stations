@@ -6,9 +6,11 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "national": null,
-        "wmo": "94403",
-        "icao": "YPGN"
+        "$wmo": "94403",
+        "$icao": "YPGN",
+        "$iata": "GET",
+        "$ghcn": "ASN00008051",
+        "$mosmix": "94403"
     },
     "location": {
         "latitude": -28.7833,

@@ -6,9 +6,11 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": "74480",
-        "icao": "KRME"
+        "$wmo": "74480",
+        "$icao": "KRME",
+        "$iata": "RME",
+        "$wban": "14717",
+        "$usaf": "725196"
     },
     "location": {
         "latitude": 43.1333,

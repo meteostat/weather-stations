@@ -6,9 +6,10 @@
     "country": "CN",
     "region": "GS",
     "identifiers": {
-        "national": null,
-        "wmo": "52889",
-        "icao": null
+        "$wmo": "52889",
+        "$iata": "LHW",
+        "$ghcn": "CHM00052889",
+        "$mosmix": "52889"
     },
     "location": {
         "latitude": 36.05,

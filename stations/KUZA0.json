@@ -6,9 +6,9 @@
     "country": "US",
     "region": "SC",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KUZA"
+        "$icao": "KUZA",
+        "$wban": "53871",
+        "$usaf": "723117"
     },
     "location": {
         "latitude": 34.9878,

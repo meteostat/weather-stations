@@ -6,9 +6,10 @@
     "country": "IN",
     "region": "HP",
     "identifiers": {
-        "national": null,
-        "wmo": "42081",
-        "icao": "VIBR"
+        "$wmo": "42081",
+        "$icao": "VIBR",
+        "$iata": "KUU",
+        "$usaf": "427051"
     },
     "location": {
         "latitude": 31.8333,

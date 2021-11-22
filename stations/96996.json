@@ -6,9 +6,12 @@
     "country": "CX",
     "region": "CC",
     "identifiers": {
-        "national": null,
-        "wmo": "96996",
-        "icao": "YPCC"
+        "$wmo": "96996",
+        "$icao": "YPCC",
+        "$iata": "CCK",
+        "$ghcn": "CK000096996",
+        "$usaf": "969960",
+        "$mosmix": "96996"
     },
     "location": {
         "latitude": -12.1833,

@@ -6,9 +6,11 @@
     "country": "GN",
     "region": "NZR",
     "identifiers": {
-        "national": null,
-        "wmo": "61849",
-        "icao": "GUNZ"
+        "$wmo": "61849",
+        "$icao": "GUNZ",
+        "$iata": "NZE",
+        "$ghcn": "GVM00061849",
+        "$usaf": "618490"
     },
     "location": {
         "latitude": 7.7333,

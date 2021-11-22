@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KAKO"
+        "$icao": "KAKO",
+        "$wban": "24015",
+        "$usaf": "724698"
     },
     "location": {
         "latitude": 40.1756,

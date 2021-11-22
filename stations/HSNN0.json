@@ -6,9 +6,9 @@
     "country": "SD",
     "region": "SF",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "HSNN"
+        "$icao": "HSNN",
+        "$iata": "UYL",
+        "$usaf": "627900"
     },
     "location": {
         "latitude": 12.0535,

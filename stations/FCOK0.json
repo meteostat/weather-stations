@@ -6,9 +6,9 @@
     "country": "CG",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FCOK"
+        "$icao": "FCOK",
+        "$iata": "KEE",
+        "$usaf": "644620"
     },
     "location": {
         "latitude": -0.083,

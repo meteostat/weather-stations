@@ -6,9 +6,8 @@
     "country": "NL",
     "region": "ZE",
     "identifiers": {
-        "national": null,
-        "wmo": "06323",
-        "icao": null
+        "$wmo": "06323",
+        "$usaf": "063230"
     },
     "location": {
         "latitude": 51.5333,

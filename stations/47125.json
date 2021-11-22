@@ -6,9 +6,9 @@
     "country": "KR",
     "region": "HB",
     "identifiers": {
-        "national": null,
-        "wmo": "47125",
-        "icao": "RKTI"
+        "$wmo": "47125",
+        "$icao": "RKTI",
+        "$usaf": "471250"
     },
     "location": {
         "latitude": 37.0333,

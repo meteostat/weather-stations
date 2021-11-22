@@ -6,9 +6,12 @@
     "country": "ES",
     "region": "CT",
     "identifiers": {
-        "national": null,
-        "wmo": "08175",
-        "icao": "LERS"
+        "$wmo": "08175",
+        "$icao": "LERS",
+        "$iata": "REU",
+        "$ghcn": "SPE00120530",
+        "$usaf": "081750",
+        "$mosmix": "08175"
     },
     "location": {
         "latitude": 41.15,

@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "national": "04281",
-        "wmo": "10521",
-        "icao": null
+        "$national": "04281",
+        "$wmo": "10521",
+        "$mosmix": "10521"
     },
     "location": {
         "latitude": 50.9333,

@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "PB",
     "identifiers": {
-        "national": null,
-        "wmo": "42097",
-        "icao": "VIBT"
+        "$wmo": "42097",
+        "$icao": "VIBT",
+        "$iata": "BUP"
     },
     "location": {
         "latitude": 30.1667,

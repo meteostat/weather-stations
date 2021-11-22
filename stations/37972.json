@@ -6,9 +6,8 @@
     "country": "AZ",
     "region": "BIL",
     "identifiers": {
-        "national": null,
-        "wmo": "37972",
-        "icao": null
+        "$wmo": "37972",
+        "$ghcn": "AJ000037972"
     },
     "location": {
         "latitude": 39.4667,

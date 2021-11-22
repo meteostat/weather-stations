@@ -6,9 +6,13 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "national": null,
-        "wmo": "74486",
-        "icao": "KJFK"
+        "$wmo": "74486",
+        "$icao": "KJFK",
+        "$iata": "JFK",
+        "$ghcn": "USW00094789",
+        "$wban": "94789",
+        "$usaf": "744860",
+        "$mosmix": "74486"
     },
     "location": {
         "latitude": 40.6333,

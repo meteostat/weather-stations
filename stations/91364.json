@@ -6,9 +6,9 @@
     "country": "MH",
     "region": "MH",
     "identifiers": {
-        "national": null,
-        "wmo": "91364",
-        "icao": "PKRO"
+        "$wmo": "91364",
+        "$icao": "PKRO",
+        "$wban": "40611"
     },
     "location": {
         "latitude": 9.4,

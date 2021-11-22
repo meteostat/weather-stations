@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "RJ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VAUD"
+        "$icao": "VAUD",
+        "$iata": "UDR",
+        "$usaf": "425420"
     },
     "location": {
         "latitude": 24.6177,

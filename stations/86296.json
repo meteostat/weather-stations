@@ -6,9 +6,8 @@
     "country": "PY",
     "region": "IT",
     "identifiers": {
-        "national": null,
-        "wmo": "86296",
-        "icao": "SGYR"
+        "$wmo": "86296",
+        "$icao": "SGYR"
     },
     "location": {
         "latitude": -27.4,

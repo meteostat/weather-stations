@@ -6,9 +6,8 @@
     "country": "SK",
     "region": "BL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LZMC"
+        "$icao": "LZMC",
+        "$usaf": "118010"
     },
     "location": {
         "latitude": 48.402,

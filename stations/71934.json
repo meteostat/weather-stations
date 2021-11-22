@@ -6,9 +6,13 @@
     "country": "CA",
     "region": "NT",
     "identifiers": {
-        "national": "53119",
-        "wmo": "71934",
-        "icao": "CYSM"
+        "$national": "53119",
+        "$wmo": "71934",
+        "$icao": "CYSM",
+        "$iata": "YSM",
+        "$ghcn": "CA002202200",
+        "$usaf": "719340",
+        "$mosmix": "71934"
     },
     "location": {
         "latitude": 60.02,

@@ -6,9 +6,11 @@
     "country": "DZ",
     "region": "ILL",
     "identifiers": {
-        "national": null,
-        "wmo": "60640",
-        "icao": "DAAP"
+        "$wmo": "60640",
+        "$icao": "DAAP",
+        "$iata": "VVZ",
+        "$ghcn": "AGM00060640",
+        "$usaf": "606400"
     },
     "location": {
         "latitude": 26.5,

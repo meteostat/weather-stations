@@ -6,9 +6,13 @@
     "country": "PR",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "78526",
-        "icao": "TJSJ"
+        "$wmo": "78526",
+        "$icao": "TJSJ",
+        "$iata": "SJU",
+        "$ghcn": "RQW00011641",
+        "$wban": "11641",
+        "$usaf": "785260",
+        "$mosmix": "78526"
     },
     "location": {
         "latitude": 18.4333,

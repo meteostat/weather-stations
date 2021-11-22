@@ -6,9 +6,9 @@
     "country": "GB",
     "region": "HAM",
     "identifiers": {
-        "national": null,
-        "wmo": "03761",
-        "icao": "EGVO"
+        "$wmo": "03761",
+        "$icao": "EGVO",
+        "$usaf": "037610"
     },
     "location": {
         "latitude": 51.2333,

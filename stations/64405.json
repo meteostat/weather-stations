@@ -6,9 +6,11 @@
     "country": "CG",
     "region": "LE",
     "identifiers": {
-        "national": null,
-        "wmo": "64405",
-        "icao": "FCBS"
+        "$wmo": "64405",
+        "$icao": "FCBS",
+        "$iata": "SIB",
+        "$ghcn": "CF000004405",
+        "$usaf": "644050"
     },
     "location": {
         "latitude": -3.6833,

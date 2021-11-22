@@ -6,9 +6,10 @@
     "country": "NZ",
     "region": "AUK",
     "identifiers": {
-        "national": null,
-        "wmo": "93110",
-        "icao": null
+        "$wmo": "93110",
+        "$ghcn": "NZM00093110",
+        "$usaf": "931100",
+        "$mosmix": "93110"
     },
     "location": {
         "latitude": -37,

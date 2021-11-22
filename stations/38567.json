@@ -6,9 +6,11 @@
     "country": "UZ",
     "region": "NW",
     "identifiers": {
-        "national": null,
-        "wmo": "38567",
-        "icao": "UTSA"
+        "$wmo": "38567",
+        "$icao": "UTSA",
+        "$iata": "NVI",
+        "$ghcn": "UZM00038567",
+        "$usaf": "385670"
     },
     "location": {
         "latitude": 40.1333,

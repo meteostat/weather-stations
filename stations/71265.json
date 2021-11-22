@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYTZ"
+        "$icao": "CYTZ"
     },
     "location": {
         "latitude": 43.6333,

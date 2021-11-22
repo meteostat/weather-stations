@@ -6,9 +6,10 @@
     "country": "DE",
     "region": "RP",
     "identifiers": {
-        "national": null,
-        "wmo": "10571",
-        "icao": "EDAC"
+        "$wmo": "10571",
+        "$icao": "EDAC",
+        "$iata": "AOC",
+        "$usaf": "105536"
     },
     "location": {
         "latitude": 49.43,

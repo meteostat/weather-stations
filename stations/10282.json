@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "MV",
     "identifiers": {
-        "national": "07351",
-        "wmo": "10282",
-        "icao": null
+        "$national": "07351",
+        "$wmo": "10282",
+        "$mosmix": "10282"
     },
     "location": {
         "latitude": 53.3175,

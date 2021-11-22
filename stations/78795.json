@@ -6,9 +6,10 @@
     "country": "PA",
     "region": "VG",
     "identifiers": {
-        "national": null,
-        "wmo": "78795",
-        "icao": "MPSA"
+        "$wmo": "78795",
+        "$icao": "MPSA",
+        "$iata": "SYP",
+        "$usaf": "787950"
     },
     "location": {
         "latitude": 8.0833,

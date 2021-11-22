@@ -6,9 +6,9 @@
     "country": "EC",
     "region": "Y",
     "identifiers": {
-        "national": null,
-        "wmo": "84163",
-        "icao": "SEPA"
+        "$wmo": "84163",
+        "$icao": "SEPA",
+        "$usaf": "841630"
     },
     "location": {
         "latitude": -1.5,

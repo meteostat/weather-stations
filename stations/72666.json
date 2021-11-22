@@ -6,9 +6,12 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "national": null,
-        "wmo": "72666",
-        "icao": "KSHR"
+        "$wmo": "72666",
+        "$icao": "KSHR",
+        "$iata": "SHR",
+        "$ghcn": "USW00024029",
+        "$wban": "24029",
+        "$usaf": "726660"
     },
     "location": {
         "latitude": 44.7667,

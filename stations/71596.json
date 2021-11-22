@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "NF",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYFT"
+        "$icao": "CYFT"
     },
     "location": {
         "latitude": 55.0833,

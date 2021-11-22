@@ -6,9 +6,12 @@
     "country": "IS",
     "region": "NE",
     "identifiers": {
-        "national": null,
-        "wmo": "04030",
-        "icao": "BIRK"
+        "$wmo": "04030",
+        "$icao": "BIRK",
+        "$iata": "RKV",
+        "$ghcn": "IC000004030",
+        "$usaf": "040300",
+        "$mosmix": "04030"
     },
     "location": {
         "latitude": 64.1333,

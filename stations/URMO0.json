@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "SE",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "URMO"
+        "$icao": "URMO",
+        "$iata": "OGZ",
+        "$usaf": "372280"
     },
     "location": {
         "latitude": 43.2,

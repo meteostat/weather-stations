@@ -6,9 +6,8 @@
     "country": "BR",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "86764",
-        "icao": null
+        "$wmo": "86764",
+        "$usaf": "867640"
     },
     "location": {
         "latitude": -17.7333,

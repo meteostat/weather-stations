@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YNAR"
+        "$icao": "YNAR",
+        "$iata": "NRA",
+        "$usaf": "957060"
     },
     "location": {
         "latitude": -34.7022,

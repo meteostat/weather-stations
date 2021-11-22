@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "KN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FAPM"
+        "$icao": "FAPM",
+        "$iata": "PZB",
+        "$usaf": "684963"
     },
     "location": {
         "latitude": -29.65,

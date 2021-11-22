@@ -6,9 +6,13 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "72408",
-        "icao": "KPHL"
+        "$wmo": "72408",
+        "$icao": "KPHL",
+        "$iata": "PHL",
+        "$ghcn": "USW00013739",
+        "$wban": "13739",
+        "$usaf": "724080",
+        "$mosmix": "72408"
     },
     "location": {
         "latitude": 39.8667,

@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "YEML"
+        "$icao": "YEML",
+        "$iata": "EMD"
     },
     "location": {
         "latitude": -23.5675,

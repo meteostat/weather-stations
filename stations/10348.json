@@ -6,9 +6,13 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "national": "00662",
-        "wmo": "10348",
-        "icao": "EDVE"
+        "$national": "00662",
+        "$wmo": "10348",
+        "$icao": "EDVE",
+        "$iata": "BWE",
+        "$ghcn": "GMM00010348",
+        "$usaf": "103480",
+        "$mosmix": "10348"
     },
     "location": {
         "latitude": 52.3,

@@ -6,9 +6,11 @@
     "country": "CA",
     "region": "NL",
     "identifiers": {
-        "national": "27712",
-        "wmo": "71181",
-        "icao": "CXWT"
+        "$national": "27712",
+        "$wmo": "71181",
+        "$icao": "CXWT",
+        "$ghcn": "CA008404241",
+        "$usaf": "711810"
     },
     "location": {
         "latitude": 47.14,

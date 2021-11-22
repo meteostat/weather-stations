@@ -6,9 +6,8 @@
     "country": "IN",
     "region": "MZ",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "VELP"
+        "$icao": "VELP",
+        "$usaf": "427260"
     },
     "location": {
         "latitude": 23.8406,

@@ -6,9 +6,7 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYNE"
+        "$icao": "CYNE"
     },
     "location": {
         "latitude": 53.9667,

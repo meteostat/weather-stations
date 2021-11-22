@@ -6,9 +6,11 @@
     "country": "IN",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": "42220",
-        "icao": "VEPG"
+        "$wmo": "42220",
+        "$icao": "VEPG",
+        "$iata": "IXT",
+        "$ghcn": "IN002050100",
+        "$usaf": "422200"
     },
     "location": {
         "latitude": 28.1,

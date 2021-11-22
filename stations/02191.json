@@ -1,15 +1,13 @@
 {
     "id": "02191",
     "name": {
-        "en": "Storoen",
-        "sv": "Storön"
+        "sv": "Storön",
+        "en": "Storoen"
     },
     "country": "SE",
     "region": "NB",
     "identifiers": {
-        "national": null,
-        "wmo": "02191",
-        "icao": null
+        "$wmo": "02191"
     },
     "location": {
         "latitude": 65.6983,

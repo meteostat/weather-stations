@@ -6,9 +6,11 @@
     "country": "MY",
     "region": "SR",
     "identifiers": {
-        "national": null,
-        "wmo": "96449",
-        "icao": "WBGR"
+        "$wmo": "96449",
+        "$icao": "WBGR",
+        "$iata": "MYY",
+        "$ghcn": "MYM00096449",
+        "$usaf": "964490"
     },
     "location": {
         "latitude": 4.3333,

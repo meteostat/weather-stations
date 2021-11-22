@@ -6,9 +6,11 @@
     "country": "RO",
     "region": "CT",
     "identifiers": {
-        "national": null,
-        "wmo": "15481",
-        "icao": "LRCK"
+        "$wmo": "15481",
+        "$icao": "LRCK",
+        "$iata": "CND",
+        "$usaf": "154810",
+        "$mosmix": "15481"
     },
     "location": {
         "latitude": 44.3333,

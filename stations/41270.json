@@ -6,9 +6,8 @@
     "country": "OM",
     "region": "SH",
     "identifiers": {
-        "national": null,
-        "wmo": "41270",
-        "icao": null
+        "$wmo": "41270",
+        "$ghcn": "MUM00041270"
     },
     "location": {
         "latitude": 22.3011,

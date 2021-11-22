@@ -6,9 +6,11 @@
     "country": "NA",
     "region": "OD",
     "identifiers": {
-        "national": null,
-        "wmo": "68014",
-        "icao": "FYGF"
+        "$wmo": "68014",
+        "$icao": "FYGF",
+        "$iata": "GFY",
+        "$ghcn": "WA010101860",
+        "$usaf": "680140"
     },
     "location": {
         "latitude": -19.6,

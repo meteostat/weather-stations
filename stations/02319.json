@@ -1,15 +1,13 @@
 {
     "id": "02319",
     "name": {
-        "en": "Boertnan",
-        "sv": "Börtnan"
+        "sv": "Börtnan",
+        "en": "Boertnan"
     },
     "country": "SE",
     "region": "Z",
     "identifiers": {
-        "national": null,
-        "wmo": "02319",
-        "icao": null
+        "$wmo": "02319"
     },
     "location": {
         "latitude": 62.7558,

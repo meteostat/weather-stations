@@ -6,9 +6,10 @@
     "country": "TR",
     "region": "BAL",
     "identifiers": {
-        "national": null,
-        "wmo": "17115",
-        "icao": "LTBG"
+        "$wmo": "17115",
+        "$icao": "LTBG",
+        "$iata": "BDM",
+        "$usaf": "171150"
     },
     "location": {
         "latitude": 40.3167,

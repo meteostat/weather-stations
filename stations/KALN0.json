@@ -6,9 +6,10 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KALN"
+        "$icao": "KALN",
+        "$iata": "ALN",
+        "$wban": "03958",
+        "$usaf": "724395"
     },
     "location": {
         "latitude": 38.8899,

@@ -6,9 +6,11 @@
     "country": "SN",
     "region": "KO",
     "identifiers": {
-        "national": null,
-        "wmo": "61698",
-        "icao": "GOGK"
+        "$wmo": "61698",
+        "$icao": "GOGK",
+        "$iata": "KDA",
+        "$ghcn": "SGM00061698",
+        "$usaf": "616980"
     },
     "location": {
         "latitude": 12.8833,

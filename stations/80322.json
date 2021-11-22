@@ -6,9 +6,10 @@
     "country": "CO",
     "region": "GVR",
     "identifiers": {
-        "national": null,
-        "wmo": "80322",
-        "icao": "SKSJ"
+        "$wmo": "80322",
+        "$icao": "SKSJ",
+        "$iata": "SJE",
+        "$usaf": "803220"
     },
     "location": {
         "latitude": 2.5667,

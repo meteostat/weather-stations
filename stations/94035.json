@@ -6,9 +6,10 @@
     "country": "PG",
     "region": "NC",
     "identifiers": {
-        "national": null,
-        "wmo": "94035",
-        "icao": "AYPY"
+        "$wmo": "94035",
+        "$icao": "AYPY",
+        "$usaf": "920350",
+        "$mosmix": "94035"
     },
     "location": {
         "latitude": -9.4333,

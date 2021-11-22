@@ -6,9 +6,12 @@
     "country": "IL",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "40199",
-        "icao": "LLET"
+        "$wmo": "40199",
+        "$icao": "LLET",
+        "$iata": "ETH",
+        "$ghcn": "IS000009972",
+        "$usaf": "401990",
+        "$mosmix": "40199"
     },
     "location": {
         "latitude": 29.55,

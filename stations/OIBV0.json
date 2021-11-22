@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "HG",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "OIBV"
+        "$icao": "OIBV",
+        "$iata": "LVP",
+        "$usaf": "407126"
     },
     "location": {
         "latitude": 26.8103,

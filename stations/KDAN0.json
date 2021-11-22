@@ -6,9 +6,10 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KDAN"
+        "$icao": "KDAN",
+        "$iata": "DAN",
+        "$wban": "13728",
+        "$usaf": "724106"
     },
     "location": {
         "latitude": 36.5729,

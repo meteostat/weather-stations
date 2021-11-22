@@ -6,9 +6,9 @@
     "country": "CD",
     "region": "KV",
     "identifiers": {
-        "national": null,
-        "wmo": "64180",
-        "icao": "FZMA"
+        "$wmo": "64180",
+        "$icao": "FZMA",
+        "$iata": "BKY"
     },
     "location": {
         "latitude": -2.5167,

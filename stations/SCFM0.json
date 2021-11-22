@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "MA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "SCFM"
+        "$icao": "SCFM",
+        "$iata": "WPR",
+        "$usaf": "859363"
     },
     "location": {
         "latitude": -53.2536,

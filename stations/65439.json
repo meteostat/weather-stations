@@ -6,9 +6,11 @@
     "country": "GH",
     "region": "BA",
     "identifiers": {
-        "national": null,
-        "wmo": "65439",
-        "icao": "DGSN"
+        "$wmo": "65439",
+        "$icao": "DGSN",
+        "$iata": "NYI",
+        "$ghcn": "GHM00065439",
+        "$usaf": "654390"
     },
     "location": {
         "latitude": 7.3333,

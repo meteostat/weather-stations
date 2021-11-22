@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "WKO",
     "identifiers": {
-        "national": null,
-        "wmo": "93245",
-        "icao": null
+        "$wmo": "93245",
+        "$usaf": "932450",
+        "$mosmix": "93245"
     },
     "location": {
         "latitude": -38.7333,

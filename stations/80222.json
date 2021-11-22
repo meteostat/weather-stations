@@ -6,9 +6,12 @@
     "country": "CO",
     "region": "CAM",
     "identifiers": {
-        "national": null,
-        "wmo": "80222",
-        "icao": "SKBO"
+        "$wmo": "80222",
+        "$icao": "SKBO",
+        "$iata": "BOG",
+        "$ghcn": "CO000080222",
+        "$usaf": "802220",
+        "$mosmix": "80222"
     },
     "location": {
         "latitude": 4.7167,

@@ -6,9 +6,9 @@
     "country": "NA",
     "region": "KU",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FYOP"
+        "$icao": "FYOP",
+        "$iata": "OPW",
+        "$usaf": "680021"
     },
     "location": {
         "latitude": -18.0614,

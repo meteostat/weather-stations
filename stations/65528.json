@@ -6,9 +6,12 @@
     "country": "CI",
     "region": "ODI",
     "identifiers": {
-        "national": null,
-        "wmo": "65528",
-        "icao": "DIOD"
+        "$wmo": "65528",
+        "$icao": "DIOD",
+        "$iata": "KEO",
+        "$ghcn": "IV000065528",
+        "$usaf": "655280",
+        "$mosmix": "65528"
     },
     "location": {
         "latitude": 9.5,

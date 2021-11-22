@@ -6,9 +6,12 @@
     "country": "IT",
     "region": "PU",
     "identifiers": {
-        "national": null,
-        "wmo": "16320",
-        "icao": "LIBR"
+        "$wmo": "16320",
+        "$icao": "LIBR",
+        "$iata": "BDS",
+        "$ghcn": "IT000016320",
+        "$usaf": "163200",
+        "$mosmix": "16320"
     },
     "location": {
         "latitude": 40.65,

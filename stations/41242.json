@@ -6,9 +6,9 @@
     "country": "OM",
     "region": "FU",
     "identifiers": {
-        "national": null,
-        "wmo": "41242",
-        "icao": null
+        "$wmo": "41242",
+        "$ghcn": "MUM00041242",
+        "$mosmix": "41242"
     },
     "location": {
         "latitude": 25.6156,

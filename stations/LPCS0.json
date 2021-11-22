@@ -6,9 +6,7 @@
     "country": "PT",
     "region": "LI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LPCS"
+        "$icao": "LPCS"
     },
     "location": {
         "latitude": 38.725,

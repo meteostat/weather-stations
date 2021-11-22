@@ -6,9 +6,11 @@
     "country": "JP",
     "region": "MG",
     "identifiers": {
-        "national": null,
-        "wmo": "47569",
-        "icao": "RJSS"
+        "$wmo": "47569",
+        "$icao": "RJSS",
+        "$iata": "SDJ",
+        "$usaf": "475690",
+        "$mosmix": "47569"
     },
     "location": {
         "latitude": 38.1333,

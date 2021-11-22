@@ -6,9 +6,9 @@
     "country": "ET",
     "region": "CN",
     "identifiers": {
-        "national": null,
-        "wmo": "63340",
-        "icao": null
+        "$wmo": "63340",
+        "$ghcn": "ET000063340",
+        "$usaf": "633400"
     },
     "location": {
         "latitude": 9.05,

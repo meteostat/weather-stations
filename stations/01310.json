@@ -6,9 +6,10 @@
     "country": "NO",
     "region": "SF",
     "identifiers": {
-        "national": null,
-        "wmo": "01310",
-        "icao": "ENFL"
+        "$wmo": "01310",
+        "$icao": "ENFL",
+        "$iata": "FRO",
+        "$usaf": "013100"
     },
     "location": {
         "latitude": 61.5833,

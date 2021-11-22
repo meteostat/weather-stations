@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "BR",
     "identifiers": {
-        "national": null,
-        "wmo": "33664",
-        "icao": null
+        "$wmo": "33664",
+        "$ghcn": "UPM00033664",
+        "$usaf": "336640"
     },
     "location": {
         "latitude": 48.35,

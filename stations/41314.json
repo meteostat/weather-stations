@@ -6,9 +6,12 @@
     "country": "OM",
     "region": "JA",
     "identifiers": {
-        "national": null,
-        "wmo": "41314",
-        "icao": "OOTH"
+        "$wmo": "41314",
+        "$icao": "OOTH",
+        "$iata": "TTH",
+        "$ghcn": "MUM00041314",
+        "$usaf": "413140",
+        "$mosmix": "41314"
     },
     "location": {
         "latitude": 17.6667,

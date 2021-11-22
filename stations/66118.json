@@ -6,9 +6,8 @@
     "country": "AO",
     "region": "ZAI",
     "identifiers": {
-        "national": null,
-        "wmo": "66118",
-        "icao": null
+        "$wmo": "66118",
+        "$iata": "BNZ"
     },
     "location": {
         "latitude": -6.2667,

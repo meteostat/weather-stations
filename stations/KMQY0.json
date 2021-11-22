@@ -6,9 +6,10 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KMQY"
+        "$icao": "KMQY",
+        "$iata": "MQY",
+        "$wban": "13827",
+        "$usaf": "723273"
     },
     "location": {
         "latitude": 36.009,

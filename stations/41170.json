@@ -6,9 +6,12 @@
     "country": "QA",
     "region": "DW",
     "identifiers": {
-        "national": null,
-        "wmo": "41170",
-        "icao": "OTBD"
+        "$wmo": "41170",
+        "$icao": "OTBD",
+        "$iata": "DOH",
+        "$ghcn": "QAM00041170",
+        "$usaf": "411700",
+        "$mosmix": "41170"
     },
     "location": {
         "latitude": 25.25,

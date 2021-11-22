@@ -6,9 +6,9 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLOM"
+        "$icao": "KLOM",
+        "$wban": "64752",
+        "$usaf": "720304"
     },
     "location": {
         "latitude": 40.1376,

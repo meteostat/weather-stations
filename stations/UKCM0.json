@@ -6,9 +6,9 @@
     "country": "UA",
     "region": "DT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "UKCM"
+        "$icao": "UKCM",
+        "$iata": "MPW",
+        "$usaf": "347120"
     },
     "location": {
         "latitude": 47.0761,

@@ -6,9 +6,12 @@
     "country": "CY",
     "region": "LA",
     "identifiers": {
-        "national": null,
-        "wmo": "17609",
-        "icao": "LCLK"
+        "$wmo": "17609",
+        "$icao": "LCLK",
+        "$iata": "LCA",
+        "$ghcn": "CY000176090",
+        "$usaf": "176090",
+        "$mosmix": "17609"
     },
     "location": {
         "latitude": 34.8833,

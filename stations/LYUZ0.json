@@ -6,9 +6,9 @@
     "country": "RS",
     "region": "ZL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LYUZ"
+        "$icao": "LYUZ",
+        "$iata": "UZC",
+        "$usaf": "133766"
     },
     "location": {
         "latitude": 43.8989,

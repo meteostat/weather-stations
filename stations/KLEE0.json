@@ -6,9 +6,9 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KLEE"
+        "$icao": "KLEE",
+        "$wban": "12819",
+        "$usaf": "722213"
     },
     "location": {
         "latitude": 28.8229,

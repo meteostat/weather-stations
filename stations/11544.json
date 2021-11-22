@@ -6,9 +6,8 @@
     "country": "CZ",
     "region": "OL",
     "identifiers": {
-        "national": null,
-        "wmo": "11544",
-        "icao": "LKPJ"
+        "$wmo": "11544",
+        "$icao": "LKPJ"
     },
     "location": {
         "latitude": 49.4478,

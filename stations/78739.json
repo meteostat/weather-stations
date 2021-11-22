@@ -6,9 +6,9 @@
     "country": "NI",
     "region": "CD",
     "identifiers": {
-        "national": null,
-        "wmo": "78739",
-        "icao": "MNCH"
+        "$wmo": "78739",
+        "$icao": "MNCH",
+        "$usaf": "787390"
     },
     "location": {
         "latitude": 12.6333,

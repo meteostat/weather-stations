@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "TU",
     "identifiers": {
-        "national": null,
-        "wmo": "84370",
-        "icao": "SPME"
+        "$wmo": "84370",
+        "$icao": "SPME",
+        "$iata": "TBP",
+        "$ghcn": "PEM00084370",
+        "$usaf": "843700"
     },
     "location": {
         "latitude": -3.55,

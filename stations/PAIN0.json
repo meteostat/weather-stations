@@ -6,9 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "PAIN"
+        "$icao": "PAIN",
+        "$iata": "MCL",
+        "$wban": "46403",
+        "$usaf": "702645"
     },
     "location": {
         "latitude": 63.7326,

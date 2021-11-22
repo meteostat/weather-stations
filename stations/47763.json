@@ -6,9 +6,8 @@
     "country": "JP",
     "region": "YC",
     "identifiers": {
-        "national": null,
-        "wmo": "47763",
-        "icao": null
+        "$wmo": "47763",
+        "$wban": "43315"
     },
     "location": {
         "latitude": 34.0333,

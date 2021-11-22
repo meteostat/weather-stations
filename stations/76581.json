@@ -6,9 +6,10 @@
     "country": "MX",
     "region": "SLP",
     "identifiers": {
-        "national": null,
-        "wmo": "76581",
-        "icao": null
+        "$wmo": "76581",
+        "$iata": "RIZ",
+        "$ghcn": "MXM00076581",
+        "$usaf": "765810"
     },
     "location": {
         "latitude": 21.85,

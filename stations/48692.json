@@ -6,9 +6,10 @@
     "country": "SG",
     "region": "CS",
     "identifiers": {
-        "national": null,
-        "wmo": "48692",
-        "icao": "WSSL"
+        "$wmo": "48692",
+        "$icao": "WSSL",
+        "$iata": "XSP",
+        "$usaf": "486990"
     },
     "location": {
         "latitude": 1.4167,

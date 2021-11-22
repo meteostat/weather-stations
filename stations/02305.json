@@ -1,15 +1,13 @@
 {
     "id": "02305",
     "name": {
-        "en": "Ekenaes",
-        "sv": "Ekenäs"
+        "sv": "Ekenäs",
+        "en": "Ekenaes"
     },
     "country": "SE",
     "region": "S",
     "identifiers": {
-        "national": null,
-        "wmo": "02305",
-        "icao": null
+        "$wmo": "02305"
     },
     "location": {
         "latitude": 58.9,

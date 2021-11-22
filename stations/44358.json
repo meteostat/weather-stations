@@ -6,9 +6,8 @@
     "country": "MN",
     "region": "DG",
     "identifiers": {
-        "national": null,
-        "wmo": "44358",
-        "icao": null
+        "$wmo": "44358",
+        "$ghcn": "MGM00044358"
     },
     "location": {
         "latitude": 43.7333,

@@ -6,9 +6,8 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KDXZ"
+        "$icao": "KDXZ",
+        "$usaf": "720922"
     },
     "location": {
         "latitude": 37.0364,

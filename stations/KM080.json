@@ -6,9 +6,8 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KM08"
+        "$icao": "KM08",
+        "$usaf": "720171"
     },
     "location": {
         "latitude": 35.2151,

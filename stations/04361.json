@@ -6,9 +6,11 @@
     "country": "GL",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "04361",
-        "icao": "BGKK"
+        "$wmo": "04361",
+        "$icao": "BGKK",
+        "$iata": "KUS",
+        "$usaf": "043610",
+        "$mosmix": "04361"
     },
     "location": {
         "latitude": 65.5833,

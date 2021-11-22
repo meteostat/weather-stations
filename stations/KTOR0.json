@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KTOR"
+        "$icao": "KTOR",
+        "$wban": "94053",
+        "$usaf": "725763"
     },
     "location": {
         "latitude": 42.0645,

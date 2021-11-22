@@ -6,9 +6,9 @@
     "country": "PT",
     "region": "PO",
     "identifiers": {
-        "national": null,
-        "wmo": "08546",
-        "icao": null
+        "$wmo": "08546",
+        "$ghcn": "PO000008546",
+        "$mosmix": "08546"
     },
     "location": {
         "latitude": 41.1333,

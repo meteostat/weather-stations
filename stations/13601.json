@@ -6,9 +6,8 @@
     "country": "AL",
     "region": "TR",
     "identifiers": {
-        "national": null,
-        "wmo": "13601",
-        "icao": null
+        "$wmo": "13601",
+        "$usaf": "136010"
     },
     "location": {
         "latitude": 41.3333,

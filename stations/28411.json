@@ -6,9 +6,10 @@
     "country": "RU",
     "region": "UD",
     "identifiers": {
-        "national": null,
-        "wmo": "28411",
-        "icao": "USII"
+        "$wmo": "28411",
+        "$icao": "USII",
+        "$iata": "IJK",
+        "$ghcn": "RSM00028411"
     },
     "location": {
         "latitude": 56.8333,

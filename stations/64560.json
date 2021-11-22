@@ -6,9 +6,11 @@
     "country": "GA",
     "region": "OL",
     "identifiers": {
-        "national": null,
-        "wmo": "64560",
-        "icao": "FOOR"
+        "$wmo": "64560",
+        "$icao": "FOOR",
+        "$iata": "LTL",
+        "$ghcn": "GBM00064560",
+        "$usaf": "645600"
     },
     "location": {
         "latitude": -0.8333,

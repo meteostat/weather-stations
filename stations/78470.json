@@ -6,9 +6,9 @@
     "country": "DO",
     "region": "SJ",
     "identifiers": {
-        "national": null,
-        "wmo": "78470",
-        "icao": "MDSJ"
+        "$wmo": "78470",
+        "$icao": "MDSJ",
+        "$mosmix": "78470"
     },
     "location": {
         "latitude": 18.8167,

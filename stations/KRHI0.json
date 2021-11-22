@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRHI"
+        "$icao": "KRHI",
+        "$iata": "RHI",
+        "$wban": "04803",
+        "$usaf": "727415"
     },
     "location": {
         "latitude": 45.6309,

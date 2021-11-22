@@ -6,9 +6,8 @@
     "country": "LV",
     "region": "GUL",
     "identifiers": {
-        "national": null,
-        "wmo": "26348",
-        "icao": null
+        "$wmo": "26348",
+        "$ghcn": "LG000026348"
     },
     "location": {
         "latitude": 57.1333,

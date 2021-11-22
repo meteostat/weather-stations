@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "SM",
     "identifiers": {
-        "national": null,
-        "wmo": "47739",
-        "icao": "RJNO"
+        "$wmo": "47739",
+        "$icao": "RJNO",
+        "$iata": "OKI"
     },
     "location": {
         "latitude": 36.1833,

@@ -1,15 +1,15 @@
 {
     "id": "01233",
     "name": {
-        "en": "Dombas",
-        "no": "Dombås"
+        "no": "Dombås",
+        "en": "Dombas"
     },
     "country": "NO",
     "region": "34",
     "identifiers": {
-        "national": null,
-        "wmo": "01233",
-        "icao": null
+        "$wmo": "01233",
+        "$ghcn": "NOM00001233",
+        "$usaf": "012330"
     },
     "location": {
         "latitude": 62.0719,

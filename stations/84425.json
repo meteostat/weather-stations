@@ -6,9 +6,11 @@
     "country": "PE",
     "region": "LO",
     "identifiers": {
-        "national": null,
-        "wmo": "84425",
-        "icao": "SPMS"
+        "$wmo": "84425",
+        "$icao": "SPMS",
+        "$iata": "YMS",
+        "$ghcn": "PEM00084425",
+        "$usaf": "844250"
     },
     "location": {
         "latitude": -5.9,

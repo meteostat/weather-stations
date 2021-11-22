@@ -6,9 +6,12 @@
     "country": "AE",
     "region": "AZ",
     "identifiers": {
-        "national": null,
-        "wmo": "41217",
-        "icao": "OMAA"
+        "$wmo": "41217",
+        "$icao": "OMAA",
+        "$iata": "AUH",
+        "$ghcn": "AEM00041217",
+        "$usaf": "412170",
+        "$mosmix": "41217"
     },
     "location": {
         "latitude": 24.4333,

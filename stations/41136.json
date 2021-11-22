@@ -6,9 +6,11 @@
     "country": "SA",
     "region": "NR",
     "identifiers": {
-        "national": null,
-        "wmo": "41136",
-        "icao": "OESH"
+        "$wmo": "41136",
+        "$icao": "OESH",
+        "$iata": "SHW",
+        "$ghcn": "SAM00041136",
+        "$usaf": "411360"
     },
     "location": {
         "latitude": 17.4667,

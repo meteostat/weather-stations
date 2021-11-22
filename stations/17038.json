@@ -6,9 +6,11 @@
     "country": "TR",
     "region": "TRA",
     "identifiers": {
-        "national": null,
-        "wmo": "17038",
-        "icao": "LTCG"
+        "$wmo": "17038",
+        "$icao": "LTCG",
+        "$iata": "TZX",
+        "$usaf": "170380",
+        "$mosmix": "17038"
     },
     "location": {
         "latitude": 41,

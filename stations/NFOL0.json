@@ -6,9 +6,8 @@
     "country": "FJ",
     "region": "E",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "NFOL"
+        "$icao": "NFOL",
+        "$iata": "ONU"
     },
     "location": {
         "latitude": -20.65,

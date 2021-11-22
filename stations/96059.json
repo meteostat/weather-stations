@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "SU",
     "identifiers": {
-        "national": null,
-        "wmo": "96059",
-        "icao": "WIMP"
+        "$wmo": "96059",
+        "$icao": "WIMP",
+        "$mosmix": "96059"
     },
     "location": {
         "latitude": 2.1667,

@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "MUS",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTCK"
+        "$icao": "LTCK",
+        "$iata": "MSR",
+        "$usaf": "172043"
     },
     "location": {
         "latitude": 38.75,

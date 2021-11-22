@@ -2,15 +2,15 @@
     "id": "02630",
     "name": {
         "de": "Ljungbyhed Flughafen",
-        "en": "Ljungbyhed Airport",
-        "sv": "Ljungbyhed Flygplats"
+        "sv": "Ljungbyhed Flygplats",
+        "en": "Ljungbyhed Airport"
     },
     "country": "SE",
     "region": "SN",
     "identifiers": {
-        "national": null,
-        "wmo": "02630",
-        "icao": "ESDA"
+        "$wmo": "02630",
+        "$icao": "ESDA",
+        "$usaf": "026300"
     },
     "location": {
         "latitude": 56.0833,

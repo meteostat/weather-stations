@@ -6,9 +6,10 @@
     "country": "AO",
     "region": "CAB",
     "identifiers": {
-        "national": null,
-        "wmo": "66104",
-        "icao": "FNCA"
+        "$wmo": "66104",
+        "$icao": "FNCA",
+        "$iata": "CAB",
+        "$usaf": "661040"
     },
     "location": {
         "latitude": -5.55,

@@ -6,9 +6,11 @@
     "country": "RU",
     "region": "KD",
     "identifiers": {
-        "national": null,
-        "wmo": "37171",
-        "icao": "URSS"
+        "$wmo": "37171",
+        "$icao": "URSS",
+        "$ghcn": "RSM00037171",
+        "$usaf": "371710",
+        "$mosmix": "37171"
     },
     "location": {
         "latitude": 43.4333,

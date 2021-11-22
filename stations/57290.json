@@ -6,9 +6,8 @@
     "country": "CN",
     "region": "HE",
     "identifiers": {
-        "national": null,
-        "wmo": "57290",
-        "icao": null
+        "$wmo": "57290",
+        "$ghcn": "CHM00057290"
     },
     "location": {
         "latitude": 33,

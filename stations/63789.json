@@ -6,9 +6,12 @@
     "country": "TZ",
     "region": "AR",
     "identifiers": {
-        "national": null,
-        "wmo": "63789",
-        "icao": "HTAR"
+        "$wmo": "63789",
+        "$icao": "HTAR",
+        "$iata": "ARK",
+        "$ghcn": "TZ000063789",
+        "$usaf": "637890",
+        "$mosmix": "63789"
     },
     "location": {
         "latitude": -3.3333,

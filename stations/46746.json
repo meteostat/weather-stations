@@ -6,9 +6,10 @@
     "country": "TW",
     "region": "CH",
     "identifiers": {
-        "national": null,
-        "wmo": "46746",
-        "icao": "RCKU"
+        "$wmo": "46746",
+        "$icao": "RCKU",
+        "$iata": "CYI",
+        "$usaf": "467460"
     },
     "location": {
         "latitude": 23.4667,

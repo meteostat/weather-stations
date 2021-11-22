@@ -6,9 +6,10 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "CYHD"
+        "$icao": "CYHD",
+        "$iata": "YHD",
+        "$ghcn": "CA001060815",
+        "$usaf": "715270"
     },
     "location": {
         "latitude": 49.8317,

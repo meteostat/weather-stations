@@ -6,9 +6,8 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "national": null,
-        "wmo": "94938",
-        "icao": null
+        "$wmo": "94938",
+        "$ghcn": "ASN00069138"
     },
     "location": {
         "latitude": -35.35,

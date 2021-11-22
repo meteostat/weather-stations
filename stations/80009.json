@@ -6,9 +6,11 @@
     "country": "CO",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": "80009",
-        "icao": "SKSM"
+        "$wmo": "80009",
+        "$icao": "SKSM",
+        "$iata": "SMR",
+        "$ghcn": "COM00080009",
+        "$usaf": "800090"
     },
     "location": {
         "latitude": 11.1333,

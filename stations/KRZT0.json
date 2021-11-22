@@ -6,9 +6,7 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRZT"
+        "$icao": "KRZT"
     },
     "location": {
         "latitude": 39.4404,

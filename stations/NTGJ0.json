@@ -6,9 +6,9 @@
     "country": "PF",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "NTGJ"
+        "$icao": "NTGJ",
+        "$iata": "GMR",
+        "$usaf": "919483"
     },
     "location": {
         "latitude": -23.0799,

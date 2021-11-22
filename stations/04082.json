@@ -6,9 +6,11 @@
     "country": "IS",
     "region": "AL",
     "identifiers": {
-        "national": null,
-        "wmo": "04082",
-        "icao": "BIHN"
+        "$wmo": "04082",
+        "$icao": "BIHN",
+        "$iata": "HFN",
+        "$ghcn": "ICM00004082",
+        "$usaf": "040820"
     },
     "location": {
         "latitude": 64.3,

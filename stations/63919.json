@@ -6,9 +6,10 @@
     "country": "TZ",
     "region": "LN",
     "identifiers": {
-        "national": null,
-        "wmo": "63919",
-        "icao": "HTKI"
+        "$wmo": "63919",
+        "$icao": "HTKI",
+        "$iata": "KIY",
+        "$usaf": "639193"
     },
     "location": {
         "latitude": -8.9333,

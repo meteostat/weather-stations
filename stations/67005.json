@@ -6,9 +6,11 @@
     "country": "KM",
     "region": "YT",
     "identifiers": {
-        "national": null,
-        "wmo": "67005",
-        "icao": "FMCZ"
+        "$wmo": "67005",
+        "$icao": "FMCZ",
+        "$iata": "DZA",
+        "$ghcn": "MFM00067005",
+        "$usaf": "670050"
     },
     "location": {
         "latitude": -12.8,

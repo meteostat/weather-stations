@@ -6,9 +6,10 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KRIL"
+        "$icao": "KRIL",
+        "$iata": "RIL",
+        "$wban": "03016",
+        "$usaf": "725717"
     },
     "location": {
         "latitude": 39.5263,

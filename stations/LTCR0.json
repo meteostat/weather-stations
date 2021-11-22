@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "MAR",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "LTCR"
+        "$icao": "LTCR",
+        "$iata": "MQM",
+        "$usaf": "172750"
     },
     "location": {
         "latitude": 37.2233,

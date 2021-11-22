@@ -6,9 +6,10 @@
     "country": "MY",
     "region": "JH",
     "identifiers": {
-        "national": null,
-        "wmo": "48679",
-        "icao": "WMKJ"
+        "$wmo": "48679",
+        "$icao": "WMKJ",
+        "$iata": "JHB",
+        "$usaf": "486790"
     },
     "location": {
         "latitude": 1.6333,

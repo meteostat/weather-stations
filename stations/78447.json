@@ -6,9 +6,10 @@
     "country": "HT",
     "region": "SD",
     "identifiers": {
-        "national": null,
-        "wmo": "78447",
-        "icao": "MTCA"
+        "$wmo": "78447",
+        "$icao": "MTCA",
+        "$iata": "CYA",
+        "$mosmix": "78447"
     },
     "location": {
         "latitude": 18.1833,

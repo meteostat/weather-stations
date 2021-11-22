@@ -6,9 +6,8 @@
     "country": "DK",
     "region": null,
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "EKHR"
+        "$icao": "EKHR",
+        "$usaf": "060160"
     },
     "location": {
         "latitude": 55.5089,

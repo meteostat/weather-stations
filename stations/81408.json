@@ -6,9 +6,9 @@
     "country": "GF",
     "region": "AP",
     "identifiers": {
-        "national": null,
-        "wmo": "81408",
-        "icao": null
+        "$wmo": "81408",
+        "$ghcn": "FGM00081408",
+        "$mosmix": "81408"
     },
     "location": {
         "latitude": 3.8833,

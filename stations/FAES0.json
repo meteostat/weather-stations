@@ -6,9 +6,8 @@
     "country": "ZA",
     "region": "KN",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "FAES"
+        "$icao": "FAES",
+        "$usaf": "684750"
     },
     "location": {
         "latitude": -28.8833,

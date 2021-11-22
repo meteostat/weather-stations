@@ -6,9 +6,8 @@
     "country": "AZ",
     "region": "HAC",
     "identifiers": {
-        "national": null,
-        "wmo": "37849",
-        "icao": null
+        "$wmo": "37849",
+        "$ghcn": "AJ000037849"
     },
     "location": {
         "latitude": 40.0167,

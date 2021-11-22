@@ -6,9 +6,8 @@
     "country": "PE",
     "region": "PA",
     "identifiers": {
-        "national": null,
-        "wmo": "84567",
-        "icao": "SPEZ"
+        "$wmo": "84567",
+        "$icao": "SPEZ"
     },
     "location": {
         "latitude": -10.3,

@@ -6,9 +6,10 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KASX"
+        "$icao": "KASX",
+        "$iata": "ASX",
+        "$wban": "94929",
+        "$usaf": "726419"
     },
     "location": {
         "latitude": 46.5485,

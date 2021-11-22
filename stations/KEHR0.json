@@ -6,9 +6,9 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "national": null,
-        "wmo": null,
-        "icao": "KEHR"
+        "$icao": "KEHR",
+        "$wban": "53886",
+        "$usaf": "724238"
     },
     "location": {
         "latitude": 37.8078,

@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "KAB",
     "identifiers": {
-        "national": null,
-        "wmo": "40947",
-        "icao": "OAPG"
+        "$wmo": "40947",
+        "$icao": "OAPG",
+        "$usaf": "409470"
     },
     "location": {
         "latitude": 34.5833,
