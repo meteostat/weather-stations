@@ -11,11 +11,7 @@ station_template = {
     },
     'country': None,
     'region': None,
-    'identifiers': {
-        'national': None,
-        'wmo': None,
-        'icao': None
-    },
+    'identifiers': {},
     'location': {
         'latitude': None,
         'longitude': None,
