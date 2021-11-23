@@ -6,12 +6,12 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "$wmo": "72643",
-        "$icao": "KLSE",
-        "$iata": "LSE",
-        "$ghcn": "USW00014920",
-        "$wban": "14920",
-        "$usaf": "726430"
+        "wmo": "72643",
+        "icao": "KLSE",
+        "iata": "LSE",
+        "ghcn": "USW00014920",
+        "wban": "14920",
+        "usaf": "726430"
     },
     "location": {
         "latitude": 43.8833,

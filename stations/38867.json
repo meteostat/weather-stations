@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "BDS",
     "identifiers": {
-        "$wmo": "38867",
-        "$ghcn": "TI000038867"
+        "wmo": "38867",
+        "ghcn": "TI000038867"
     },
     "location": {
         "latitude": 38.2833,

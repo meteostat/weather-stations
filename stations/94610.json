@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "$wmo": "94610",
-        "$icao": "YPPH",
-        "$iata": "PER",
-        "$ghcn": "ASN00009021",
-        "$usaf": "946100"
+        "wmo": "94610",
+        "icao": "YPPH",
+        "iata": "PER",
+        "ghcn": "ASN00009021",
+        "usaf": "946100"
     },
     "location": {
         "latitude": -31.9333,

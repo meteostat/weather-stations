@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "NL",
     "identifiers": {
-        "$wmo": "42527",
-        "$ghcn": "IN016040100",
-        "$usaf": "425270"
+        "wmo": "42527",
+        "ghcn": "IN016040100",
+        "usaf": "425270"
     },
     "location": {
         "latitude": 25.6333,

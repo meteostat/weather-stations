@@ -6,10 +6,10 @@
     "country": "TD",
     "region": "GU",
     "identifiers": {
-        "$wmo": "64758",
-        "$icao": "FTTM",
-        "$iata": "MVO",
-        "$ghcn": "CD000004758"
+        "wmo": "64758",
+        "icao": "FTTM",
+        "iata": "MVO",
+        "ghcn": "CD000004758"
     },
     "location": {
         "latitude": 12.1833,

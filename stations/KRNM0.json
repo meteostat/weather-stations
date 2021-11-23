@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KRNM",
-        "$wban": "53120",
-        "$usaf": "745056"
+        "icao": "KRNM",
+        "wban": "53120",
+        "usaf": "745056"
     },
     "location": {
         "latitude": 33.0392,

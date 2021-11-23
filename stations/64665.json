@@ -6,8 +6,8 @@
     "country": "CF",
     "region": "BKO",
     "identifiers": {
-        "$wmo": "64665",
-        "$ghcn": "CTM00064665"
+        "wmo": "64665",
+        "ghcn": "CTM00064665"
     },
     "location": {
         "latitude": 4.3167,

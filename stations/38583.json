@@ -6,9 +6,9 @@
     "country": "UZ",
     "region": "SI",
     "identifiers": {
-        "$wmo": "38583",
-        "$ghcn": "UZM00038583",
-        "$usaf": "385830"
+        "wmo": "38583",
+        "ghcn": "UZM00038583",
+        "usaf": "385830"
     },
     "location": {
         "latitude": 40.8167,

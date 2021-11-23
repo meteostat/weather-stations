@@ -2,16 +2,16 @@
     "id": "01162",
     "name": {
         "de": "Storkmarknes Flughafen",
-        "no": "Storkmarknes Flughavn",
-        "en": "Storkmarknes Airport"
+        "en": "Storkmarknes Airport",
+        "no": "Storkmarknes Flughavn"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "$wmo": "01162",
-        "$icao": "ENSK",
-        "$iata": "SKN",
-        "$usaf": "011620"
+        "wmo": "01162",
+        "icao": "ENSK",
+        "iata": "SKN",
+        "usaf": "011620"
     },
     "location": {
         "latitude": 68.5833,

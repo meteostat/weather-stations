@@ -6,11 +6,11 @@
     "country": "AT",
     "region": "SZ",
     "identifiers": {
-        "$wmo": "11150",
-        "$icao": "LOWS",
-        "$ghcn": "AU000006306",
-        "$usaf": "111500",
-        "$mosmix": "11150"
+        "wmo": "11150",
+        "icao": "LOWS",
+        "ghcn": "AU000006306",
+        "usaf": "111500",
+        "mosmix": "11150"
     },
     "location": {
         "latitude": 47.8,

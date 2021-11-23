@@ -6,8 +6,8 @@
     "country": "PG",
     "region": "WE",
     "identifiers": {
-        "$wmo": "92001",
-        "$ghcn": "PPM00092001"
+        "wmo": "92001",
+        "ghcn": "PPM00092001"
     },
     "location": {
         "latitude": -6.0833,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "$wmo": "72586",
-        "$icao": "KGNG",
-        "$wban": "24142"
+        "wmo": "72586",
+        "icao": "KGNG",
+        "wban": "24142"
     },
     "location": {
         "latitude": 42.9172,

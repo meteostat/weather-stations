@@ -6,13 +6,13 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "$wmo": "72228",
-        "$icao": "KBHM",
-        "$iata": "BHM",
-        "$ghcn": "USW00013876",
-        "$wban": "13876",
-        "$usaf": "722280",
-        "$mosmix": "72228"
+        "wmo": "72228",
+        "icao": "KBHM",
+        "iata": "BHM",
+        "ghcn": "USW00013876",
+        "wban": "13876",
+        "usaf": "722280",
+        "mosmix": "72228"
     },
     "location": {
         "latitude": 33.5667,

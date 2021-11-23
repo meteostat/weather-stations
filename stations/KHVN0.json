@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CT",
     "identifiers": {
-        "$icao": "KHVN",
-        "$iata": "HVN",
-        "$wban": "14758",
-        "$usaf": "725045"
+        "icao": "KHVN",
+        "iata": "HVN",
+        "wban": "14758",
+        "usaf": "725045"
     },
     "location": {
         "latitude": 41.2638,

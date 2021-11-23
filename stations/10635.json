@@ -6,11 +6,11 @@
     "country": "DE",
     "region": "HE",
     "identifiers": {
-        "$national": "02601",
-        "$wmo": "10635",
-        "$ghcn": "GMM00010635",
-        "$usaf": "106350",
-        "$mosmix": "10635"
+        "national": "02601",
+        "wmo": "10635",
+        "ghcn": "GMM00010635",
+        "usaf": "106350",
+        "mosmix": "10635"
     },
     "location": {
         "latitude": 50.2167,

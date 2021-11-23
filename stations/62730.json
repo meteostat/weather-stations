@@ -6,12 +6,12 @@
     "country": "SD",
     "region": "KA",
     "identifiers": {
-        "$wmo": "62730",
-        "$icao": "HSKA",
-        "$iata": "KSL",
-        "$ghcn": "SU000062730",
-        "$usaf": "627300",
-        "$mosmix": "62730"
+        "wmo": "62730",
+        "icao": "HSKA",
+        "iata": "KSL",
+        "ghcn": "SU000062730",
+        "usaf": "627300",
+        "mosmix": "62730"
     },
     "location": {
         "latitude": 15.4667,

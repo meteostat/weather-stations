@@ -6,8 +6,8 @@
     "country": "PL",
     "region": null,
     "identifiers": {
-        "$wmo": "12001",
-        "$usaf": "120010"
+        "wmo": "12001",
+        "usaf": "120010"
     },
     "location": {
         "latitude": 55.4808,

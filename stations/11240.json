@@ -6,12 +6,12 @@
     "country": "AT",
     "region": "ST",
     "identifiers": {
-        "$wmo": "11240",
-        "$icao": "LOWG",
-        "$iata": "GRZ",
-        "$ghcn": "AU000016402",
-        "$usaf": "112400",
-        "$mosmix": "11240"
+        "wmo": "11240",
+        "icao": "LOWG",
+        "iata": "GRZ",
+        "ghcn": "AU000016402",
+        "usaf": "112400",
+        "mosmix": "11240"
     },
     "location": {
         "latitude": 47,

@@ -6,12 +6,12 @@
     "country": "IR",
     "region": "FAR",
     "identifiers": {
-        "$wmo": "40848",
-        "$icao": "OISS",
-        "$iata": "SYZ",
-        "$ghcn": "IR000040848",
-        "$usaf": "408480",
-        "$mosmix": "40848"
+        "wmo": "40848",
+        "icao": "OISS",
+        "iata": "SYZ",
+        "ghcn": "IR000040848",
+        "usaf": "408480",
+        "mosmix": "40848"
     },
     "location": {
         "latitude": 29.5333,

@@ -6,10 +6,10 @@
     "country": "DK",
     "region": "ND",
     "identifiers": {
-        "$wmo": "06024",
-        "$icao": "EKTS",
-        "$iata": "TED",
-        "$usaf": "060240"
+        "wmo": "06024",
+        "icao": "EKTS",
+        "iata": "TED",
+        "usaf": "060240"
     },
     "location": {
         "latitude": 57.0667,

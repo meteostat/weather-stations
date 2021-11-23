@@ -6,11 +6,11 @@
     "country": "GB",
     "region": null,
     "identifiers": {
-        "$wmo": "03895",
-        "$icao": "EGJJ",
-        "$iata": "JER",
-        "$usaf": "038950",
-        "$mosmix": "03895"
+        "wmo": "03895",
+        "icao": "EGJJ",
+        "iata": "JER",
+        "usaf": "038950",
+        "mosmix": "03895"
     },
     "location": {
         "latitude": 49.2167,

@@ -6,11 +6,11 @@
     "country": "GN",
     "region": "LAB",
     "identifiers": {
-        "$wmo": "61809",
-        "$icao": "GULB",
-        "$iata": "LEK",
-        "$ghcn": "GV000001809",
-        "$usaf": "618090"
+        "wmo": "61809",
+        "icao": "GULB",
+        "iata": "LEK",
+        "ghcn": "GV000001809",
+        "usaf": "618090"
     },
     "location": {
         "latitude": 11.3167,

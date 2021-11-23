@@ -6,9 +6,9 @@
     "country": "IE",
     "region": "U",
     "identifiers": {
-        "$wmo": "03980",
-        "$ghcn": "EI000003980",
-        "$mosmix": "03980"
+        "wmo": "03980",
+        "ghcn": "EI000003980",
+        "mosmix": "03980"
     },
     "location": {
         "latitude": 55.3667,

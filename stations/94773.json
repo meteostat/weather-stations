@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "$wmo": "94773",
-        "$icao": "YARM",
-        "$iata": "ARM",
-        "$ghcn": "ASN00056037"
+        "wmo": "94773",
+        "icao": "YARM",
+        "iata": "ARM",
+        "ghcn": "ASN00056037"
     },
     "location": {
         "latitude": -30.5167,

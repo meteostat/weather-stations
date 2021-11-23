@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "BIN",
     "identifiers": {
-        "$wmo": "17203",
-        "$ghcn": "TUM00017203"
+        "wmo": "17203",
+        "ghcn": "TUM00017203"
     },
     "location": {
         "latitude": 38.8667,

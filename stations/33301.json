@@ -6,11 +6,11 @@
     "country": "UA",
     "region": "RV",
     "identifiers": {
-        "$wmo": "33301",
-        "$icao": "UKLR",
-        "$iata": "RWN",
-        "$ghcn": "UPM00033301",
-        "$usaf": "333010"
+        "wmo": "33301",
+        "icao": "UKLR",
+        "iata": "RWN",
+        "ghcn": "UPM00033301",
+        "usaf": "333010"
     },
     "location": {
         "latitude": 50.5833,

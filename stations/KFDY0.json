@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "$icao": "KFDY",
-        "$iata": "FDY",
-        "$wban": "14825",
-        "$usaf": "725366"
+        "icao": "KFDY",
+        "iata": "FDY",
+        "wban": "14825",
+        "usaf": "725366"
     },
     "location": {
         "latitude": 41.012,

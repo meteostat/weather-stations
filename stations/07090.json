@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "M",
     "identifiers": {
-        "$wmo": "07090",
-        "$icao": "LFSF",
-        "$iata": "MZM",
-        "$usaf": "070900",
-        "$mosmix": "07090"
+        "wmo": "07090",
+        "icao": "LFSF",
+        "iata": "MZM",
+        "usaf": "070900",
+        "mosmix": "07090"
     },
     "location": {
         "latitude": 49.0833,

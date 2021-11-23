@@ -6,12 +6,12 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "$wmo": "94374",
-        "$icao": "YBRK",
-        "$iata": "ROK",
-        "$ghcn": "ASN00039083",
-        "$usaf": "943740",
-        "$mosmix": "94374"
+        "wmo": "94374",
+        "icao": "YBRK",
+        "iata": "ROK",
+        "ghcn": "ASN00039083",
+        "usaf": "943740",
+        "mosmix": "94374"
     },
     "location": {
         "latitude": -23.3833,

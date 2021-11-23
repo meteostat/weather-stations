@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "$icao": "KFXY",
-        "$wban": "54940",
-        "$usaf": "720643"
+        "icao": "KFXY",
+        "wban": "54940",
+        "usaf": "720643"
     },
     "location": {
         "latitude": 43.2348,

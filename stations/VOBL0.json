@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "KA",
     "identifiers": {
-        "$icao": "VOBL",
-        "$iata": "BLR",
-        "$usaf": "427056"
+        "icao": "VOBL",
+        "iata": "BLR",
+        "usaf": "427056"
     },
     "location": {
         "latitude": 13.1979,

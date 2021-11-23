@@ -6,10 +6,10 @@
     "country": "OM",
     "region": "MU",
     "identifiers": {
-        "$wmo": "41240",
-        "$icao": "OOKB",
-        "$iata": "KHS",
-        "$mosmix": "41240"
+        "wmo": "41240",
+        "icao": "OOKB",
+        "iata": "KHS",
+        "mosmix": "41240"
     },
     "location": {
         "latitude": 26.2167,

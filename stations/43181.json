@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "AP",
     "identifiers": {
-        "$wmo": "43181",
-        "$icao": "VOBZ",
-        "$iata": "VGA",
-        "$ghcn": "IN001111600",
-        "$usaf": "431810"
+        "wmo": "43181",
+        "icao": "VOBZ",
+        "iata": "VGA",
+        "ghcn": "IN001111600",
+        "usaf": "431810"
     },
     "location": {
         "latitude": 16.5333,

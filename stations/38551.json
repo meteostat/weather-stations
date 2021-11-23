@@ -6,8 +6,8 @@
     "country": "UZ",
     "region": "BU",
     "identifiers": {
-        "$wmo": "38551",
-        "$ghcn": "UZM00038551"
+        "wmo": "38551",
+        "ghcn": "UZM00038551"
     },
     "location": {
         "latitude": 40.85,

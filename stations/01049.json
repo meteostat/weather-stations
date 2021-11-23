@@ -2,17 +2,17 @@
     "id": "01049",
     "name": {
         "de": "Alta Flughafen",
-        "no": "Alta Lufthavn",
-        "en": "Alta Airport"
+        "en": "Alta Airport",
+        "no": "Alta Lufthavn"
     },
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "$wmo": "01049",
-        "$icao": "ENAT",
-        "$iata": "ALF",
-        "$usaf": "010490",
-        "$mosmix": "01049"
+        "wmo": "01049",
+        "icao": "ENAT",
+        "iata": "ALF",
+        "usaf": "010490",
+        "mosmix": "01049"
     },
     "location": {
         "latitude": 69.9833,

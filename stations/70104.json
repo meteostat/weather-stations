@@ -6,12 +6,12 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$wmo": "70104",
-        "$icao": "PALU",
-        "$iata": "LUR",
-        "$ghcn": "USW00026631",
-        "$wban": "26631",
-        "$usaf": "701040"
+        "wmo": "70104",
+        "icao": "PALU",
+        "iata": "LUR",
+        "ghcn": "USW00026631",
+        "wban": "26631",
+        "usaf": "701040"
     },
     "location": {
         "latitude": 68.8833,

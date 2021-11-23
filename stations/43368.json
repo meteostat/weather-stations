@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "AN",
     "identifiers": {
-        "$wmo": "43368",
-        "$icao": "VECX",
-        "$usaf": "433680"
+        "wmo": "43368",
+        "icao": "VECX",
+        "usaf": "433680"
     },
     "location": {
         "latitude": 9.15,

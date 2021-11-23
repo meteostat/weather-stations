@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "YOZ",
     "identifiers": {
-        "$wmo": "17140",
-        "$ghcn": "TUM00017140"
+        "wmo": "17140",
+        "ghcn": "TUM00017140"
     },
     "location": {
         "latitude": 39.8333,

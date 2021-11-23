@@ -6,11 +6,11 @@
     "country": "BD",
     "region": "RAJ",
     "identifiers": {
-        "$wmo": "41907",
-        "$icao": "VGIS",
-        "$iata": "IRD",
-        "$ghcn": "BGM00041907",
-        "$usaf": "419070"
+        "wmo": "41907",
+        "icao": "VGIS",
+        "iata": "IRD",
+        "ghcn": "BGM00041907",
+        "usaf": "419070"
     },
     "location": {
         "latitude": 24.1333,

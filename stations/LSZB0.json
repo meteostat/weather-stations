@@ -6,9 +6,9 @@
     "country": "CH",
     "region": "BE",
     "identifiers": {
-        "$icao": "LSZB",
-        "$iata": "BRN",
-        "$usaf": "066303"
+        "icao": "LSZB",
+        "iata": "BRN",
+        "usaf": "066303"
     },
     "location": {
         "latitude": 46.9136,

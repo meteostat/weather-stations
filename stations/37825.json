@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "XAN",
     "identifiers": {
-        "$wmo": "37825",
-        "$ghcn": "AJ000037825"
+        "wmo": "37825",
+        "ghcn": "AJ000037825"
     },
     "location": {
         "latitude": 40.4167,

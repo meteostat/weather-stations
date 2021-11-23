@@ -6,12 +6,12 @@
     "country": "MZ",
     "region": "MN",
     "identifiers": {
-        "$wmo": "67295",
-        "$icao": "FQCH",
-        "$iata": "VPY",
-        "$ghcn": "MZ000067295",
-        "$usaf": "672950",
-        "$mosmix": "67295"
+        "wmo": "67295",
+        "icao": "FQCH",
+        "iata": "VPY",
+        "ghcn": "MZ000067295",
+        "usaf": "672950",
+        "mosmix": "67295"
     },
     "location": {
         "latitude": -19.1167,

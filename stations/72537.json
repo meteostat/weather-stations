@@ -6,13 +6,13 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$wmo": "72537",
-        "$icao": "KDTW",
-        "$iata": "DTW",
-        "$ghcn": "USW00094847",
-        "$wban": "94847",
-        "$usaf": "725370",
-        "$mosmix": "72537"
+        "wmo": "72537",
+        "icao": "KDTW",
+        "iata": "DTW",
+        "ghcn": "USW00094847",
+        "wban": "94847",
+        "usaf": "725370",
+        "mosmix": "72537"
     },
     "location": {
         "latitude": 42.2333,

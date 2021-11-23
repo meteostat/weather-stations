@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "$wmo": "94719",
-        "$icao": "YSDU",
-        "$iata": "DBO",
-        "$usaf": "947190"
+        "wmo": "94719",
+        "icao": "YSDU",
+        "iata": "DBO",
+        "usaf": "947190"
     },
     "location": {
         "latitude": -32.2,

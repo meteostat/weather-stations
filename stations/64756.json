@@ -6,12 +6,12 @@
     "country": "TD",
     "region": "OU",
     "identifiers": {
-        "$wmo": "64756",
-        "$icao": "FTTC",
-        "$iata": "AEH",
-        "$ghcn": "CD000004756",
-        "$usaf": "647560",
-        "$mosmix": "64756"
+        "wmo": "64756",
+        "icao": "FTTC",
+        "iata": "AEH",
+        "ghcn": "CD000004756",
+        "usaf": "647560",
+        "mosmix": "64756"
     },
     "location": {
         "latitude": 13.85,

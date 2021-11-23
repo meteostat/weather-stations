@@ -6,12 +6,12 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "$wmo": "03334",
-        "$icao": "EGCC",
-        "$iata": "MAN",
-        "$ghcn": "UKM00003334",
-        "$usaf": "033340",
-        "$mosmix": "03334"
+        "wmo": "03334",
+        "icao": "EGCC",
+        "iata": "MAN",
+        "ghcn": "UKM00003334",
+        "usaf": "033340",
+        "mosmix": "03334"
     },
     "location": {
         "latitude": 53.35,

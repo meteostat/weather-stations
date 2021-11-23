@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "CT",
     "identifiers": {
-        "$wmo": "08181",
-        "$icao": "LEBL",
-        "$iata": "BCN",
-        "$ghcn": "SP000008181",
-        "$usaf": "081810",
-        "$mosmix": "08181"
+        "wmo": "08181",
+        "icao": "LEBL",
+        "iata": "BCN",
+        "ghcn": "SP000008181",
+        "usaf": "081810",
+        "mosmix": "08181"
     },
     "location": {
         "latitude": 41.2833,

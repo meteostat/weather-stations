@@ -6,10 +6,10 @@
     "country": "AO",
     "region": "HUA",
     "identifiers": {
-        "$wmo": "66318",
-        "$icao": "FNHU",
-        "$iata": "NOV",
-        "$usaf": "663180"
+        "wmo": "66318",
+        "icao": "FNHU",
+        "iata": "NOV",
+        "usaf": "663180"
     },
     "location": {
         "latitude": -12.8,

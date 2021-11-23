@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "UP",
     "identifiers": {
-        "$wmo": "42366",
-        "$icao": "VIKA",
-        "$iata": "KNU",
-        "$ghcn": "IN023321100"
+        "wmo": "42366",
+        "icao": "VIKA",
+        "iata": "KNU",
+        "ghcn": "IN023321100"
     },
     "location": {
         "latitude": 26.4333,

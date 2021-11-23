@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "SA",
     "identifiers": {
-        "$wmo": "28900",
-        "$icao": "UWWW",
-        "$ghcn": "RSM00028900",
-        "$usaf": "289000",
-        "$mosmix": "28900"
+        "wmo": "28900",
+        "icao": "UWWW",
+        "ghcn": "RSM00028900",
+        "usaf": "289000",
+        "mosmix": "28900"
     },
     "location": {
         "latitude": 53.2,

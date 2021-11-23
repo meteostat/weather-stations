@@ -6,10 +6,10 @@
     "country": "JO",
     "region": "KA",
     "identifiers": {
-        "$wmo": "40296",
-        "$ghcn": "JOM00040296",
-        "$usaf": "402960",
-        "$mosmix": "40296"
+        "wmo": "40296",
+        "ghcn": "JOM00040296",
+        "usaf": "402960",
+        "mosmix": "40296"
     },
     "location": {
         "latitude": 31.0333,

@@ -6,11 +6,11 @@
     "country": "UG",
     "region": "TR",
     "identifiers": {
-        "$wmo": "63684",
-        "$icao": "HUTO",
-        "$iata": "TRY",
-        "$ghcn": "UG000063684",
-        "$usaf": "636840"
+        "wmo": "63684",
+        "icao": "HUTO",
+        "iata": "TRY",
+        "ghcn": "UG000063684",
+        "usaf": "636840"
     },
     "location": {
         "latitude": 0.6833,

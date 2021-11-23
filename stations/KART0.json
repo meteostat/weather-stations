@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$icao": "KART",
-        "$iata": "ART",
-        "$wban": "94790",
-        "$usaf": "726227"
+        "icao": "KART",
+        "iata": "ART",
+        "wban": "94790",
+        "usaf": "726227"
     },
     "location": {
         "latitude": 43.9919,

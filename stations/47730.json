@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "ME",
     "identifiers": {
-        "$wmo": "47730",
-        "$icao": "RJOE",
-        "$usaf": "477300"
+        "wmo": "47730",
+        "icao": "RJOE",
+        "usaf": "477300"
     },
     "location": {
         "latitude": 34.5333,

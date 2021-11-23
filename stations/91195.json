@@ -6,10 +6,10 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "$wmo": "91195",
-        "$icao": "PHUP",
-        "$iata": "UPP",
-        "$ghcn": "USC00518830"
+        "wmo": "91195",
+        "icao": "PHUP",
+        "iata": "UPP",
+        "ghcn": "USC00518830"
     },
     "location": {
         "latitude": 20.25,

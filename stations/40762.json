@@ -6,10 +6,10 @@
     "country": "IR",
     "region": "KV",
     "identifiers": {
-        "$wmo": "40762",
-        "$icao": "OIMH",
-        "$usaf": "407620",
-        "$mosmix": "40762"
+        "wmo": "40762",
+        "icao": "OIMH",
+        "usaf": "407620",
+        "mosmix": "40762"
     },
     "location": {
         "latitude": 35.2667,

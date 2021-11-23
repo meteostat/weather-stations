@@ -6,11 +6,11 @@
     "country": "TD",
     "region": "SA",
     "identifiers": {
-        "$wmo": "64754",
-        "$icao": "FTTN",
-        "$iata": "AMC",
-        "$ghcn": "CD000064754",
-        "$usaf": "647540"
+        "wmo": "64754",
+        "icao": "FTTN",
+        "iata": "AMC",
+        "ghcn": "CD000064754",
+        "usaf": "647540"
     },
     "location": {
         "latitude": 11.0333,

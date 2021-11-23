@@ -6,12 +6,12 @@
     "country": "EG",
     "region": "ASW",
     "identifiers": {
-        "$wmo": "62414",
-        "$icao": "HESN",
-        "$iata": "ASW",
-        "$ghcn": "EG000062414",
-        "$usaf": "624140",
-        "$mosmix": "62414"
+        "wmo": "62414",
+        "icao": "HESN",
+        "iata": "ASW",
+        "ghcn": "EG000062414",
+        "usaf": "624140",
+        "mosmix": "62414"
     },
     "location": {
         "latitude": 23.9667,

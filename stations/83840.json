@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "PR",
     "identifiers": {
-        "$wmo": "83840",
-        "$icao": "SBCT",
-        "$iata": "CWB",
-        "$usaf": "838400",
-        "$mosmix": "83840"
+        "wmo": "83840",
+        "icao": "SBCT",
+        "iata": "CWB",
+        "usaf": "838400",
+        "mosmix": "83840"
     },
     "location": {
         "latitude": -25.5167,

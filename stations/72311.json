@@ -6,12 +6,12 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "$wmo": "72311",
-        "$icao": "KAHN",
-        "$iata": "AHN",
-        "$ghcn": "USW00013873",
-        "$wban": "13873",
-        "$usaf": "723110"
+        "wmo": "72311",
+        "icao": "KAHN",
+        "iata": "AHN",
+        "ghcn": "USW00013873",
+        "wban": "13873",
+        "usaf": "723110"
     },
     "location": {
         "latitude": 33.95,

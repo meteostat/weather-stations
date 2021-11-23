@@ -6,10 +6,10 @@
     "country": "PR",
     "region": null,
     "identifiers": {
-        "$icao": "TJPS",
-        "$iata": "PSE",
-        "$wban": "00398",
-        "$usaf": "785203"
+        "icao": "TJPS",
+        "iata": "PSE",
+        "wban": "00398",
+        "usaf": "785203"
     },
     "location": {
         "latitude": 18.0167,

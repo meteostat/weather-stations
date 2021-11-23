@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "$icao": "KPDC",
-        "$wban": "04963",
-        "$usaf": "726444"
+        "icao": "KPDC",
+        "wban": "04963",
+        "usaf": "726444"
     },
     "location": {
         "latitude": 43.0193,

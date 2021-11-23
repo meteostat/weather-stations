@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "$icao": "KDUG",
-        "$iata": "DUG",
-        "$wban": "93026",
-        "$usaf": "722720"
+        "icao": "KDUG",
+        "iata": "DUG",
+        "wban": "93026",
+        "usaf": "722720"
     },
     "location": {
         "latitude": 31.469,

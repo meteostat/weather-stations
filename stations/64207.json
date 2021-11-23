@@ -6,11 +6,11 @@
     "country": "CD",
     "region": "BC",
     "identifiers": {
-        "$wmo": "64207",
-        "$icao": "FZAM",
-        "$iata": "MAT",
-        "$ghcn": "CGM00064207",
-        "$usaf": "642070"
+        "wmo": "64207",
+        "icao": "FZAM",
+        "iata": "MAT",
+        "ghcn": "CGM00064207",
+        "usaf": "642070"
     },
     "location": {
         "latitude": -5.8,

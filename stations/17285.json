@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "HKR",
     "identifiers": {
-        "$wmo": "17285",
-        "$ghcn": "TUM00017285"
+        "wmo": "17285",
+        "ghcn": "TUM00017285"
     },
     "location": {
         "latitude": 37.5667,

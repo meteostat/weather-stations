@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "$wmo": "72618",
-        "$icao": "KRUM",
-        "$wban": "94736"
+        "wmo": "72618",
+        "icao": "KRUM",
+        "wban": "94736"
     },
     "location": {
         "latitude": 44.5333,

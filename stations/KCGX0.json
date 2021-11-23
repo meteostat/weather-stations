@@ -6,10 +6,10 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$icao": "KCGX",
-        "$iata": "CGX",
-        "$wban": "94866",
-        "$usaf": "725346"
+        "icao": "KCGX",
+        "iata": "CGX",
+        "wban": "94866",
+        "usaf": "725346"
     },
     "location": {
         "latitude": 41.8667,

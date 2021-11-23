@@ -6,11 +6,11 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$wmo": "72221",
-        "$icao": "KVPS",
-        "$iata": "EGI",
-        "$wban": "13858",
-        "$usaf": "722210"
+        "wmo": "72221",
+        "icao": "KVPS",
+        "iata": "EGI",
+        "wban": "13858",
+        "usaf": "722210"
     },
     "location": {
         "latitude": 30.4833,

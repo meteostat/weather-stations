@@ -6,11 +6,11 @@
     "country": "IR",
     "region": "KJ",
     "identifiers": {
-        "$wmo": "40809",
-        "$icao": "OIMB",
-        "$iata": "XBJ",
-        "$ghcn": "IRM00040809",
-        "$usaf": "408090"
+        "wmo": "40809",
+        "icao": "OIMB",
+        "iata": "XBJ",
+        "ghcn": "IRM00040809",
+        "usaf": "408090"
     },
     "location": {
         "latitude": 32.8667,

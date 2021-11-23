@@ -6,13 +6,13 @@
     "country": "DE",
     "region": "BE",
     "identifiers": {
-        "$national": "00430",
-        "$wmo": "10382",
-        "$icao": "EDDT",
-        "$iata": "TXL",
-        "$ghcn": "GME00121150",
-        "$usaf": "103820",
-        "$mosmix": "10382"
+        "national": "00430",
+        "wmo": "10382",
+        "icao": "EDDT",
+        "iata": "TXL",
+        "ghcn": "GME00121150",
+        "usaf": "103820",
+        "mosmix": "10382"
     },
     "location": {
         "latitude": 52.5667,

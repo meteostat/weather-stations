@@ -6,10 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KORL",
-        "$iata": "ORL",
-        "$wban": "12841",
-        "$usaf": "722053"
+        "icao": "KORL",
+        "iata": "ORL",
+        "wban": "12841",
+        "usaf": "722053"
     },
     "location": {
         "latitude": 28.5455,

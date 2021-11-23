@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "GIR",
     "identifiers": {
-        "$wmo": "17034",
-        "$ghcn": "TUM00017034"
+        "wmo": "17034",
+        "ghcn": "TUM00017034"
     },
     "location": {
         "latitude": 40.9167,

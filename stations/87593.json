@@ -6,11 +6,11 @@
     "country": "AR",
     "region": "B",
     "identifiers": {
-        "$wmo": "87593",
-        "$icao": "SADL",
-        "$iata": "LPG",
-        "$ghcn": "ARM00087593",
-        "$usaf": "875930"
+        "wmo": "87593",
+        "icao": "SADL",
+        "iata": "LPG",
+        "ghcn": "ARM00087593",
+        "usaf": "875930"
     },
     "location": {
         "latitude": -34.9667,

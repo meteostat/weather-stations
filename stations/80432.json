@@ -6,8 +6,8 @@
     "country": "VE",
     "region": "J",
     "identifiers": {
-        "$wmo": "80432",
-        "$ghcn": "VEM00080432"
+        "wmo": "80432",
+        "ghcn": "VEM00080432"
     },
     "location": {
         "latitude": 9.4167,

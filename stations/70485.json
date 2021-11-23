@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$wmo": "70485",
-        "$icao": "KUNS",
-        "$wban": "25621"
+        "wmo": "70485",
+        "icao": "KUNS",
+        "wban": "25621"
     },
     "location": {
         "latitude": 53.3833,

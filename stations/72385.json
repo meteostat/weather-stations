@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "$wmo": "72385",
-        "$icao": "KUCC",
-        "$ghcn": "USW00004139",
-        "$wban": "03133"
+        "wmo": "72385",
+        "icao": "KUCC",
+        "ghcn": "USW00004139",
+        "wban": "03133"
     },
     "location": {
         "latitude": 36.95,

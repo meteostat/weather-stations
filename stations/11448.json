@@ -6,10 +6,10 @@
     "country": "CZ",
     "region": "PL",
     "identifiers": {
-        "$wmo": "11448",
-        "$icao": "LKLN",
-        "$usaf": "114480",
-        "$mosmix": "11448"
+        "wmo": "11448",
+        "icao": "LKLN",
+        "usaf": "114480",
+        "mosmix": "11448"
     },
     "location": {
         "latitude": 49.1667,

@@ -6,10 +6,10 @@
     "country": "AF",
     "region": "GHA",
     "identifiers": {
-        "$wmo": "40968",
-        "$icao": "OAGN",
-        "$iata": "GZI",
-        "$usaf": "409680"
+        "wmo": "40968",
+        "icao": "OAGN",
+        "iata": "GZI",
+        "usaf": "409680"
     },
     "location": {
         "latitude": 33.5333,

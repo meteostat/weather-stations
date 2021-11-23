@@ -6,8 +6,8 @@
     "country": "CN",
     "region": "QH",
     "identifiers": {
-        "$wmo": "56033",
-        "$ghcn": "CHM00056033"
+        "wmo": "56033",
+        "ghcn": "CHM00056033"
     },
     "location": {
         "latitude": 34.9167,

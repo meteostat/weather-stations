@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "BA",
     "identifiers": {
-        "$wmo": "16270",
-        "$icao": "LIBD",
-        "$usaf": "162700",
-        "$mosmix": "16270"
+        "wmo": "16270",
+        "icao": "LIBD",
+        "usaf": "162700",
+        "mosmix": "16270"
     },
     "location": {
         "latitude": 41.1333,

@@ -6,10 +6,10 @@
     "country": "CG",
     "region": "BO",
     "identifiers": {
-        "$wmo": "64402",
-        "$icao": "FCBM",
-        "$ghcn": "CF000004402",
-        "$usaf": "644020"
+        "wmo": "64402",
+        "icao": "FCBM",
+        "ghcn": "CF000004402",
+        "usaf": "644020"
     },
     "location": {
         "latitude": -3.9833,

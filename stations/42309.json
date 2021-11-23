@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "AS",
     "identifiers": {
-        "$wmo": "42309",
-        "$icao": "VELR",
-        "$iata": "IXI",
-        "$ghcn": "IN003050401",
-        "$usaf": "423090"
+        "wmo": "42309",
+        "icao": "VELR",
+        "iata": "IXI",
+        "ghcn": "IN003050401",
+        "usaf": "423090"
     },
     "location": {
         "latitude": 27.2333,

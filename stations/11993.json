@@ -6,10 +6,10 @@
     "country": "SK",
     "region": "PR",
     "identifiers": {
-        "$wmo": "11993",
-        "$icao": "LZKC",
-        "$usaf": "119330",
-        "$mosmix": "11993"
+        "wmo": "11993",
+        "icao": "LZKC",
+        "usaf": "119330",
+        "mosmix": "11993"
     },
     "location": {
         "latitude": 48.9333,

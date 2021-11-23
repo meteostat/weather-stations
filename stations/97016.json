@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "SA",
     "identifiers": {
-        "$wmo": "97016",
-        "$ghcn": "IDM00097016",
-        "$usaf": "970160"
+        "wmo": "97016",
+        "ghcn": "IDM00097016",
+        "usaf": "970160"
     },
     "location": {
         "latitude": 1.4333,

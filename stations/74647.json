@@ -6,11 +6,11 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$wmo": "74647",
-        "$icao": "KEND",
-        "$iata": "END",
-        "$wban": "13909",
-        "$usaf": "723535"
+        "wmo": "74647",
+        "icao": "KEND",
+        "iata": "END",
+        "wban": "13909",
+        "usaf": "723535"
     },
     "location": {
         "latitude": 36.6833,

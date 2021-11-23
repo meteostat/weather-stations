@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "VS",
     "identifiers": {
-        "$wmo": "85586",
-        "$icao": "SCSN",
-        "$usaf": "855860"
+        "wmo": "85586",
+        "icao": "SCSN",
+        "usaf": "855860"
     },
     "location": {
         "latitude": -33.65,

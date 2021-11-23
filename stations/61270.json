@@ -6,10 +6,10 @@
     "country": "ML",
     "region": "KY",
     "identifiers": {
-        "$wmo": "61270",
-        "$icao": "GAKT",
-        "$ghcn": "ML000061270",
-        "$usaf": "612700"
+        "wmo": "61270",
+        "icao": "GAKT",
+        "ghcn": "ML000061270",
+        "usaf": "612700"
     },
     "location": {
         "latitude": 13.0667,

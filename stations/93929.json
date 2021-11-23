@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": null,
     "identifiers": {
-        "$wmo": "93929",
-        "$ghcn": "NZM00093929",
-        "$usaf": "939290"
+        "wmo": "93929",
+        "ghcn": "NZM00093929",
+        "usaf": "939290"
     },
     "location": {
         "latitude": -50.4833,

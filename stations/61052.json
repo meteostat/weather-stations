@@ -6,12 +6,12 @@
     "country": "NE",
     "region": "NI",
     "identifiers": {
-        "$wmo": "61052",
-        "$icao": "DRRN",
-        "$iata": "NIM",
-        "$ghcn": "NG000001052",
-        "$usaf": "610520",
-        "$mosmix": "61052"
+        "wmo": "61052",
+        "icao": "DRRN",
+        "iata": "NIM",
+        "ghcn": "NG000001052",
+        "usaf": "610520",
+        "mosmix": "61052"
     },
     "location": {
         "latitude": 13.4833,

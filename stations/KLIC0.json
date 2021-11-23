@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$icao": "KLIC",
-        "$wban": "93010",
-        "$usaf": "724665"
+        "icao": "KLIC",
+        "wban": "93010",
+        "usaf": "724665"
     },
     "location": {
         "latitude": 39.2748,

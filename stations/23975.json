@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "KYA",
     "identifiers": {
-        "$wmo": "23975",
-        "$ghcn": "RSM00023975"
+        "wmo": "23975",
+        "ghcn": "RSM00023975"
     },
     "location": {
         "latitude": 60.35,

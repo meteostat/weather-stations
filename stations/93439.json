@@ -6,10 +6,10 @@
     "country": "NZ",
     "region": "WGN",
     "identifiers": {
-        "$wmo": "93439",
-        "$ghcn": "NZM00093439",
-        "$usaf": "934390",
-        "$mosmix": "93439"
+        "wmo": "93439",
+        "ghcn": "NZM00093439",
+        "usaf": "934390",
+        "mosmix": "93439"
     },
     "location": {
         "latitude": -41.3333,

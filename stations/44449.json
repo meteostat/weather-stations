@@ -6,10 +6,10 @@
     "country": "NP",
     "region": "NA",
     "identifiers": {
-        "$wmo": "44449",
-        "$icao": "VNSI",
-        "$iata": "SIF",
-        "$usaf": "444490"
+        "wmo": "44449",
+        "icao": "VNSI",
+        "iata": "SIF",
+        "usaf": "444490"
     },
     "location": {
         "latitude": 27.1667,

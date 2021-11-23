@@ -6,9 +6,9 @@
     "country": "HN",
     "region": "CP",
     "identifiers": {
-        "$wmo": "78717",
-        "$icao": "MHSR",
-        "$usaf": "787170"
+        "wmo": "78717",
+        "icao": "MHSR",
+        "usaf": "787170"
     },
     "location": {
         "latitude": 14.7833,

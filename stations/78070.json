@@ -6,10 +6,10 @@
     "country": "BS",
     "region": "BIM",
     "identifiers": {
-        "$wmo": "78070",
-        "$icao": "MYBS",
-        "$iata": "BIM",
-        "$usaf": "780700"
+        "wmo": "78070",
+        "icao": "MYBS",
+        "iata": "BIM",
+        "usaf": "780700"
     },
     "location": {
         "latitude": 25.7333,

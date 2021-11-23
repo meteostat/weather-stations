@@ -6,10 +6,10 @@
     "country": "TR",
     "region": "AMA",
     "identifiers": {
-        "$wmo": "17082",
-        "$icao": "LTAP",
-        "$iata": "MZH",
-        "$usaf": "170820"
+        "wmo": "17082",
+        "icao": "LTAP",
+        "iata": "MZH",
+        "usaf": "170820"
     },
     "location": {
         "latitude": 40.85,

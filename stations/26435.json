@@ -6,8 +6,8 @@
     "country": "LV",
     "region": "AIZ",
     "identifiers": {
-        "$wmo": "26435",
-        "$ghcn": "LG000026435"
+        "wmo": "26435",
+        "ghcn": "LG000026435"
     },
     "location": {
         "latitude": 56.65,

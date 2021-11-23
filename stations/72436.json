@@ -6,12 +6,12 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$wmo": "72436",
-        "$icao": "KBAK",
-        "$iata": "CLU",
-        "$ghcn": "USW00013803",
-        "$wban": "13803",
-        "$usaf": "724363"
+        "wmo": "72436",
+        "icao": "KBAK",
+        "iata": "CLU",
+        "ghcn": "USW00013803",
+        "wban": "13803",
+        "usaf": "724363"
     },
     "location": {
         "latitude": 39.2619,

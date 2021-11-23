@@ -6,12 +6,12 @@
     "country": "TZ",
     "region": "MR",
     "identifiers": {
-        "$wmo": "63733",
-        "$icao": "HTMU",
-        "$iata": "MUZ",
-        "$ghcn": "TZ000063733",
-        "$usaf": "637330",
-        "$mosmix": "63733"
+        "wmo": "63733",
+        "icao": "HTMU",
+        "iata": "MUZ",
+        "ghcn": "TZ000063733",
+        "usaf": "637330",
+        "mosmix": "63733"
     },
     "location": {
         "latitude": -1.5,

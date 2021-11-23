@@ -6,10 +6,10 @@
     "country": "BE",
     "region": "WLG",
     "identifiers": {
-        "$wmo": "06490",
-        "$icao": "EBSP",
-        "$usaf": "064900",
-        "$mosmix": "06490"
+        "wmo": "06490",
+        "icao": "EBSP",
+        "usaf": "064900",
+        "mosmix": "06490"
     },
     "location": {
         "latitude": 50.4833,

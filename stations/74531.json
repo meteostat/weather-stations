@@ -6,11 +6,11 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$wmo": "74531",
-        "$icao": "KAFF",
-        "$ghcn": "USW00093065",
-        "$wban": "93065",
-        "$usaf": "745310"
+        "wmo": "74531",
+        "icao": "KAFF",
+        "ghcn": "USW00093065",
+        "wban": "93065",
+        "usaf": "745310"
     },
     "location": {
         "latitude": 38.9667,

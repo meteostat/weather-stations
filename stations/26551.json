@@ -6,8 +6,8 @@
     "country": "LV",
     "region": "KRA",
     "identifiers": {
-        "$wmo": "26551",
-        "$ghcn": "LG000026551"
+        "wmo": "26551",
+        "ghcn": "LG000026551"
     },
     "location": {
         "latitude": 56.1,

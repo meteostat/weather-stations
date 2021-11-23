@@ -6,13 +6,13 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "$wmo": "72386",
-        "$icao": "KLAS",
-        "$iata": "LAS",
-        "$ghcn": "USW00023169",
-        "$wban": "23169",
-        "$usaf": "723860",
-        "$mosmix": "72386"
+        "wmo": "72386",
+        "icao": "KLAS",
+        "iata": "LAS",
+        "ghcn": "USW00023169",
+        "wban": "23169",
+        "usaf": "723860",
+        "mosmix": "72386"
     },
     "location": {
         "latitude": 36.1167,

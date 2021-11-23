@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "$wmo": "94306",
-        "$iata": "RDE",
-        "$ghcn": "ASN00005008"
+        "wmo": "94306",
+        "iata": "RDE",
+        "ghcn": "ASN00005008"
     },
     "location": {
         "latitude": -21.1833,

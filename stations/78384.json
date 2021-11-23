@@ -6,12 +6,12 @@
     "country": "KY",
     "region": null,
     "identifiers": {
-        "$wmo": "78384",
-        "$icao": "MWCR",
-        "$iata": "GCM",
-        "$ghcn": "CJW00011813",
-        "$wban": "11813",
-        "$usaf": "783840"
+        "wmo": "78384",
+        "icao": "MWCR",
+        "iata": "GCM",
+        "ghcn": "CJW00011813",
+        "wban": "11813",
+        "usaf": "783840"
     },
     "location": {
         "latitude": 19.2833,

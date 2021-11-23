@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ND",
     "identifiers": {
-        "$icao": "KRUG",
-        "$wban": "00293",
-        "$usaf": "720867"
+        "icao": "KRUG",
+        "wban": "00293",
+        "usaf": "720867"
     },
     "location": {
         "latitude": 48.3904,

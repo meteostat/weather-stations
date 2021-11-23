@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "SP",
     "identifiers": {
-        "$wmo": "83818",
-        "$icao": "SBST",
-        "$iata": "SSZ",
-        "$usaf": "838180"
+        "wmo": "83818",
+        "icao": "SBST",
+        "iata": "SSZ",
+        "usaf": "838180"
     },
     "location": {
         "latitude": -23.9333,

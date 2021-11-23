@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "DU",
     "identifiers": {
-        "$wmo": "33821",
-        "$ghcn": "MD000033821",
-        "$usaf": "338210"
+        "wmo": "33821",
+        "ghcn": "MD000033821",
+        "usaf": "338210"
     },
     "location": {
         "latitude": 47.2833,

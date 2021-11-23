@@ -2,17 +2,17 @@
     "id": "02664",
     "name": {
         "de": "Ronneby Flughafen",
-        "sv": "Ronneby Flygplats",
-        "en": "Ronneby Airport"
+        "en": "Ronneby Airport",
+        "sv": "Ronneby Flygplats"
     },
     "country": "SE",
     "region": "K",
     "identifiers": {
-        "$wmo": "02664",
-        "$icao": "ESDF",
-        "$iata": "RNB",
-        "$usaf": "026640",
-        "$mosmix": "02664"
+        "wmo": "02664",
+        "icao": "ESDF",
+        "iata": "RNB",
+        "usaf": "026640",
+        "mosmix": "02664"
     },
     "location": {
         "latitude": 56.2667,

@@ -6,12 +6,12 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "$national": "51219",
-        "$wmo": "71099",
-        "$icao": "CYER",
-        "$iata": "YER",
-        "$ghcn": "CA006012500",
-        "$usaf": "710990"
+        "national": "51219",
+        "wmo": "71099",
+        "icao": "CYER",
+        "iata": "YER",
+        "ghcn": "CA006012500",
+        "usaf": "710990"
     },
     "location": {
         "latitude": 56.02,

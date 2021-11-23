@@ -6,11 +6,11 @@
     "country": "JP",
     "region": "TK",
     "identifiers": {
-        "$wmo": "47662",
-        "$icao": "RJTD",
-        "$ghcn": "JA000047662",
-        "$usaf": "476620",
-        "$mosmix": "47662"
+        "wmo": "47662",
+        "icao": "RJTD",
+        "ghcn": "JA000047662",
+        "usaf": "476620",
+        "mosmix": "47662"
     },
     "location": {
         "latitude": 35.6833,

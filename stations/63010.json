@@ -6,9 +6,9 @@
     "country": "ET",
     "region": "GB",
     "identifiers": {
-        "$wmo": "63010",
-        "$icao": "HAST",
-        "$wban": "31304"
+        "wmo": "63010",
+        "icao": "HAST",
+        "wban": "31304"
     },
     "location": {
         "latitude": 15.1333,

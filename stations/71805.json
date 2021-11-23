@@ -6,11 +6,11 @@
     "country": "PM",
     "region": "PM",
     "identifiers": {
-        "$wmo": "71805",
-        "$icao": "LFVP",
-        "$iata": "FSP",
-        "$ghcn": "SBM00071805",
-        "$usaf": "718050"
+        "wmo": "71805",
+        "icao": "LFVP",
+        "iata": "FSP",
+        "ghcn": "SBM00071805",
+        "usaf": "718050"
     },
     "location": {
         "latitude": 46.7667,

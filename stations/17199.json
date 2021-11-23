@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "MAL",
     "identifiers": {
-        "$wmo": "17199",
-        "$ghcn": "TUM00017199"
+        "wmo": "17199",
+        "ghcn": "TUM00017199"
     },
     "location": {
         "latitude": 38.35,

@@ -6,11 +6,11 @@
     "country": "AZ",
     "region": null,
     "identifiers": {
-        "$wmo": "37864",
-        "$icao": "UBBB",
-        "$iata": "GYD",
-        "$usaf": "378640",
-        "$mosmix": "37864"
+        "wmo": "37864",
+        "icao": "UBBB",
+        "iata": "GYD",
+        "usaf": "378640",
+        "mosmix": "37864"
     },
     "location": {
         "latitude": 40.45,

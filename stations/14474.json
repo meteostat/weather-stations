@@ -6,11 +6,11 @@
     "country": "HR",
     "region": "DN",
     "identifiers": {
-        "$wmo": "14474",
-        "$icao": "LDDU",
-        "$iata": "DBV",
-        "$usaf": "144740",
-        "$mosmix": "14474"
+        "wmo": "14474",
+        "icao": "LDDU",
+        "iata": "DBV",
+        "usaf": "144740",
+        "mosmix": "14474"
     },
     "location": {
         "latitude": 42.5667,

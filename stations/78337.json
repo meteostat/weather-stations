@@ -6,10 +6,10 @@
     "country": "CU",
     "region": "SS",
     "identifiers": {
-        "$wmo": "78337",
-        "$icao": "MUTD",
-        "$iata": "TND",
-        "$mosmix": "78337"
+        "wmo": "78337",
+        "icao": "MUTD",
+        "iata": "TND",
+        "mosmix": "78337"
     },
     "location": {
         "latitude": 21.7833,

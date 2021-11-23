@@ -6,11 +6,11 @@
     "country": "NL",
     "region": "FR",
     "identifiers": {
-        "$wmo": "06270",
-        "$icao": "EHLW",
-        "$iata": "LWR",
-        "$usaf": "062700",
-        "$mosmix": "06270"
+        "wmo": "06270",
+        "icao": "EHLW",
+        "iata": "LWR",
+        "usaf": "062700",
+        "mosmix": "06270"
     },
     "location": {
         "latitude": 53.2167,

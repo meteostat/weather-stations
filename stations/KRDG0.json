@@ -6,10 +6,10 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "$icao": "KRDG",
-        "$iata": "RDG",
-        "$wban": "14712",
-        "$usaf": "725103"
+        "icao": "KRDG",
+        "iata": "RDG",
+        "wban": "14712",
+        "usaf": "725103"
     },
     "location": {
         "latitude": 40.3333,

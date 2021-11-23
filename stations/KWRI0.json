@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "$icao": "KWRI",
-        "$iata": "WRI",
-        "$wban": "14706",
-        "$usaf": "724096"
+        "icao": "KWRI",
+        "iata": "WRI",
+        "wban": "14706",
+        "usaf": "724096"
     },
     "location": {
         "latitude": 40.0156,

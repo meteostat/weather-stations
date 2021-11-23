@@ -6,12 +6,12 @@
     "country": "DZ",
     "region": "DJE",
     "identifiers": {
-        "$wmo": "60535",
-        "$icao": "DAFI",
-        "$iata": "QDJ",
-        "$ghcn": "AGM00060535",
-        "$usaf": "605350",
-        "$mosmix": "60535"
+        "wmo": "60535",
+        "icao": "DAFI",
+        "iata": "QDJ",
+        "ghcn": "AGM00060535",
+        "usaf": "605350",
+        "mosmix": "60535"
     },
     "location": {
         "latitude": 34.6833,

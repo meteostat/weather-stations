@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "SF",
     "identifiers": {
-        "$icao": "ENBL",
-        "$iata": "FDE",
-        "$usaf": "013230"
+        "icao": "ENBL",
+        "iata": "FDE",
+        "usaf": "013230"
     },
     "location": {
         "latitude": 61.45,

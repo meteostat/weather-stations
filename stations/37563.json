@@ -6,8 +6,8 @@
     "country": "GE",
     "region": "KA",
     "identifiers": {
-        "$wmo": "37563",
-        "$ghcn": "GG000037563"
+        "wmo": "37563",
+        "ghcn": "GG000037563"
     },
     "location": {
         "latitude": 41.95,

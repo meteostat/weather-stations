@@ -6,9 +6,9 @@
     "country": "LA",
     "region": "CH",
     "identifiers": {
-        "$icao": "VLKG",
-        "$iata": "KOG",
-        "$usaf": "489595"
+        "icao": "VLKG",
+        "iata": "KOG",
+        "usaf": "489595"
     },
     "location": {
         "latitude": 14.1167,

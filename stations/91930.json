@@ -6,12 +6,12 @@
     "country": "PF",
     "region": null,
     "identifiers": {
-        "$wmo": "91930",
-        "$icao": "NTTB",
-        "$iata": "BOB",
-        "$ghcn": "FP000091929",
-        "$usaf": "919300",
-        "$mosmix": "91930"
+        "wmo": "91930",
+        "icao": "NTTB",
+        "iata": "BOB",
+        "ghcn": "FP000091929",
+        "usaf": "919300",
+        "mosmix": "91930"
     },
     "location": {
         "latitude": -16.45,

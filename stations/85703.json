@@ -6,10 +6,10 @@
     "country": "CL",
     "region": "BI",
     "identifiers": {
-        "$wmo": "85703",
-        "$icao": "SCGE",
-        "$iata": "LSQ",
-        "$usaf": "857030"
+        "wmo": "85703",
+        "icao": "SCGE",
+        "iata": "LSQ",
+        "usaf": "857030"
     },
     "location": {
         "latitude": -37.4,

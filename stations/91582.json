@@ -6,10 +6,10 @@
     "country": "NC",
     "region": "IL",
     "identifiers": {
-        "$wmo": "91582",
-        "$icao": "NWWL",
-        "$iata": "LIF",
-        "$usaf": "915820"
+        "wmo": "91582",
+        "icao": "NWWL",
+        "iata": "LIF",
+        "usaf": "915820"
     },
     "location": {
         "latitude": -20.7667,

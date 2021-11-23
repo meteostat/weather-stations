@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "RJ",
     "identifiers": {
-        "$wmo": "83755",
-        "$icao": "SBRJ",
-        "$iata": "SDU",
-        "$usaf": "837550",
-        "$mosmix": "83755"
+        "wmo": "83755",
+        "icao": "SBRJ",
+        "iata": "SDU",
+        "usaf": "837550",
+        "mosmix": "83755"
     },
     "location": {
         "latitude": -22.9,

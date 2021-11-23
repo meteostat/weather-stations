@@ -2,16 +2,16 @@
     "id": "01116",
     "name": {
         "de": "Sandnessjoen Flughafen",
-        "no": "Sandnessjøen Lufthavn",
-        "en": "Sandnessjoen Airport"
+        "en": "Sandnessjoen Airport",
+        "no": "Sandnessjøen Lufthavn"
     },
     "country": "NO",
     "region": "18",
     "identifiers": {
-        "$wmo": "01116",
-        "$icao": "ENST",
-        "$iata": "SSJ",
-        "$usaf": "011160"
+        "wmo": "01116",
+        "icao": "ENST",
+        "iata": "SSJ",
+        "usaf": "011160"
     },
     "location": {
         "latitude": 65.9667,

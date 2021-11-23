@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "$icao": "KHYA",
-        "$iata": "HYA",
-        "$wban": "94720",
-        "$usaf": "725067"
+        "icao": "KHYA",
+        "iata": "HYA",
+        "wban": "94720",
+        "usaf": "725067"
     },
     "location": {
         "latitude": 41.6693,

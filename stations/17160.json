@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "KRH",
     "identifiers": {
-        "$wmo": "17160",
-        "$ghcn": "TUM00017160"
+        "wmo": "17160",
+        "ghcn": "TUM00017160"
     },
     "location": {
         "latitude": 39.1333,

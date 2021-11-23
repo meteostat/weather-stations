@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "$wmo": "69033",
-        "$icao": "K4S2",
-        "$usaf": "690330"
+        "wmo": "69033",
+        "icao": "K4S2",
+        "usaf": "690330"
     },
     "location": {
         "latitude": 45.6726,

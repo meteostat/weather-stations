@@ -6,12 +6,12 @@
     "country": "IR",
     "region": "TEH",
     "identifiers": {
-        "$wmo": "40754",
-        "$icao": "OIII",
-        "$iata": "THR",
-        "$ghcn": "IR000407540",
-        "$usaf": "407540",
-        "$mosmix": "40754"
+        "wmo": "40754",
+        "icao": "OIII",
+        "iata": "THR",
+        "ghcn": "IR000407540",
+        "usaf": "407540",
+        "mosmix": "40754"
     },
     "location": {
         "latitude": 35.6833,

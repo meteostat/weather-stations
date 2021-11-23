@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KUVA",
-        "$wban": "12985",
-        "$usaf": "722202"
+        "icao": "KUVA",
+        "wban": "12985",
+        "usaf": "722202"
     },
     "location": {
         "latitude": 29.2113,

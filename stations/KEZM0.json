@@ -6,9 +6,9 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "$icao": "KEZM",
-        "$wban": "00337",
-        "$usaf": "720962"
+        "icao": "KEZM",
+        "wban": "00337",
+        "usaf": "720962"
     },
     "location": {
         "latitude": 32.2164,

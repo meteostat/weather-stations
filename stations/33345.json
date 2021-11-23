@@ -6,12 +6,12 @@
     "country": "UA",
     "region": "KV",
     "identifiers": {
-        "$wmo": "33345",
-        "$icao": "UKKK",
-        "$iata": "IEV",
-        "$ghcn": "UPM00033345",
-        "$usaf": "333450",
-        "$mosmix": "33345"
+        "wmo": "33345",
+        "icao": "UKKK",
+        "iata": "IEV",
+        "ghcn": "UPM00033345",
+        "usaf": "333450",
+        "mosmix": "33345"
     },
     "location": {
         "latitude": 50.4,

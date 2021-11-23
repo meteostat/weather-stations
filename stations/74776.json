@@ -6,11 +6,11 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$wmo": "74776",
-        "$icao": "KMAI",
-        "$ghcn": "USW00003818",
-        "$wban": "03818",
-        "$usaf": "747760"
+        "wmo": "74776",
+        "icao": "KMAI",
+        "ghcn": "USW00003818",
+        "wban": "03818",
+        "usaf": "747760"
     },
     "location": {
         "latitude": 30.8378,

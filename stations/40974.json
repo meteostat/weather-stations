@@ -6,10 +6,10 @@
     "country": "AF",
     "region": "FRA",
     "identifiers": {
-        "$wmo": "40974",
-        "$icao": "OAFR",
-        "$iata": "FAH",
-        "$usaf": "409740"
+        "wmo": "40974",
+        "icao": "OAFR",
+        "iata": "FAH",
+        "usaf": "409740"
     },
     "location": {
         "latitude": 32.3667,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "VT",
     "identifiers": {
-        "$icao": "KRUT",
-        "$iata": "RUT",
-        "$wban": "94737",
-        "$usaf": "725165"
+        "icao": "KRUT",
+        "iata": "RUT",
+        "wban": "94737",
+        "usaf": "725165"
     },
     "location": {
         "latitude": 43.5299,

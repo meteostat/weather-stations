@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "KHM",
     "identifiers": {
-        "$wmo": "23629",
-        "$icao": "USHI",
-        "$iata": "IRM"
+        "wmo": "23629",
+        "icao": "USHI",
+        "iata": "IRM"
     },
     "location": {
         "latitude": 63.2,

@@ -6,10 +6,10 @@
     "country": "CU",
     "region": "IJ",
     "identifiers": {
-        "$wmo": "78221",
-        "$icao": "MUNG",
-        "$iata": "GER",
-        "$usaf": "782210"
+        "wmo": "78221",
+        "icao": "MUNG",
+        "iata": "GER",
+        "usaf": "782210"
     },
     "location": {
         "latitude": 21.8333,

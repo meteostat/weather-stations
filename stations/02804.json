@@ -6,8 +6,8 @@
     "country": "FI",
     "region": "OU",
     "identifiers": {
-        "$wmo": "02804",
-        "$usaf": "028040"
+        "wmo": "02804",
+        "usaf": "028040"
     },
     "location": {
         "latitude": 65.5667,

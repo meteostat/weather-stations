@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "ALM",
     "identifiers": {
-        "$wmo": "36778",
-        "$icao": "UAAT",
-        "$iata": "TDK",
-        "$ghcn": "KZ000036778"
+        "wmo": "36778",
+        "icao": "UAAT",
+        "iata": "TDK",
+        "ghcn": "KZ000036778"
     },
     "location": {
         "latitude": 45,

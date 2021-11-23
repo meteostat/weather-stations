@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "TAS",
     "identifiers": {
-        "$wmo": "94957",
-        "$icao": "YMWY",
-        "$iata": "WNY",
-        "$ghcn": "ASN00095048",
-        "$usaf": "949570"
+        "wmo": "94957",
+        "icao": "YMWY",
+        "iata": "WNY",
+        "ghcn": "ASN00095048",
+        "usaf": "949570"
     },
     "location": {
         "latitude": -40.9833,

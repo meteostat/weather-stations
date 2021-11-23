@@ -6,10 +6,10 @@
     "country": "CF",
     "region": "MP",
     "identifiers": {
-        "$wmo": "64605",
-        "$icao": "FEFL",
-        "$ghcn": "CT000004605",
-        "$usaf": "646050"
+        "wmo": "64605",
+        "icao": "FEFL",
+        "ghcn": "CT000004605",
+        "usaf": "646050"
     },
     "location": {
         "latitude": 5.2667,

@@ -6,12 +6,12 @@
     "country": "BS",
     "region": "RUM",
     "identifiers": {
-        "$wmo": "78088",
-        "$icao": "MYSM",
-        "$iata": "ZSA",
-        "$ghcn": "BFW00012716",
-        "$wban": "12716",
-        "$usaf": "780880"
+        "wmo": "78088",
+        "icao": "MYSM",
+        "iata": "ZSA",
+        "ghcn": "BFW00012716",
+        "wban": "12716",
+        "usaf": "780880"
     },
     "location": {
         "latitude": 24.05,

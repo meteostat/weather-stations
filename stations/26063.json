@@ -6,12 +6,12 @@
     "country": "RU",
     "region": "LEN",
     "identifiers": {
-        "$wmo": "26063",
-        "$icao": "ULLI",
-        "$iata": "LED",
-        "$ghcn": "RSM00026063",
-        "$usaf": "260630",
-        "$mosmix": "26063"
+        "wmo": "26063",
+        "icao": "ULLI",
+        "iata": "LED",
+        "ghcn": "RSM00026063",
+        "usaf": "260630",
+        "mosmix": "26063"
     },
     "location": {
         "latitude": 59.9667,

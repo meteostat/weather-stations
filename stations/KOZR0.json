@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "$icao": "KOZR",
-        "$iata": "OZR",
-        "$wban": "03850",
-        "$usaf": "722269"
+        "icao": "KOZR",
+        "iata": "OZR",
+        "wban": "03850",
+        "usaf": "722269"
     },
     "location": {
         "latitude": 31.2758,

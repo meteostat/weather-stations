@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "$icao": "CYUB",
-        "$ghcn": "CA005050919",
-        "$usaf": "719595"
+        "icao": "CYUB",
+        "ghcn": "CA005050919",
+        "usaf": "719595"
     },
     "location": {
         "latitude": 69.45,

@@ -6,8 +6,8 @@
     "country": "SA",
     "region": "MD",
     "identifiers": {
-        "$wmo": "40401",
-        "$ghcn": "SAM00040401"
+        "wmo": "40401",
+        "ghcn": "SAM00040401"
     },
     "location": {
         "latitude": 26.4833,

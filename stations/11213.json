@@ -6,8 +6,8 @@
     "country": "AT",
     "region": "KA",
     "identifiers": {
-        "$wmo": "11213",
-        "$mosmix": "11213"
+        "wmo": "11213",
+        "mosmix": "11213"
     },
     "location": {
         "latitude": 46.6167,

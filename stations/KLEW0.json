@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "$icao": "KLEW",
-        "$wban": "94709",
-        "$usaf": "726184"
+        "icao": "KLEW",
+        "wban": "94709",
+        "usaf": "726184"
     },
     "location": {
         "latitude": 44.0485,

@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "CA",
     "identifiers": {
-        "$wmo": "33749",
-        "$ghcn": "MD000033749",
-        "$usaf": "337490"
+        "wmo": "33749",
+        "ghcn": "MD000033749",
+        "usaf": "337490"
     },
     "location": {
         "latitude": 47.3667,

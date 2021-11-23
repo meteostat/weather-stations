@@ -6,10 +6,10 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "$icao": "KPVU",
-        "$iata": "PVU",
-        "$wban": "24174",
-        "$usaf": "725724"
+        "icao": "KPVU",
+        "iata": "PVU",
+        "wban": "24174",
+        "usaf": "725724"
     },
     "location": {
         "latitude": 40.2192,

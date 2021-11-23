@@ -6,11 +6,11 @@
     "country": "DK",
     "region": "MJ",
     "identifiers": {
-        "$wmo": "06060",
-        "$icao": "EKKA",
-        "$iata": "KRP",
-        "$usaf": "060600",
-        "$mosmix": "06060"
+        "wmo": "06060",
+        "icao": "EKKA",
+        "iata": "KRP",
+        "usaf": "060600",
+        "mosmix": "06060"
     },
     "location": {
         "latitude": 56.3,

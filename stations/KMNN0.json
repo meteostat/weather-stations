@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "$icao": "KMNN",
-        "$iata": "MNN",
-        "$wban": "04855",
-        "$usaf": "725208"
+        "icao": "KMNN",
+        "iata": "MNN",
+        "wban": "04855",
+        "usaf": "725208"
     },
     "location": {
         "latitude": 40.6163,

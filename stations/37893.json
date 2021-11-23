@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "XCI",
     "identifiers": {
-        "$wmo": "37893",
-        "$ghcn": "AJ000037893"
+        "wmo": "37893",
+        "ghcn": "AJ000037893"
     },
     "location": {
         "latitude": 39.9833,

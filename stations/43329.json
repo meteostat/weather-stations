@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "PY",
     "identifiers": {
-        "$wmo": "43329",
-        "$ghcn": "IN020020300",
-        "$usaf": "433290"
+        "wmo": "43329",
+        "ghcn": "IN020020300",
+        "usaf": "433290"
     },
     "location": {
         "latitude": 11.7667,

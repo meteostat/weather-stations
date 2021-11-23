@@ -6,8 +6,8 @@
     "country": "AT",
     "region": "NO",
     "identifiers": {
-        "$wmo": "11389",
-        "$ghcn": "AUM00011389"
+        "wmo": "11389",
+        "ghcn": "AUM00011389"
     },
     "location": {
         "latitude": 48.1997,

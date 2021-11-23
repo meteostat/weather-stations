@@ -6,10 +6,10 @@
     "country": "PT",
     "region": "AZ",
     "identifiers": {
-        "$wmo": "08502",
-        "$icao": "LPCR",
-        "$iata": "CVU",
-        "$usaf": "085020"
+        "wmo": "08502",
+        "icao": "LPCR",
+        "iata": "CVU",
+        "usaf": "085020"
     },
     "location": {
         "latitude": 39.6667,

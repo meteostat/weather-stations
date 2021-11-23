@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$icao": "KIRS",
-        "$wban": "54827",
-        "$usaf": "725383"
+        "icao": "KIRS",
+        "wban": "54827",
+        "usaf": "725383"
     },
     "location": {
         "latitude": 41.8133,

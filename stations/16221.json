@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "LZ",
     "identifiers": {
-        "$wmo": "16221",
-        "$icao": "LIQN",
-        "$iata": "QRT",
-        "$usaf": "162210"
+        "wmo": "16221",
+        "icao": "LIQN",
+        "iata": "QRT",
+        "usaf": "162210"
     },
     "location": {
         "latitude": 42.4167,

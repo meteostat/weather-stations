@@ -6,10 +6,10 @@
     "country": "IQ",
     "region": "BG",
     "identifiers": {
-        "$wmo": "40650",
-        "$icao": "ORBB",
-        "$usaf": "406503",
-        "$mosmix": "40650"
+        "wmo": "40650",
+        "icao": "ORBB",
+        "usaf": "406503",
+        "mosmix": "40650"
     },
     "location": {
         "latitude": 33.2333,

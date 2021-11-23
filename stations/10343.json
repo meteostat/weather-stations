@@ -6,12 +6,12 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "$national": "00850",
-        "$wmo": "10343",
-        "$icao": "ETHC",
-        "$iata": "ZCN",
-        "$usaf": "103430",
-        "$mosmix": "10343"
+        "national": "00850",
+        "wmo": "10343",
+        "icao": "ETHC",
+        "iata": "ZCN",
+        "usaf": "103430",
+        "mosmix": "10343"
     },
     "location": {
         "latitude": 52.6,

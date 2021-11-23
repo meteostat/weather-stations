@@ -6,10 +6,10 @@
     "country": "JP",
     "region": "ON",
     "identifiers": {
-        "$wmo": "47911",
-        "$icao": "ROYN",
-        "$iata": "OGN",
-        "$usaf": "479110"
+        "wmo": "47911",
+        "icao": "ROYN",
+        "iata": "OGN",
+        "usaf": "479110"
     },
     "location": {
         "latitude": 24.4667,

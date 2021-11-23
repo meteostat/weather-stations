@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "MIC",
     "identifiers": {
-        "$wmo": "76662",
-        "$icao": "MMZM",
-        "$iata": "ZMM",
-        "$ghcn": "MX000016144",
-        "$usaf": "766620"
+        "wmo": "76662",
+        "icao": "MMZM",
+        "iata": "ZMM",
+        "ghcn": "MX000016144",
+        "usaf": "766620"
     },
     "location": {
         "latitude": 19.9833,

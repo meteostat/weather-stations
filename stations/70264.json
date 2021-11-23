@@ -6,11 +6,11 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$wmo": "70264",
-        "$icao": "PAST",
-        "$ghcn": "USW00026414",
-        "$wban": "26414",
-        "$usaf": "702640"
+        "wmo": "70264",
+        "icao": "PAST",
+        "ghcn": "USW00026414",
+        "wban": "26414",
+        "usaf": "702640"
     },
     "location": {
         "latitude": 63.3333,

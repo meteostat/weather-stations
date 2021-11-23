@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "AGA",
     "identifiers": {
-        "$wmo": "37639",
-        "$ghcn": "AJ000037639"
+        "wmo": "37639",
+        "ghcn": "AJ000037639"
     },
     "location": {
         "latitude": 41.1333,

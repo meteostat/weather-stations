@@ -6,8 +6,8 @@
     "country": "JP",
     "region": "KY",
     "identifiers": {
-        "$wmo": "47750",
-        "$ghcn": "JA000047750"
+        "wmo": "47750",
+        "ghcn": "JA000047750"
     },
     "location": {
         "latitude": 35.45,

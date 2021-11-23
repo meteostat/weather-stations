@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "MT",
     "identifiers": {
-        "$wmo": "83410",
-        "$iata": "ROO",
-        "$ghcn": "BR001654002",
-        "$mosmix": "83410"
+        "wmo": "83410",
+        "iata": "ROO",
+        "ghcn": "BR001654002",
+        "mosmix": "83410"
     },
     "location": {
         "latitude": -16.45,

@@ -6,10 +6,10 @@
     "country": "GT",
     "region": "RE",
     "identifiers": {
-        "$wmo": "78639",
-        "$icao": "MGRT",
-        "$iata": "RER",
-        "$usaf": "786390"
+        "wmo": "78639",
+        "icao": "MGRT",
+        "iata": "RER",
+        "usaf": "786390"
     },
     "location": {
         "latitude": 14.5333,

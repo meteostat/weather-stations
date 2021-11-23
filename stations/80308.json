@@ -6,10 +6,10 @@
     "country": "CO",
     "region": "CAU",
     "identifiers": {
-        "$wmo": "80308",
-        "$icao": "SKPP",
-        "$iata": "PPN",
-        "$usaf": "803080"
+        "wmo": "80308",
+        "icao": "SKPP",
+        "iata": "PPN",
+        "usaf": "803080"
     },
     "location": {
         "latitude": 2.4667,

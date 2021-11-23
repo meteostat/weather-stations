@@ -6,11 +6,11 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "$wmo": "72402",
-        "$icao": "KWAL",
-        "$ghcn": "USW00093739",
-        "$wban": "93739",
-        "$usaf": "724020"
+        "wmo": "72402",
+        "icao": "KWAL",
+        "ghcn": "USW00093739",
+        "wban": "93739",
+        "usaf": "724020"
     },
     "location": {
         "latitude": 37.9333,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KAPF",
-        "$iata": "APF",
-        "$wban": "12897",
-        "$usaf": "722038"
+        "icao": "KAPF",
+        "iata": "APF",
+        "wban": "12897",
+        "usaf": "722038"
     },
     "location": {
         "latitude": 26.1523,

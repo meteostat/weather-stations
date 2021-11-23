@@ -6,10 +6,10 @@
     "country": "VN",
     "region": "QB",
     "identifiers": {
-        "$wmo": "48848",
-        "$icao": "VVDH",
-        "$iata": "VDH",
-        "$ghcn": "VMM00048848"
+        "wmo": "48848",
+        "icao": "VVDH",
+        "iata": "VDH",
+        "ghcn": "VMM00048848"
     },
     "location": {
         "latitude": 17.5167,

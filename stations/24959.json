@@ -6,12 +6,12 @@
     "country": "RU",
     "region": "SA",
     "identifiers": {
-        "$wmo": "24959",
-        "$icao": "UEEE",
-        "$iata": "YKS",
-        "$ghcn": "RSM00024959",
-        "$usaf": "218230",
-        "$mosmix": "24959"
+        "wmo": "24959",
+        "icao": "UEEE",
+        "iata": "YKS",
+        "ghcn": "RSM00024959",
+        "usaf": "218230",
+        "mosmix": "24959"
     },
     "location": {
         "latitude": 62.0167,

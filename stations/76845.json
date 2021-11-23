@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "CHP",
     "identifiers": {
-        "$wmo": "76845",
-        "$icao": "MMSC",
-        "$iata": "SZT",
-        "$ghcn": "MXM00076845",
-        "$usaf": "768450"
+        "wmo": "76845",
+        "icao": "MMSC",
+        "iata": "SZT",
+        "ghcn": "MXM00076845",
+        "usaf": "768450"
     },
     "location": {
         "latitude": 16.7333,

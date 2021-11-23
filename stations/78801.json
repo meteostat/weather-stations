@@ -6,9 +6,9 @@
     "country": "PA",
     "region": "CL",
     "identifiers": {
-        "$wmo": "78801",
-        "$icao": "MPFS",
-        "$usaf": "788010"
+        "wmo": "78801",
+        "icao": "MPFS",
+        "usaf": "788010"
     },
     "location": {
         "latitude": 9.3333,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "$icao": "KORS",
-        "$wban": "04224",
-        "$usaf": "722208"
+        "icao": "KORS",
+        "wban": "04224",
+        "usaf": "722208"
     },
     "location": {
         "latitude": 48.7083,

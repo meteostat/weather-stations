@@ -6,8 +6,8 @@
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "$wmo": "01051",
-        "$ghcn": "NO000093300"
+        "wmo": "01051",
+        "ghcn": "NO000093300"
     },
     "location": {
         "latitude": 69.5833,

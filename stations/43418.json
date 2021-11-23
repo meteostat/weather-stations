@@ -6,11 +6,11 @@
     "country": "LK",
     "region": "EA",
     "identifiers": {
-        "$wmo": "43418",
-        "$icao": "VCCT",
-        "$iata": "TRR",
-        "$ghcn": "CEM00043418",
-        "$usaf": "434180"
+        "wmo": "43418",
+        "icao": "VCCT",
+        "iata": "TRR",
+        "ghcn": "CEM00043418",
+        "usaf": "434180"
     },
     "location": {
         "latitude": 8.5833,

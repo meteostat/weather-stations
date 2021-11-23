@@ -6,11 +6,11 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "$wmo": "03495",
-        "$icao": "EGYC",
-        "$iata": "CLF",
-        "$usaf": "034950",
-        "$mosmix": "03495"
+        "wmo": "03495",
+        "icao": "EGYC",
+        "iata": "CLF",
+        "usaf": "034950",
+        "mosmix": "03495"
     },
     "location": {
         "latitude": 52.4333,

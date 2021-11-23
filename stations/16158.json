@@ -6,12 +6,12 @@
     "country": "IT",
     "region": "TC",
     "identifiers": {
-        "$wmo": "16158",
-        "$icao": "LIRP",
-        "$iata": "PSA",
-        "$ghcn": "ITM00016158",
-        "$usaf": "161580",
-        "$mosmix": "16158"
+        "wmo": "16158",
+        "icao": "LIRP",
+        "iata": "PSA",
+        "ghcn": "ITM00016158",
+        "usaf": "161580",
+        "mosmix": "16158"
     },
     "location": {
         "latitude": 43.6833,

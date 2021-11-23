@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "WP",
     "identifiers": {
-        "$wmo": "12435",
-        "$usaf": "124350",
-        "$mosmix": "12435"
+        "wmo": "12435",
+        "usaf": "124350",
+        "mosmix": "12435"
     },
     "location": {
         "latitude": 51.7333,

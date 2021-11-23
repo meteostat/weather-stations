@@ -2,15 +2,15 @@
     "id": "01139",
     "name": {
         "de": "Vaeroy Flughafen",
-        "no": "Vaeroy Flughavn",
-        "en": "Vaeroy Airport"
+        "en": "Vaeroy Airport",
+        "no": "Vaeroy Flughavn"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "$wmo": "01139",
-        "$icao": "ENVY",
-        "$usaf": "014993"
+        "wmo": "01139",
+        "icao": "ENVY",
+        "usaf": "014993"
     },
     "location": {
         "latitude": 67.6528,

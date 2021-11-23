@@ -6,10 +6,10 @@
     "country": "JP",
     "region": "KN",
     "identifiers": {
-        "$wmo": "47680",
-        "$icao": "RJTR",
-        "$ghcn": "JAW00043325",
-        "$usaf": "476800"
+        "wmo": "47680",
+        "icao": "RJTR",
+        "ghcn": "JAW00043325",
+        "usaf": "476800"
     },
     "location": {
         "latitude": 35.5167,

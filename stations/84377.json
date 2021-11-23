@@ -6,12 +6,12 @@
     "country": "PE",
     "region": "LO",
     "identifiers": {
-        "$wmo": "84377",
-        "$icao": "SPQT",
-        "$iata": "IQT",
-        "$ghcn": "PE000084377",
-        "$usaf": "843770",
-        "$mosmix": "84377"
+        "wmo": "84377",
+        "icao": "SPQT",
+        "iata": "IQT",
+        "ghcn": "PE000084377",
+        "usaf": "843770",
+        "mosmix": "84377"
     },
     "location": {
         "latitude": -3.75,

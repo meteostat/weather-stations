@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "$icao": "KSFM",
-        "$wban": "64709",
-        "$usaf": "726064"
+        "icao": "KSFM",
+        "wban": "64709",
+        "usaf": "726064"
     },
     "location": {
         "latitude": 43.3939,

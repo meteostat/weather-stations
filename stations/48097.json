@@ -6,12 +6,12 @@
     "country": "MM",
     "region": "YG",
     "identifiers": {
-        "$wmo": "48097",
-        "$icao": "VYYY",
-        "$iata": "RGN",
-        "$ghcn": "BMM00048097",
-        "$usaf": "480970",
-        "$mosmix": "48097"
+        "wmo": "48097",
+        "icao": "VYYY",
+        "iata": "RGN",
+        "ghcn": "BMM00048097",
+        "usaf": "480970",
+        "mosmix": "48097"
     },
     "location": {
         "latitude": 16.7667,

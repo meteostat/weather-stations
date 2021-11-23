@@ -6,11 +6,11 @@
     "country": "MD",
     "region": null,
     "identifiers": {
-        "$wmo": "33815",
-        "$icao": "UKII",
-        "$ghcn": "MD000033815",
-        "$usaf": "338150",
-        "$mosmix": "33815"
+        "wmo": "33815",
+        "icao": "UKII",
+        "ghcn": "MD000033815",
+        "usaf": "338150",
+        "mosmix": "33815"
     },
     "location": {
         "latitude": 47.0167,

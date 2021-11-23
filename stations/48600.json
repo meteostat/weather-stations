@@ -6,11 +6,11 @@
     "country": "MY",
     "region": "PS",
     "identifiers": {
-        "$wmo": "48600",
-        "$icao": "WMKL",
-        "$iata": "LGK",
-        "$usaf": "486000",
-        "$mosmix": "48600"
+        "wmo": "48600",
+        "icao": "WMKL",
+        "iata": "LGK",
+        "usaf": "486000",
+        "mosmix": "48600"
     },
     "location": {
         "latitude": 6.3333,

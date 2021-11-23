@@ -2,15 +2,15 @@
     "id": "02158",
     "name": {
         "de": "Fällfors Flughafen",
-        "sv": "Fällfors Flyplats",
-        "en": "Fallfors Airport"
+        "en": "Fallfors Airport",
+        "sv": "Fällfors Flyplats"
     },
     "country": "SE",
     "region": "AC",
     "identifiers": {
-        "$wmo": "02158",
-        "$icao": "ESUF",
-        "$usaf": "021590"
+        "wmo": "02158",
+        "icao": "ESUF",
+        "usaf": "021590"
     },
     "location": {
         "latitude": 65.1333,

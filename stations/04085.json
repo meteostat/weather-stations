@@ -6,10 +6,10 @@
     "country": "IS",
     "region": "AL",
     "identifiers": {
-        "$wmo": "04085",
-        "$icao": "BIVO",
-        "$iata": "VPN",
-        "$usaf": "040850"
+        "wmo": "04085",
+        "icao": "BIVO",
+        "iata": "VPN",
+        "usaf": "040850"
     },
     "location": {
         "latitude": 65.7,

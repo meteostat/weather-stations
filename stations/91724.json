@@ -6,9 +6,9 @@
     "country": "TK",
     "region": null,
     "identifiers": {
-        "$wmo": "91724",
-        "$iata": "UKU",
-        "$ghcn": "TL000091724"
+        "wmo": "91724",
+        "iata": "UKU",
+        "ghcn": "TL000091724"
     },
     "location": {
         "latitude": -9.2,

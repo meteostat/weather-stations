@@ -6,9 +6,9 @@
     "country": "AZ",
     "region": "LA",
     "identifiers": {
-        "$icao": "UBBL",
-        "$iata": "LLK",
-        "$usaf": "379850"
+        "icao": "UBBL",
+        "iata": "LLK",
+        "usaf": "379850"
     },
     "location": {
         "latitude": 38.7464,

@@ -6,11 +6,11 @@
     "country": "ZM",
     "region": "NW",
     "identifiers": {
-        "$wmo": "67641",
-        "$icao": "FLKO",
-        "$iata": "KMZ",
-        "$ghcn": "ZA000067641",
-        "$usaf": "676410"
+        "wmo": "67641",
+        "icao": "FLKO",
+        "iata": "KMZ",
+        "ghcn": "ZA000067641",
+        "usaf": "676410"
     },
     "location": {
         "latitude": -14.8,

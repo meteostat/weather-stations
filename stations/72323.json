@@ -6,12 +6,12 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "$wmo": "72323",
-        "$icao": "KHSV",
-        "$iata": "HSV",
-        "$ghcn": "USW00003856",
-        "$wban": "03856",
-        "$usaf": "723230"
+        "wmo": "72323",
+        "icao": "KHSV",
+        "iata": "HSV",
+        "ghcn": "USW00003856",
+        "wban": "03856",
+        "usaf": "723230"
     },
     "location": {
         "latitude": 34.65,

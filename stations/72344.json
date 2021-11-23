@@ -6,12 +6,12 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "$wmo": "72344",
-        "$icao": "KFSM",
-        "$iata": "FSM",
-        "$ghcn": "USW00013964",
-        "$wban": "13964",
-        "$usaf": "723440"
+        "wmo": "72344",
+        "icao": "KFSM",
+        "iata": "FSM",
+        "ghcn": "USW00013964",
+        "wban": "13964",
+        "usaf": "723440"
     },
     "location": {
         "latitude": 35.3333,

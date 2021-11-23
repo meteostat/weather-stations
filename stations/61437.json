@@ -6,11 +6,11 @@
     "country": "MR",
     "region": "IN",
     "identifiers": {
-        "$wmo": "61437",
-        "$icao": "GQNJ",
-        "$iata": "AJJ",
-        "$ghcn": "MR000001437",
-        "$usaf": "614370"
+        "wmo": "61437",
+        "icao": "GQNJ",
+        "iata": "AJJ",
+        "ghcn": "MR000001437",
+        "usaf": "614370"
     },
     "location": {
         "latitude": 19.75,

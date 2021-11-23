@@ -6,9 +6,9 @@
     "country": "AQ",
     "region": null,
     "identifiers": {
-        "$wmo": "89066",
-        "$icao": "SAYS",
-        "$ghcn": "AYM00089066"
+        "wmo": "89066",
+        "icao": "SAYS",
+        "ghcn": "AYM00089066"
     },
     "location": {
         "latitude": -68.1333,

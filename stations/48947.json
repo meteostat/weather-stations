@@ -6,11 +6,11 @@
     "country": "LA",
     "region": "MD",
     "identifiers": {
-        "$wmo": "48947",
-        "$icao": "VLSK",
-        "$iata": "ZVK",
-        "$ghcn": "LAW00041074",
-        "$usaf": "489470"
+        "wmo": "48947",
+        "icao": "VLSK",
+        "iata": "ZVK",
+        "ghcn": "LAW00041074",
+        "usaf": "489470"
     },
     "location": {
         "latitude": 16.55,

@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "HE",
     "identifiers": {
-        "$wmo": "10436",
-        "$icao": "EDVK",
-        "$iata": "KSF",
-        "$usaf": "104360"
+        "wmo": "10436",
+        "icao": "EDVK",
+        "iata": "KSF",
+        "usaf": "104360"
     },
     "location": {
         "latitude": 51.4,

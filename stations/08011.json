@@ -6,11 +6,11 @@
     "country": "ES",
     "region": "O",
     "identifiers": {
-        "$wmo": "08011",
-        "$icao": "LEAS",
-        "$iata": "OVD",
-        "$ghcn": "SPE00119792",
-        "$usaf": "080110"
+        "wmo": "08011",
+        "icao": "LEAS",
+        "iata": "OVD",
+        "ghcn": "SPE00119792",
+        "usaf": "080110"
     },
     "location": {
         "latitude": 43.55,

@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "MAG",
     "identifiers": {
-        "$wmo": "25913",
-        "$icao": "UHMM",
-        "$ghcn": "RSM00025913",
-        "$usaf": "259130"
+        "wmo": "25913",
+        "icao": "UHMM",
+        "ghcn": "RSM00025913",
+        "usaf": "259130"
     },
     "location": {
         "latitude": 59.55,

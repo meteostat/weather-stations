@@ -6,11 +6,11 @@
     "country": "AR",
     "region": "J",
     "identifiers": {
-        "$wmo": "87311",
-        "$icao": "SANU",
-        "$iata": "UAQ",
-        "$ghcn": "ARM00087311",
-        "$usaf": "873110"
+        "wmo": "87311",
+        "icao": "SANU",
+        "iata": "UAQ",
+        "ghcn": "ARM00087311",
+        "usaf": "873110"
     },
     "location": {
         "latitude": -31.5667,

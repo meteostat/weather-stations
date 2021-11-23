@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "SA",
     "identifiers": {
-        "$wmo": "94821",
-        "$icao": "YMMG",
-        "$iata": "MGB",
-        "$ghcn": "ASN00026020",
-        "$usaf": "948210"
+        "wmo": "94821",
+        "icao": "YMMG",
+        "iata": "MGB",
+        "ghcn": "ASN00026020",
+        "usaf": "948210"
     },
     "location": {
         "latitude": -37.7333,

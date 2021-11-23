@@ -6,12 +6,12 @@
     "country": "FR",
     "region": "H",
     "identifiers": {
-        "$wmo": "07790",
-        "$icao": "LFKB",
-        "$iata": "BIA",
-        "$ghcn": "FRM00007790",
-        "$usaf": "077900",
-        "$mosmix": "07790"
+        "wmo": "07790",
+        "icao": "LFKB",
+        "iata": "BIA",
+        "ghcn": "FRM00007790",
+        "usaf": "077900",
+        "mosmix": "07790"
     },
     "location": {
         "latitude": 42.55,

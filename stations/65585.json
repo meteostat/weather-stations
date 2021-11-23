@@ -6,10 +6,10 @@
     "country": "CI",
     "region": "ABO",
     "identifiers": {
-        "$wmo": "65585",
-        "$icao": "DIAD",
-        "$ghcn": "IV000065585",
-        "$usaf": "655850"
+        "wmo": "65585",
+        "icao": "DIAD",
+        "ghcn": "IV000065585",
+        "usaf": "655850"
     },
     "location": {
         "latitude": 5.3,

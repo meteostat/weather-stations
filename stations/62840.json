@@ -6,12 +6,12 @@
     "country": "SD",
     "region": "ANL",
     "identifiers": {
-        "$wmo": "62840",
-        "$icao": "HSSM",
-        "$iata": "MAK",
-        "$ghcn": "SU000062840",
-        "$usaf": "628400",
-        "$mosmix": "62840"
+        "wmo": "62840",
+        "icao": "HSSM",
+        "iata": "MAK",
+        "ghcn": "SU000062840",
+        "usaf": "628400",
+        "mosmix": "62840"
     },
     "location": {
         "latitude": 9.55,

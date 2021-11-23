@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "RP",
     "identifiers": {
-        "$wmo": "10610",
-        "$icao": "ETAB",
-        "$wban": "34049"
+        "wmo": "10610",
+        "icao": "ETAB",
+        "wban": "34049"
     },
     "location": {
         "latitude": 49.95,

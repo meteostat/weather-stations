@@ -6,11 +6,11 @@
     "country": "BO",
     "region": "S",
     "identifiers": {
-        "$wmo": "85195",
-        "$icao": "SLJV",
-        "$iata": "SJV",
-        "$ghcn": "BLM00085195",
-        "$usaf": "851950"
+        "wmo": "85195",
+        "icao": "SLJV",
+        "iata": "SJV",
+        "ghcn": "BLM00085195",
+        "usaf": "851950"
     },
     "location": {
         "latitude": -16.2667,

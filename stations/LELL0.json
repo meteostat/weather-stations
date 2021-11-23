@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "CT",
     "identifiers": {
-        "$icao": "LELL",
-        "$iata": "QSA",
-        "$usaf": "081763"
+        "icao": "LELL",
+        "iata": "QSA",
+        "usaf": "081763"
     },
     "location": {
         "latitude": 41.5167,

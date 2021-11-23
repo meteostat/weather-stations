@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "TKI",
     "identifiers": {
-        "$wmo": "93309",
-        "$ghcn": "NZ000933090",
-        "$usaf": "933090"
+        "wmo": "93309",
+        "ghcn": "NZ000933090",
+        "usaf": "933090"
     },
     "location": {
         "latitude": -39.0167,

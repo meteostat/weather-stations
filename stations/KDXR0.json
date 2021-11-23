@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CT",
     "identifiers": {
-        "$icao": "KDXR",
-        "$wban": "54734",
-        "$usaf": "725086"
+        "icao": "KDXR",
+        "wban": "54734",
+        "usaf": "725086"
     },
     "location": {
         "latitude": 41.3715,

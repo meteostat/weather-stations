@@ -6,10 +6,10 @@
     "country": "US",
     "region": "RI",
     "identifiers": {
-        "$icao": "KWST",
-        "$iata": "WST",
-        "$wban": "14794",
-        "$usaf": "722151"
+        "icao": "KWST",
+        "iata": "WST",
+        "wban": "14794",
+        "usaf": "722151"
     },
     "location": {
         "latitude": 41.3496,

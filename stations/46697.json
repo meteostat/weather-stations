@@ -6,9 +6,9 @@
     "country": "TW",
     "region": "TY",
     "identifiers": {
-        "$wmo": "46697",
-        "$icao": "RCGM",
-        "$usaf": "466970"
+        "wmo": "46697",
+        "icao": "RCGM",
+        "usaf": "466970"
     },
     "location": {
         "latitude": 25.0667,

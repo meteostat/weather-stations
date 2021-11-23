@@ -6,11 +6,11 @@
     "country": "OM",
     "region": "JA",
     "identifiers": {
-        "$wmo": "41316",
-        "$icao": "OOSA",
-        "$ghcn": "MUM00041316",
-        "$usaf": "413160",
-        "$mosmix": "41316"
+        "wmo": "41316",
+        "icao": "OOSA",
+        "ghcn": "MUM00041316",
+        "usaf": "413160",
+        "mosmix": "41316"
     },
     "location": {
         "latitude": 17.0333,

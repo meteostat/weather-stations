@@ -6,10 +6,10 @@
     "country": "KR",
     "region": "KG",
     "identifiers": {
-        "$wmo": "47120",
-        "$icao": "RKSW",
-        "$iata": "SWU",
-        "$usaf": "471200"
+        "wmo": "47120",
+        "icao": "RKSW",
+        "iata": "SWU",
+        "usaf": "471200"
     },
     "location": {
         "latitude": 37.25,

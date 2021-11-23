@@ -6,12 +6,12 @@
     "country": "SK",
     "region": "PV",
     "identifiers": {
-        "$wmo": "11934",
-        "$icao": "LZTT",
-        "$iata": "TAT",
-        "$ghcn": "LO000011934",
-        "$usaf": "119340",
-        "$mosmix": "11934"
+        "wmo": "11934",
+        "icao": "LZTT",
+        "iata": "TAT",
+        "ghcn": "LO000011934",
+        "usaf": "119340",
+        "mosmix": "11934"
     },
     "location": {
         "latitude": 49.0667,

@@ -6,13 +6,13 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$wmo": "72243",
-        "$icao": "KIAH",
-        "$iata": "IAH",
-        "$ghcn": "USW00012960",
-        "$wban": "12960",
-        "$usaf": "722430",
-        "$mosmix": "72243"
+        "wmo": "72243",
+        "icao": "KIAH",
+        "iata": "IAH",
+        "ghcn": "USW00012960",
+        "wban": "12960",
+        "usaf": "722430",
+        "mosmix": "72243"
     },
     "location": {
         "latitude": 30,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "$icao": "KMRT",
-        "$wban": "00232",
-        "$usaf": "720651"
+        "icao": "KMRT",
+        "wban": "00232",
+        "usaf": "720651"
     },
     "location": {
         "latitude": 40.2247,

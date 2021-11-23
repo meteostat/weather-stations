@@ -6,12 +6,12 @@
     "country": "AW",
     "region": null,
     "identifiers": {
-        "$wmo": "78982",
-        "$icao": "TNCA",
-        "$iata": "AUA",
-        "$wban": "00411",
-        "$usaf": "789820",
-        "$mosmix": "78982"
+        "wmo": "78982",
+        "icao": "TNCA",
+        "iata": "AUA",
+        "wban": "00411",
+        "usaf": "789820",
+        "mosmix": "78982"
     },
     "location": {
         "latitude": 12.5,

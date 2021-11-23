@@ -6,8 +6,8 @@
     "country": "NL",
     "region": "FR",
     "identifiers": {
-        "$wmo": "06250",
-        "$mosmix": "06250"
+        "wmo": "06250",
+        "mosmix": "06250"
     },
     "location": {
         "latitude": 53.3667,

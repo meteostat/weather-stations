@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$icao": "KSRE",
-        "$wban": "23902",
-        "$usaf": "720359"
+        "icao": "KSRE",
+        "wban": "23902",
+        "usaf": "720359"
     },
     "location": {
         "latitude": 35.2747,

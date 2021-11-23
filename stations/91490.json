@@ -6,11 +6,11 @@
     "country": "NZ",
     "region": null,
     "identifiers": {
-        "$wmo": "91490",
-        "$icao": "PLCH",
-        "$iata": "CXI",
-        "$ghcn": "FMW00040308",
-        "$usaf": "914900"
+        "wmo": "91490",
+        "icao": "PLCH",
+        "iata": "CXI",
+        "ghcn": "FMW00040308",
+        "usaf": "914900"
     },
     "location": {
         "latitude": 1.9833,

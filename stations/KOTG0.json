@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "$icao": "KOTG",
-        "$iata": "OTG",
-        "$wban": "94927",
-        "$usaf": "726587"
+        "icao": "KOTG",
+        "iata": "OTG",
+        "wban": "94927",
+        "usaf": "726587"
     },
     "location": {
         "latitude": 43.6551,

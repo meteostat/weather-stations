@@ -2,15 +2,15 @@
     "id": "02416",
     "name": {
         "de": "Nolgård Flughafen",
-        "sv": "Nolgård Flygplats",
-        "en": "Nolgård Airport"
+        "en": "Nolgård Airport",
+        "sv": "Nolgård Flygplats"
     },
     "country": "SE",
     "region": "S",
     "identifiers": {
-        "$wmo": "02416",
-        "$icao": "ESOK",
-        "$usaf": "024180"
+        "wmo": "02416",
+        "icao": "ESOK",
+        "usaf": "024180"
     },
     "location": {
         "latitude": 59.36,

@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "ML",
     "identifiers": {
-        "$wmo": "60338",
-        "$icao": "GEML",
-        "$iata": "MLN",
-        "$ghcn": "SP000060338",
-        "$usaf": "603380",
-        "$mosmix": "60338"
+        "wmo": "60338",
+        "icao": "GEML",
+        "iata": "MLN",
+        "ghcn": "SP000060338",
+        "usaf": "603380",
+        "mosmix": "60338"
     },
     "location": {
         "latitude": 35.2833,

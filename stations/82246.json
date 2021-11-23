@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "$wmo": "82246",
-        "$ghcn": "BRM00082246",
-        "$usaf": "822460"
+        "wmo": "82246",
+        "ghcn": "BRM00082246",
+        "usaf": "822460"
     },
     "location": {
         "latitude": -2.6333,

@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "AN",
     "identifiers": {
-        "$wmo": "08451",
-        "$icao": "LEJR",
-        "$iata": "XRY",
-        "$ghcn": "SPE00119945",
-        "$usaf": "084510",
-        "$mosmix": "08451"
+        "wmo": "08451",
+        "icao": "LEJR",
+        "iata": "XRY",
+        "ghcn": "SPE00119945",
+        "usaf": "084510",
+        "mosmix": "08451"
     },
     "location": {
         "latitude": 36.75,

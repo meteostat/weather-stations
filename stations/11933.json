@@ -6,8 +6,8 @@
     "country": "SK",
     "region": "PV",
     "identifiers": {
-        "$wmo": "11933",
-        "$mosmix": "11933"
+        "wmo": "11933",
+        "mosmix": "11933"
     },
     "location": {
         "latitude": 49.1167,

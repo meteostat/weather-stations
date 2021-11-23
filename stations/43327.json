@@ -6,8 +6,8 @@
     "country": "IN",
     "region": "TN",
     "identifiers": {
-        "$wmo": "43327",
-        "$ghcn": "IN020104100"
+        "wmo": "43327",
+        "ghcn": "IN020104100"
     },
     "location": {
         "latitude": 10.0667,

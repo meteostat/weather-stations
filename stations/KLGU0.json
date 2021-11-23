@@ -6,10 +6,10 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "$icao": "KLGU",
-        "$iata": "LGU",
-        "$wban": "94128",
-        "$usaf": "724796"
+        "icao": "KLGU",
+        "iata": "LGU",
+        "wban": "94128",
+        "usaf": "724796"
     },
     "location": {
         "latitude": 41.7913,

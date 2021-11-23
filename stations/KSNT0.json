@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "$icao": "KSNT",
-        "$wban": "04112",
-        "$usaf": "726824"
+        "icao": "KSNT",
+        "wban": "04112",
+        "usaf": "726824"
     },
     "location": {
         "latitude": 44.2086,

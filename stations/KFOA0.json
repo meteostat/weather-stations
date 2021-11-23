@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$icao": "KFOA",
-        "$wban": "53889",
-        "$usaf": "744658"
+        "icao": "KFOA",
+        "wban": "53889",
+        "usaf": "744658"
     },
     "location": {
         "latitude": 38.665,

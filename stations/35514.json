@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "ATY",
     "identifiers": {
-        "$wmo": "35514",
-        "$ghcn": "KZ000035514"
+        "wmo": "35514",
+        "ghcn": "KZ000035514"
     },
     "location": {
         "latitude": 48.45,

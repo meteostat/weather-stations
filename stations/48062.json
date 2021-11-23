@@ -6,11 +6,11 @@
     "country": "MM",
     "region": "RK",
     "identifiers": {
-        "$wmo": "48062",
-        "$icao": "VYSW",
-        "$ghcn": "BMM00048062",
-        "$usaf": "480620",
-        "$mosmix": "48062"
+        "wmo": "48062",
+        "icao": "VYSW",
+        "ghcn": "BMM00048062",
+        "usaf": "480620",
+        "mosmix": "48062"
     },
     "location": {
         "latitude": 20.1333,

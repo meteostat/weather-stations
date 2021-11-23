@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "TVE",
     "identifiers": {
-        "$wmo": "27217",
-        "$ghcn": "RSM00027217"
+        "wmo": "27217",
+        "ghcn": "RSM00027217"
     },
     "location": {
         "latitude": 57.7667,

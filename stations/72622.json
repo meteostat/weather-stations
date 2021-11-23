@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$wmo": "72622",
-        "$icao": "KSLK",
-        "$wban": "94740",
-        "$usaf": "726228"
+        "wmo": "72622",
+        "icao": "KSLK",
+        "wban": "94740",
+        "usaf": "726228"
     },
     "location": {
         "latitude": 44.38,

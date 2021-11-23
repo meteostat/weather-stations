@@ -6,9 +6,9 @@
     "country": "AR",
     "region": "S",
     "identifiers": {
-        "$wmo": "87270",
-        "$ghcn": "AR000087270",
-        "$usaf": "872700"
+        "wmo": "87270",
+        "ghcn": "AR000087270",
+        "usaf": "872700"
     },
     "location": {
         "latitude": -29.1833,

@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "CI",
     "identifiers": {
-        "$wmo": "16362",
-        "$icao": "LICA",
-        "$iata": "SUF",
-        "$usaf": "163620",
-        "$mosmix": "16362"
+        "wmo": "16362",
+        "icao": "LICA",
+        "iata": "SUF",
+        "usaf": "163620",
+        "mosmix": "16362"
     },
     "location": {
         "latitude": 38.9,

@@ -6,11 +6,11 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$wmo": "72433",
-        "$icao": "KSLO",
-        "$ghcn": "USC00117636",
-        "$wban": "03879",
-        "$usaf": "724330"
+        "wmo": "72433",
+        "icao": "KSLO",
+        "ghcn": "USC00117636",
+        "wban": "03879",
+        "usaf": "724330"
     },
     "location": {
         "latitude": 38.6333,

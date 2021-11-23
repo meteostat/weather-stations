@@ -6,12 +6,12 @@
     "country": "LY",
     "region": "BA",
     "identifiers": {
-        "$wmo": "62053",
-        "$icao": "HLLB",
-        "$iata": "BEN",
-        "$ghcn": "LYE00147747",
-        "$usaf": "620530",
-        "$mosmix": "62053"
+        "wmo": "62053",
+        "icao": "HLLB",
+        "iata": "BEN",
+        "ghcn": "LYE00147747",
+        "usaf": "620530",
+        "mosmix": "62053"
     },
     "location": {
         "latitude": 32.1,

@@ -6,8 +6,8 @@
     "country": "NZ",
     "region": "CI",
     "identifiers": {
-        "$wmo": "93987",
-        "$ghcn": "NZ000939870"
+        "wmo": "93987",
+        "ghcn": "NZ000939870"
     },
     "location": {
         "latitude": -43.95,

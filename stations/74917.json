@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$wmo": "74917",
-        "$icao": "KL17",
-        "$wban": "93187"
+        "wmo": "74917",
+        "icao": "KL17",
+        "wban": "93187"
     },
     "location": {
         "latitude": 35.1417,

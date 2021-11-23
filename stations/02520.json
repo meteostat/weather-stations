@@ -2,16 +2,16 @@
     "id": "02520",
     "name": {
         "de": "Satenas Flughafen",
-        "sv": "Satenas Flygplats",
-        "en": "Satenas Airport"
+        "en": "Satenas Airport",
+        "sv": "Satenas Flygplats"
     },
     "country": "SE",
     "region": "VG",
     "identifiers": {
-        "$wmo": "02520",
-        "$icao": "ESIB",
-        "$usaf": "025200",
-        "$mosmix": "02520"
+        "wmo": "02520",
+        "icao": "ESIB",
+        "usaf": "025200",
+        "mosmix": "02520"
     },
     "location": {
         "latitude": 58.4333,

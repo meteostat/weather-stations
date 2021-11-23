@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$icao": "KLSB",
-        "$wban": "00345",
-        "$usaf": "720976"
+        "icao": "KLSB",
+        "wban": "00345",
+        "usaf": "720976"
     },
     "location": {
         "latitude": 32.3335,

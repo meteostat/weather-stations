@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "$icao": "KLRF",
-        "$iata": "LRF",
-        "$wban": "03930",
-        "$usaf": "723405"
+        "icao": "KLRF",
+        "iata": "LRF",
+        "wban": "03930",
+        "usaf": "723405"
     },
     "location": {
         "latitude": 34.9168,

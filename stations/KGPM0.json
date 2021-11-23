@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KGPM",
-        "$wban": "53984",
-        "$usaf": "722094"
+        "icao": "KGPM",
+        "wban": "53984",
+        "usaf": "722094"
     },
     "location": {
         "latitude": 32.6988,

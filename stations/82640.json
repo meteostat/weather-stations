@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "$wmo": "82640",
-        "$icao": "SBEK",
-        "$iata": "JCR",
-        "$usaf": "826400",
-        "$mosmix": "82640"
+        "wmo": "82640",
+        "icao": "SBEK",
+        "iata": "JCR",
+        "usaf": "826400",
+        "mosmix": "82640"
     },
     "location": {
         "latitude": -6.2667,

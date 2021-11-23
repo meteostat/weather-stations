@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "BR",
     "identifiers": {
-        "$wmo": "42799",
-        "$iata": "IXW",
-        "$ghcn": "IN004171300"
+        "wmo": "42799",
+        "iata": "IXW",
+        "ghcn": "IN004171300"
     },
     "location": {
         "latitude": 22.8167,

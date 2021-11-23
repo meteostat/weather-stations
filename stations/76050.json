@@ -6,10 +6,10 @@
     "country": "MX",
     "region": "BCN",
     "identifiers": {
-        "$wmo": "76050",
-        "$icao": "MMES",
-        "$iata": "ESE",
-        "$ghcn": "MX000002072"
+        "wmo": "76050",
+        "icao": "MMES",
+        "iata": "ESE",
+        "ghcn": "MX000002072"
     },
     "location": {
         "latitude": 31.85,

@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "TT",
     "identifiers": {
-        "$wmo": "16021",
-        "$icao": "LIVR",
-        "$usaf": "160210",
-        "$mosmix": "16021"
+        "wmo": "16021",
+        "icao": "LIVR",
+        "usaf": "160210",
+        "mosmix": "16021"
     },
     "location": {
         "latitude": 46.3,

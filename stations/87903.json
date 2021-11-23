@@ -6,12 +6,12 @@
     "country": "AR",
     "region": "Z",
     "identifiers": {
-        "$wmo": "87903",
-        "$icao": "SAWA",
-        "$iata": "ING",
-        "$ghcn": "ARM00087903",
-        "$usaf": "879030",
-        "$mosmix": "87903"
+        "wmo": "87903",
+        "icao": "SAWA",
+        "iata": "ING",
+        "ghcn": "ARM00087903",
+        "usaf": "879030",
+        "mosmix": "87903"
     },
     "location": {
         "latitude": -50.3333,

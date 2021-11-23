@@ -6,12 +6,12 @@
     "country": "CL",
     "region": "AI",
     "identifiers": {
-        "$wmo": "85874",
-        "$icao": "SCBA",
-        "$iata": "BBA",
-        "$ghcn": "CI000085874",
-        "$usaf": "858740",
-        "$mosmix": "85874"
+        "wmo": "85874",
+        "icao": "SCBA",
+        "iata": "BBA",
+        "ghcn": "CI000085874",
+        "usaf": "858740",
+        "mosmix": "85874"
     },
     "location": {
         "latitude": -45.9167,

@@ -6,11 +6,11 @@
     "country": "CH",
     "region": "SG",
     "identifiers": {
-        "$wmo": "06690",
-        "$icao": "LSZR",
-        "$iata": "ACH",
-        "$usaf": "066811",
-        "$mosmix": "06690"
+        "wmo": "06690",
+        "icao": "LSZR",
+        "iata": "ACH",
+        "usaf": "066811",
+        "mosmix": "06690"
     },
     "location": {
         "latitude": 47.4833,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "$icao": "KPVC",
-        "$iata": "PVC",
-        "$wban": "64708",
-        "$usaf": "725073"
+        "icao": "KPVC",
+        "iata": "PVC",
+        "wban": "64708",
+        "usaf": "725073"
     },
     "location": {
         "latitude": 42.0723,

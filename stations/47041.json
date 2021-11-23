@@ -6,9 +6,9 @@
     "country": "KP",
     "region": "HAN",
     "identifiers": {
-        "$wmo": "47041",
-        "$icao": "ZKHH",
-        "$mosmix": "47041"
+        "wmo": "47041",
+        "icao": "ZKHH",
+        "mosmix": "47041"
     },
     "location": {
         "latitude": 39.9333,

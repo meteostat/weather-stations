@@ -6,12 +6,12 @@
     "country": "UA",
     "region": "DT",
     "identifiers": {
-        "$wmo": "34519",
-        "$icao": "UKCC",
-        "$iata": "DOK",
-        "$ghcn": "UPM00034519",
-        "$usaf": "330002",
-        "$mosmix": "34519"
+        "wmo": "34519",
+        "icao": "UKCC",
+        "iata": "DOK",
+        "ghcn": "UPM00034519",
+        "usaf": "330002",
+        "mosmix": "34519"
     },
     "location": {
         "latitude": 48.0667,

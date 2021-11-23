@@ -6,11 +6,11 @@
     "country": "IR",
     "region": "EAZ",
     "identifiers": {
-        "$wmo": "40706",
-        "$icao": "OITT",
-        "$iata": "TBZ",
-        "$ghcn": "IR000040706",
-        "$usaf": "407060"
+        "wmo": "40706",
+        "icao": "OITT",
+        "iata": "TBZ",
+        "ghcn": "IR000040706",
+        "usaf": "407060"
     },
     "location": {
         "latitude": 38.0833,

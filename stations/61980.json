@@ -6,12 +6,12 @@
     "country": "RE",
     "region": "RE",
     "identifiers": {
-        "$wmo": "61980",
-        "$icao": "FMEE",
-        "$iata": "RUN",
-        "$ghcn": "REM00061980",
-        "$usaf": "619800",
-        "$mosmix": "61980"
+        "wmo": "61980",
+        "icao": "FMEE",
+        "iata": "RUN",
+        "ghcn": "REM00061980",
+        "usaf": "619800",
+        "mosmix": "61980"
     },
     "location": {
         "latitude": -20.8833,

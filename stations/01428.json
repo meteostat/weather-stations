@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "VA",
     "identifiers": {
-        "$wmo": "01428",
-        "$icao": "ENLI",
-        "$usaf": "014280"
+        "wmo": "01428",
+        "icao": "ENLI",
+        "usaf": "014280"
     },
     "location": {
         "latitude": 58.1,

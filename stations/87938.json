@@ -6,12 +6,12 @@
     "country": "AR",
     "region": "V",
     "identifiers": {
-        "$wmo": "87938",
-        "$icao": "SAWH",
-        "$iata": "USH",
-        "$ghcn": "ARM00087938",
-        "$usaf": "879380",
-        "$mosmix": "87938"
+        "wmo": "87938",
+        "icao": "SAWH",
+        "iata": "USH",
+        "ghcn": "ARM00087938",
+        "usaf": "879380",
+        "mosmix": "87938"
     },
     "location": {
         "latitude": -54.8,

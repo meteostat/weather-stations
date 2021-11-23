@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "VIC",
     "identifiers": {
-        "$wmo": "95834",
-        "$iata": "HOV",
-        "$ghcn": "ASN00079023"
+        "wmo": "95834",
+        "iata": "HOV",
+        "ghcn": "ASN00079023"
     },
     "location": {
         "latitude": -36.65,

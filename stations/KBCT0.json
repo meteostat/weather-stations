@@ -6,10 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KBCT",
-        "$iata": "BCT",
-        "$wban": "12803",
-        "$usaf": "722022"
+        "icao": "KBCT",
+        "iata": "BCT",
+        "wban": "12803",
+        "usaf": "722022"
     },
     "location": {
         "latitude": 26.3785,

@@ -6,11 +6,11 @@
     "country": "RW",
     "region": "KV",
     "identifiers": {
-        "$wmo": "64387",
-        "$icao": "HRYR",
-        "$ghcn": "RWM00064387",
-        "$usaf": "643870",
-        "$mosmix": "64387"
+        "wmo": "64387",
+        "icao": "HRYR",
+        "ghcn": "RWM00064387",
+        "usaf": "643870",
+        "mosmix": "64387"
     },
     "location": {
         "latitude": -1.9667,

@@ -6,10 +6,10 @@
     "country": "NZ",
     "region": "BOP",
     "identifiers": {
-        "$wmo": "93246",
-        "$icao": "NZRO",
-        "$iata": "ROT",
-        "$usaf": "932460"
+        "wmo": "93246",
+        "icao": "NZRO",
+        "iata": "ROT",
+        "usaf": "932460"
     },
     "location": {
         "latitude": -38.1167,

@@ -6,10 +6,10 @@
     "country": "EC",
     "region": "W",
     "identifiers": {
-        "$wmo": "84001",
-        "$icao": "SEGS",
-        "$iata": "GPS",
-        "$usaf": "840010"
+        "wmo": "84001",
+        "icao": "SEGS",
+        "iata": "GPS",
+        "usaf": "840010"
     },
     "location": {
         "latitude": -0.45,

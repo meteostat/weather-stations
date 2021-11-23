@@ -6,8 +6,8 @@
     "country": "LV",
     "region": "TAL",
     "identifiers": {
-        "$wmo": "26313",
-        "$ghcn": "LG000026313"
+        "wmo": "26313",
+        "ghcn": "LG000026313"
     },
     "location": {
         "latitude": 57.75,

@@ -6,11 +6,11 @@
     "country": "CN",
     "region": "LN",
     "identifiers": {
-        "$wmo": "54342",
-        "$icao": "ZYYY",
-        "$ghcn": "CHM00054342",
-        "$usaf": "543420",
-        "$mosmix": "54342"
+        "wmo": "54342",
+        "icao": "ZYYY",
+        "ghcn": "CHM00054342",
+        "usaf": "543420",
+        "mosmix": "54342"
     },
     "location": {
         "latitude": 41.7333,

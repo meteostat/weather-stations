@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "ROO",
     "identifiers": {
-        "$wmo": "76595",
-        "$icao": "MMUN",
-        "$iata": "CUN",
-        "$usaf": "765950",
-        "$mosmix": "76595"
+        "wmo": "76595",
+        "icao": "MMUN",
+        "iata": "CUN",
+        "usaf": "765950",
+        "mosmix": "76595"
     },
     "location": {
         "latitude": 21.0333,

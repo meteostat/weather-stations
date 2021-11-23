@@ -6,8 +6,8 @@
     "country": "NE",
     "region": "ZI",
     "identifiers": {
-        "$wmo": "61091",
-        "$ghcn": "NGM00061091"
+        "wmo": "61091",
+        "ghcn": "NGM00061091"
     },
     "location": {
         "latitude": 12.9833,

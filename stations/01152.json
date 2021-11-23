@@ -2,17 +2,17 @@
     "id": "01152",
     "name": {
         "de": "Bodo Flughafen",
-        "no": "Bodo Flughavn",
-        "en": "Bodo Airport"
+        "en": "Bodo Airport",
+        "no": "Bodo Flughavn"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "$wmo": "01152",
-        "$icao": "ENBO",
-        "$ghcn": "NO000011520",
-        "$usaf": "011520",
-        "$mosmix": "01152"
+        "wmo": "01152",
+        "icao": "ENBO",
+        "ghcn": "NO000011520",
+        "usaf": "011520",
+        "mosmix": "01152"
     },
     "location": {
         "latitude": 67.2667,

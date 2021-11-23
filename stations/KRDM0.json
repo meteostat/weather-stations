@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "$icao": "KRDM",
-        "$iata": "RDM",
-        "$wban": "24230",
-        "$usaf": "726835"
+        "icao": "KRDM",
+        "iata": "RDM",
+        "wban": "24230",
+        "usaf": "726835"
     },
     "location": {
         "latitude": 44.2541,

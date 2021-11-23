@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$icao": "KVYS",
-        "$wban": "04899",
-        "$usaf": "722149"
+        "icao": "KVYS",
+        "wban": "04899",
+        "usaf": "722149"
     },
     "location": {
         "latitude": 41.3519,

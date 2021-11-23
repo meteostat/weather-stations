@@ -6,10 +6,10 @@
     "country": "NL",
     "region": "NB",
     "identifiers": {
-        "$wmo": "06340",
-        "$icao": "EHWO",
-        "$iata": "WOE",
-        "$usaf": "063400"
+        "wmo": "06340",
+        "icao": "EHWO",
+        "iata": "WOE",
+        "usaf": "063400"
     },
     "location": {
         "latitude": 51.45,

@@ -6,10 +6,10 @@
     "country": "CN",
     "region": "SA",
     "identifiers": {
-        "$wmo": "57036",
-        "$icao": "ZLSN",
-        "$ghcn": "CHM00057036",
-        "$mosmix": "57036"
+        "wmo": "57036",
+        "icao": "ZLSN",
+        "ghcn": "CHM00057036",
+        "mosmix": "57036"
     },
     "location": {
         "latitude": 34.3,

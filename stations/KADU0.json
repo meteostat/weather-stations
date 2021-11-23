@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "$icao": "KADU",
-        "$wban": "94998",
-        "$usaf": "725498"
+        "icao": "KADU",
+        "wban": "94998",
+        "usaf": "725498"
     },
     "location": {
         "latitude": 41.7014,

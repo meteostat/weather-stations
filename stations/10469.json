@@ -6,12 +6,12 @@
     "country": "DE",
     "region": "SN",
     "identifiers": {
-        "$wmo": "10469",
-        "$icao": "EDDP",
-        "$iata": "LEJ",
-        "$ghcn": "GME00102292",
-        "$usaf": "104690",
-        "$mosmix": "10469"
+        "wmo": "10469",
+        "icao": "EDDP",
+        "iata": "LEJ",
+        "ghcn": "GME00102292",
+        "usaf": "104690",
+        "mosmix": "10469"
     },
     "location": {
         "latitude": 51.4167,

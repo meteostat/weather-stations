@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "$icao": "KOSU",
-        "$iata": "OSU",
-        "$wban": "04804",
-        "$usaf": "724288"
+        "icao": "KOSU",
+        "iata": "OSU",
+        "wban": "04804",
+        "usaf": "724288"
     },
     "location": {
         "latitude": 40.0798,

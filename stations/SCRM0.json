@@ -6,9 +6,9 @@
     "country": "AQ",
     "region": null,
     "identifiers": {
-        "$icao": "SCRM",
-        "$iata": "TNM",
-        "$usaf": "890560"
+        "icao": "SCRM",
+        "iata": "TNM",
+        "usaf": "890560"
     },
     "location": {
         "latitude": -62.1908,

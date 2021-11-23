@@ -6,10 +6,10 @@
     "country": "ZA",
     "region": "NW",
     "identifiers": {
-        "$wmo": "68242",
-        "$icao": "FAMM",
-        "$ghcn": "SFM00068242",
-        "$usaf": "682420"
+        "wmo": "68242",
+        "icao": "FAMM",
+        "ghcn": "SFM00068242",
+        "usaf": "682420"
     },
     "location": {
         "latitude": -25.7833,

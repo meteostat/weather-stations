@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "CEB",
     "identifiers": {
-        "$wmo": "98646",
-        "$icao": "RPMT",
-        "$ghcn": "RPM00098646",
-        "$mosmix": "98646"
+        "wmo": "98646",
+        "icao": "RPMT",
+        "ghcn": "RPM00098646",
+        "mosmix": "98646"
     },
     "location": {
         "latitude": 10.3,

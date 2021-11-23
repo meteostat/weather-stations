@@ -6,9 +6,9 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KOBE",
-        "$wban": "00360",
-        "$usaf": "722261"
+        "icao": "KOBE",
+        "wban": "00360",
+        "usaf": "722261"
     },
     "location": {
         "latitude": 27.2666,

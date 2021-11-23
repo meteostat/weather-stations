@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NS",
     "identifiers": {
-        "$icao": "CYPD",
-        "$iata": "YPS",
-        "$usaf": "710410"
+        "icao": "CYPD",
+        "iata": "YPS",
+        "usaf": "710410"
     },
     "location": {
         "latitude": 45.65,

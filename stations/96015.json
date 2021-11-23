@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "AC",
     "identifiers": {
-        "$wmo": "96015",
-        "$icao": "WITC",
-        "$iata": "MEQ",
-        "$ghcn": "IDM00096015",
-        "$usaf": "960150"
+        "wmo": "96015",
+        "icao": "WITC",
+        "iata": "MEQ",
+        "ghcn": "IDM00096015",
+        "usaf": "960150"
     },
     "location": {
         "latitude": 4.25,

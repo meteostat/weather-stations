@@ -6,12 +6,12 @@
     "country": "FJ",
     "region": "WE",
     "identifiers": {
-        "$wmo": "91680",
-        "$icao": "NFFN",
-        "$iata": "NAN",
-        "$ghcn": "FJ000091680",
-        "$usaf": "916800",
-        "$mosmix": "91680"
+        "wmo": "91680",
+        "icao": "NFFN",
+        "iata": "NAN",
+        "ghcn": "FJ000091680",
+        "usaf": "916800",
+        "mosmix": "91680"
     },
     "location": {
         "latitude": -17.75,

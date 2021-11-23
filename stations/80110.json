@@ -6,12 +6,12 @@
     "country": "CO",
     "region": "ANT",
     "identifiers": {
-        "$wmo": "80110",
-        "$icao": "SKMD",
-        "$iata": "EOH",
-        "$ghcn": "COM00080110",
-        "$usaf": "801100",
-        "$mosmix": "80110"
+        "wmo": "80110",
+        "icao": "SKMD",
+        "iata": "EOH",
+        "ghcn": "COM00080110",
+        "usaf": "801100",
+        "mosmix": "80110"
     },
     "location": {
         "latitude": 6.2167,

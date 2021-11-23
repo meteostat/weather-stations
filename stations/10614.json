@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "RP",
     "identifiers": {
-        "$wmo": "10614",
-        "$icao": "ETAR",
-        "$iata": "RMS",
-        "$usaf": "106140"
+        "wmo": "10614",
+        "icao": "ETAR",
+        "iata": "RMS",
+        "usaf": "106140"
     },
     "location": {
         "latitude": 49.4333,

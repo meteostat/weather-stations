@@ -6,11 +6,11 @@
     "country": "VN",
     "region": "NA",
     "identifiers": {
-        "$wmo": "48845",
-        "$icao": "VVVH",
-        "$iata": "VII",
-        "$ghcn": "VMM00048845",
-        "$usaf": "488450"
+        "wmo": "48845",
+        "icao": "VVVH",
+        "iata": "VII",
+        "ghcn": "VMM00048845",
+        "usaf": "488450"
     },
     "location": {
         "latitude": 18.7,

@@ -6,8 +6,8 @@
     "country": "BG",
     "region": "VD",
     "identifiers": {
-        "$wmo": "15502",
-        "$ghcn": "BUM00015502"
+        "wmo": "15502",
+        "ghcn": "BUM00015502"
     },
     "location": {
         "latitude": 43.8167,

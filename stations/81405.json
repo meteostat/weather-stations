@@ -6,12 +6,12 @@
     "country": "GF",
     "region": "GF",
     "identifiers": {
-        "$wmo": "81405",
-        "$icao": "SOCA",
-        "$iata": "CAY",
-        "$ghcn": "FG000081405",
-        "$usaf": "814050",
-        "$mosmix": "81405"
+        "wmo": "81405",
+        "icao": "SOCA",
+        "iata": "CAY",
+        "ghcn": "FG000081405",
+        "usaf": "814050",
+        "mosmix": "81405"
     },
     "location": {
         "latitude": 4.8333,

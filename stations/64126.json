@@ -6,10 +6,10 @@
     "country": "CD",
     "region": "EQ",
     "identifiers": {
-        "$wmo": "64126",
-        "$icao": "FZGN",
-        "$iata": "BNB",
-        "$usaf": "641260"
+        "wmo": "64126",
+        "icao": "FZGN",
+        "iata": "BNB",
+        "usaf": "641260"
     },
     "location": {
         "latitude": -0.2167,

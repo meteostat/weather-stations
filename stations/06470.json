@@ -6,9 +6,9 @@
     "country": "BE",
     "region": "VLI",
     "identifiers": {
-        "$wmo": "06470",
-        "$icao": "EBST",
-        "$usaf": "064700"
+        "wmo": "06470",
+        "icao": "EBST",
+        "usaf": "064700"
     },
     "location": {
         "latitude": 50.8,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KRSW",
-        "$iata": "RSW",
-        "$wban": "12894",
-        "$usaf": "722108"
+        "icao": "KRSW",
+        "iata": "RSW",
+        "wban": "12894",
+        "usaf": "722108"
     },
     "location": {
         "latitude": 26.5362,

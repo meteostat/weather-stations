@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "$icao": "KCXP",
-        "$wban": "00171",
-        "$usaf": "720549"
+        "icao": "KCXP",
+        "wban": "00171",
+        "usaf": "720549"
     },
     "location": {
         "latitude": 39.1923,

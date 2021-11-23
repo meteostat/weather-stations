@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "VC",
     "identifiers": {
-        "$wmo": "08284",
-        "$icao": "LEVC",
-        "$iata": "VLC",
-        "$ghcn": "SPM00008284",
-        "$usaf": "082840",
-        "$mosmix": "08284"
+        "wmo": "08284",
+        "icao": "LEVC",
+        "iata": "VLC",
+        "ghcn": "SPM00008284",
+        "usaf": "082840",
+        "mosmix": "08284"
     },
     "location": {
         "latitude": 39.5,

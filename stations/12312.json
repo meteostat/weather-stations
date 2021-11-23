@@ -6,8 +6,8 @@
     "country": "PL",
     "region": "LU",
     "identifiers": {
-        "$wmo": "12312",
-        "$icao": "EPBM"
+        "wmo": "12312",
+        "icao": "EPBM"
     },
     "location": {
         "latitude": 52.14,

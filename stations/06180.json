@@ -6,11 +6,11 @@
     "country": "DK",
     "region": "HS",
     "identifiers": {
-        "$wmo": "06180",
-        "$icao": "EKCH",
-        "$iata": "CPH",
-        "$usaf": "061800",
-        "$mosmix": "06180"
+        "wmo": "06180",
+        "icao": "EKCH",
+        "iata": "CPH",
+        "usaf": "061800",
+        "mosmix": "06180"
     },
     "location": {
         "latitude": 55.6167,

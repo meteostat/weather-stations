@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "ARK",
     "identifiers": {
-        "$wmo": "22887",
-        "$icao": "ULAK",
-        "$iata": "KSZ",
-        "$ghcn": "RSM00022887"
+        "wmo": "22887",
+        "icao": "ULAK",
+        "iata": "KSZ",
+        "ghcn": "RSM00022887"
     },
     "location": {
         "latitude": 61.2333,

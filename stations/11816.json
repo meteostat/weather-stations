@@ -6,11 +6,11 @@
     "country": "SK",
     "region": "BL",
     "identifiers": {
-        "$wmo": "11816",
-        "$icao": "LZIB",
-        "$iata": "BTS",
-        "$usaf": "118160",
-        "$mosmix": "11816"
+        "wmo": "11816",
+        "icao": "LZIB",
+        "iata": "BTS",
+        "usaf": "118160",
+        "mosmix": "11816"
     },
     "location": {
         "latitude": 48.2,

@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "JS",
     "identifiers": {
-        "$wmo": "58027",
-        "$ghcn": "CHM00058027",
-        "$mosmix": "58027"
+        "wmo": "58027",
+        "ghcn": "CHM00058027",
+        "mosmix": "58027"
     },
     "location": {
         "latitude": 34.2833,

@@ -6,11 +6,11 @@
     "country": "TD",
     "region": "LC",
     "identifiers": {
-        "$wmo": "64706",
-        "$icao": "FTTD",
-        "$iata": "MQQ",
-        "$ghcn": "CD000064706",
-        "$usaf": "647060"
+        "wmo": "64706",
+        "icao": "FTTD",
+        "iata": "MQQ",
+        "ghcn": "CD000064706",
+        "usaf": "647060"
     },
     "location": {
         "latitude": 8.6167,

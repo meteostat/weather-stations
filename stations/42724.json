@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "TR",
     "identifiers": {
-        "$wmo": "42724",
-        "$icao": "VEAT",
-        "$iata": "IXA",
-        "$ghcn": "IN021010100",
-        "$usaf": "427240"
+        "wmo": "42724",
+        "icao": "VEAT",
+        "iata": "IXA",
+        "ghcn": "IN021010100",
+        "usaf": "427240"
     },
     "location": {
         "latitude": 23.8833,

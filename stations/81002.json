@@ -6,13 +6,13 @@
     "country": "GY",
     "region": "DM",
     "identifiers": {
-        "$wmo": "81002",
-        "$icao": "SYTM",
-        "$iata": "GEO",
-        "$ghcn": "GYW00010502",
-        "$wban": "10502",
-        "$usaf": "810020",
-        "$mosmix": "81002"
+        "wmo": "81002",
+        "icao": "SYTM",
+        "iata": "GEO",
+        "ghcn": "GYW00010502",
+        "wban": "10502",
+        "usaf": "810020",
+        "mosmix": "81002"
     },
     "location": {
         "latitude": 6.5,

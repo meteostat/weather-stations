@@ -6,10 +6,10 @@
     "country": "GH",
     "region": "EP",
     "identifiers": {
-        "$wmo": "65460",
-        "$icao": "DGAK",
-        "$ghcn": "GHM00065460",
-        "$usaf": "654600"
+        "wmo": "65460",
+        "icao": "DGAK",
+        "ghcn": "GHM00065460",
+        "usaf": "654600"
     },
     "location": {
         "latitude": 6.1,

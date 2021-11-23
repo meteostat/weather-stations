@@ -6,11 +6,11 @@
     "country": "TR",
     "region": "CKL",
     "identifiers": {
-        "$wmo": "17112",
-        "$icao": "LTBH",
-        "$iata": "CKZ",
-        "$ghcn": "TUM00017112",
-        "$usaf": "171120"
+        "wmo": "17112",
+        "icao": "LTBH",
+        "iata": "CKZ",
+        "ghcn": "TUM00017112",
+        "usaf": "171120"
     },
     "location": {
         "latitude": 40.1333,

@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "BA",
     "identifiers": {
-        "$wmo": "83498",
-        "$ghcn": "BR058514530",
-        "$usaf": "834980"
+        "wmo": "83498",
+        "ghcn": "BR058514530",
+        "usaf": "834980"
     },
     "location": {
         "latitude": -17.7333,

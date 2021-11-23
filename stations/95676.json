@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "SA",
     "identifiers": {
-        "$wmo": "95676",
-        "$icao": "YPED",
-        "$ghcn": "ASN00023083",
-        "$usaf": "956760"
+        "wmo": "95676",
+        "icao": "YPED",
+        "ghcn": "ASN00023083",
+        "usaf": "956760"
     },
     "location": {
         "latitude": -34.7,

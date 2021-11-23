@@ -6,10 +6,10 @@
     "country": "CA",
     "region": "NF",
     "identifiers": {
-        "$wmo": "71182",
-        "$icao": "CZUM",
-        "$iata": "ZUM",
-        "$usaf": "710020"
+        "wmo": "71182",
+        "icao": "CZUM",
+        "iata": "ZUM",
+        "usaf": "710020"
     },
     "location": {
         "latitude": 53.55,

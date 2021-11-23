@@ -6,10 +6,10 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$icao": "KLFT",
-        "$iata": "LFT",
-        "$wban": "13976",
-        "$usaf": "722405"
+        "icao": "KLFT",
+        "iata": "LFT",
+        "wban": "13976",
+        "usaf": "722405"
     },
     "location": {
         "latitude": 30.2052,

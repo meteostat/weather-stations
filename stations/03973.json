@@ -6,11 +6,11 @@
     "country": "IE",
     "region": "C",
     "identifiers": {
-        "$wmo": "03973",
-        "$icao": "EIKN",
-        "$iata": "NOC",
-        "$ghcn": "EIM00003973",
-        "$usaf": "039730"
+        "wmo": "03973",
+        "icao": "EIKN",
+        "iata": "NOC",
+        "ghcn": "EIM00003973",
+        "usaf": "039730"
     },
     "location": {
         "latitude": 53.9,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$icao": "KLAA",
-        "$iata": "LAA",
-        "$wban": "03013",
-        "$usaf": "724636"
+        "icao": "KLAA",
+        "iata": "LAA",
+        "wban": "03013",
+        "usaf": "724636"
     },
     "location": {
         "latitude": 38.0697,

@@ -6,10 +6,10 @@
     "country": "AO",
     "region": "BIE",
     "identifiers": {
-        "$wmo": "66325",
-        "$icao": "FNKU",
-        "$iata": "SVP",
-        "$usaf": "663250"
+        "wmo": "66325",
+        "icao": "FNKU",
+        "iata": "SVP",
+        "usaf": "663250"
     },
     "location": {
         "latitude": -12.3833,

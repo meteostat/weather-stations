@@ -6,13 +6,13 @@
     "country": "DE",
     "region": "SH",
     "identifiers": {
-        "$national": "03086",
-        "$wmo": "10156",
-        "$icao": "EDHL",
-        "$iata": "LBC",
-        "$ghcn": "GMM00010156",
-        "$usaf": "101560",
-        "$mosmix": "10156"
+        "national": "03086",
+        "wmo": "10156",
+        "icao": "EDHL",
+        "iata": "LBC",
+        "ghcn": "GMM00010156",
+        "usaf": "101560",
+        "mosmix": "10156"
     },
     "location": {
         "latitude": 53.8167,

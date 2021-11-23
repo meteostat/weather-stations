@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "$icao": "KUNU",
-        "$wban": "04898",
-        "$usaf": "726509"
+        "icao": "KUNU",
+        "wban": "04898",
+        "usaf": "726509"
     },
     "location": {
         "latitude": 43.4265,

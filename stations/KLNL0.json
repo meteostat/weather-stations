@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "$icao": "KLNL",
-        "$wban": "14886",
-        "$usaf": "723123"
+        "icao": "KLNL",
+        "wban": "14886",
+        "usaf": "723123"
     },
     "location": {
         "latitude": 46.154,

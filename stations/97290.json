@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "NT",
     "identifiers": {
-        "$wmo": "97290",
-        "$icao": "WRKE",
-        "$mosmix": "97290"
+        "wmo": "97290",
+        "icao": "WRKE",
+        "mosmix": "97290"
     },
     "location": {
         "latitude": -8.8,

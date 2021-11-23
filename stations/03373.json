@@ -6,10 +6,10 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "$wmo": "03373",
-        "$icao": "EGXP",
-        "$iata": "SQZ",
-        "$usaf": "033730"
+        "wmo": "03373",
+        "icao": "EGXP",
+        "iata": "SQZ",
+        "usaf": "033730"
     },
     "location": {
         "latitude": 53.3069,

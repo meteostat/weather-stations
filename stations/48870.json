@@ -6,11 +6,11 @@
     "country": "VN",
     "region": "BH",
     "identifiers": {
-        "$wmo": "48870",
-        "$icao": "VVQN",
-        "$iata": "UIH",
-        "$ghcn": "VMW00041011",
-        "$usaf": "488700"
+        "wmo": "48870",
+        "icao": "VVQN",
+        "iata": "UIH",
+        "ghcn": "VMW00041011",
+        "usaf": "488700"
     },
     "location": {
         "latitude": 13.7667,

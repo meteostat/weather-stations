@@ -6,10 +6,10 @@
     "country": "DO",
     "region": "PP",
     "identifiers": {
-        "$wmo": "78457",
-        "$icao": "MDPP",
-        "$iata": "POP",
-        "$usaf": "784570"
+        "wmo": "78457",
+        "icao": "MDPP",
+        "iata": "POP",
+        "usaf": "784570"
     },
     "location": {
         "latitude": 19.75,

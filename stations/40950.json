@@ -6,8 +6,8 @@
     "country": "AF",
     "region": "LOW",
     "identifiers": {
-        "$wmo": "40950",
-        "$icao": "OALG"
+        "wmo": "40950",
+        "icao": "OALG"
     },
     "location": {
         "latitude": 34.1,

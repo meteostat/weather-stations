@@ -6,11 +6,11 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "$wmo": "74493",
-        "$icao": "KACK",
-        "$iata": "ACK",
-        "$wban": "14756",
-        "$usaf": "725063"
+        "wmo": "74493",
+        "icao": "KACK",
+        "iata": "ACK",
+        "wban": "14756",
+        "usaf": "725063"
     },
     "location": {
         "latitude": 41.2531,

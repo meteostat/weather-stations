@@ -6,10 +6,10 @@
     "country": "JP",
     "region": "KC",
     "identifiers": {
-        "$wmo": "47883",
-        "$icao": "RJOK",
-        "$iata": "KCZ",
-        "$usaf": "478830"
+        "wmo": "47883",
+        "icao": "RJOK",
+        "iata": "KCZ",
+        "usaf": "478830"
     },
     "location": {
         "latitude": 33.5333,

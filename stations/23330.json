@@ -6,12 +6,12 @@
     "country": "RU",
     "region": "YAN",
     "identifiers": {
-        "$wmo": "23330",
-        "$icao": "USDD",
-        "$iata": "SLY",
-        "$ghcn": "RSM00023330",
-        "$usaf": "232201",
-        "$mosmix": "23330"
+        "wmo": "23330",
+        "icao": "USDD",
+        "iata": "SLY",
+        "ghcn": "RSM00023330",
+        "usaf": "232201",
+        "mosmix": "23330"
     },
     "location": {
         "latitude": 66.5333,

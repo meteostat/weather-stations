@@ -6,12 +6,12 @@
     "country": "BR",
     "region": "PB",
     "identifiers": {
-        "$wmo": "82795",
-        "$icao": "SBKG",
-        "$iata": "CPV",
-        "$ghcn": "BR038484280",
-        "$usaf": "827950",
-        "$mosmix": "82795"
+        "wmo": "82795",
+        "icao": "SBKG",
+        "iata": "CPV",
+        "ghcn": "BR038484280",
+        "usaf": "827950",
+        "mosmix": "82795"
     },
     "location": {
         "latitude": -7.2167,

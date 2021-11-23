@@ -6,11 +6,11 @@
     "country": "UY",
     "region": "SL",
     "identifiers": {
-        "$wmo": "86360",
-        "$icao": "SUSO",
-        "$iata": "STY",
-        "$ghcn": "UY000086360",
-        "$usaf": "863600"
+        "wmo": "86360",
+        "icao": "SUSO",
+        "iata": "STY",
+        "ghcn": "UY000086360",
+        "usaf": "863600"
     },
     "location": {
         "latitude": -31.3833,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$icao": "KEAR",
-        "$iata": "EAR",
-        "$wban": "14905",
-        "$usaf": "725526"
+        "icao": "KEAR",
+        "iata": "EAR",
+        "wban": "14905",
+        "usaf": "725526"
     },
     "location": {
         "latitude": 40.727,

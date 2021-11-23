@@ -6,11 +6,11 @@
     "country": "CA",
     "region": "NU",
     "identifiers": {
-        "$wmo": "71081",
-        "$icao": "CYUX",
-        "$iata": "YUX",
-        "$ghcn": "CA002402350",
-        "$usaf": "710810"
+        "wmo": "71081",
+        "icao": "CYUX",
+        "iata": "YUX",
+        "ghcn": "CA002402350",
+        "usaf": "710810"
     },
     "location": {
         "latitude": 68.7833,

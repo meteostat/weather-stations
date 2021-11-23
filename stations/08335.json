@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "AN",
     "identifiers": {
-        "$wmo": "08335",
-        "$icao": "LEHI",
-        "$usaf": "083350"
+        "wmo": "08335",
+        "icao": "LEHI",
+        "usaf": "083350"
     },
     "location": {
         "latitude": 38.5167,

@@ -6,11 +6,11 @@
     "country": "IL",
     "region": "S",
     "identifiers": {
-        "$wmo": "40191",
-        "$icao": "LLBS",
-        "$iata": "BEV",
-        "$ghcn": "IS000051690",
-        "$usaf": "401910"
+        "wmo": "40191",
+        "icao": "LLBS",
+        "iata": "BEV",
+        "ghcn": "IS000051690",
+        "usaf": "401910"
     },
     "location": {
         "latitude": 31.2333,

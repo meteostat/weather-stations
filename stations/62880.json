@@ -6,11 +6,11 @@
     "country": "SD",
     "region": "WB",
     "identifiers": {
-        "$wmo": "62880",
-        "$icao": "HSWW",
-        "$iata": "WUU",
-        "$ghcn": "SU000062880",
-        "$usaf": "628800"
+        "wmo": "62880",
+        "icao": "HSWW",
+        "iata": "WUU",
+        "ghcn": "SU000062880",
+        "usaf": "628800"
     },
     "location": {
         "latitude": 7.7,

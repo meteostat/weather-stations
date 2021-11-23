@@ -6,9 +6,9 @@
     "country": "EG",
     "region": "BAM",
     "identifiers": {
-        "$wmo": "62476",
-        "$ghcn": "EGM00062476",
-        "$usaf": "624760"
+        "wmo": "62476",
+        "ghcn": "EGM00062476",
+        "usaf": "624760"
     },
     "location": {
         "latitude": 23.1308,

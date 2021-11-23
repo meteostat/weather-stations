@@ -6,12 +6,12 @@
     "country": "LA",
     "region": "LP",
     "identifiers": {
-        "$wmo": "48930",
-        "$icao": "VLLB",
-        "$iata": "LPQ",
-        "$ghcn": "LAM00048930",
-        "$usaf": "489300",
-        "$mosmix": "48930"
+        "wmo": "48930",
+        "icao": "VLLB",
+        "iata": "LPQ",
+        "ghcn": "LAM00048930",
+        "usaf": "489300",
+        "mosmix": "48930"
     },
     "location": {
         "latitude": 19.8833,

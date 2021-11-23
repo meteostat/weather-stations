@@ -6,8 +6,8 @@
     "country": "CN",
     "region": "ZJ",
     "identifiers": {
-        "$wmo": "58633",
-        "$ghcn": "CHM00058633"
+        "wmo": "58633",
+        "ghcn": "CHM00058633"
     },
     "location": {
         "latitude": 28.9667,

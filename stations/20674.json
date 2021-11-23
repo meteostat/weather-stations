@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "TAY",
     "identifiers": {
-        "$wmo": "20674",
-        "$icao": "UODD",
-        "$iata": "DKS",
-        "$ghcn": "RSM00020674",
-        "$mosmix": "20674"
+        "wmo": "20674",
+        "icao": "UODD",
+        "iata": "DKS",
+        "ghcn": "RSM00020674",
+        "mosmix": "20674"
     },
     "location": {
         "latitude": 73.5,

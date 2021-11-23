@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "CAN",
     "identifiers": {
-        "$wmo": "98440",
-        "$icao": "RPUD",
-        "$iata": "DTE",
-        "$usaf": "984400"
+        "wmo": "98440",
+        "icao": "RPUD",
+        "iata": "DTE",
+        "usaf": "984400"
     },
     "location": {
         "latitude": 14.1333,

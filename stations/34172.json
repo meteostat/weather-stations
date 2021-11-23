@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "SAR",
     "identifiers": {
-        "$wmo": "34172",
-        "$icao": "UWSS",
-        "$iata": "RTW",
-        "$ghcn": "RSM00034172",
-        "$usaf": "341720"
+        "wmo": "34172",
+        "icao": "UWSS",
+        "iata": "RTW",
+        "ghcn": "RSM00034172",
+        "usaf": "341720"
     },
     "location": {
         "latitude": 51.5667,

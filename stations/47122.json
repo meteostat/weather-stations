@@ -6,10 +6,10 @@
     "country": "KR",
     "region": null,
     "identifiers": {
-        "$wmo": "47122",
-        "$icao": "RKSO",
-        "$iata": "OSN",
-        "$usaf": "471220"
+        "wmo": "47122",
+        "icao": "RKSO",
+        "iata": "OSN",
+        "usaf": "471220"
     },
     "location": {
         "latitude": 37.1,

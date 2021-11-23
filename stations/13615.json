@@ -6,12 +6,12 @@
     "country": "AL",
     "region": "TR",
     "identifiers": {
-        "$wmo": "13615",
-        "$icao": "LATI",
-        "$iata": "TIA",
-        "$ghcn": "ALM00013615",
-        "$usaf": "136150",
-        "$mosmix": "13615"
+        "wmo": "13615",
+        "icao": "LATI",
+        "iata": "TIA",
+        "ghcn": "ALM00013615",
+        "usaf": "136150",
+        "mosmix": "13615"
     },
     "location": {
         "latitude": 41.3333,

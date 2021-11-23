@@ -6,11 +6,11 @@
     "country": "US",
     "region": "NH",
     "identifiers": {
-        "$wmo": "72611",
-        "$icao": "KLEB",
-        "$iata": "LEB",
-        "$wban": "94765",
-        "$usaf": "726116"
+        "wmo": "72611",
+        "icao": "KLEB",
+        "iata": "LEB",
+        "wban": "94765",
+        "usaf": "726116"
     },
     "location": {
         "latitude": 43.6261,

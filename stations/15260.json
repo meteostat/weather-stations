@@ -6,12 +6,12 @@
     "country": "RO",
     "region": "SO",
     "identifiers": {
-        "$wmo": "15260",
-        "$icao": "LRSB",
-        "$iata": "SBZ",
-        "$ghcn": "ROE00108901",
-        "$usaf": "152600",
-        "$mosmix": "15260"
+        "wmo": "15260",
+        "icao": "LRSB",
+        "iata": "SBZ",
+        "ghcn": "ROE00108901",
+        "usaf": "152600",
+        "mosmix": "15260"
     },
     "location": {
         "latitude": 45.8,

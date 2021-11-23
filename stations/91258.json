@@ -6,9 +6,9 @@
     "country": "MH",
     "region": null,
     "identifiers": {
-        "$wmo": "91258",
-        "$ghcn": "RMC00914895",
-        "$wban": "41612"
+        "wmo": "91258",
+        "ghcn": "RMC00914895",
+        "wban": "41612"
     },
     "location": {
         "latitude": 11.2333,

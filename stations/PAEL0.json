@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAEL",
-        "$iata": "ELV",
-        "$wban": "25357",
-        "$usaf": "703817"
+        "icao": "PAEL",
+        "iata": "ELV",
+        "wban": "25357",
+        "usaf": "703817"
     },
     "location": {
         "latitude": 58.1952,

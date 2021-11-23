@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$icao": "KLRU",
-        "$iata": "LRU",
-        "$wban": "93041",
-        "$usaf": "722695"
+        "icao": "KLRU",
+        "iata": "LRU",
+        "wban": "93041",
+        "usaf": "722695"
     },
     "location": {
         "latitude": 32.2894,

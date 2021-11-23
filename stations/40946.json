@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "BAM",
     "identifiers": {
-        "$wmo": "40946",
-        "$icao": "OAPJ",
-        "$usaf": "409460"
+        "wmo": "40946",
+        "icao": "OAPJ",
+        "usaf": "409460"
     },
     "location": {
         "latitude": 34.3833,

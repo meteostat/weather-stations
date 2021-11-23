@@ -6,10 +6,10 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "$icao": "KOTM",
-        "$iata": "OTM",
-        "$wban": "14950",
-        "$usaf": "725465"
+        "icao": "KOTM",
+        "iata": "OTM",
+        "wban": "14950",
+        "usaf": "725465"
     },
     "location": {
         "latitude": 41.1066,

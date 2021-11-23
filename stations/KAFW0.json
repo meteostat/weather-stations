@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KAFW",
-        "$iata": "AFW",
-        "$wban": "53909",
-        "$usaf": "722594"
+        "icao": "KAFW",
+        "iata": "AFW",
+        "wban": "53909",
+        "usaf": "722594"
     },
     "location": {
         "latitude": 32.9876,

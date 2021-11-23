@@ -6,10 +6,10 @@
     "country": "HR",
     "region": "GZ",
     "identifiers": {
-        "$wmo": "14236",
-        "$ghcn": "HR000142360",
-        "$usaf": "142360",
-        "$mosmix": "14236"
+        "wmo": "14236",
+        "ghcn": "HR000142360",
+        "usaf": "142360",
+        "mosmix": "14236"
     },
     "location": {
         "latitude": 45.8167,

@@ -6,10 +6,10 @@
     "country": "GT",
     "region": "AV",
     "identifiers": {
-        "$wmo": "78631",
-        "$icao": "MGCB",
-        "$iata": "CBV",
-        "$usaf": "786310"
+        "wmo": "78631",
+        "icao": "MGCB",
+        "iata": "CBV",
+        "usaf": "786310"
     },
     "location": {
         "latitude": 15.4667,

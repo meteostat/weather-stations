@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "VIC",
     "identifiers": {
-        "$wmo": "94865",
-        "$icao": "YMLV",
-        "$iata": "LAV",
-        "$ghcn": "ASN00087031",
-        "$usaf": "948650"
+        "wmo": "94865",
+        "icao": "YMLV",
+        "iata": "LAV",
+        "ghcn": "ASN00087031",
+        "usaf": "948650"
     },
     "location": {
         "latitude": -37.85,

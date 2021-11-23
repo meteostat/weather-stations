@@ -6,9 +6,9 @@
     "country": "BS",
     "region": "EB",
     "identifiers": {
-        "$wmo": "78063",
-        "$icao": "MYGM",
-        "$usaf": "780631"
+        "wmo": "78063",
+        "icao": "MYGM",
+        "usaf": "780631"
     },
     "location": {
         "latitude": 26.6667,

@@ -6,13 +6,13 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$wmo": "72530",
-        "$icao": "KORD",
-        "$iata": "ORD",
-        "$ghcn": "USW00094846",
-        "$wban": "94846",
-        "$usaf": "725300",
-        "$mosmix": "72530"
+        "wmo": "72530",
+        "icao": "KORD",
+        "iata": "ORD",
+        "ghcn": "USW00094846",
+        "wban": "94846",
+        "usaf": "725300",
+        "mosmix": "72530"
     },
     "location": {
         "latitude": 41.9833,

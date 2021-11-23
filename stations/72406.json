@@ -6,13 +6,13 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "$wmo": "72406",
-        "$icao": "KBWI",
-        "$iata": "BWI",
-        "$ghcn": "USW00093721",
-        "$wban": "93721",
-        "$usaf": "724060",
-        "$mosmix": "72406"
+        "wmo": "72406",
+        "icao": "KBWI",
+        "iata": "BWI",
+        "ghcn": "USW00093721",
+        "wban": "93721",
+        "usaf": "724060",
+        "mosmix": "72406"
     },
     "location": {
         "latitude": 39.1667,

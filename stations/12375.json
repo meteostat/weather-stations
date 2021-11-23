@@ -6,12 +6,12 @@
     "country": "PL",
     "region": "MZ",
     "identifiers": {
-        "$wmo": "12375",
-        "$icao": "EPWA",
-        "$iata": "WAW",
-        "$ghcn": "PLM00012375",
-        "$usaf": "123750",
-        "$mosmix": "12375"
+        "wmo": "12375",
+        "icao": "EPWA",
+        "iata": "WAW",
+        "ghcn": "PLM00012375",
+        "usaf": "123750",
+        "mosmix": "12375"
     },
     "location": {
         "latitude": 52.1667,

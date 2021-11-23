@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "RR",
     "identifiers": {
-        "$wmo": "82042",
-        "$ghcn": "BR008161001",
-        "$usaf": "820420"
+        "wmo": "82042",
+        "ghcn": "BR008161001",
+        "usaf": "820420"
     },
     "location": {
         "latitude": 1.8333,

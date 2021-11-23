@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "MU",
     "identifiers": {
-        "$wmo": "08433",
-        "$icao": "LELC",
-        "$iata": "MJV",
-        "$ghcn": "SP000007038",
-        "$usaf": "084330",
-        "$mosmix": "08433"
+        "wmo": "08433",
+        "icao": "LELC",
+        "iata": "MJV",
+        "ghcn": "SP000007038",
+        "usaf": "084330",
+        "mosmix": "08433"
     },
     "location": {
         "latitude": 37.7833,

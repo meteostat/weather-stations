@@ -6,8 +6,8 @@
     "country": "IN",
     "region": "MM",
     "identifiers": {
-        "$wmo": "43001",
-        "$usaf": "430010"
+        "wmo": "43001",
+        "usaf": "430010"
     },
     "location": {
         "latitude": 19.9667,

@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "NIZ",
     "identifiers": {
-        "$wmo": "27643",
-        "$ghcn": "RSM00027643"
+        "wmo": "27643",
+        "ghcn": "RSM00027643"
     },
     "location": {
         "latitude": 55.3333,

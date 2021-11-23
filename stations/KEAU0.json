@@ -6,10 +6,10 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "$icao": "KEAU",
-        "$iata": "EAU",
-        "$wban": "14991",
-        "$usaf": "726435"
+        "icao": "KEAU",
+        "iata": "EAU",
+        "wban": "14991",
+        "usaf": "726435"
     },
     "location": {
         "latitude": 44.8658,

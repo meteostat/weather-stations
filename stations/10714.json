@@ -6,11 +6,11 @@
     "country": "DE",
     "region": "RP",
     "identifiers": {
-        "$wmo": "10714",
-        "$icao": "EDRZ",
-        "$iata": "ZQW",
-        "$usaf": "106163",
-        "$mosmix": "10714"
+        "wmo": "10714",
+        "icao": "EDRZ",
+        "iata": "ZQW",
+        "usaf": "106163",
+        "mosmix": "10714"
     },
     "location": {
         "latitude": 49.2167,

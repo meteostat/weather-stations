@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NF",
     "identifiers": {
-        "$icao": "CWLB",
-        "$ghcn": "CA00840BR7C",
-        "$usaf": "719310"
+        "icao": "CWLB",
+        "ghcn": "CA00840BR7C",
+        "usaf": "719310"
     },
     "location": {
         "latitude": 54.7667,

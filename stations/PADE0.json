@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PADE",
-        "$iata": "DRG",
-        "$wban": "26643",
-        "$usaf": "701333"
+        "icao": "PADE",
+        "iata": "DRG",
+        "wban": "26643",
+        "usaf": "701333"
     },
     "location": {
         "latitude": 66.0696,

@@ -6,12 +6,12 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "$wmo": "91162",
-        "$icao": "PHBK",
-        "$iata": "BKH",
-        "$ghcn": "USW00022501",
-        "$wban": "22501",
-        "$usaf": "911620"
+        "wmo": "91162",
+        "icao": "PHBK",
+        "iata": "BKH",
+        "ghcn": "USW00022501",
+        "wban": "22501",
+        "usaf": "911620"
     },
     "location": {
         "latitude": 22.0333,

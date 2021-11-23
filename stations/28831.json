@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "BA",
     "identifiers": {
-        "$wmo": "28831",
-        "$iata": "BCX",
-        "$ghcn": "RSM00028831"
+        "wmo": "28831",
+        "iata": "BCX",
+        "ghcn": "RSM00028831"
     },
     "location": {
         "latitude": 53.9333,

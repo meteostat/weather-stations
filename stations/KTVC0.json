@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$icao": "KTVC",
-        "$iata": "TVC",
-        "$wban": "14850",
-        "$usaf": "726387"
+        "icao": "KTVC",
+        "iata": "TVC",
+        "wban": "14850",
+        "usaf": "726387"
     },
     "location": {
         "latitude": 44.7416,

@@ -6,13 +6,13 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "$wmo": "72502",
-        "$icao": "KEWR",
-        "$iata": "EWR",
-        "$ghcn": "USW00014734",
-        "$wban": "14734",
-        "$usaf": "725020",
-        "$mosmix": "72502"
+        "wmo": "72502",
+        "icao": "KEWR",
+        "iata": "EWR",
+        "ghcn": "USW00014734",
+        "wban": "14734",
+        "usaf": "725020",
+        "mosmix": "72502"
     },
     "location": {
         "latitude": 40.6833,

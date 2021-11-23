@@ -6,10 +6,10 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "$icao": "KVEL",
-        "$iata": "VEL",
-        "$wban": "94030",
-        "$usaf": "725705"
+        "icao": "KVEL",
+        "iata": "VEL",
+        "wban": "94030",
+        "usaf": "725705"
     },
     "location": {
         "latitude": 40.4409,

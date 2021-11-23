@@ -6,12 +6,12 @@
     "country": "IN",
     "region": "MM",
     "identifiers": {
-        "$wmo": "43003",
-        "$icao": "VABB",
-        "$iata": "BOM",
-        "$ghcn": "IN012070800",
-        "$usaf": "430030",
-        "$mosmix": "43003"
+        "wmo": "43003",
+        "icao": "VABB",
+        "iata": "BOM",
+        "ghcn": "IN012070800",
+        "usaf": "430030",
+        "mosmix": "43003"
     },
     "location": {
         "latitude": 19.1167,

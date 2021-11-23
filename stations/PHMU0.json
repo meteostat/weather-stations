@@ -6,9 +6,9 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "$icao": "PHMU",
-        "$iata": "MUE",
-        "$usaf": "911976"
+        "icao": "PHMU",
+        "iata": "MUE",
+        "usaf": "911976"
     },
     "location": {
         "latitude": 20.0013,

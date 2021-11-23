@@ -6,11 +6,11 @@
     "country": "AF",
     "region": "BAL",
     "identifiers": {
-        "$wmo": "40911",
-        "$icao": "OAMS",
-        "$iata": "MZR",
-        "$usaf": "409110",
-        "$mosmix": "40911"
+        "wmo": "40911",
+        "icao": "OAMS",
+        "iata": "MZR",
+        "usaf": "409110",
+        "mosmix": "40911"
     },
     "location": {
         "latitude": 36.7,

@@ -6,12 +6,12 @@
     "country": "AF",
     "region": "KAB",
     "identifiers": {
-        "$wmo": "40948",
-        "$icao": "OAKB",
-        "$iata": "KBL",
-        "$ghcn": "AFM00040948",
-        "$usaf": "409480",
-        "$mosmix": "40948"
+        "wmo": "40948",
+        "icao": "OAKB",
+        "iata": "KBL",
+        "ghcn": "AFM00040948",
+        "usaf": "409480",
+        "mosmix": "40948"
     },
     "location": {
         "latitude": 34.6333,

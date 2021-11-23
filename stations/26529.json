@@ -6,9 +6,9 @@
     "country": "LT",
     "region": "PA",
     "identifiers": {
-        "$wmo": "26529",
-        "$ghcn": "LH000026529",
-        "$mosmix": "26529"
+        "wmo": "26529",
+        "ghcn": "LH000026529",
+        "mosmix": "26529"
     },
     "location": {
         "latitude": 55.75,

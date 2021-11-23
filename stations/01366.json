@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "OP",
     "identifiers": {
-        "$wmo": "01366",
-        "$usaf": "013660",
-        "$mosmix": "01366"
+        "wmo": "01366",
+        "usaf": "013660",
+        "mosmix": "01366"
     },
     "location": {
         "latitude": 61.5667,

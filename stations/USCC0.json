@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "CHE",
     "identifiers": {
-        "$icao": "USCC",
-        "$iata": "CEK",
-        "$usaf": "286420"
+        "icao": "USCC",
+        "iata": "CEK",
+        "usaf": "286420"
     },
     "location": {
         "latitude": 55.3,

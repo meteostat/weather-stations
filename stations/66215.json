@@ -6,10 +6,10 @@
     "country": "AO",
     "region": "MAL",
     "identifiers": {
-        "$wmo": "66215",
-        "$icao": "FNMA",
-        "$iata": "MEG",
-        "$usaf": "662150"
+        "wmo": "66215",
+        "icao": "FNMA",
+        "iata": "MEG",
+        "usaf": "662150"
     },
     "location": {
         "latitude": -9.55,

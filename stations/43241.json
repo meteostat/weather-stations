@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "AP",
     "identifiers": {
-        "$wmo": "43241",
-        "$icao": "VOCP",
-        "$iata": "CDP",
-        "$ghcn": "IN001040500"
+        "wmo": "43241",
+        "icao": "VOCP",
+        "iata": "CDP",
+        "ghcn": "IN001040500"
     },
     "location": {
         "latitude": 14.4833,

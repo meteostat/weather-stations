@@ -6,13 +6,13 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$wmo": "72365",
-        "$icao": "KABQ",
-        "$iata": "ABQ",
-        "$ghcn": "USW00023050",
-        "$wban": "23050",
-        "$usaf": "723650",
-        "$mosmix": "72365"
+        "wmo": "72365",
+        "icao": "KABQ",
+        "iata": "ABQ",
+        "ghcn": "USW00023050",
+        "wban": "23050",
+        "usaf": "723650",
+        "mosmix": "72365"
     },
     "location": {
         "latitude": 35.0333,

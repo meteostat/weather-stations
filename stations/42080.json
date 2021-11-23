@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "HP",
     "identifiers": {
-        "$wmo": "42080",
-        "$icao": "VABI",
-        "$iata": "PAB",
-        "$ghcn": "IN007011900",
-        "$usaf": "427820"
+        "wmo": "42080",
+        "icao": "VABI",
+        "iata": "PAB",
+        "ghcn": "IN007011900",
+        "usaf": "427820"
     },
     "location": {
         "latitude": 31.25,

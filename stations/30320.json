@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "IRK",
     "identifiers": {
-        "$wmo": "30320",
-        "$iata": "UKX",
-        "$ghcn": "RSM00030320"
+        "wmo": "30320",
+        "iata": "UKX",
+        "ghcn": "RSM00030320"
     },
     "location": {
         "latitude": 56.8667,

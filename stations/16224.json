@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "LZ",
     "identifiers": {
-        "$wmo": "16224",
-        "$icao": "LIRB",
-        "$ghcn": "IT000162240",
-        "$usaf": "162240"
+        "wmo": "16224",
+        "icao": "LIRB",
+        "ghcn": "IT000162240",
+        "usaf": "162240"
     },
     "location": {
         "latitude": 42.0833,

@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "LAS",
     "identifiers": {
-        "$wmo": "98745",
-        "$icao": "RPMM",
-        "$iata": "MLP",
-        "$usaf": "987450"
+        "wmo": "98745",
+        "icao": "RPMM",
+        "iata": "MLP",
+        "usaf": "987450"
     },
     "location": {
         "latitude": 7.6167,

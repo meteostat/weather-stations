@@ -6,9 +6,9 @@
     "country": "NL",
     "region": "ZH",
     "identifiers": {
-        "$wmo": "06330",
-        "$usaf": "063300",
-        "$mosmix": "06330"
+        "wmo": "06330",
+        "usaf": "063300",
+        "mosmix": "06330"
     },
     "location": {
         "latitude": 51.9833,

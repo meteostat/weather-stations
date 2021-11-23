@@ -6,10 +6,10 @@
     "country": "GB",
     "region": "SCT",
     "identifiers": {
-        "$wmo": "03132",
-        "$icao": "EGOY",
-        "$usaf": "031320",
-        "$mosmix": "03132"
+        "wmo": "03132",
+        "icao": "EGOY",
+        "usaf": "031320",
+        "mosmix": "03132"
     },
     "location": {
         "latitude": 54.85,

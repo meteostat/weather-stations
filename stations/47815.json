@@ -6,10 +6,10 @@
     "country": "JP",
     "region": "OT",
     "identifiers": {
-        "$wmo": "47815",
-        "$iata": "OIT",
-        "$ghcn": "JA000047815",
-        "$mosmix": "47815"
+        "wmo": "47815",
+        "iata": "OIT",
+        "ghcn": "JA000047815",
+        "mosmix": "47815"
     },
     "location": {
         "latitude": 33.2333,

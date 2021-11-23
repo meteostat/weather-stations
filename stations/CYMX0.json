@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "$icao": "CYMX",
-        "$iata": "YMX",
-        "$usaf": "719050"
+        "icao": "CYMX",
+        "iata": "YMX",
+        "usaf": "719050"
     },
     "location": {
         "latitude": 45.6667,

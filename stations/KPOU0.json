@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$icao": "KPOU",
-        "$iata": "POU",
-        "$wban": "14757",
-        "$usaf": "725036"
+        "icao": "KPOU",
+        "iata": "POU",
+        "wban": "14757",
+        "usaf": "725036"
     },
     "location": {
         "latitude": 41.6266,

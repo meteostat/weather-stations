@@ -6,9 +6,9 @@
     "country": "US",
     "region": "DE",
     "identifiers": {
-        "$icao": "KGED",
-        "$wban": "13764",
-        "$usaf": "724093"
+        "icao": "KGED",
+        "wban": "13764",
+        "usaf": "724093"
     },
     "location": {
         "latitude": 38.6879,

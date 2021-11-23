@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "HUI",
     "identifiers": {
-        "$wmo": "80346",
-        "$icao": "SKPI",
-        "$iata": "PTX"
+        "wmo": "80346",
+        "icao": "SKPI",
+        "iata": "PTX"
     },
     "location": {
         "latitude": 1.8667,

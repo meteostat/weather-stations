@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "WKO",
     "identifiers": {
-        "$wmo": "93243",
-        "$icao": "NZAP",
-        "$iata": "TUO"
+        "wmo": "93243",
+        "icao": "NZAP",
+        "iata": "TUO"
     },
     "location": {
         "latitude": -38.75,

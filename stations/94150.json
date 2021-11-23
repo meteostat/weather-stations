@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "NT",
     "identifiers": {
-        "$wmo": "94150",
-        "$icao": "YDGV",
-        "$iata": "GOV",
-        "$ghcn": "ASN00014508",
-        "$usaf": "941500"
+        "wmo": "94150",
+        "icao": "YDGV",
+        "iata": "GOV",
+        "ghcn": "ASN00014508",
+        "usaf": "941500"
     },
     "location": {
         "latitude": -12.2667,

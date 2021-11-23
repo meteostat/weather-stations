@@ -2,16 +2,16 @@
     "id": "01122",
     "name": {
         "de": "Mosjoen Flughafen",
-        "no": "Mosjoen Flughavn",
-        "en": "Mosjoen Airport"
+        "en": "Mosjoen Airport",
+        "no": "Mosjoen Flughavn"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "$wmo": "01122",
-        "$icao": "ENMS",
-        "$iata": "MJF",
-        "$usaf": "011220"
+        "wmo": "01122",
+        "icao": "ENMS",
+        "iata": "MJF",
+        "usaf": "011220"
     },
     "location": {
         "latitude": 65.8,

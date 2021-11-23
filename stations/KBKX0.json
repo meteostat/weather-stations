@@ -6,10 +6,10 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "$icao": "KBKX",
-        "$iata": "BKX",
-        "$wban": "94902",
-        "$usaf": "726515"
+        "icao": "KBKX",
+        "iata": "BKX",
+        "wban": "94902",
+        "usaf": "726515"
     },
     "location": {
         "latitude": 44.3048,

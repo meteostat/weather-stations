@@ -6,12 +6,12 @@
     "country": "CN",
     "region": "LN",
     "identifiers": {
-        "$wmo": "54662",
-        "$icao": "ZYTL",
-        "$iata": "DLC",
-        "$ghcn": "CHM00054662",
-        "$usaf": "546620",
-        "$mosmix": "54662"
+        "wmo": "54662",
+        "icao": "ZYTL",
+        "iata": "DLC",
+        "ghcn": "CHM00054662",
+        "usaf": "546620",
+        "mosmix": "54662"
     },
     "location": {
         "latitude": 38.9,

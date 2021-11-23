@@ -6,12 +6,12 @@
     "country": "PK",
     "region": "B",
     "identifiers": {
-        "$wmo": "41620",
-        "$icao": "OPZB",
-        "$iata": "PZH",
-        "$ghcn": "PK000041620",
-        "$usaf": "416200",
-        "$mosmix": "41620"
+        "wmo": "41620",
+        "icao": "OPZB",
+        "iata": "PZH",
+        "ghcn": "PK000041620",
+        "usaf": "416200",
+        "mosmix": "41620"
     },
     "location": {
         "latitude": 31.35,

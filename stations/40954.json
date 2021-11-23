@@ -6,10 +6,10 @@
     "country": "AF",
     "region": "NAN",
     "identifiers": {
-        "$wmo": "40954",
-        "$icao": "OAJL",
-        "$iata": "JAA",
-        "$usaf": "409540"
+        "wmo": "40954",
+        "icao": "OAJL",
+        "iata": "JAA",
+        "usaf": "409540"
     },
     "location": {
         "latitude": 34.4333,

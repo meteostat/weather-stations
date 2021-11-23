@@ -6,8 +6,8 @@
     "country": "EC",
     "region": "W",
     "identifiers": {
-        "$wmo": "84010",
-        "$usaf": "840100"
+        "wmo": "84010",
+        "usaf": "840100"
     },
     "location": {
         "latitude": -0.9103,

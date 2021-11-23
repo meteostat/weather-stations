@@ -6,10 +6,10 @@
     "country": "SY",
     "region": "HM",
     "identifiers": {
-        "$wmo": "40030",
-        "$ghcn": "SYM00040030",
-        "$usaf": "400300",
-        "$mosmix": "40030"
+        "wmo": "40030",
+        "ghcn": "SYM00040030",
+        "usaf": "400300",
+        "mosmix": "40030"
     },
     "location": {
         "latitude": 35.1167,

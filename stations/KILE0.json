@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KILE",
-        "$iata": "ILE",
-        "$wban": "03972",
-        "$usaf": "722575"
+        "icao": "KILE",
+        "iata": "ILE",
+        "wban": "03972",
+        "usaf": "722575"
     },
     "location": {
         "latitude": 31.0858,

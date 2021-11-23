@@ -6,10 +6,10 @@
     "country": "GH",
     "region": "VO",
     "identifiers": {
-        "$wmo": "65453",
-        "$icao": "DGAH",
-        "$ghcn": "GHM00065453",
-        "$usaf": "654530"
+        "wmo": "65453",
+        "icao": "DGAH",
+        "ghcn": "GHM00065453",
+        "usaf": "654530"
     },
     "location": {
         "latitude": 6.6,

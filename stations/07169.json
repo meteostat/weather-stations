@@ -6,10 +6,10 @@
     "country": "FR",
     "region": "G",
     "identifiers": {
-        "$wmo": "07169",
-        "$icao": "LFSI",
-        "$usaf": "071690",
-        "$mosmix": "07169"
+        "wmo": "07169",
+        "icao": "LFSI",
+        "usaf": "071690",
+        "mosmix": "07169"
     },
     "location": {
         "latitude": 48.6333,

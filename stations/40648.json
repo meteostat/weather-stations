@@ -6,9 +6,9 @@
     "country": "IQ",
     "region": "AB",
     "identifiers": {
-        "$wmo": "40648",
-        "$icao": "ORBH",
-        "$usaf": "406480"
+        "wmo": "40648",
+        "icao": "ORBH",
+        "usaf": "406480"
     },
     "location": {
         "latitude": 33.3833,

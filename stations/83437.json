@@ -6,12 +6,12 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "$wmo": "83437",
-        "$icao": "SBMK",
-        "$iata": "MOC",
-        "$ghcn": "BR057324290",
-        "$usaf": "834370",
-        "$mosmix": "83437"
+        "wmo": "83437",
+        "icao": "SBMK",
+        "iata": "MOC",
+        "ghcn": "BR057324290",
+        "usaf": "834370",
+        "mosmix": "83437"
     },
     "location": {
         "latitude": -16.7167,

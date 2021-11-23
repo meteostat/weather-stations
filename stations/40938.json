@@ -6,12 +6,12 @@
     "country": "AF",
     "region": "HER",
     "identifiers": {
-        "$wmo": "40938",
-        "$icao": "OAHR",
-        "$iata": "HEA",
-        "$ghcn": "AFM00040938",
-        "$usaf": "409380",
-        "$mosmix": "40938"
+        "wmo": "40938",
+        "icao": "OAHR",
+        "iata": "HEA",
+        "ghcn": "AFM00040938",
+        "usaf": "409380",
+        "mosmix": "40938"
     },
     "location": {
         "latitude": 34.2167,

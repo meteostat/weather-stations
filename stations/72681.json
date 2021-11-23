@@ -6,13 +6,13 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "$wmo": "72681",
-        "$icao": "KBOI",
-        "$iata": "BOI",
-        "$ghcn": "USW00024131",
-        "$wban": "24131",
-        "$usaf": "726810",
-        "$mosmix": "72681"
+        "wmo": "72681",
+        "icao": "KBOI",
+        "iata": "BOI",
+        "ghcn": "USW00024131",
+        "wban": "24131",
+        "usaf": "726810",
+        "mosmix": "72681"
     },
     "location": {
         "latitude": 43.5667,

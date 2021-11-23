@@ -6,11 +6,11 @@
     "country": "ZA",
     "region": "WC",
     "identifiers": {
-        "$wmo": "68928",
-        "$icao": "FAMO",
-        "$iata": "MZY",
-        "$usaf": "689280",
-        "$mosmix": "68928"
+        "wmo": "68928",
+        "icao": "FAMO",
+        "iata": "MZY",
+        "usaf": "689280",
+        "mosmix": "68928"
     },
     "location": {
         "latitude": -34.1833,

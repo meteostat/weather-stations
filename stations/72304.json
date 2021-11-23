@@ -6,11 +6,11 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$wmo": "72304",
-        "$icao": "KHAT",
-        "$ghcn": "USW00093729",
-        "$wban": "93729",
-        "$mosmix": "72304"
+        "wmo": "72304",
+        "icao": "KHAT",
+        "ghcn": "USW00093729",
+        "wban": "93729",
+        "mosmix": "72304"
     },
     "location": {
         "latitude": 35.2667,

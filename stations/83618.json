@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "MS",
     "identifiers": {
-        "$wmo": "83618",
-        "$ghcn": "BRM00083618",
-        "$mosmix": "83618"
+        "wmo": "83618",
+        "ghcn": "BRM00083618",
+        "mosmix": "83618"
     },
     "location": {
         "latitude": -20.7833,

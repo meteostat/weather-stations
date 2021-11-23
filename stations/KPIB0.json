@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MS",
     "identifiers": {
-        "$icao": "KPIB",
-        "$iata": "PIB",
-        "$wban": "53808",
-        "$usaf": "722348"
+        "icao": "KPIB",
+        "iata": "PIB",
+        "wban": "53808",
+        "usaf": "722348"
     },
     "location": {
         "latitude": 31.4671,

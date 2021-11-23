@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "$wmo": "10528",
-        "$icao": "EDGS",
-        "$iata": "SGE",
-        "$usaf": "106162"
+        "wmo": "10528",
+        "icao": "EDGS",
+        "iata": "SGE",
+        "usaf": "106162"
     },
     "location": {
         "latitude": 50.7167,

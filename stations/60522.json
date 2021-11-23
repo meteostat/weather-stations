@@ -6,10 +6,10 @@
     "country": "DZ",
     "region": "TLE",
     "identifiers": {
-        "$wmo": "60522",
-        "$icao": "DAOH",
-        "$ghcn": "AGM00060522",
-        "$usaf": "605220"
+        "wmo": "60522",
+        "icao": "DAOH",
+        "ghcn": "AGM00060522",
+        "usaf": "605220"
     },
     "location": {
         "latitude": 34.8167,

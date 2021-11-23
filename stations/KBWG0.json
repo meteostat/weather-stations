@@ -6,10 +6,10 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "$icao": "KBWG",
-        "$iata": "BWG",
-        "$wban": "93808",
-        "$usaf": "746716"
+        "icao": "KBWG",
+        "iata": "BWG",
+        "wban": "93808",
+        "usaf": "746716"
     },
     "location": {
         "latitude": 36.9645,

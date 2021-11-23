@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "LIP",
     "identifiers": {
-        "$wmo": "27930",
-        "$iata": "LPK",
-        "$ghcn": "RSM00027930"
+        "wmo": "27930",
+        "iata": "LPK",
+        "ghcn": "RSM00027930"
     },
     "location": {
         "latitude": 52.7,

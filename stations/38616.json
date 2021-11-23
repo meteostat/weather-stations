@@ -6,9 +6,9 @@
     "country": "KG",
     "region": "OH",
     "identifiers": {
-        "$wmo": "38616",
-        "$ghcn": "KG000038616",
-        "$usaf": "386160"
+        "wmo": "38616",
+        "ghcn": "KG000038616",
+        "usaf": "386160"
     },
     "location": {
         "latitude": 40.7,

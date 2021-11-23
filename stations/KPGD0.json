@@ -6,10 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KPGD",
-        "$iata": "PGD",
-        "$wban": "12812",
-        "$usaf": "722034"
+        "icao": "KPGD",
+        "iata": "PGD",
+        "wban": "12812",
+        "usaf": "722034"
     },
     "location": {
         "latitude": 26.9189,

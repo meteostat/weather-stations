@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$icao": "KSOP",
-        "$iata": "SOP",
-        "$wban": "03720",
-        "$usaf": "723143"
+        "icao": "KSOP",
+        "iata": "SOP",
+        "wban": "03720",
+        "usaf": "723143"
     },
     "location": {
         "latitude": 35.2376,

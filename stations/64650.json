@@ -6,12 +6,12 @@
     "country": "CF",
     "region": "MP",
     "identifiers": {
-        "$wmo": "64650",
-        "$icao": "FEFF",
-        "$iata": "BGF",
-        "$ghcn": "CTM00064650",
-        "$usaf": "646500",
-        "$mosmix": "64650"
+        "wmo": "64650",
+        "icao": "FEFF",
+        "iata": "BGF",
+        "ghcn": "CTM00064650",
+        "usaf": "646500",
+        "mosmix": "64650"
     },
     "location": {
         "latitude": 4.4,

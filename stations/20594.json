@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "TAY",
     "identifiers": {
-        "$wmo": "20594",
-        "$ghcn": "RSM00020594"
+        "wmo": "20594",
+        "ghcn": "RSM00020594"
     },
     "location": {
         "latitude": 74.5,

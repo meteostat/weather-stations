@@ -6,12 +6,12 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$wmo": "72268",
-        "$icao": "KROW",
-        "$iata": "ROW",
-        "$ghcn": "USW00023009",
-        "$wban": "23009",
-        "$usaf": "722680"
+        "wmo": "72268",
+        "icao": "KROW",
+        "iata": "ROW",
+        "ghcn": "USW00023009",
+        "wban": "23009",
+        "usaf": "722680"
     },
     "location": {
         "latitude": 33.3,

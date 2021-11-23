@@ -6,9 +6,9 @@
     "country": "CM",
     "region": "ES",
     "identifiers": {
-        "$wmo": "64960",
-        "$icao": "FKAG",
-        "$usaf": "649600"
+        "wmo": "64960",
+        "icao": "FKAG",
+        "usaf": "649600"
     },
     "location": {
         "latitude": 3.9667,

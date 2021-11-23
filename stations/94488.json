@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "$wmo": "94488",
-        "$iata": "WNR",
-        "$ghcn": "ASN00038024"
+        "wmo": "94488",
+        "iata": "WNR",
+        "ghcn": "ASN00038024"
     },
     "location": {
         "latitude": -25.4167,

@@ -6,11 +6,11 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "$wmo": "03672",
-        "$icao": "EGWU",
-        "$iata": "NHT",
-        "$usaf": "036720",
-        "$mosmix": "03672"
+        "wmo": "03672",
+        "icao": "EGWU",
+        "iata": "NHT",
+        "usaf": "036720",
+        "mosmix": "03672"
     },
     "location": {
         "latitude": 51.55,

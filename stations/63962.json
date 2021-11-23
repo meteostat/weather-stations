@@ -6,11 +6,11 @@
     "country": "TZ",
     "region": "RV",
     "identifiers": {
-        "$wmo": "63962",
-        "$icao": "HTSO",
-        "$iata": "SGX",
-        "$ghcn": "TZ000063962",
-        "$usaf": "639620"
+        "wmo": "63962",
+        "icao": "HTSO",
+        "iata": "SGX",
+        "ghcn": "TZ000063962",
+        "usaf": "639620"
     },
     "location": {
         "latitude": -10.6833,

@@ -6,8 +6,8 @@
     "country": "GN",
     "region": "MAM",
     "identifiers": {
-        "$wmo": "61820",
-        "$ghcn": "GV000001820"
+        "wmo": "61820",
+        "ghcn": "GV000001820"
     },
     "location": {
         "latitude": 10.3667,

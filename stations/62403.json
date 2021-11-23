@@ -6,8 +6,8 @@
     "country": "EG",
     "region": "QIN",
     "identifiers": {
-        "$wmo": "62403",
-        "$ghcn": "EGM00062403"
+        "wmo": "62403",
+        "ghcn": "EGM00062403"
     },
     "location": {
         "latitude": 26.2003,

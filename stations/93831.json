@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "OTA",
     "identifiers": {
-        "$wmo": "93831",
-        "$usaf": "938310",
-        "$mosmix": "93831"
+        "wmo": "93831",
+        "usaf": "938310",
+        "mosmix": "93831"
     },
     "location": {
         "latitude": -45.0167,

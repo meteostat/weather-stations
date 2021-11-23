@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "CAM",
     "identifiers": {
-        "$wmo": "80219",
-        "$icao": "SKGI",
-        "$iata": "GIR"
+        "wmo": "80219",
+        "icao": "SKGI",
+        "iata": "GIR"
     },
     "location": {
         "latitude": 4.2833,

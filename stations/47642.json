@@ -6,12 +6,12 @@
     "country": "JP",
     "region": "TK",
     "identifiers": {
-        "$wmo": "47642",
-        "$icao": "RJTY",
-        "$iata": "OKO",
-        "$ghcn": "JAW00043313",
-        "$wban": "43313",
-        "$usaf": "476420"
+        "wmo": "47642",
+        "icao": "RJTY",
+        "iata": "OKO",
+        "ghcn": "JAW00043313",
+        "wban": "43313",
+        "usaf": "476420"
     },
     "location": {
         "latitude": 35.75,

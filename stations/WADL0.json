@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "NB",
     "identifiers": {
-        "$icao": "WADL",
-        "$iata": "LOP",
-        "$usaf": "972400"
+        "icao": "WADL",
+        "iata": "LOP",
+        "usaf": "972400"
     },
     "location": {
         "latitude": -8.7573,

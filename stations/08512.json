@@ -6,11 +6,11 @@
     "country": "PT",
     "region": "AZ",
     "identifiers": {
-        "$wmo": "08512",
-        "$icao": "LPPD",
-        "$iata": "PDL",
-        "$ghcn": "POM00008512",
-        "$usaf": "085120"
+        "wmo": "08512",
+        "icao": "LPPD",
+        "iata": "PDL",
+        "ghcn": "POM00008512",
+        "usaf": "085120"
     },
     "location": {
         "latitude": 37.7333,

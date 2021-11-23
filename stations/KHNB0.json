@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$icao": "KHNB",
-        "$wban": "53896",
-        "$usaf": "724365"
+        "icao": "KHNB",
+        "wban": "53896",
+        "usaf": "724365"
     },
     "location": {
         "latitude": 38.249,

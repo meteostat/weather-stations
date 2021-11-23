@@ -6,8 +6,8 @@
     "country": "MN",
     "region": "HD",
     "identifiers": {
-        "$wmo": "44265",
-        "$ghcn": "MGM00044265"
+        "wmo": "44265",
+        "ghcn": "MGM00044265"
     },
     "location": {
         "latitude": 46.1167,

@@ -6,11 +6,11 @@
     "country": "MY",
     "region": "PK",
     "identifiers": {
-        "$wmo": "48625",
-        "$icao": "WMKI",
-        "$iata": "IPH",
-        "$usaf": "486023",
-        "$mosmix": "48625"
+        "wmo": "48625",
+        "icao": "WMKI",
+        "iata": "IPH",
+        "usaf": "486023",
+        "mosmix": "48625"
     },
     "location": {
         "latitude": 4.5667,

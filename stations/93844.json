@@ -6,10 +6,10 @@
     "country": "NZ",
     "region": "SO",
     "identifiers": {
-        "$wmo": "93844",
-        "$icao": "NZNV",
-        "$iata": "IVC",
-        "$usaf": "938440"
+        "wmo": "93844",
+        "icao": "NZNV",
+        "iata": "IVC",
+        "usaf": "938440"
     },
     "location": {
         "latitude": -46.7,

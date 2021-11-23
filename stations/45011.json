@@ -6,11 +6,11 @@
     "country": "MO",
     "region": "MA",
     "identifiers": {
-        "$wmo": "45011",
-        "$icao": "VMMC",
-        "$ghcn": "MCM00045011",
-        "$usaf": "450110",
-        "$mosmix": "45011"
+        "wmo": "45011",
+        "icao": "VMMC",
+        "ghcn": "MCM00045011",
+        "usaf": "450110",
+        "mosmix": "45011"
     },
     "location": {
         "latitude": 22.1667,

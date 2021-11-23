@@ -6,9 +6,9 @@
     "country": "GB",
     "region": "CU",
     "identifiers": {
-        "$wmo": "03214",
-        "$icao": "EGNL",
-        "$usaf": "032140"
+        "wmo": "03214",
+        "icao": "EGNL",
+        "usaf": "032140"
     },
     "location": {
         "latitude": 54.1167,

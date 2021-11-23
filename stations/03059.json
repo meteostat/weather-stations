@@ -6,11 +6,11 @@
     "country": "GB",
     "region": "SCT",
     "identifiers": {
-        "$wmo": "03059",
-        "$icao": "EGPE",
-        "$iata": "INV",
-        "$usaf": "030590",
-        "$mosmix": "03059"
+        "wmo": "03059",
+        "icao": "EGPE",
+        "iata": "INV",
+        "usaf": "030590",
+        "mosmix": "03059"
     },
     "location": {
         "latitude": 57.5333,

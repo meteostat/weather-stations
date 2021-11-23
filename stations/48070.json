@@ -6,9 +6,9 @@
     "country": "MM",
     "region": "SH",
     "identifiers": {
-        "$wmo": "48070",
-        "$icao": "VBMS",
-        "$mosmix": "48070"
+        "wmo": "48070",
+        "icao": "VBMS",
+        "mosmix": "48070"
     },
     "location": {
         "latitude": 20.55,

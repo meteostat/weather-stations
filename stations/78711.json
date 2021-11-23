@@ -6,11 +6,11 @@
     "country": "HN",
     "region": "GD",
     "identifiers": {
-        "$wmo": "78711",
-        "$icao": "MHPL",
-        "$iata": "PEU",
-        "$ghcn": "HO000078711",
-        "$usaf": "787110"
+        "wmo": "78711",
+        "icao": "MHPL",
+        "iata": "PEU",
+        "ghcn": "HO000078711",
+        "usaf": "787110"
     },
     "location": {
         "latitude": 15.2167,

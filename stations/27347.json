@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "IVA",
     "identifiers": {
-        "$wmo": "27347",
-        "$icao": "UUBI",
-        "$iata": "IWA",
-        "$ghcn": "RSM00027347",
-        "$usaf": "273470"
+        "wmo": "27347",
+        "icao": "UUBI",
+        "iata": "IWA",
+        "ghcn": "RSM00027347",
+        "usaf": "273470"
     },
     "location": {
         "latitude": 56.95,

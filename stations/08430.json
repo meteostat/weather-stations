@@ -6,10 +6,10 @@
     "country": "ES",
     "region": "MU",
     "identifiers": {
-        "$wmo": "08430",
-        "$iata": "MJV",
-        "$ghcn": "SPE00120323",
-        "$mosmix": "08430"
+        "wmo": "08430",
+        "iata": "MJV",
+        "ghcn": "SPE00120323",
+        "mosmix": "08430"
     },
     "location": {
         "latitude": 38,

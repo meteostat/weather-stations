@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "WSA",
     "identifiers": {
-        "$icao": "RPVC",
-        "$iata": "CYP",
-        "$usaf": "985450"
+        "icao": "RPVC",
+        "iata": "CYP",
+        "usaf": "985450"
     },
     "location": {
         "latitude": 12.0667,

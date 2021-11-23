@@ -6,10 +6,10 @@
     "country": "CD",
     "region": "EQ",
     "identifiers": {
-        "$wmo": "64006",
-        "$icao": "FZFK",
-        "$iata": "GMA",
-        "$usaf": "640060"
+        "wmo": "64006",
+        "icao": "FZFK",
+        "iata": "GMA",
+        "usaf": "640060"
     },
     "location": {
         "latitude": 3.2833,

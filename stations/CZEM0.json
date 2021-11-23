@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "$icao": "CZEM",
-        "$iata": "ZEM",
-        "$usaf": "718443"
+        "icao": "CZEM",
+        "iata": "ZEM",
+        "usaf": "718443"
     },
     "location": {
         "latitude": 52.2333,

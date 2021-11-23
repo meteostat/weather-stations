@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "$icao": "KELD",
-        "$iata": "ELD",
-        "$wban": "93992",
-        "$usaf": "723419"
+        "icao": "KELD",
+        "iata": "ELD",
+        "wban": "93992",
+        "usaf": "723419"
     },
     "location": {
         "latitude": 33.221,

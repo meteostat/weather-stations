@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "U",
     "identifiers": {
-        "$wmo": "07684",
-        "$icao": "LFMD",
-        "$iata": "CEQ",
-        "$usaf": "076840",
-        "$mosmix": "07684"
+        "wmo": "07684",
+        "icao": "LFMD",
+        "iata": "CEQ",
+        "usaf": "076840",
+        "mosmix": "07684"
     },
     "location": {
         "latitude": 43.55,

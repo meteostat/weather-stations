@@ -6,11 +6,11 @@
     "country": "CA",
     "region": "YT",
     "identifiers": {
-        "$wmo": "71953",
-        "$icao": "CYQH",
-        "$iata": "YQH",
-        "$ghcn": "CA002101200",
-        "$usaf": "719530"
+        "wmo": "71953",
+        "icao": "CYQH",
+        "iata": "YQH",
+        "ghcn": "CA002101200",
+        "usaf": "719530"
     },
     "location": {
         "latitude": 60.1167,

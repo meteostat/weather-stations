@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "SC",
     "identifiers": {
-        "$wmo": "16460",
-        "$icao": "LICC",
-        "$iata": "CTA",
-        "$usaf": "164600",
-        "$mosmix": "16460"
+        "wmo": "16460",
+        "icao": "LICC",
+        "iata": "CTA",
+        "usaf": "164600",
+        "mosmix": "16460"
     },
     "location": {
         "latitude": 37.4667,

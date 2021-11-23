@@ -6,11 +6,11 @@
     "country": "TZ",
     "region": "KJ",
     "identifiers": {
-        "$wmo": "63790",
-        "$icao": "HTMS",
-        "$iata": "QSI",
-        "$ghcn": "TZ000063790",
-        "$usaf": "637900"
+        "wmo": "63790",
+        "icao": "HTMS",
+        "iata": "QSI",
+        "ghcn": "TZ000063790",
+        "usaf": "637900"
     },
     "location": {
         "latitude": -3.35,

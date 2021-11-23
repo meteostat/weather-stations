@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "$icao": "KPKD",
-        "$iata": "PKD",
-        "$wban": "94967",
-        "$usaf": "727453"
+        "icao": "KPKD",
+        "iata": "PKD",
+        "wban": "94967",
+        "usaf": "727453"
     },
     "location": {
         "latitude": 46.9007,

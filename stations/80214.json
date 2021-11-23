@@ -6,11 +6,11 @@
     "country": "CO",
     "region": "TOL",
     "identifiers": {
-        "$wmo": "80214",
-        "$icao": "SKIB",
-        "$iata": "IBE",
-        "$ghcn": "COM00080214",
-        "$usaf": "802140"
+        "wmo": "80214",
+        "icao": "SKIB",
+        "iata": "IBE",
+        "ghcn": "COM00080214",
+        "usaf": "802140"
     },
     "location": {
         "latitude": 4.4333,

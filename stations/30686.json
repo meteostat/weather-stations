@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "AMU",
     "identifiers": {
-        "$wmo": "30686",
-        "$ghcn": "RSM00030686"
+        "wmo": "30686",
+        "ghcn": "RSM00030686"
     },
     "location": {
         "latitude": 53.4667,

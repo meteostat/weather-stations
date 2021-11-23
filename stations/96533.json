@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "KB",
     "identifiers": {
-        "$wmo": "96533",
-        "$icao": "WIOI",
-        "$usaf": "965330"
+        "wmo": "96533",
+        "icao": "WIOI",
+        "usaf": "965330"
     },
     "location": {
         "latitude": 1.0833,

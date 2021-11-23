@@ -6,11 +6,11 @@
     "country": "VN",
     "region": "BT",
     "identifiers": {
-        "$wmo": "48887",
-        "$icao": "VVPT",
-        "$iata": "PHH",
-        "$ghcn": "VMM00048887",
-        "$wban": "41067"
+        "wmo": "48887",
+        "icao": "VVPT",
+        "iata": "PHH",
+        "ghcn": "VMM00048887",
+        "wban": "41067"
     },
     "location": {
         "latitude": 10.9333,

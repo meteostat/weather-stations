@@ -6,8 +6,8 @@
     "country": "IT",
     "region": "AB",
     "identifiers": {
-        "$wmo": "16226",
-        "$mosmix": "16226"
+        "wmo": "16226",
+        "mosmix": "16226"
     },
     "location": {
         "latitude": 42.3756,

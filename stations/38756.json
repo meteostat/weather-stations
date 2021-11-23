@@ -6,8 +6,8 @@
     "country": "TM",
     "region": "B",
     "identifiers": {
-        "$wmo": "38756",
-        "$ghcn": "TX000038756"
+        "wmo": "38756",
+        "ghcn": "TX000038756"
     },
     "location": {
         "latitude": 38.6167,

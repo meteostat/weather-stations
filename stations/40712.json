@@ -6,11 +6,11 @@
     "country": "IR",
     "region": "WEZ",
     "identifiers": {
-        "$wmo": "40712",
-        "$icao": "OITR",
-        "$iata": "OMH",
-        "$ghcn": "IRM00040712",
-        "$usaf": "407120"
+        "wmo": "40712",
+        "icao": "OITR",
+        "iata": "OMH",
+        "ghcn": "IRM00040712",
+        "usaf": "407120"
     },
     "location": {
         "latitude": 37.5333,

@@ -6,12 +6,12 @@
     "country": "MY",
     "region": "PNG",
     "identifiers": {
-        "$wmo": "48601",
-        "$icao": "WMKP",
-        "$iata": "PEN",
-        "$ghcn": "MYM00048601",
-        "$usaf": "486010",
-        "$mosmix": "48601"
+        "wmo": "48601",
+        "icao": "WMKP",
+        "iata": "PEN",
+        "ghcn": "MYM00048601",
+        "usaf": "486010",
+        "mosmix": "48601"
     },
     "location": {
         "latitude": 5.3,

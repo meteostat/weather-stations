@@ -6,11 +6,11 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "$wmo": "71958",
-        "$icao": "CWDL",
-        "$iata": "YDL",
-        "$ghcn": "CA001192340",
-        "$usaf": "719580"
+        "wmo": "71958",
+        "icao": "CWDL",
+        "iata": "YDL",
+        "ghcn": "CA001192340",
+        "usaf": "719580"
     },
     "location": {
         "latitude": 58.4167,

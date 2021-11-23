@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "T",
     "identifiers": {
-        "$wmo": "07315",
-        "$icao": "LFBH",
-        "$iata": "LRH",
-        "$usaf": "073160",
-        "$mosmix": "07315"
+        "wmo": "07315",
+        "icao": "LFBH",
+        "iata": "LRH",
+        "usaf": "073160",
+        "mosmix": "07315"
     },
     "location": {
         "latitude": 46.15,

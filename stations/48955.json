@@ -6,11 +6,11 @@
     "country": "LA",
     "region": "UR",
     "identifiers": {
-        "$wmo": "48955",
-        "$icao": "VLIP",
-        "$iata": "PKZ",
-        "$ghcn": "LAM00048955",
-        "$usaf": "489550"
+        "wmo": "48955",
+        "icao": "VLIP",
+        "iata": "PKZ",
+        "ghcn": "LAM00048955",
+        "usaf": "489550"
     },
     "location": {
         "latitude": 15.1167,

@@ -6,12 +6,12 @@
     "country": "UZ",
     "region": "TK",
     "identifiers": {
-        "$wmo": "38457",
-        "$icao": "UTTT",
-        "$iata": "TAS",
-        "$ghcn": "UZM00038457",
-        "$usaf": "384570",
-        "$mosmix": "38457"
+        "wmo": "38457",
+        "icao": "UTTT",
+        "iata": "TAS",
+        "ghcn": "UZM00038457",
+        "usaf": "384570",
+        "mosmix": "38457"
     },
     "location": {
         "latitude": 41.2667,

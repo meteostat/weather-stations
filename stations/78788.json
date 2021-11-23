@@ -6,10 +6,10 @@
     "country": "PA",
     "region": "CL",
     "identifiers": {
-        "$wmo": "78788",
-        "$icao": "MPVR",
-        "$iata": "PVE",
-        "$usaf": "787880"
+        "wmo": "78788",
+        "icao": "MPVR",
+        "iata": "PVE",
+        "usaf": "787880"
     },
     "location": {
         "latitude": 9.2,

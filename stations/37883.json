@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "KAL",
     "identifiers": {
-        "$wmo": "37883",
-        "$ghcn": "AJ000037883"
+        "wmo": "37883",
+        "ghcn": "AJ000037883"
     },
     "location": {
         "latitude": 39.9333,

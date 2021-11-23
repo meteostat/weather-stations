@@ -6,11 +6,11 @@
     "country": "ET",
     "region": "CN",
     "identifiers": {
-        "$wmo": "63332",
-        "$icao": "HABD",
-        "$iata": "BJR",
-        "$ghcn": "ET000063332",
-        "$usaf": "633320"
+        "wmo": "63332",
+        "icao": "HABD",
+        "iata": "BJR",
+        "ghcn": "ET000063332",
+        "usaf": "633320"
     },
     "location": {
         "latitude": 11.6,

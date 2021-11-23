@@ -6,10 +6,10 @@
     "country": "TR",
     "region": "HTY",
     "identifiers": {
-        "$wmo": "17370",
-        "$icao": "LTAK",
-        "$ghcn": "TUM00017370",
-        "$usaf": "173700"
+        "wmo": "17370",
+        "icao": "LTAK",
+        "ghcn": "TUM00017370",
+        "usaf": "173700"
     },
     "location": {
         "latitude": 36.5833,

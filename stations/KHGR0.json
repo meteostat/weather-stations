@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "$icao": "KHGR",
-        "$iata": "HGR",
-        "$wban": "93706",
-        "$usaf": "724066"
+        "icao": "KHGR",
+        "iata": "HGR",
+        "wban": "93706",
+        "usaf": "724066"
     },
     "location": {
         "latitude": 39.7085,

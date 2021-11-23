@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "COL",
     "identifiers": {
-        "$wmo": "76723",
-        "$ghcn": "MXM00076723",
-        "$wban": "21101"
+        "wmo": "76723",
+        "ghcn": "MXM00076723",
+        "wban": "21101"
     },
     "location": {
         "latitude": 18.7167,

@@ -6,13 +6,13 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$wmo": "72315",
-        "$icao": "KAVL",
-        "$iata": "AVL",
-        "$ghcn": "USW00003812",
-        "$wban": "03812",
-        "$usaf": "723150",
-        "$mosmix": "72315"
+        "wmo": "72315",
+        "icao": "KAVL",
+        "iata": "AVL",
+        "ghcn": "USW00003812",
+        "wban": "03812",
+        "usaf": "723150",
+        "mosmix": "72315"
     },
     "location": {
         "latitude": 35.4333,

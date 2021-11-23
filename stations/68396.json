@@ -6,11 +6,11 @@
     "country": "SZ",
     "region": "M",
     "identifiers": {
-        "$wmo": "68396",
-        "$icao": "FDMS",
-        "$iata": "MTS",
-        "$ghcn": "WZ004455110",
-        "$usaf": "683960"
+        "wmo": "68396",
+        "icao": "FDMS",
+        "iata": "MTS",
+        "ghcn": "WZ004455110",
+        "usaf": "683960"
     },
     "location": {
         "latitude": -26.5333,

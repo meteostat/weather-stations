@@ -6,10 +6,10 @@
     "country": "TH",
     "region": "SN",
     "identifiers": {
-        "$wmo": "48356",
-        "$icao": "VTUS",
-        "$ghcn": "TH000048356",
-        "$usaf": "483560"
+        "wmo": "48356",
+        "icao": "VTUS",
+        "ghcn": "TH000048356",
+        "usaf": "483560"
     },
     "location": {
         "latitude": 17.15,

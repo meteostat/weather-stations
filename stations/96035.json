@@ -6,12 +6,12 @@
     "country": "ID",
     "region": "SU",
     "identifiers": {
-        "$wmo": "96035",
-        "$icao": "WIMM",
-        "$iata": "MES",
-        "$ghcn": "IDM00096035",
-        "$usaf": "960350",
-        "$mosmix": "96035"
+        "wmo": "96035",
+        "icao": "WIMM",
+        "iata": "MES",
+        "ghcn": "IDM00096035",
+        "usaf": "960350",
+        "mosmix": "96035"
     },
     "location": {
         "latitude": 3.5667,

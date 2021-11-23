@@ -2,15 +2,15 @@
     "id": "02154",
     "name": {
         "de": "Vidsel Flughafen",
-        "sv": "Vidsel Flyplats",
-        "en": "Vidsel Airport"
+        "en": "Vidsel Airport",
+        "sv": "Vidsel Flyplats"
     },
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "$wmo": "02154",
-        "$icao": "ESPE",
-        "$usaf": "021540"
+        "wmo": "02154",
+        "icao": "ESPE",
+        "usaf": "021540"
     },
     "location": {
         "latitude": 65.8667,

@@ -6,12 +6,12 @@
     "country": "TR",
     "region": "VAN",
     "identifiers": {
-        "$wmo": "17170",
-        "$icao": "LTCI",
-        "$iata": "VAN",
-        "$ghcn": "TU000017170",
-        "$usaf": "171700",
-        "$mosmix": "17170"
+        "wmo": "17170",
+        "icao": "LTCI",
+        "iata": "VAN",
+        "ghcn": "TU000017170",
+        "usaf": "171700",
+        "mosmix": "17170"
     },
     "location": {
         "latitude": 38.45,

@@ -6,8 +6,8 @@
     "country": "HR",
     "region": null,
     "identifiers": {
-        "$wmo": "14443",
-        "$usaf": "144430"
+        "wmo": "14443",
+        "usaf": "144430"
     },
     "location": {
         "latitude": 42.4,

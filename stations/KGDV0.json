@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MT",
     "identifiers": {
-        "$icao": "KGDV",
-        "$iata": "GDV",
-        "$wban": "24087",
-        "$usaf": "726676"
+        "icao": "KGDV",
+        "iata": "GDV",
+        "wban": "24087",
+        "usaf": "726676"
     },
     "location": {
         "latitude": 47.1387,

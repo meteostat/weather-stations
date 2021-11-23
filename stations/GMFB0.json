@@ -6,9 +6,9 @@
     "country": "MA",
     "region": "OR",
     "identifiers": {
-        "$icao": "GMFB",
-        "$iata": "UAR",
-        "$usaf": "602000"
+        "icao": "GMFB",
+        "iata": "UAR",
+        "usaf": "602000"
     },
     "location": {
         "latitude": 32.5161,

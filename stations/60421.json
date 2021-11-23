@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "OEB",
     "identifiers": {
-        "$wmo": "60421",
-        "$ghcn": "AGM00060421"
+        "wmo": "60421",
+        "ghcn": "AGM00060421"
     },
     "location": {
         "latitude": 35.8833,

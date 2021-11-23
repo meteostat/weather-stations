@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "TAS",
     "identifiers": {
-        "$wmo": "94969",
-        "$ghcn": "ASN00091237",
-        "$mosmix": "94969"
+        "wmo": "94969",
+        "ghcn": "ASN00091237",
+        "mosmix": "94969"
     },
     "location": {
         "latitude": -41.4167,

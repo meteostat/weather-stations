@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "GJ",
     "identifiers": {
-        "$wmo": "42838",
-        "$icao": "VABV",
-        "$iata": "BHU",
-        "$ghcn": "IN005050100",
-        "$usaf": "420801"
+        "wmo": "42838",
+        "icao": "VABV",
+        "iata": "BHU",
+        "ghcn": "IN005050100",
+        "usaf": "420801"
     },
     "location": {
         "latitude": 21.75,

@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "BA",
     "identifiers": {
-        "$wmo": "83248",
-        "$icao": "SBSV",
-        "$iata": "SSA",
-        "$usaf": "832480",
-        "$mosmix": "83248"
+        "wmo": "83248",
+        "icao": "SBSV",
+        "iata": "SSA",
+        "usaf": "832480",
+        "mosmix": "83248"
     },
     "location": {
         "latitude": -12.9,

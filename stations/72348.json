@@ -6,8 +6,8 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "$wmo": "72348",
-        "$ghcn": "USC00238880"
+        "wmo": "72348",
+        "ghcn": "USC00238880"
     },
     "location": {
         "latitude": 36.7333,

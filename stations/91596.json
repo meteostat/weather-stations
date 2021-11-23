@@ -6,10 +6,10 @@
     "country": "NC",
     "region": "SU",
     "identifiers": {
-        "$wmo": "91596",
-        "$icao": "NWWE",
-        "$iata": "ILP",
-        "$usaf": "915960"
+        "wmo": "91596",
+        "icao": "NWWE",
+        "iata": "ILP",
+        "usaf": "915960"
     },
     "location": {
         "latitude": -22.6,

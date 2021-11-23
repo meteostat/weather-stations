@@ -6,9 +6,9 @@
     "country": "IS",
     "region": "VF",
     "identifiers": {
-        "$wmo": "04025",
-        "$icao": "BIRE",
-        "$iata": "RHA"
+        "wmo": "04025",
+        "icao": "BIRE",
+        "iata": "RHA"
     },
     "location": {
         "latitude": 65.45,

@@ -6,11 +6,11 @@
     "country": "FI",
     "region": "LL",
     "identifiers": {
-        "$wmo": "02807",
-        "$icao": "EFIV",
-        "$iata": "IVL",
-        "$usaf": "028070",
-        "$mosmix": "02807"
+        "wmo": "02807",
+        "icao": "EFIV",
+        "iata": "IVL",
+        "usaf": "028070",
+        "mosmix": "02807"
     },
     "location": {
         "latitude": 68.6167,

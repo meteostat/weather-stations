@@ -6,10 +6,10 @@
     "country": "SD",
     "region": "ANL",
     "identifiers": {
-        "$wmo": "62801",
-        "$icao": "HSRN",
-        "$ghcn": "SUM00062801",
-        "$usaf": "628010"
+        "wmo": "62801",
+        "icao": "HSRN",
+        "ghcn": "SUM00062801",
+        "usaf": "628010"
     },
     "location": {
         "latitude": 11.75,

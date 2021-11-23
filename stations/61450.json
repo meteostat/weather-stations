@@ -6,11 +6,11 @@
     "country": "MR",
     "region": "TA",
     "identifiers": {
-        "$wmo": "61450",
-        "$icao": "GQND",
-        "$iata": "TIY",
-        "$ghcn": "MR000061450",
-        "$usaf": "614500"
+        "wmo": "61450",
+        "icao": "GQND",
+        "iata": "TIY",
+        "ghcn": "MR000061450",
+        "usaf": "614500"
     },
     "location": {
         "latitude": 18.5667,

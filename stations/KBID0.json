@@ -6,10 +6,10 @@
     "country": "US",
     "region": "RI",
     "identifiers": {
-        "$icao": "KBID",
-        "$iata": "BID",
-        "$wban": "94793",
-        "$usaf": "725058"
+        "icao": "KBID",
+        "iata": "BID",
+        "wban": "94793",
+        "usaf": "725058"
     },
     "location": {
         "latitude": 41.1681,

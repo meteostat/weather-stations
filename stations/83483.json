@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "$wmo": "83483",
-        "$iata": "PPR",
-        "$usaf": "834830",
-        "$mosmix": "83483"
+        "wmo": "83483",
+        "iata": "PPR",
+        "usaf": "834830",
+        "mosmix": "83483"
     },
     "location": {
         "latitude": -17.3333,

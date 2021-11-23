@@ -6,11 +6,11 @@
     "country": "BE",
     "region": "WLG",
     "identifiers": {
-        "$wmo": "06478",
-        "$icao": "EBLG",
-        "$iata": "LGG",
-        "$usaf": "064780",
-        "$mosmix": "06478"
+        "wmo": "06478",
+        "icao": "EBLG",
+        "iata": "LGG",
+        "usaf": "064780",
+        "mosmix": "06478"
     },
     "location": {
         "latitude": 50.65,

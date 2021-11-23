@@ -1,14 +1,14 @@
 {
     "id": "01033",
     "name": {
-        "no": "Torsvåg Fyr",
-        "en": "Torsvag Lighthouse"
+        "en": "Torsvag Lighthouse",
+        "no": "Torsvåg Fyr"
     },
     "country": "NO",
     "region": "TR",
     "identifiers": {
-        "$wmo": "01033",
-        "$usaf": "010330"
+        "wmo": "01033",
+        "usaf": "010330"
     },
     "location": {
         "latitude": 70.25,

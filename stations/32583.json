@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "KQ",
     "identifiers": {
-        "$wmo": "32583",
-        "$ghcn": "RSM00032583"
+        "wmo": "32583",
+        "ghcn": "RSM00032583"
     },
     "location": {
         "latitude": 52.9833,

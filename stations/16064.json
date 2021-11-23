@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "PM",
     "identifiers": {
-        "$wmo": "16064",
-        "$icao": "LIMN",
-        "$ghcn": "ITM00016064",
-        "$usaf": "160640"
+        "wmo": "16064",
+        "icao": "LIMN",
+        "ghcn": "ITM00016064",
+        "usaf": "160640"
     },
     "location": {
         "latitude": 45.5167,

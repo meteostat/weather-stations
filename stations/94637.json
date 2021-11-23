@@ -6,12 +6,12 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "$wmo": "94637",
-        "$icao": "YPKG",
-        "$iata": "KGI",
-        "$ghcn": "ASN00012038",
-        "$usaf": "946370",
-        "$mosmix": "94637"
+        "wmo": "94637",
+        "icao": "YPKG",
+        "iata": "KGI",
+        "ghcn": "ASN00012038",
+        "usaf": "946370",
+        "mosmix": "94637"
     },
     "location": {
         "latitude": -30.7833,

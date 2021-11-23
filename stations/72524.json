@@ -6,13 +6,13 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "$wmo": "72524",
-        "$icao": "KCLE",
-        "$iata": "CLE",
-        "$ghcn": "USW00014820",
-        "$wban": "14820",
-        "$usaf": "725240",
-        "$mosmix": "72524"
+        "wmo": "72524",
+        "icao": "KCLE",
+        "iata": "CLE",
+        "ghcn": "USW00014820",
+        "wban": "14820",
+        "usaf": "725240",
+        "mosmix": "72524"
     },
     "location": {
         "latitude": 41.4,

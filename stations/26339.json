@@ -6,8 +6,8 @@
     "country": "LV",
     "region": "JA",
     "identifiers": {
-        "$wmo": "26339",
-        "$ghcn": "LG000026339"
+        "wmo": "26339",
+        "ghcn": "LG000026339"
     },
     "location": {
         "latitude": 57.1333,

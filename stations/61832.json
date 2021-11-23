@@ -6,12 +6,12 @@
     "country": "GN",
     "region": "CNK",
     "identifiers": {
-        "$wmo": "61832",
-        "$icao": "GUCY",
-        "$iata": "CKY",
-        "$ghcn": "GV000001832",
-        "$usaf": "618320",
-        "$mosmix": "61832"
+        "wmo": "61832",
+        "icao": "GUCY",
+        "iata": "CKY",
+        "ghcn": "GV000001832",
+        "usaf": "618320",
+        "mosmix": "61832"
     },
     "location": {
         "latitude": 9.5667,

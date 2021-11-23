@@ -6,12 +6,12 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "$wmo": "74207",
-        "$icao": "KGRF",
-        "$iata": "GRF",
-        "$ghcn": "USW00024201",
-        "$wban": "24201",
-        "$usaf": "742070"
+        "wmo": "74207",
+        "icao": "KGRF",
+        "iata": "GRF",
+        "ghcn": "USW00024201",
+        "wban": "24201",
+        "usaf": "742070"
     },
     "location": {
         "latitude": 47.1167,

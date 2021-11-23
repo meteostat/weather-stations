@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "EC",
     "identifiers": {
-        "$wmo": "68558",
-        "$ghcn": "SF001771780",
-        "$mosmix": "68558"
+        "wmo": "68558",
+        "ghcn": "SF001771780",
+        "mosmix": "68558"
     },
     "location": {
         "latitude": -30.93,

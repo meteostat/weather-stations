@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KL35",
-        "$wban": "00115",
-        "$usaf": "A06854"
+        "icao": "KL35",
+        "wban": "00115",
+        "usaf": "A06854"
     },
     "location": {
         "latitude": 34.2638,

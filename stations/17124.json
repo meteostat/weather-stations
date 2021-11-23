@@ -6,10 +6,10 @@
     "country": "TR",
     "region": "ESK",
     "identifiers": {
-        "$wmo": "17124",
-        "$icao": "LTBI",
-        "$iata": "ESK",
-        "$usaf": "171240"
+        "wmo": "17124",
+        "icao": "LTBI",
+        "iata": "ESK",
+        "usaf": "171240"
     },
     "location": {
         "latitude": 39.7833,

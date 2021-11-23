@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$wmo": "72501",
-        "$icao": "KOKX",
-        "$wban": "94703"
+        "wmo": "72501",
+        "icao": "KOKX",
+        "wban": "94703"
     },
     "location": {
         "latitude": 40.8667,

@@ -6,8 +6,8 @@
     "country": "KZ",
     "region": "PA",
     "identifiers": {
-        "$wmo": "36003",
-        "$ghcn": "KZ000036003"
+        "wmo": "36003",
+        "ghcn": "KZ000036003"
     },
     "location": {
         "latitude": 52.3,

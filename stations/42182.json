@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "DL",
     "identifiers": {
-        "$wmo": "42182",
-        "$icao": "VIDD",
-        "$ghcn": "IN022021900",
-        "$usaf": "421820",
-        "$mosmix": "42182"
+        "wmo": "42182",
+        "icao": "VIDD",
+        "ghcn": "IN022021900",
+        "usaf": "421820",
+        "mosmix": "42182"
     },
     "location": {
         "latitude": 28.5833,

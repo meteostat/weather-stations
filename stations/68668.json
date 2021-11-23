@@ -6,10 +6,10 @@
     "country": "ZA",
     "region": "EC",
     "identifiers": {
-        "$wmo": "68668",
-        "$icao": "FAUT",
-        "$iata": "UTT",
-        "$usaf": "686680"
+        "wmo": "68668",
+        "icao": "FAUT",
+        "iata": "UTT",
+        "usaf": "686680"
     },
     "location": {
         "latitude": -31.5333,

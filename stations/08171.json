@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "CT",
     "identifiers": {
-        "$wmo": "08171",
-        "$ghcn": "SPE00120242",
-        "$mosmix": "08171"
+        "wmo": "08171",
+        "ghcn": "SPE00120242",
+        "mosmix": "08171"
     },
     "location": {
         "latitude": 41.6167,

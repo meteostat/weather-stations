@@ -6,11 +6,11 @@
     "country": "UA",
     "region": "KR",
     "identifiers": {
-        "$wmo": "33983",
-        "$icao": "UKFK",
-        "$iata": "KHC",
-        "$ghcn": "UPM00033983",
-        "$mosmix": "33983"
+        "wmo": "33983",
+        "icao": "UKFK",
+        "iata": "KHC",
+        "ghcn": "UPM00033983",
+        "mosmix": "33983"
     },
     "location": {
         "latitude": 45.4,

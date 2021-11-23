@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "R",
     "identifiers": {
-        "$icao": "LFOV",
-        "$iata": "LVA",
-        "$usaf": "071340"
+        "icao": "LFOV",
+        "iata": "LVA",
+        "usaf": "071340"
     },
     "location": {
         "latitude": 48.0314,

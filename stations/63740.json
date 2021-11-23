@@ -6,12 +6,12 @@
     "country": "KE",
     "region": "NA",
     "identifiers": {
-        "$wmo": "63740",
-        "$icao": "HKNA",
-        "$iata": "NBO",
-        "$ghcn": "KE000063740",
-        "$usaf": "637400",
-        "$mosmix": "63740"
+        "wmo": "63740",
+        "icao": "HKNA",
+        "iata": "NBO",
+        "ghcn": "KE000063740",
+        "usaf": "637400",
+        "mosmix": "63740"
     },
     "location": {
         "latitude": -1.3167,

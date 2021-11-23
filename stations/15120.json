@@ -6,12 +6,12 @@
     "country": "RO",
     "region": "CJ",
     "identifiers": {
-        "$wmo": "15120",
-        "$icao": "LRCL",
-        "$iata": "CLJ",
-        "$ghcn": "ROE00100902",
-        "$usaf": "151200",
-        "$mosmix": "15120"
+        "wmo": "15120",
+        "icao": "LRCL",
+        "iata": "CLJ",
+        "ghcn": "ROE00100902",
+        "usaf": "151200",
+        "mosmix": "15120"
     },
     "location": {
         "latitude": 46.7833,

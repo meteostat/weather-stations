@@ -6,11 +6,11 @@
     "country": "AR",
     "region": "N",
     "identifiers": {
-        "$wmo": "87097",
-        "$icao": "SARI",
-        "$iata": "IGR",
-        "$ghcn": "BR002554002",
-        "$usaf": "870970"
+        "wmo": "87097",
+        "icao": "SARI",
+        "iata": "IGR",
+        "ghcn": "BR002554002",
+        "usaf": "870970"
     },
     "location": {
         "latitude": -25.7333,

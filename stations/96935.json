@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "JI",
     "identifiers": {
-        "$wmo": "96935",
-        "$icao": "WRSJ",
-        "$iata": "SUB",
-        "$ghcn": "IDM00096935",
-        "$usaf": "969350"
+        "wmo": "96935",
+        "icao": "WRSJ",
+        "iata": "SUB",
+        "ghcn": "IDM00096935",
+        "usaf": "969350"
     },
     "location": {
         "latitude": -7.3667,

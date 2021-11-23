@@ -6,11 +6,11 @@
     "country": "GN",
     "region": "MCT",
     "identifiers": {
-        "$wmo": "61847",
-        "$icao": "GUMA",
-        "$iata": "MCA",
-        "$ghcn": "GV000001847",
-        "$usaf": "618470"
+        "wmo": "61847",
+        "icao": "GUMA",
+        "iata": "MCA",
+        "ghcn": "GV000001847",
+        "usaf": "618470"
     },
     "location": {
         "latitude": 8.5333,

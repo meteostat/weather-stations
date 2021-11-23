@@ -6,11 +6,11 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "$wmo": "69023",
-        "$icao": "KNUW",
-        "$ghcn": "USW00024255",
-        "$wban": "24255",
-        "$usaf": "720749"
+        "wmo": "69023",
+        "icao": "KNUW",
+        "ghcn": "USW00024255",
+        "wban": "24255",
+        "usaf": "720749"
     },
     "location": {
         "latitude": 48.3518,

@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "$icao": "CYPY",
-        "$iata": "YPY",
-        "$usaf": "719330"
+        "icao": "CYPY",
+        "iata": "YPY",
+        "usaf": "719330"
     },
     "location": {
         "latitude": 58.7667,

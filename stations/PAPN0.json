@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAPN",
-        "$iata": "PIP",
-        "$usaf": "702626"
+        "icao": "PAPN",
+        "iata": "PIP",
+        "usaf": "702626"
     },
     "location": {
         "latitude": 57.58,

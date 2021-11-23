@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$icao": "KEIK",
-        "$wban": "00161",
-        "$usaf": "720534"
+        "icao": "KEIK",
+        "wban": "00161",
+        "usaf": "720534"
     },
     "location": {
         "latitude": 40.0102,

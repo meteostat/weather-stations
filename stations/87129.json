@@ -6,10 +6,10 @@
     "country": "AR",
     "region": "G",
     "identifiers": {
-        "$wmo": "87129",
-        "$icao": "SANE",
-        "$iata": "SDE",
-        "$usaf": "871290"
+        "wmo": "87129",
+        "icao": "SANE",
+        "iata": "SDE",
+        "usaf": "871290"
     },
     "location": {
         "latitude": -27.7667,

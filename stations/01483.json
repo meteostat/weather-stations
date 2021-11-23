@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "VF",
     "identifiers": {
-        "$wmo": "01483",
-        "$icao": "ENTO",
-        "$iata": "TRF",
-        "$usaf": "014825"
+        "wmo": "01483",
+        "icao": "ENTO",
+        "iata": "TRF",
+        "usaf": "014825"
     },
     "location": {
         "latitude": 59.2,

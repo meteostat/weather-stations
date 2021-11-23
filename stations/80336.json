@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "NAR",
     "identifiers": {
-        "$wmo": "80336",
-        "$icao": "SKCO",
-        "$iata": "TCO"
+        "wmo": "80336",
+        "icao": "SKCO",
+        "iata": "TCO"
     },
     "location": {
         "latitude": 1.8167,

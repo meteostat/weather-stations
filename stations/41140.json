@@ -6,11 +6,11 @@
     "country": "SA",
     "region": "JZ",
     "identifiers": {
-        "$wmo": "41140",
-        "$icao": "OEGN",
-        "$iata": "GIZ",
-        "$ghcn": "SAM00041140",
-        "$usaf": "411400"
+        "wmo": "41140",
+        "icao": "OEGN",
+        "iata": "GIZ",
+        "ghcn": "SAM00041140",
+        "usaf": "411400"
     },
     "location": {
         "latitude": 16.9,

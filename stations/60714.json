@@ -6,10 +6,10 @@
     "country": "TN",
     "region": "BI",
     "identifiers": {
-        "$wmo": "60714",
-        "$icao": "DTTB",
-        "$iata": "QIZ",
-        "$usaf": "607140"
+        "wmo": "60714",
+        "icao": "DTTB",
+        "iata": "QIZ",
+        "usaf": "607140"
     },
     "location": {
         "latitude": 37.25,

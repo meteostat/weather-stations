@@ -6,11 +6,11 @@
     "country": "MZ",
     "region": "CD",
     "identifiers": {
-        "$wmo": "67205",
-        "$icao": "FQMP",
-        "$iata": "MZB",
-        "$ghcn": "MZM00067205",
-        "$usaf": "672050"
+        "wmo": "67205",
+        "icao": "FQMP",
+        "iata": "MZB",
+        "ghcn": "MZM00067205",
+        "usaf": "672050"
     },
     "location": {
         "latitude": -11.35,

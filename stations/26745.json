@@ -6,8 +6,8 @@
     "country": "BY",
     "region": "MI",
     "identifiers": {
-        "$wmo": "26745",
-        "$ghcn": "BOM00026745"
+        "wmo": "26745",
+        "ghcn": "BOM00026745"
     },
     "location": {
         "latitude": 54.4833,

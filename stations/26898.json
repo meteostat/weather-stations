@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "BRY",
     "identifiers": {
-        "$wmo": "26898",
-        "$icao": "UUBP",
-        "$ghcn": "RSM00026898",
-        "$usaf": "268980"
+        "wmo": "26898",
+        "icao": "UUBP",
+        "ghcn": "RSM00026898",
+        "usaf": "268980"
     },
     "location": {
         "latitude": 53.25,

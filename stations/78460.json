@@ -6,11 +6,11 @@
     "country": "DO",
     "region": "SA",
     "identifiers": {
-        "$wmo": "78460",
-        "$icao": "MDST",
-        "$iata": "STI",
-        "$usaf": "784600",
-        "$mosmix": "78460"
+        "wmo": "78460",
+        "icao": "MDST",
+        "iata": "STI",
+        "usaf": "784600",
+        "mosmix": "78460"
     },
     "location": {
         "latitude": 19.45,

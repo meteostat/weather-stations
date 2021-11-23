@@ -6,11 +6,11 @@
     "country": "CG",
     "region": "NI",
     "identifiers": {
-        "$wmo": "64403",
-        "$icao": "FCPA",
-        "$iata": "KMK",
-        "$ghcn": "CFM00064403",
-        "$usaf": "644030"
+        "wmo": "64403",
+        "icao": "FCPA",
+        "iata": "KMK",
+        "ghcn": "CFM00064403",
+        "usaf": "644030"
     },
     "location": {
         "latitude": -3.4833,

@@ -6,9 +6,9 @@
     "country": "LA",
     "region": "PH",
     "identifiers": {
-        "$wmo": "48921",
-        "$icao": "VLBN",
-        "$usaf": "489210"
+        "wmo": "48921",
+        "icao": "VLBN",
+        "usaf": "489210"
     },
     "location": {
         "latitude": 21.6333,

@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "OR",
     "identifiers": {
-        "$wmo": "42970",
-        "$ghcn": "IN017042600",
-        "$usaf": "429700"
+        "wmo": "42970",
+        "ghcn": "IN017042600",
+        "usaf": "429700"
     },
     "location": {
         "latitude": 20.4667,

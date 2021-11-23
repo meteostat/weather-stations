@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$icao": "KCVS",
-        "$iata": "CVS",
-        "$wban": "23008",
-        "$usaf": "722686"
+        "icao": "KCVS",
+        "iata": "CVS",
+        "wban": "23008",
+        "usaf": "722686"
     },
     "location": {
         "latitude": 34.3829,

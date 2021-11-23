@@ -6,11 +6,11 @@
     "country": "GE",
     "region": null,
     "identifiers": {
-        "$wmo": "88889",
-        "$icao": "EGYP",
-        "$ghcn": "FKM00088889",
-        "$usaf": "888890",
-        "$mosmix": "88889"
+        "wmo": "88889",
+        "icao": "EGYP",
+        "ghcn": "FKM00088889",
+        "usaf": "888890",
+        "mosmix": "88889"
     },
     "location": {
         "latitude": -51.8167,

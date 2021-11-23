@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "LA",
     "identifiers": {
-        "$wmo": "96295",
-        "$icao": "WIIT",
-        "$iata": "TKG",
-        "$ghcn": "IDM00096295",
-        "$usaf": "962950"
+        "wmo": "96295",
+        "icao": "WIIT",
+        "iata": "TKG",
+        "ghcn": "IDM00096295",
+        "usaf": "962950"
     },
     "location": {
         "latitude": -5.2667,

@@ -6,12 +6,12 @@
     "country": "TJ",
     "region": "DU",
     "identifiers": {
-        "$wmo": "38836",
-        "$icao": "UTDD",
-        "$iata": "DYU",
-        "$ghcn": "TI000038836",
-        "$usaf": "388360",
-        "$mosmix": "38836"
+        "wmo": "38836",
+        "icao": "UTDD",
+        "iata": "DYU",
+        "ghcn": "TI000038836",
+        "usaf": "388360",
+        "mosmix": "38836"
     },
     "location": {
         "latitude": 38.55,

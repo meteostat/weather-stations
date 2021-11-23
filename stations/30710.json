@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "IR",
     "identifiers": {
-        "$wmo": "30710",
-        "$icao": "UIII",
-        "$ghcn": "RSM00030710",
-        "$usaf": "307100",
-        "$mosmix": "30710"
+        "wmo": "30710",
+        "icao": "UIII",
+        "ghcn": "RSM00030710",
+        "usaf": "307100",
+        "mosmix": "30710"
     },
     "location": {
         "latitude": 52.2667,

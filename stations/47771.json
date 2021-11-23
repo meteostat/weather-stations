@@ -6,11 +6,11 @@
     "country": "JP",
     "region": "HG",
     "identifiers": {
-        "$wmo": "47771",
-        "$icao": "RJOO",
-        "$iata": "ITM",
-        "$usaf": "477710",
-        "$mosmix": "47771"
+        "wmo": "47771",
+        "icao": "RJOO",
+        "iata": "ITM",
+        "usaf": "477710",
+        "mosmix": "47771"
     },
     "location": {
         "latitude": 34.7833,

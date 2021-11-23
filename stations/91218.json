@@ -6,11 +6,11 @@
     "country": "US",
     "region": null,
     "identifiers": {
-        "$wmo": "91218",
-        "$icao": "PGUA",
-        "$iata": "UAM",
-        "$wban": "41414",
-        "$usaf": "912180"
+        "wmo": "91218",
+        "icao": "PGUA",
+        "iata": "UAM",
+        "wban": "41414",
+        "usaf": "912180"
     },
     "location": {
         "latitude": 13.5833,

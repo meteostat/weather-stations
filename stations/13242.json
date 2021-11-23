@@ -6,10 +6,10 @@
     "country": "BA",
     "region": null,
     "identifiers": {
-        "$wmo": "13242",
-        "$icao": "LQBK",
-        "$iata": "BNX",
-        "$usaf": "132420"
+        "wmo": "13242",
+        "icao": "LQBK",
+        "iata": "BNX",
+        "usaf": "132420"
     },
     "location": {
         "latitude": 44.7833,

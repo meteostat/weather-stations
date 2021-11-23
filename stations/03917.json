@@ -6,12 +6,12 @@
     "country": "GB",
     "region": "NIR",
     "identifiers": {
-        "$wmo": "03917",
-        "$icao": "EGAA",
-        "$iata": "BFS",
-        "$ghcn": "UKM00003917",
-        "$usaf": "039170",
-        "$mosmix": "03917"
+        "wmo": "03917",
+        "icao": "EGAA",
+        "iata": "BFS",
+        "ghcn": "UKM00003917",
+        "usaf": "039170",
+        "mosmix": "03917"
     },
     "location": {
         "latitude": 54.65,

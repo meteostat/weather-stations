@@ -6,12 +6,12 @@
     "country": "FR",
     "region": "EU",
     "identifiers": {
-        "$wmo": "07038",
-        "$icao": "LFOE",
-        "$ghcn": "FRW00034061",
-        "$wban": "34061",
-        "$usaf": "070380",
-        "$mosmix": "07038"
+        "wmo": "07038",
+        "icao": "LFOE",
+        "ghcn": "FRW00034061",
+        "wban": "34061",
+        "usaf": "070380",
+        "mosmix": "07038"
     },
     "location": {
         "latitude": 49.0167,

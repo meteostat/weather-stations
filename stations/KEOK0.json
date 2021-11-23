@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "$icao": "KEOK",
-        "$wban": "04921",
-        "$usaf": "725456"
+        "icao": "KEOK",
+        "wban": "04921",
+        "usaf": "725456"
     },
     "location": {
         "latitude": 40.4599,

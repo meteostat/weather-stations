@@ -6,10 +6,10 @@
     "country": "NI",
     "region": "LE",
     "identifiers": {
-        "$wmo": "78745",
-        "$icao": "MNBL",
-        "$iata": "BEF",
-        "$usaf": "787450"
+        "wmo": "78745",
+        "icao": "MNBL",
+        "iata": "BEF",
+        "usaf": "787450"
     },
     "location": {
         "latitude": 12,

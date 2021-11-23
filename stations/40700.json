@@ -6,8 +6,8 @@
     "country": "IR",
     "region": "EAZ",
     "identifiers": {
-        "$wmo": "40700",
-        "$usaf": "407000"
+        "wmo": "40700",
+        "usaf": "407000"
     },
     "location": {
         "latitude": 39.65,

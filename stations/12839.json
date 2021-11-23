@@ -6,11 +6,11 @@
     "country": "HU",
     "region": "BU",
     "identifiers": {
-        "$wmo": "12839",
-        "$icao": "LHBP",
-        "$iata": "BUD",
-        "$usaf": "128390",
-        "$mosmix": "12839"
+        "wmo": "12839",
+        "icao": "LHBP",
+        "iata": "BUD",
+        "usaf": "128390",
+        "mosmix": "12839"
     },
     "location": {
         "latitude": 47.4333,

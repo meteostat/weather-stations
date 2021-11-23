@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "NER",
     "identifiers": {
-        "$wmo": "98642",
-        "$icao": "RPVD",
-        "$iata": "DGT",
-        "$usaf": "986420"
+        "wmo": "98642",
+        "icao": "RPVD",
+        "iata": "DGT",
+        "usaf": "986420"
     },
     "location": {
         "latitude": 9.3,

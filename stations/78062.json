@@ -6,10 +6,10 @@
     "country": "BS",
     "region": "WB",
     "identifiers": {
-        "$wmo": "78062",
-        "$icao": "MYGF",
-        "$iata": "FPO",
-        "$usaf": "780620"
+        "wmo": "78062",
+        "icao": "MYGF",
+        "iata": "FPO",
+        "usaf": "780620"
     },
     "location": {
         "latitude": 26.55,

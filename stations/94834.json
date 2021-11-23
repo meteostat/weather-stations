@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "VIC",
     "identifiers": {
-        "$wmo": "94834",
-        "$icao": "YARA",
-        "$iata": "ARY",
-        "$ghcn": "ASN00089085"
+        "wmo": "94834",
+        "icao": "YARA",
+        "iata": "ARY",
+        "ghcn": "ASN00089085"
     },
     "location": {
         "latitude": -37.2833,

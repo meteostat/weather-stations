@@ -6,10 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KTIX",
-        "$iata": "TIX",
-        "$wban": "12898",
-        "$usaf": "722046"
+        "icao": "KTIX",
+        "iata": "TIX",
+        "wban": "12898",
+        "usaf": "722046"
     },
     "location": {
         "latitude": 28.5148,

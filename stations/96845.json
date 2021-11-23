@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "JT",
     "identifiers": {
-        "$wmo": "96845",
-        "$icao": "WRSQ",
-        "$usaf": "968450"
+        "wmo": "96845",
+        "icao": "WRSQ",
+        "usaf": "968450"
     },
     "location": {
         "latitude": -7.8667,

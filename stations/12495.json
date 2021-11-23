@@ -6,11 +6,11 @@
     "country": "PL",
     "region": "LL",
     "identifiers": {
-        "$wmo": "12495",
-        "$icao": "EPLR",
-        "$iata": "QLU",
-        "$usaf": "124950",
-        "$mosmix": "12495"
+        "wmo": "12495",
+        "icao": "EPLR",
+        "iata": "QLU",
+        "usaf": "124950",
+        "mosmix": "12495"
     },
     "location": {
         "latitude": 51.2167,

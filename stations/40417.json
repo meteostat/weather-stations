@@ -6,8 +6,8 @@
     "country": "SA",
     "region": "SH",
     "identifiers": {
-        "$wmo": "40417",
-        "$ghcn": "SAM00040417"
+        "wmo": "40417",
+        "ghcn": "SAM00040417"
     },
     "location": {
         "latitude": 26.45,

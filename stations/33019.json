@@ -6,8 +6,8 @@
     "country": "BY",
     "region": "BR",
     "identifiers": {
-        "$wmo": "33019",
-        "$ghcn": "BOM00033019"
+        "wmo": "33019",
+        "ghcn": "BOM00033019"
     },
     "location": {
         "latitude": 52.1167,

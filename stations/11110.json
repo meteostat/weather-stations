@@ -6,8 +6,8 @@
     "country": "AT",
     "region": "TR",
     "identifiers": {
-        "$wmo": "11110",
-        "$mosmix": "11110"
+        "wmo": "11110",
+        "mosmix": "11110"
     },
     "location": {
         "latitude": 47.1333,

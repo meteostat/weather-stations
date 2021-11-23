@@ -6,10 +6,10 @@
     "country": "CM",
     "region": "EN",
     "identifiers": {
-        "$wmo": "64851",
-        "$icao": "FKKA",
-        "$ghcn": "CMM00064851",
-        "$usaf": "648821"
+        "wmo": "64851",
+        "icao": "FKKA",
+        "ghcn": "CMM00064851",
+        "usaf": "648821"
     },
     "location": {
         "latitude": 10.45,

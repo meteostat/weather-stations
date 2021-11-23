@@ -6,10 +6,10 @@
     "country": "MG",
     "region": "D",
     "identifiers": {
-        "$wmo": "67022",
-        "$icao": "FMND",
-        "$iata": "ZWA",
-        "$usaf": "670220"
+        "wmo": "67022",
+        "icao": "FMND",
+        "iata": "ZWA",
+        "usaf": "670220"
     },
     "location": {
         "latitude": -14.65,

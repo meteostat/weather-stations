@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "VT",
     "identifiers": {
-        "$wmo": "16216",
-        "$icao": "LIRV",
-        "$usaf": "162160",
-        "$mosmix": "16216"
+        "wmo": "16216",
+        "icao": "LIRV",
+        "usaf": "162160",
+        "mosmix": "16216"
     },
     "location": {
         "latitude": 42.4333,

@@ -6,10 +6,10 @@
     "country": "PL",
     "region": "KP",
     "identifiers": {
-        "$wmo": "12250",
-        "$icao": "EPTO",
-        "$usaf": "122500",
-        "$mosmix": "12250"
+        "wmo": "12250",
+        "icao": "EPTO",
+        "usaf": "122500",
+        "mosmix": "12250"
     },
     "location": {
         "latitude": 53.0333,

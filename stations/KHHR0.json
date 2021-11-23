@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KHHR",
-        "$iata": "HHR",
-        "$wban": "03167",
-        "$usaf": "722956"
+        "icao": "KHHR",
+        "iata": "HHR",
+        "wban": "03167",
+        "usaf": "722956"
     },
     "location": {
         "latitude": 33.9228,

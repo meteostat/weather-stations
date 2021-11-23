@@ -6,11 +6,11 @@
     "country": "UY",
     "region": "RV",
     "identifiers": {
-        "$wmo": "86350",
-        "$icao": "SURV",
-        "$iata": "RVY",
-        "$ghcn": "UYM00086350",
-        "$usaf": "863500"
+        "wmo": "86350",
+        "icao": "SURV",
+        "iata": "RVY",
+        "ghcn": "UYM00086350",
+        "usaf": "863500"
     },
     "location": {
         "latitude": -30.8833,

@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "MO",
     "identifiers": {
-        "$wmo": "27760",
-        "$icao": "UWPS",
-        "$iata": "SKX",
-        "$ghcn": "RSM00027760"
+        "wmo": "27760",
+        "icao": "UWPS",
+        "iata": "SKX",
+        "ghcn": "RSM00027760"
     },
     "location": {
         "latitude": 54.1333,

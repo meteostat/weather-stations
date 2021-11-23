@@ -6,12 +6,12 @@
     "country": "TR",
     "region": "KON",
     "identifiers": {
-        "$wmo": "17244",
-        "$icao": "LTAN",
-        "$iata": "KYA",
-        "$ghcn": "TUM00017244",
-        "$usaf": "172440",
-        "$mosmix": "17244"
+        "wmo": "17244",
+        "icao": "LTAN",
+        "iata": "KYA",
+        "ghcn": "TUM00017244",
+        "usaf": "172440",
+        "mosmix": "17244"
     },
     "location": {
         "latitude": 37.9667,

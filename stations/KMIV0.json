@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "$icao": "KMIV",
-        "$iata": "MIV",
-        "$wban": "13735",
-        "$usaf": "724075"
+        "icao": "KMIV",
+        "iata": "MIV",
+        "wban": "13735",
+        "usaf": "724075"
     },
     "location": {
         "latitude": 39.3678,

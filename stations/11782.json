@@ -6,12 +6,12 @@
     "country": "CZ",
     "region": "MO",
     "identifiers": {
-        "$wmo": "11782",
-        "$icao": "LKMT",
-        "$iata": "OSR",
-        "$ghcn": "EZM00011782",
-        "$usaf": "117820",
-        "$mosmix": "11782"
+        "wmo": "11782",
+        "icao": "LKMT",
+        "iata": "OSR",
+        "ghcn": "EZM00011782",
+        "usaf": "117820",
+        "mosmix": "11782"
     },
     "location": {
         "latitude": 49.6833,

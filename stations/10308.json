@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "$wmo": "10308",
-        "$icao": "ETUN",
-        "$usaf": "103080"
+        "wmo": "10308",
+        "icao": "ETUN",
+        "usaf": "103080"
     },
     "location": {
         "latitude": 52.45,

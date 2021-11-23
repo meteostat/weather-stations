@@ -6,11 +6,11 @@
     "country": "PE",
     "region": "MD",
     "identifiers": {
-        "$wmo": "84658",
-        "$icao": "SPTU",
-        "$iata": "PEM",
-        "$ghcn": "PEM00084658",
-        "$usaf": "846580"
+        "wmo": "84658",
+        "icao": "SPTU",
+        "iata": "PEM",
+        "ghcn": "PEM00084658",
+        "usaf": "846580"
     },
     "location": {
         "latitude": -12.6333,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KBGD",
-        "$iata": "BGD",
-        "$wban": "03024",
-        "$usaf": "723635"
+        "icao": "KBGD",
+        "iata": "BGD",
+        "wban": "03024",
+        "usaf": "723635"
     },
     "location": {
         "latitude": 35.7009,

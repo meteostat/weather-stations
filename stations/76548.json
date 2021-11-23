@@ -6,10 +6,10 @@
     "country": "MX",
     "region": "VER",
     "identifiers": {
-        "$wmo": "76548",
-        "$ghcn": "MXM00076548",
-        "$usaf": "765480",
-        "$mosmix": "76548"
+        "wmo": "76548",
+        "ghcn": "MXM00076548",
+        "usaf": "765480",
+        "mosmix": "76548"
     },
     "location": {
         "latitude": 22.2167,

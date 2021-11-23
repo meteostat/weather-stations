@@ -6,8 +6,8 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "$wmo": "91198",
-        "$ghcn": "USC00515000"
+        "wmo": "91198",
+        "ghcn": "USC00515000"
     },
     "location": {
         "latitude": 20.7667,

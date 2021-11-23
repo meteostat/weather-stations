@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "$icao": "KHRI",
-        "$wban": "04113",
-        "$usaf": "726883"
+        "icao": "KHRI",
+        "wban": "04113",
+        "usaf": "726883"
     },
     "location": {
         "latitude": 45.8282,

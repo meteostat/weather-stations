@@ -6,8 +6,8 @@
     "country": "KW",
     "region": "DE",
     "identifiers": {
-        "$wmo": "40572",
-        "$ghcn": "KUM00040572"
+        "wmo": "40572",
+        "ghcn": "KUM00040572"
     },
     "location": {
         "latitude": 5.5,

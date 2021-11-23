@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "AR",
     "identifiers": {
-        "$wmo": "08233",
-        "$icao": "LECH",
-        "$usaf": "082330"
+        "wmo": "08233",
+        "icao": "LECH",
+        "usaf": "082330"
     },
     "location": {
         "latitude": 40.9333,

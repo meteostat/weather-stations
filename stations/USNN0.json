@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "KHM",
     "identifiers": {
-        "$icao": "USNN",
-        "$iata": "NJC",
-        "$usaf": "234710"
+        "icao": "USNN",
+        "iata": "NJC",
+        "usaf": "234710"
     },
     "location": {
         "latitude": 60.9333,

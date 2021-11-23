@@ -6,9 +6,9 @@
     "country": "LY",
     "region": "AJ",
     "identifiers": {
-        "$wmo": "62161",
-        "$ghcn": "LYM00062161",
-        "$usaf": "621610"
+        "wmo": "62161",
+        "ghcn": "LYM00062161",
+        "usaf": "621610"
     },
     "location": {
         "latitude": 29.0333,

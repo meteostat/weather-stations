@@ -6,10 +6,10 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$icao": "KDRI",
-        "$iata": "DRI",
-        "$wban": "03976",
-        "$usaf": "722334"
+        "icao": "KDRI",
+        "iata": "DRI",
+        "wban": "03976",
+        "usaf": "722334"
     },
     "location": {
         "latitude": 30.8317,

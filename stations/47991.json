@@ -6,10 +6,10 @@
     "country": "JP",
     "region": null,
     "identifiers": {
-        "$wmo": "47991",
-        "$icao": "RJAM",
-        "$ghcn": "JA000047991",
-        "$usaf": "479910"
+        "wmo": "47991",
+        "icao": "RJAM",
+        "ghcn": "JA000047991",
+        "usaf": "479910"
     },
     "location": {
         "latitude": 24.3,

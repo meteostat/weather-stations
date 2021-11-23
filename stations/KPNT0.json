@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$icao": "KPNT",
-        "$wban": "04889",
-        "$usaf": "722171"
+        "icao": "KPNT",
+        "wban": "04889",
+        "usaf": "722171"
     },
     "location": {
         "latitude": 40.9244,

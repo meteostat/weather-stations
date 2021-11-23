@@ -6,11 +6,11 @@
     "country": "SB",
     "region": "GU",
     "identifiers": {
-        "$wmo": "91520",
-        "$icao": "AGGH",
-        "$iata": "HIR",
-        "$ghcn": "BPW00080601",
-        "$usaf": "915200"
+        "wmo": "91520",
+        "icao": "AGGH",
+        "iata": "HIR",
+        "ghcn": "BPW00080601",
+        "usaf": "915200"
     },
     "location": {
         "latitude": -9.4167,

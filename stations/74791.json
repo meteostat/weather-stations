@@ -6,12 +6,12 @@
     "country": "US",
     "region": "SC",
     "identifiers": {
-        "$wmo": "74791",
-        "$icao": "KMYR",
-        "$iata": "MYR",
-        "$ghcn": "USW00013717",
-        "$wban": "13717",
-        "$usaf": "747910"
+        "wmo": "74791",
+        "icao": "KMYR",
+        "iata": "MYR",
+        "ghcn": "USW00013717",
+        "wban": "13717",
+        "usaf": "747910"
     },
     "location": {
         "latitude": 33.6833,

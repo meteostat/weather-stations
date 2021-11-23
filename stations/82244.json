@@ -6,12 +6,12 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "$wmo": "82244",
-        "$icao": "SBSN",
-        "$iata": "STM",
-        "$ghcn": "BR000254000",
-        "$usaf": "822440",
-        "$mosmix": "82244"
+        "wmo": "82244",
+        "icao": "SBSN",
+        "iata": "STM",
+        "ghcn": "BR000254000",
+        "usaf": "822440",
+        "mosmix": "82244"
     },
     "location": {
         "latitude": -2.4333,

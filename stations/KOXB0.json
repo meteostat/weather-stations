@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "$icao": "KOXB",
-        "$wban": "93786",
-        "$usaf": "745946"
+        "icao": "KOXB",
+        "wban": "93786",
+        "usaf": "745946"
     },
     "location": {
         "latitude": 38.3104,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "$icao": "KCHO",
-        "$iata": "CHO",
-        "$wban": "93736",
-        "$usaf": "724016"
+        "icao": "KCHO",
+        "iata": "CHO",
+        "wban": "93736",
+        "usaf": "724016"
     },
     "location": {
         "latitude": 38.1386,

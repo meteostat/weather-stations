@@ -6,12 +6,12 @@
     "country": "ET",
     "region": "DD",
     "identifiers": {
-        "$wmo": "63471",
-        "$icao": "HADR",
-        "$iata": "DIR",
-        "$ghcn": "ET000063471",
-        "$usaf": "634710",
-        "$mosmix": "63471"
+        "wmo": "63471",
+        "icao": "HADR",
+        "iata": "DIR",
+        "ghcn": "ET000063471",
+        "usaf": "634710",
+        "mosmix": "63471"
     },
     "location": {
         "latitude": 9.6,

@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "JK",
     "identifiers": {
-        "$wmo": "42027",
-        "$ghcn": "IN008010200",
-        "$usaf": "420270"
+        "wmo": "42027",
+        "ghcn": "IN008010200",
+        "usaf": "420270"
     },
     "location": {
         "latitude": 34.0833,

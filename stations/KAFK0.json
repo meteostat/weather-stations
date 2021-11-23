@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$icao": "KAFK",
-        "$wban": "04993",
-        "$usaf": "725541"
+        "icao": "KAFK",
+        "wban": "04993",
+        "usaf": "725541"
     },
     "location": {
         "latitude": 40.6054,

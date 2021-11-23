@@ -6,12 +6,12 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$wmo": "72248",
-        "$icao": "KSHV",
-        "$iata": "BAD",
-        "$ghcn": "USW00013957",
-        "$wban": "13957",
-        "$usaf": "722480"
+        "wmo": "72248",
+        "icao": "KSHV",
+        "iata": "BAD",
+        "ghcn": "USW00013957",
+        "wban": "13957",
+        "usaf": "722480"
     },
     "location": {
         "latitude": 32.45,

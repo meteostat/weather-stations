@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAPO",
-        "$iata": "PHO",
-        "$wban": "26623",
-        "$usaf": "701043"
+        "icao": "PAPO",
+        "iata": "PHO",
+        "wban": "26623",
+        "usaf": "701043"
     },
     "location": {
         "latitude": 68.3488,

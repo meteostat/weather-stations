@@ -6,10 +6,10 @@
     "country": "AT",
     "region": "NO",
     "identifiers": {
-        "$wmo": "11030",
-        "$icao": "LOXT",
-        "$usaf": "110300",
-        "$mosmix": "11030"
+        "wmo": "11030",
+        "icao": "LOXT",
+        "usaf": "110300",
+        "mosmix": "11030"
     },
     "location": {
         "latitude": 48.3167,

@@ -6,9 +6,9 @@
     "country": "PK",
     "region": "T",
     "identifiers": {
-        "$wmo": "41560",
-        "$ghcn": "PK000041560",
-        "$usaf": "415600"
+        "wmo": "41560",
+        "ghcn": "PK000041560",
+        "usaf": "415600"
     },
     "location": {
         "latitude": 33.8667,

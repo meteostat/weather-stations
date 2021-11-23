@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "TR",
     "identifiers": {
-        "$wmo": "01046",
-        "$icao": "ENSR",
-        "$iata": "SOJ",
-        "$usaf": "010460"
+        "wmo": "01046",
+        "icao": "ENSR",
+        "iata": "SOJ",
+        "usaf": "010460"
     },
     "location": {
         "latitude": 69.7833,

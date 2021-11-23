@@ -6,11 +6,11 @@
     "country": "MR",
     "region": "AS",
     "identifiers": {
-        "$wmo": "61498",
-        "$icao": "GQNF",
-        "$iata": "KFA",
-        "$ghcn": "MR000001498",
-        "$usaf": "614980"
+        "wmo": "61498",
+        "icao": "GQNF",
+        "iata": "KFA",
+        "ghcn": "MR000001498",
+        "usaf": "614980"
     },
     "location": {
         "latitude": 16.6333,

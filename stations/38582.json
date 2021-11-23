@@ -6,8 +6,8 @@
     "country": "UZ",
     "region": "YUZ",
     "identifiers": {
-        "$wmo": "38582",
-        "$ghcn": "KZ000038582"
+        "wmo": "38582",
+        "ghcn": "KZ000038582"
     },
     "location": {
         "latitude": 40.8333,

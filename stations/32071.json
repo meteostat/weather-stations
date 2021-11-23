@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "SAK",
     "identifiers": {
-        "$wmo": "32071",
-        "$ghcn": "RSM00032071"
+        "wmo": "32071",
+        "ghcn": "RSM00032071"
     },
     "location": {
         "latitude": 50.7333,

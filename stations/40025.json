@@ -6,8 +6,8 @@
     "country": "SY",
     "region": "LA",
     "identifiers": {
-        "$wmo": "40025",
-        "$mosmix": "40025"
+        "wmo": "40025",
+        "mosmix": "40025"
     },
     "location": {
         "latitude": 35.4,

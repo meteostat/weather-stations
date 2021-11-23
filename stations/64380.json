@@ -6,10 +6,10 @@
     "country": "RW",
     "region": "CY",
     "identifiers": {
-        "$wmo": "64380",
-        "$icao": "HRZA",
-        "$iata": "KME",
-        "$usaf": "643800"
+        "wmo": "64380",
+        "icao": "HRZA",
+        "iata": "KME",
+        "usaf": "643800"
     },
     "location": {
         "latitude": -2.4667,

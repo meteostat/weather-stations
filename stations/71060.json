@@ -6,10 +6,10 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "$icao": "CWOA",
-        "$ghcn": "CA003054843",
-        "$usaf": "710600",
-        "$mosmix": "71060"
+        "icao": "CWOA",
+        "ghcn": "CA003054843",
+        "usaf": "710600",
+        "mosmix": "71060"
     },
     "location": {
         "latitude": 65.6167,

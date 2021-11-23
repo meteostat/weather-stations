@@ -6,12 +6,12 @@
     "country": "IL",
     "region": "C",
     "identifiers": {
-        "$wmo": "40180",
-        "$icao": "LLBG",
-        "$iata": "TLV",
-        "$ghcn": "ISM00040180",
-        "$usaf": "401800",
-        "$mosmix": "40180"
+        "wmo": "40180",
+        "icao": "LLBG",
+        "iata": "TLV",
+        "ghcn": "ISM00040180",
+        "usaf": "401800",
+        "mosmix": "40180"
     },
     "location": {
         "latitude": 32,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KNOG",
-        "$wban": "12974",
-        "$usaf": "722518"
+        "icao": "KNOG",
+        "wban": "12974",
+        "usaf": "722518"
     },
     "location": {
         "latitude": 27.8968,

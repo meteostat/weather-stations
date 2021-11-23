@@ -6,10 +6,10 @@
     "country": "TR",
     "region": "MAL",
     "identifiers": {
-        "$wmo": "17200",
-        "$icao": "LTAT",
-        "$iata": "MLX",
-        "$usaf": "172000"
+        "wmo": "17200",
+        "icao": "LTAT",
+        "iata": "MLX",
+        "usaf": "172000"
     },
     "location": {
         "latitude": 38.4333,

@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NF",
     "identifiers": {
-        "$icao": "CWVA",
-        "$ghcn": "CA006106367",
-        "$usaf": "711960"
+        "icao": "CWVA",
+        "ghcn": "CA006106367",
+        "usaf": "711960"
     },
     "location": {
         "latitude": 48.6667,

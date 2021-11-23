@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NU",
     "identifiers": {
-        "$icao": "CWNV",
-        "$ghcn": "CA00406N0NM",
-        "$usaf": "719900"
+        "icao": "CWNV",
+        "ghcn": "CA00406N0NM",
+        "usaf": "719900"
     },
     "location": {
         "latitude": 68.6197,

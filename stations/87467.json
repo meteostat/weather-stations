@@ -6,10 +6,10 @@
     "country": "AR",
     "region": "X",
     "identifiers": {
-        "$wmo": "87467",
-        "$icao": "SAOM",
-        "$ghcn": "ARM00087467",
-        "$usaf": "874670"
+        "wmo": "87467",
+        "icao": "SAOM",
+        "ghcn": "ARM00087467",
+        "usaf": "874670"
     },
     "location": {
         "latitude": -32.7,

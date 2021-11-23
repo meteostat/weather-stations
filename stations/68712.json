@@ -6,8 +6,8 @@
     "country": "ZA",
     "region": "WC",
     "identifiers": {
-        "$wmo": "68712",
-        "$ghcn": "SF000068712"
+        "wmo": "68712",
+        "ghcn": "SF000068712"
     },
     "location": {
         "latitude": -32.8333,

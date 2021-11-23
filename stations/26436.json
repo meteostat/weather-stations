@@ -6,8 +6,8 @@
     "country": "LV",
     "region": "JEK",
     "identifiers": {
-        "$wmo": "26436",
-        "$ghcn": "LG000026436"
+        "wmo": "26436",
+        "ghcn": "LG000026436"
     },
     "location": {
         "latitude": 56.5167,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "$icao": "KRNT",
-        "$iata": "RNT",
-        "$wban": "94248",
-        "$usaf": "727934"
+        "icao": "KRNT",
+        "iata": "RNT",
+        "wban": "94248",
+        "usaf": "727934"
     },
     "location": {
         "latitude": 47.4931,

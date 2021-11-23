@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$icao": "KFZY",
-        "$wban": "54773",
-        "$usaf": "725146"
+        "icao": "KFZY",
+        "wban": "54773",
+        "usaf": "725146"
     },
     "location": {
         "latitude": 43.3508,

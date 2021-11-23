@@ -6,12 +6,12 @@
     "country": "MV",
     "region": "MA",
     "identifiers": {
-        "$wmo": "43555",
-        "$icao": "VRMM",
-        "$iata": "MLE",
-        "$ghcn": "MV000043555",
-        "$usaf": "435550",
-        "$mosmix": "43555"
+        "wmo": "43555",
+        "icao": "VRMM",
+        "iata": "MLE",
+        "ghcn": "MV000043555",
+        "usaf": "435550",
+        "mosmix": "43555"
     },
     "location": {
         "latitude": 4.2,

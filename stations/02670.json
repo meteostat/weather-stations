@@ -1,15 +1,15 @@
 {
     "id": "02670",
     "name": {
-        "sv": "Kalmar Flygplats",
-        "en": "Kalmar Airport"
+        "en": "Kalmar Airport",
+        "sv": "Kalmar Flygplats"
     },
     "country": "SE",
     "region": "H",
     "identifiers": {
-        "$wmo": "02670",
-        "$icao": "ESDC",
-        "$mosmix": "02670"
+        "wmo": "02670",
+        "icao": "ESDC",
+        "mosmix": "02670"
     },
     "location": {
         "latitude": 56.6833,

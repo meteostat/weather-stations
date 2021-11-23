@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NF",
     "identifiers": {
-        "$icao": "CYAY",
-        "$iata": "YAY",
-        "$usaf": "718190"
+        "icao": "CYAY",
+        "iata": "YAY",
+        "usaf": "718190"
     },
     "location": {
         "latitude": 51.3833,

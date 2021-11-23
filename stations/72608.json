@@ -6,10 +6,10 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "$wmo": "72608",
-        "$icao": "KEPO",
-        "$ghcn": "USC00172426",
-        "$wban": "14608"
+        "wmo": "72608",
+        "icao": "KEPO",
+        "ghcn": "USC00172426",
+        "wban": "14608"
     },
     "location": {
         "latitude": 44.9167,

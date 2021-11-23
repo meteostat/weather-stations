@@ -6,11 +6,11 @@
     "country": "CO",
     "region": "VIC",
     "identifiers": {
-        "$wmo": "80139",
-        "$icao": "SKPC",
-        "$iata": "PCR",
-        "$ghcn": "VE000005484",
-        "$usaf": "801390"
+        "wmo": "80139",
+        "icao": "SKPC",
+        "iata": "PCR",
+        "ghcn": "VE000005484",
+        "usaf": "801390"
     },
     "location": {
         "latitude": 6.1667,

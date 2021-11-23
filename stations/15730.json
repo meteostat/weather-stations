@@ -6,8 +6,8 @@
     "country": "BG",
     "region": "KZ",
     "identifiers": {
-        "$wmo": "15730",
-        "$ghcn": "BUM00015730"
+        "wmo": "15730",
+        "ghcn": "BUM00015730"
     },
     "location": {
         "latitude": 41.65,

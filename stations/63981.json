@@ -6,10 +6,10 @@
     "country": "SC",
     "region": null,
     "identifiers": {
-        "$wmo": "63981",
-        "$icao": "FSPP",
-        "$iata": "PRI",
-        "$usaf": "639810"
+        "wmo": "63981",
+        "icao": "FSPP",
+        "iata": "PRI",
+        "usaf": "639810"
     },
     "location": {
         "latitude": -5.3167,

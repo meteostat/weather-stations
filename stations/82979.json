@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "BA",
     "identifiers": {
-        "$wmo": "82979",
-        "$iata": "RSO",
-        "$ghcn": "BR037953910",
-        "$usaf": "829790"
+        "wmo": "82979",
+        "iata": "RSO",
+        "ghcn": "BR037953910",
+        "usaf": "829790"
     },
     "location": {
         "latitude": -9.6333,

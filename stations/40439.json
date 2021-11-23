@@ -6,11 +6,11 @@
     "country": "SA",
     "region": "MD",
     "identifiers": {
-        "$wmo": "40439",
-        "$icao": "OEYN",
-        "$iata": "YNB",
-        "$ghcn": "SAM00040439",
-        "$usaf": "404390"
+        "wmo": "40439",
+        "icao": "OEYN",
+        "iata": "YNB",
+        "ghcn": "SAM00040439",
+        "usaf": "404390"
     },
     "location": {
         "latitude": 24.15,

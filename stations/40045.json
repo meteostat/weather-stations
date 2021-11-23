@@ -6,12 +6,12 @@
     "country": "SY",
     "region": "DZ",
     "identifiers": {
-        "$wmo": "40045",
-        "$icao": "OSDZ",
-        "$iata": "DEZ",
-        "$ghcn": "SYM00040045",
-        "$usaf": "400450",
-        "$mosmix": "40045"
+        "wmo": "40045",
+        "icao": "OSDZ",
+        "iata": "DEZ",
+        "ghcn": "SYM00040045",
+        "usaf": "400450",
+        "mosmix": "40045"
     },
     "location": {
         "latitude": 35.3167,

@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "TAM",
     "identifiers": {
-        "$wmo": "76491",
-        "$ghcn": "MX000028116",
-        "$usaf": "764910"
+        "wmo": "76491",
+        "ghcn": "MX000028116",
+        "usaf": "764910"
     },
     "location": {
         "latitude": 23.75,

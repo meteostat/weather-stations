@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$icao": "KOKK",
-        "$wban": "54807",
-        "$usaf": "724387"
+        "icao": "KOKK",
+        "wban": "54807",
+        "usaf": "724387"
     },
     "location": {
         "latitude": 40.5282,

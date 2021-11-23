@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "BA",
     "identifiers": {
-        "$wmo": "86652",
-        "$usaf": "866520",
-        "$mosmix": "86652"
+        "wmo": "86652",
+        "usaf": "866520",
+        "mosmix": "86652"
     },
     "location": {
         "latitude": -12.15,

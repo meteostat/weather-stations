@@ -6,9 +6,9 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KTMB",
-        "$wban": "12888",
-        "$usaf": "722029"
+        "icao": "KTMB",
+        "wban": "12888",
+        "usaf": "722029"
     },
     "location": {
         "latitude": 25.6479,

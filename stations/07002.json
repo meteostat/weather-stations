@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "O",
     "identifiers": {
-        "$wmo": "07002",
-        "$usaf": "070020",
-        "$mosmix": "07002"
+        "wmo": "07002",
+        "usaf": "070020",
+        "mosmix": "07002"
     },
     "location": {
         "latitude": 50.7333,

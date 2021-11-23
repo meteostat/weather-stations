@@ -6,12 +6,12 @@
     "country": "OM",
     "region": null,
     "identifiers": {
-        "$wmo": "41244",
-        "$icao": "OOBR",
-        "$iata": "RMB",
-        "$ghcn": "MUM00041244",
-        "$usaf": "412440",
-        "$mosmix": "41244"
+        "wmo": "41244",
+        "icao": "OOBR",
+        "iata": "RMB",
+        "ghcn": "MUM00041244",
+        "usaf": "412440",
+        "mosmix": "41244"
     },
     "location": {
         "latitude": 24.2333,

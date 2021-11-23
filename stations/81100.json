@@ -6,10 +6,10 @@
     "country": "GY",
     "region": "BW",
     "identifiers": {
-        "$wmo": "81100",
-        "$icao": "SYMB",
-        "$iata": "USI",
-        "$usaf": "811000"
+        "wmo": "81100",
+        "icao": "SYMB",
+        "iata": "USI",
+        "usaf": "811000"
     },
     "location": {
         "latitude": 8.2,

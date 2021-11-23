@@ -6,12 +6,12 @@
     "country": "PE",
     "region": "CU",
     "identifiers": {
-        "$wmo": "84686",
-        "$icao": "SPZO",
-        "$iata": "CUZ",
-        "$ghcn": "PEM00084686",
-        "$usaf": "846860",
-        "$mosmix": "84686"
+        "wmo": "84686",
+        "icao": "SPZO",
+        "iata": "CUZ",
+        "ghcn": "PEM00084686",
+        "usaf": "846860",
+        "mosmix": "84686"
     },
     "location": {
         "latitude": -13.55,

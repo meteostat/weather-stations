@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "$icao": "KMAN",
-        "$wban": "00264",
-        "$usaf": "720734"
+        "icao": "KMAN",
+        "wban": "00264",
+        "usaf": "720734"
     },
     "location": {
         "latitude": 43.5813,

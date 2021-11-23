@@ -6,12 +6,12 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$wmo": "72481",
-        "$icao": "KMER",
-        "$iata": "MER",
-        "$ghcn": "USW00023203",
-        "$wban": "23203",
-        "$usaf": "724810"
+        "wmo": "72481",
+        "icao": "KMER",
+        "iata": "MER",
+        "ghcn": "USW00023203",
+        "wban": "23203",
+        "usaf": "724810"
     },
     "location": {
         "latitude": 37.3667,

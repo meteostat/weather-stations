@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "$icao": "KLDJ",
-        "$wban": "00178",
-        "$usaf": "720581"
+        "icao": "KLDJ",
+        "wban": "00178",
+        "usaf": "720581"
     },
     "location": {
         "latitude": 40.6174,

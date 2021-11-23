@@ -6,10 +6,10 @@
     "country": "CO",
     "region": "CHO",
     "identifiers": {
-        "$wmo": "80100",
-        "$icao": "SKBS",
-        "$iata": "BSC",
-        "$usaf": "802222"
+        "wmo": "80100",
+        "icao": "SKBS",
+        "iata": "BSC",
+        "usaf": "802222"
     },
     "location": {
         "latitude": 6.1833,

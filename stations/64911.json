@@ -6,10 +6,10 @@
     "country": "CM",
     "region": "LIT",
     "identifiers": {
-        "$wmo": "64911",
-        "$icao": "FKAN",
-        "$iata": "NKS",
-        "$usaf": "649110"
+        "wmo": "64911",
+        "icao": "FKAN",
+        "iata": "NKS",
+        "usaf": "649110"
     },
     "location": {
         "latitude": 4.95,

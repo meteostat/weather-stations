@@ -6,10 +6,10 @@
     "country": "MX",
     "region": "BCS",
     "identifiers": {
-        "$wmo": "76405",
-        "$ghcn": "MX000003074",
-        "$usaf": "764050",
-        "$mosmix": "76405"
+        "wmo": "76405",
+        "ghcn": "MX000003074",
+        "usaf": "764050",
+        "mosmix": "76405"
     },
     "location": {
         "latitude": 24.2667,

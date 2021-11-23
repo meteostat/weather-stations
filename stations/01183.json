@@ -2,16 +2,16 @@
     "id": "01183",
     "name": {
         "de": "Evenes Flughafen",
-        "no": "Evenes Flughavn",
-        "en": "Evenes Airport"
+        "en": "Evenes Airport",
+        "no": "Evenes Flughavn"
     },
     "country": "NO",
     "region": "TR",
     "identifiers": {
-        "$wmo": "01183",
-        "$icao": "ENEV",
-        "$iata": "EVE",
-        "$usaf": "011830"
+        "wmo": "01183",
+        "icao": "ENEV",
+        "iata": "EVE",
+        "usaf": "011830"
     },
     "location": {
         "latitude": 68.5167,

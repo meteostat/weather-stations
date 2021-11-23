@@ -6,11 +6,11 @@
     "country": "NG",
     "region": "RI",
     "identifiers": {
-        "$wmo": "65250",
-        "$icao": "DNPO",
-        "$iata": "PHC",
-        "$ghcn": "NIM00065250",
-        "$usaf": "652500"
+        "wmo": "65250",
+        "icao": "DNPO",
+        "iata": "PHC",
+        "ghcn": "NIM00065250",
+        "usaf": "652500"
     },
     "location": {
         "latitude": 4.85,

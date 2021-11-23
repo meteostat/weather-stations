@@ -6,8 +6,8 @@
     "country": "EE",
     "region": "LV",
     "identifiers": {
-        "$wmo": "26141",
-        "$ghcn": "EN000026141"
+        "wmo": "26141",
+        "ghcn": "EN000026141"
     },
     "location": {
         "latitude": 59.1333,

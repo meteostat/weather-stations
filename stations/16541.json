@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "SD",
     "identifiers": {
-        "$wmo": "16541",
-        "$icao": "LIEP",
-        "$usaf": "165410"
+        "wmo": "16541",
+        "icao": "LIEP",
+        "usaf": "165410"
     },
     "location": {
         "latitude": 39.6667,

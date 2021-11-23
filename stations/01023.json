@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "TR",
     "identifiers": {
-        "$wmo": "01023",
-        "$icao": "ENDU",
-        "$iata": "BDU",
-        "$usaf": "010230"
+        "wmo": "01023",
+        "icao": "ENDU",
+        "iata": "BDU",
+        "usaf": "010230"
     },
     "location": {
         "latitude": 69.0667,

@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "HRM",
     "identifiers": {
-        "$icao": "OIKQ",
-        "$iata": "GSM",
-        "$usaf": "407808"
+        "icao": "OIKQ",
+        "iata": "GSM",
+        "usaf": "407808"
     },
     "location": {
         "latitude": 26.75,

@@ -6,12 +6,12 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$wmo": "72566",
-        "$icao": "KBFF",
-        "$iata": "BFF",
-        "$ghcn": "USW00024028",
-        "$wban": "24028",
-        "$usaf": "725660"
+        "wmo": "72566",
+        "icao": "KBFF",
+        "iata": "BFF",
+        "ghcn": "USW00024028",
+        "wban": "24028",
+        "usaf": "725660"
     },
     "location": {
         "latitude": 41.8667,

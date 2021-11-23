@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$icao": "KAHQ",
-        "$wban": "00323",
-        "$usaf": "720942"
+        "icao": "KAHQ",
+        "wban": "00323",
+        "usaf": "720942"
     },
     "location": {
         "latitude": 41.2406,

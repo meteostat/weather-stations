@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "PSK",
     "identifiers": {
-        "$wmo": "26157",
-        "$ghcn": "RSM00026157"
+        "wmo": "26157",
+        "ghcn": "RSM00026157"
     },
     "location": {
         "latitude": 58.7333,

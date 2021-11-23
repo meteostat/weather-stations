@@ -6,10 +6,10 @@
     "country": "TM",
     "region": "LE",
     "identifiers": {
-        "$wmo": "38687",
-        "$icao": "UTAV",
-        "$iata": "CRZ",
-        "$ghcn": "TX000038687"
+        "wmo": "38687",
+        "icao": "UTAV",
+        "iata": "CRZ",
+        "ghcn": "TX000038687"
     },
     "location": {
         "latitude": 39.0833,

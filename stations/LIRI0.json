@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "CM",
     "identifiers": {
-        "$icao": "LIRI",
-        "$iata": "QSR",
-        "$usaf": "162923"
+        "icao": "LIRI",
+        "iata": "QSR",
+        "usaf": "162923"
     },
     "location": {
         "latitude": 40.6167,

@@ -6,8 +6,8 @@
     "country": "OM",
     "region": "SH",
     "identifiers": {
-        "$wmo": "41270",
-        "$ghcn": "MUM00041270"
+        "wmo": "41270",
+        "ghcn": "MUM00041270"
     },
     "location": {
         "latitude": 22.3011,

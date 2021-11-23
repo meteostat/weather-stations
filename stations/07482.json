@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "V",
     "identifiers": {
-        "$wmo": "07482",
-        "$icao": "LFXA",
-        "$usaf": "074820"
+        "wmo": "07482",
+        "icao": "LFXA",
+        "usaf": "074820"
     },
     "location": {
         "latitude": 45.9833,

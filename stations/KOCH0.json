@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KOCH",
-        "$wban": "53948",
-        "$usaf": "722499"
+        "icao": "KOCH",
+        "wban": "53948",
+        "usaf": "722499"
     },
     "location": {
         "latitude": 31.5778,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "$wmo": "72378",
-        "$ghcn": "USC00026180",
-        "$wban": "93131"
+        "wmo": "72378",
+        "ghcn": "USC00026180",
+        "wban": "93131"
     },
     "location": {
         "latitude": 36.05,

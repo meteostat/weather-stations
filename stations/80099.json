@@ -6,11 +6,11 @@
     "country": "CO",
     "region": "ARA",
     "identifiers": {
-        "$wmo": "80099",
-        "$icao": "SKUC",
-        "$iata": "AUC",
-        "$ghcn": "COM00080099",
-        "$usaf": "800990"
+        "wmo": "80099",
+        "icao": "SKUC",
+        "iata": "AUC",
+        "ghcn": "COM00080099",
+        "usaf": "800990"
     },
     "location": {
         "latitude": 7.0667,

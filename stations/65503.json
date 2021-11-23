@@ -6,12 +6,12 @@
     "country": "BF",
     "region": "CT",
     "identifiers": {
-        "$wmo": "65503",
-        "$icao": "DFFD",
-        "$iata": "OUA",
-        "$ghcn": "UVM00065503",
-        "$usaf": "655030",
-        "$mosmix": "65503"
+        "wmo": "65503",
+        "icao": "DFFD",
+        "iata": "OUA",
+        "ghcn": "UVM00065503",
+        "usaf": "655030",
+        "mosmix": "65503"
     },
     "location": {
         "latitude": 12.35,

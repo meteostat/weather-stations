@@ -6,8 +6,8 @@
     "country": "IN",
     "region": "AP",
     "identifiers": {
-        "$icao": "VOTP",
-        "$iata": "TIR"
+        "icao": "VOTP",
+        "iata": "TIR"
     },
     "location": {
         "latitude": 13.6325,

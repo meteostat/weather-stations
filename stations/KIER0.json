@@ -6,9 +6,9 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$icao": "KIER",
-        "$wban": "53943",
-        "$usaf": "722319"
+        "icao": "KIER",
+        "wban": "53943",
+        "usaf": "722319"
     },
     "location": {
         "latitude": 31.7357,

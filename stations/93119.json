@@ -6,12 +6,12 @@
     "country": "NZ",
     "region": "AUK",
     "identifiers": {
-        "$wmo": "93119",
-        "$icao": "NZAA",
-        "$iata": "AKL",
-        "$ghcn": "NZ000093012",
-        "$usaf": "931190",
-        "$mosmix": "93119"
+        "wmo": "93119",
+        "icao": "NZAA",
+        "iata": "AKL",
+        "ghcn": "NZ000093012",
+        "usaf": "931190",
+        "mosmix": "93119"
     },
     "location": {
         "latitude": -37.0167,

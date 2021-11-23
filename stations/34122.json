@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "VOR",
     "identifiers": {
-        "$wmo": "34122",
-        "$icao": "UUOO",
-        "$usaf": "341220"
+        "wmo": "34122",
+        "icao": "UUOO",
+        "usaf": "341220"
     },
     "location": {
         "latitude": 51.65,

@@ -2,16 +2,16 @@
     "id": "01161",
     "name": {
         "de": "Svolvaer Flughafen",
-        "no": "Svolvaer Flughavn",
-        "en": "Svolvaer Airport"
+        "en": "Svolvaer Airport",
+        "no": "Svolvaer Flughavn"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "$wmo": "01161",
-        "$icao": "ENSH",
-        "$iata": "SVJ",
-        "$usaf": "011610"
+        "wmo": "01161",
+        "icao": "ENSH",
+        "iata": "SVJ",
+        "usaf": "011610"
     },
     "location": {
         "latitude": 68.25,

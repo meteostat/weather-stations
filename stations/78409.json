@@ -6,11 +6,11 @@
     "country": "HT",
     "region": "NE",
     "identifiers": {
-        "$wmo": "78409",
-        "$icao": "MTCH",
-        "$iata": "CAP",
-        "$usaf": "784090",
-        "$mosmix": "78409"
+        "wmo": "78409",
+        "icao": "MTCH",
+        "iata": "CAP",
+        "usaf": "784090",
+        "mosmix": "78409"
     },
     "location": {
         "latitude": 19.75,

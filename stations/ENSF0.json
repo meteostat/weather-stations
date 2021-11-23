@@ -6,8 +6,8 @@
     "country": "NO",
     "region": null,
     "identifiers": {
-        "$icao": "ENSF",
-        "$usaf": "013005"
+        "icao": "ENSF",
+        "usaf": "013005"
     },
     "location": {
         "latitude": 61.2167,

@@ -6,9 +6,9 @@
     "country": "CD",
     "region": "BC",
     "identifiers": {
-        "$wmo": "64206",
-        "$icao": "FZAN",
-        "$ghcn": "CGM00064206"
+        "wmo": "64206",
+        "icao": "FZAN",
+        "ghcn": "CGM00064206"
     },
     "location": {
         "latitude": -5.5167,

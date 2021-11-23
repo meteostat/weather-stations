@@ -6,10 +6,10 @@
     "country": "LA",
     "region": "HO",
     "identifiers": {
-        "$wmo": "48928",
-        "$icao": "VLSN",
-        "$iata": "NEU",
-        "$usaf": "489280"
+        "wmo": "48928",
+        "icao": "VLSN",
+        "iata": "NEU",
+        "usaf": "489280"
     },
     "location": {
         "latitude": 20.4167,

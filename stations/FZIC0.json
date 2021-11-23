@@ -6,9 +6,9 @@
     "country": "CD",
     "region": "OR",
     "identifiers": {
-        "$icao": "FZIC",
-        "$iata": "FKI",
-        "$usaf": "640085"
+        "icao": "FZIC",
+        "iata": "FKI",
+        "usaf": "640085"
     },
     "location": {
         "latitude": 0.4819,

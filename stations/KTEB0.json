@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "$icao": "KTEB",
-        "$iata": "TEB",
-        "$wban": "94741",
-        "$usaf": "725025"
+        "icao": "KTEB",
+        "iata": "TEB",
+        "wban": "94741",
+        "usaf": "725025"
     },
     "location": {
         "latitude": 40.8501,

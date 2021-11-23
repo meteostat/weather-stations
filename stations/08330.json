@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "EX",
     "identifiers": {
-        "$wmo": "08330",
-        "$icao": "LEBZ",
-        "$iata": "BJZ",
-        "$ghcn": "SP000004452",
-        "$usaf": "083300",
-        "$mosmix": "08330"
+        "wmo": "08330",
+        "icao": "LEBZ",
+        "iata": "BJZ",
+        "ghcn": "SP000004452",
+        "usaf": "083300",
+        "mosmix": "08330"
     },
     "location": {
         "latitude": 38.8833,

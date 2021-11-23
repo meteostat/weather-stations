@@ -6,10 +6,10 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "$wmo": "03891",
-        "$icao": "EGJA",
-        "$iata": "ACI",
-        "$usaf": "038915"
+        "wmo": "03891",
+        "icao": "EGJA",
+        "iata": "ACI",
+        "usaf": "038915"
     },
     "location": {
         "latitude": 49.7167,

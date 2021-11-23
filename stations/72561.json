@@ -6,11 +6,11 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$wmo": "72561",
-        "$icao": "KSNY",
-        "$ghcn": "USW00024030",
-        "$wban": "24030",
-        "$usaf": "725610"
+        "wmo": "72561",
+        "icao": "KSNY",
+        "ghcn": "USW00024030",
+        "wban": "24030",
+        "usaf": "725610"
     },
     "location": {
         "latitude": 41.1,

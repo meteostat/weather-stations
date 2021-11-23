@@ -6,8 +6,8 @@
     "country": "FR",
     "region": "O",
     "identifiers": {
-        "$wmo": "07010",
-        "$usaf": "070100"
+        "wmo": "07010",
+        "usaf": "070100"
     },
     "location": {
         "latitude": 51.05,

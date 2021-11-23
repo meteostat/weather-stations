@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "NEC",
     "identifiers": {
-        "$wmo": "98639",
-        "$icao": "RPVB",
-        "$iata": "BCD",
-        "$usaf": "986395"
+        "wmo": "98639",
+        "icao": "RPVB",
+        "iata": "BCD",
+        "usaf": "986395"
     },
     "location": {
         "latitude": 10.65,

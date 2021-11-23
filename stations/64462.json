@@ -6,8 +6,8 @@
     "country": "CG",
     "region": "OI",
     "identifiers": {
-        "$wmo": "64462",
-        "$ghcn": "CFM00064462"
+        "wmo": "64462",
+        "ghcn": "CFM00064462"
     },
     "location": {
         "latitude": 0.1,

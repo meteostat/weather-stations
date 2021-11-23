@@ -6,11 +6,11 @@
     "country": "CD",
     "region": "KA",
     "identifiers": {
-        "$wmo": "64360",
-        "$icao": "FZQA",
-        "$iata": "FBM",
-        "$ghcn": "CGM00064360",
-        "$usaf": "643600"
+        "wmo": "64360",
+        "icao": "FZQA",
+        "iata": "FBM",
+        "ghcn": "CGM00064360",
+        "usaf": "643600"
     },
     "location": {
         "latitude": -11.6667,

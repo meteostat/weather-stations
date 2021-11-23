@@ -6,9 +6,9 @@
     "country": "UZ",
     "region": "QR",
     "identifiers": {
-        "$wmo": "38262",
-        "$ghcn": "UZM00038262",
-        "$usaf": "382620"
+        "wmo": "38262",
+        "ghcn": "UZM00038262",
+        "usaf": "382620"
     },
     "location": {
         "latitude": 42.95,

@@ -6,11 +6,11 @@
     "country": "HN",
     "region": "OL",
     "identifiers": {
-        "$wmo": "78714",
-        "$icao": "MHCA",
-        "$iata": "CAA",
-        "$ghcn": "HO000078714",
-        "$usaf": "787140"
+        "wmo": "78714",
+        "icao": "MHCA",
+        "iata": "CAA",
+        "ghcn": "HO000078714",
+        "usaf": "787140"
     },
     "location": {
         "latitude": 14.9,

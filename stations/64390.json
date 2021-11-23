@@ -6,12 +6,12 @@
     "country": "BI",
     "region": "BJ",
     "identifiers": {
-        "$wmo": "64390",
-        "$icao": "HBBA",
-        "$iata": "BJM",
-        "$ghcn": "BY000064390",
-        "$usaf": "643900",
-        "$mosmix": "64390"
+        "wmo": "64390",
+        "icao": "HBBA",
+        "iata": "BJM",
+        "ghcn": "BY000064390",
+        "usaf": "643900",
+        "mosmix": "64390"
     },
     "location": {
         "latitude": -3.3167,

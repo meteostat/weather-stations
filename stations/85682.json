@@ -6,12 +6,12 @@
     "country": "CL",
     "region": "BI",
     "identifiers": {
-        "$wmo": "85682",
-        "$icao": "SCIE",
-        "$iata": "CCP",
-        "$ghcn": "CIM00085682",
-        "$usaf": "856820",
-        "$mosmix": "85682"
+        "wmo": "85682",
+        "icao": "SCIE",
+        "iata": "CCP",
+        "ghcn": "CIM00085682",
+        "usaf": "856820",
+        "mosmix": "85682"
     },
     "location": {
         "latitude": -36.7667,

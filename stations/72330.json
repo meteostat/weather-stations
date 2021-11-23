@@ -6,11 +6,11 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "$wmo": "72330",
-        "$icao": "KP02",
-        "$ghcn": "USW00003975",
-        "$wban": "03975",
-        "$usaf": "723300"
+        "wmo": "72330",
+        "icao": "KP02",
+        "ghcn": "USW00003975",
+        "wban": "03975",
+        "usaf": "723300"
     },
     "location": {
         "latitude": 36.7667,

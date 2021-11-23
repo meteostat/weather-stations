@@ -6,8 +6,8 @@
     "country": "ES",
     "region": "VC",
     "identifiers": {
-        "$wmo": "08359",
-        "$ghcn": "SPM00008359"
+        "wmo": "08359",
+        "ghcn": "SPM00008359"
     },
     "location": {
         "latitude": 38.3667,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "$icao": "KP69",
-        "$wban": "04109",
-        "$usaf": "725784"
+        "icao": "KP69",
+        "wban": "04109",
+        "usaf": "725784"
     },
     "location": {
         "latitude": 46.1442,

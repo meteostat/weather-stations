@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "MG",
     "identifiers": {
-        "$wmo": "83481",
-        "$iata": "PHY",
-        "$ghcn": "BR001746006"
+        "wmo": "83481",
+        "iata": "PHY",
+        "ghcn": "BR001746006"
     },
     "location": {
         "latitude": -17.7,

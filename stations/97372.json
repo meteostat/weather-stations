@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "NT",
     "identifiers": {
-        "$wmo": "97372",
-        "$icao": "WRKK",
-        "$iata": "KOE",
-        "$ghcn": "ID000097372",
-        "$usaf": "973720"
+        "wmo": "97372",
+        "icao": "WRKK",
+        "iata": "KOE",
+        "ghcn": "ID000097372",
+        "usaf": "973720"
     },
     "location": {
         "latitude": -10.1667,

@@ -6,12 +6,12 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "$wmo": "72693",
-        "$icao": "KEUG",
-        "$iata": "EUG",
-        "$ghcn": "USW00024221",
-        "$wban": "24221",
-        "$usaf": "726930"
+        "wmo": "72693",
+        "icao": "KEUG",
+        "iata": "EUG",
+        "ghcn": "USW00024221",
+        "wban": "24221",
+        "usaf": "726930"
     },
     "location": {
         "latitude": 44.1333,

@@ -6,10 +6,10 @@
     "country": "MX",
     "region": "DF",
     "identifiers": {
-        "$wmo": "76680",
-        "$ghcn": "MX000766800",
-        "$usaf": "766800",
-        "$mosmix": "76680"
+        "wmo": "76680",
+        "ghcn": "MX000766800",
+        "usaf": "766800",
+        "mosmix": "76680"
     },
     "location": {
         "latitude": 19.4,

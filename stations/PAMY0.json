@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAMY",
-        "$iata": "MYU",
-        "$wban": "26622",
-        "$usaf": "702185"
+        "icao": "PAMY",
+        "iata": "MYU",
+        "wban": "26622",
+        "usaf": "702185"
     },
     "location": {
         "latitude": 60.3714,

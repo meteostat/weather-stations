@@ -6,11 +6,11 @@
     "country": "DK",
     "region": "SD",
     "identifiers": {
-        "$wmo": "06080",
-        "$icao": "EKEB",
-        "$iata": "EBJ",
-        "$usaf": "060800",
-        "$mosmix": "06080"
+        "wmo": "06080",
+        "icao": "EKEB",
+        "iata": "EBJ",
+        "usaf": "060800",
+        "mosmix": "06080"
     },
     "location": {
         "latitude": 55.5333,

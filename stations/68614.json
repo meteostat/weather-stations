@@ -6,10 +6,10 @@
     "country": "ZA",
     "region": "WC",
     "identifiers": {
-        "$wmo": "68614",
-        "$icao": "FAVR",
-        "$iata": "VRE",
-        "$usaf": "686140"
+        "wmo": "68614",
+        "icao": "FAVR",
+        "iata": "VRE",
+        "usaf": "686140"
     },
     "location": {
         "latitude": -31.6667,

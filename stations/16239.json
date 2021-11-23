@@ -6,12 +6,12 @@
     "country": "IT",
     "region": "LZ",
     "identifiers": {
-        "$wmo": "16239",
-        "$icao": "LIRA",
-        "$iata": "CIA",
-        "$ghcn": "IT000016239",
-        "$usaf": "162390",
-        "$mosmix": "16239"
+        "wmo": "16239",
+        "icao": "LIRA",
+        "iata": "CIA",
+        "ghcn": "IT000016239",
+        "usaf": "162390",
+        "mosmix": "16239"
     },
     "location": {
         "latitude": 41.7833,

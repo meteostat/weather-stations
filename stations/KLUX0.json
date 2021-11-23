@@ -6,9 +6,9 @@
     "country": "US",
     "region": "SC",
     "identifiers": {
-        "$icao": "KLUX",
-        "$wban": "00190",
-        "$usaf": "720597"
+        "icao": "KLUX",
+        "wban": "00190",
+        "usaf": "720597"
     },
     "location": {
         "latitude": 34.5071,

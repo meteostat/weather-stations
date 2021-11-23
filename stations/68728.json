@@ -6,10 +6,10 @@
     "country": "ZA",
     "region": "WC",
     "identifiers": {
-        "$wmo": "68728",
-        "$icao": "FABY",
-        "$ghcn": "SF000921410",
-        "$usaf": "687280"
+        "wmo": "68728",
+        "icao": "FABY",
+        "ghcn": "SF000921410",
+        "usaf": "687280"
     },
     "location": {
         "latitude": -32.35,

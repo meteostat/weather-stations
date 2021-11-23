@@ -6,9 +6,9 @@
     "country": "TM",
     "region": "BU",
     "identifiers": {
-        "$wmo": "38545",
-        "$ghcn": "UZM00038545",
-        "$mosmix": "38545"
+        "wmo": "38545",
+        "ghcn": "UZM00038545",
+        "mosmix": "38545"
     },
     "location": {
         "latitude": 40.4667,

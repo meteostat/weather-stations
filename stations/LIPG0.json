@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "FV",
     "identifiers": {
-        "$icao": "LIPG",
-        "$iata": "QGO",
-        "$usaf": "160455"
+        "icao": "LIPG",
+        "iata": "QGO",
+        "usaf": "160455"
     },
     "location": {
         "latitude": 45.9,

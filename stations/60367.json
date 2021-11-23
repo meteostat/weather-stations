@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "ETA",
     "identifiers": {
-        "$wmo": "60367",
-        "$ghcn": "AGM00060367"
+        "wmo": "60367",
+        "ghcn": "AGM00060367"
     },
     "location": {
         "latitude": 36.9,

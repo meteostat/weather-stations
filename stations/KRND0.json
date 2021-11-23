@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KRND",
-        "$iata": "RND",
-        "$wban": "12911",
-        "$usaf": "722536"
+        "icao": "KRND",
+        "iata": "RND",
+        "wban": "12911",
+        "usaf": "722536"
     },
     "location": {
         "latitude": 29.5289,

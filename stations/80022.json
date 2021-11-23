@@ -6,12 +6,12 @@
     "country": "CO",
     "region": "BOL",
     "identifiers": {
-        "$wmo": "80022",
-        "$icao": "SKCG",
-        "$iata": "CTG",
-        "$ghcn": "COM00080022",
-        "$usaf": "800220",
-        "$mosmix": "80022"
+        "wmo": "80022",
+        "icao": "SKCG",
+        "iata": "CTG",
+        "ghcn": "COM00080022",
+        "usaf": "800220",
+        "mosmix": "80022"
     },
     "location": {
         "latitude": 10.45,

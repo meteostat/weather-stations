@@ -6,13 +6,13 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$wmo": "72290",
-        "$icao": "KSAN",
-        "$iata": "SAN",
-        "$ghcn": "USW00023188",
-        "$wban": "23188",
-        "$usaf": "722900",
-        "$mosmix": "72290"
+        "wmo": "72290",
+        "icao": "KSAN",
+        "iata": "SAN",
+        "ghcn": "USW00023188",
+        "wban": "23188",
+        "usaf": "722900",
+        "mosmix": "72290"
     },
     "location": {
         "latitude": 32.7333,

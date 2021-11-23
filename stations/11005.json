@@ -6,8 +6,8 @@
     "country": "AT",
     "region": "OO",
     "identifiers": {
-        "$wmo": "11005",
-        "$icao": "LOLS"
+        "wmo": "11005",
+        "icao": "LOLS"
     },
     "location": {
         "latitude": 48.4036,

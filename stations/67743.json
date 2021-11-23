@@ -6,11 +6,11 @@
     "country": "ZM",
     "region": "SO",
     "identifiers": {
-        "$wmo": "67743",
-        "$icao": "FLLI",
-        "$iata": "LVI",
-        "$ghcn": "ZA000067743",
-        "$mosmix": "67743"
+        "wmo": "67743",
+        "icao": "FLLI",
+        "iata": "LVI",
+        "ghcn": "ZA000067743",
+        "mosmix": "67743"
     },
     "location": {
         "latitude": -17.8167,

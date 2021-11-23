@@ -6,8 +6,8 @@
     "country": "NA",
     "region": "ER",
     "identifiers": {
-        "$wmo": "68098",
-        "$ghcn": "WAM00068098"
+        "wmo": "68098",
+        "ghcn": "WAM00068098"
     },
     "location": {
         "latitude": -22.9833,

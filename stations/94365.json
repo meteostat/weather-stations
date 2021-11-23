@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "QL",
     "identifiers": {
-        "$wmo": "94365",
-        "$icao": "YBPN",
-        "$ghcn": "ASN00033247",
-        "$usaf": "943650"
+        "wmo": "94365",
+        "icao": "YBPN",
+        "ghcn": "ASN00033247",
+        "usaf": "943650"
     },
     "location": {
         "latitude": -20.4833,

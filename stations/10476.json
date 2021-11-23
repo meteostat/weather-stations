@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "BB",
     "identifiers": {
-        "$wmo": "10476",
-        "$icao": "ETSH",
-        "$usaf": "104760",
-        "$mosmix": "10476"
+        "wmo": "10476",
+        "icao": "ETSH",
+        "usaf": "104760",
+        "mosmix": "10476"
     },
     "location": {
         "latitude": 51.7667,

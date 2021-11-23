@@ -6,8 +6,8 @@
     "country": "CN",
     "region": "NM",
     "identifiers": {
-        "$wmo": "52267",
-        "$ghcn": "CHM00052267"
+        "wmo": "52267",
+        "ghcn": "CHM00052267"
     },
     "location": {
         "latitude": 41.95,

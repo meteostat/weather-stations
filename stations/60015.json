@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "CN",
     "identifiers": {
-        "$wmo": "60015",
-        "$icao": "GCXO",
-        "$iata": "TFN",
-        "$ghcn": "SPE00120467",
-        "$usaf": "600150",
-        "$mosmix": "60015"
+        "wmo": "60015",
+        "icao": "GCXO",
+        "iata": "TFN",
+        "ghcn": "SPE00120467",
+        "usaf": "600150",
+        "mosmix": "60015"
     },
     "location": {
         "latitude": 28.4667,

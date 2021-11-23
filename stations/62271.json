@@ -6,11 +6,11 @@
     "country": "LY",
     "region": "KU",
     "identifiers": {
-        "$wmo": "62271",
-        "$icao": "HLKF",
-        "$iata": "AKF",
-        "$ghcn": "LY000062271",
-        "$usaf": "622710"
+        "wmo": "62271",
+        "icao": "HLKF",
+        "iata": "AKF",
+        "ghcn": "LY000062271",
+        "usaf": "622710"
     },
     "location": {
         "latitude": 24.2167,

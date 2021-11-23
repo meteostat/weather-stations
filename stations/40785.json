@@ -6,10 +6,10 @@
     "country": "IR",
     "region": "EFH",
     "identifiers": {
-        "$wmo": "40785",
-        "$icao": "OIFK",
-        "$ghcn": "IRM00040785",
-        "$usaf": "407850"
+        "wmo": "40785",
+        "icao": "OIFK",
+        "ghcn": "IRM00040785",
+        "usaf": "407850"
     },
     "location": {
         "latitude": 33.9833,

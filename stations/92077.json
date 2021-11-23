@@ -6,9 +6,9 @@
     "country": "PG",
     "region": "MB",
     "identifiers": {
-        "$wmo": "92077",
-        "$iata": "GUR",
-        "$ghcn": "PPM00092077"
+        "wmo": "92077",
+        "iata": "GUR",
+        "ghcn": "PPM00092077"
     },
     "location": {
         "latitude": -10.3167,

@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "NEV",
     "identifiers": {
-        "$wmo": "17193",
-        "$ghcn": "TUM00017193"
+        "wmo": "17193",
+        "ghcn": "TUM00017193"
     },
     "location": {
         "latitude": 38.6167,

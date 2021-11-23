@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "OR",
     "identifiers": {
-        "$icao": "LIER",
-        "$iata": "FNU",
-        "$usaf": "165020"
+        "icao": "LIER",
+        "iata": "FNU",
+        "usaf": "165020"
     },
     "location": {
         "latitude": 39.8964,

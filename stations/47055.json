@@ -6,9 +6,9 @@
     "country": "KP",
     "region": "KAN",
     "identifiers": {
-        "$wmo": "47055",
-        "$ghcn": "KNM00047055",
-        "$mosmix": "47055"
+        "wmo": "47055",
+        "ghcn": "KNM00047055",
+        "mosmix": "47055"
     },
     "location": {
         "latitude": 39.1833,

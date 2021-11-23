@@ -6,12 +6,12 @@
     "country": "IE",
     "region": "M",
     "identifiers": {
-        "$wmo": "03955",
-        "$icao": "EICK",
-        "$iata": "ORK",
-        "$ghcn": "EIM00003955",
-        "$usaf": "039550",
-        "$mosmix": "03955"
+        "wmo": "03955",
+        "icao": "EICK",
+        "iata": "ORK",
+        "ghcn": "EIM00003955",
+        "usaf": "039550",
+        "mosmix": "03955"
     },
     "location": {
         "latitude": 51.85,

@@ -6,11 +6,11 @@
     "country": "CI",
     "region": "SAS",
     "identifiers": {
-        "$wmo": "65599",
-        "$icao": "DISS",
-        "$iata": "ZSS",
-        "$ghcn": "IV000065599",
-        "$usaf": "655990"
+        "wmo": "65599",
+        "icao": "DISS",
+        "iata": "ZSS",
+        "ghcn": "IV000065599",
+        "usaf": "655990"
     },
     "location": {
         "latitude": 4.95,

@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "SG",
     "identifiers": {
-        "$wmo": "97146",
-        "$icao": "WAAU",
-        "$iata": "KDI",
-        "$ghcn": "ID000097146",
-        "$usaf": "971460"
+        "wmo": "97146",
+        "icao": "WAAU",
+        "iata": "KDI",
+        "ghcn": "ID000097146",
+        "usaf": "971460"
     },
     "location": {
         "latitude": -4.1,

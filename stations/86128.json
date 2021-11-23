@@ -6,9 +6,9 @@
     "country": "PA",
     "region": "PH",
     "identifiers": {
-        "$wmo": "86128",
-        "$ghcn": "PAM00086128",
-        "$usaf": "861280"
+        "wmo": "86128",
+        "ghcn": "PAM00086128",
+        "usaf": "861280"
     },
     "location": {
         "latitude": -23.5,

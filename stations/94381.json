@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "$wmo": "94381",
-        "$icao": "YGLA",
-        "$iata": "GLT",
-        "$ghcn": "ASN00039326"
+        "wmo": "94381",
+        "icao": "YGLA",
+        "iata": "GLT",
+        "ghcn": "ASN00039326"
     },
     "location": {
         "latitude": -23.8667,

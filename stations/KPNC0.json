@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$icao": "KPNC",
-        "$iata": "PNC",
-        "$wban": "13969",
-        "$usaf": "723546"
+        "icao": "KPNC",
+        "iata": "PNC",
+        "wban": "13969",
+        "usaf": "723546"
     },
     "location": {
         "latitude": 36.7319,

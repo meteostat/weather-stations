@@ -6,10 +6,10 @@
     "country": "US",
     "region": "SC",
     "identifiers": {
-        "$icao": "KNBC",
-        "$iata": "BFT",
-        "$wban": "93831",
-        "$usaf": "722085"
+        "icao": "KNBC",
+        "iata": "BFT",
+        "wban": "93831",
+        "usaf": "722085"
     },
     "location": {
         "latitude": 32.4806,

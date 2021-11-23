@@ -6,8 +6,8 @@
     "country": "UA",
     "region": "KH",
     "identifiers": {
-        "$wmo": "33705",
-        "$ghcn": "UPM00033705"
+        "wmo": "33705",
+        "ghcn": "UPM00033705"
     },
     "location": {
         "latitude": 48.2333,

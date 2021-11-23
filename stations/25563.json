@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "CHU",
     "identifiers": {
-        "$wmo": "25563",
-        "$icao": "UHMA",
-        "$ghcn": "RSM00025563",
-        "$usaf": "255630"
+        "wmo": "25563",
+        "icao": "UHMA",
+        "ghcn": "RSM00025563",
+        "usaf": "255630"
     },
     "location": {
         "latitude": 64.7833,

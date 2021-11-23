@@ -6,9 +6,9 @@
     "country": "LV",
     "region": "DB",
     "identifiers": {
-        "$wmo": "26424",
-        "$ghcn": "LG000026424",
-        "$mosmix": "26424"
+        "wmo": "26424",
+        "ghcn": "LG000026424",
+        "mosmix": "26424"
     },
     "location": {
         "latitude": 56.6167,

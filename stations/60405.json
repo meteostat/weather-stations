@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "GUE",
     "identifiers": {
-        "$wmo": "60405",
-        "$ghcn": "AGM00060405"
+        "wmo": "60405",
+        "ghcn": "AGM00060405"
     },
     "location": {
         "latitude": 36.5,

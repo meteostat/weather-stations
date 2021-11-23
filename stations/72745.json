@@ -6,13 +6,13 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "$wmo": "72745",
-        "$icao": "KDLH",
-        "$iata": "DLH",
-        "$ghcn": "USW00014913",
-        "$wban": "14913",
-        "$usaf": "727450",
-        "$mosmix": "72745"
+        "wmo": "72745",
+        "icao": "KDLH",
+        "iata": "DLH",
+        "ghcn": "USW00014913",
+        "wban": "14913",
+        "usaf": "727450",
+        "mosmix": "72745"
     },
     "location": {
         "latitude": 46.8333,

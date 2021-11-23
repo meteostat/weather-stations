@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$icao": "KOSC",
-        "$wban": "14808",
-        "$usaf": "726395"
+        "icao": "KOSC",
+        "wban": "14808",
+        "usaf": "726395"
     },
     "location": {
         "latitude": 44.4515,

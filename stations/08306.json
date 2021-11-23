@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "IB",
     "identifiers": {
-        "$wmo": "08306",
-        "$icao": "LEPA",
-        "$iata": "PMI",
-        "$ghcn": "SPE00119882",
-        "$usaf": "083060",
-        "$mosmix": "08306"
+        "wmo": "08306",
+        "icao": "LEPA",
+        "iata": "PMI",
+        "ghcn": "SPE00119882",
+        "usaf": "083060",
+        "mosmix": "08306"
     },
     "location": {
         "latitude": 39.55,

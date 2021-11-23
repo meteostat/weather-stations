@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "SV",
     "identifiers": {
-        "$wmo": "33892",
-        "$icao": "LUTR",
-        "$usaf": "338920"
+        "wmo": "33892",
+        "icao": "LUTR",
+        "usaf": "338920"
     },
     "location": {
         "latitude": 46.5167,

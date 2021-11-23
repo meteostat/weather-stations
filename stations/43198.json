@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "KA",
     "identifiers": {
-        "$wmo": "43198",
-        "$icao": "VABM",
-        "$iata": "IXG",
-        "$ghcn": "IN009021000",
-        "$usaf": "431980"
+        "wmo": "43198",
+        "icao": "VABM",
+        "iata": "IXG",
+        "ghcn": "IN009021000",
+        "usaf": "431980"
     },
     "location": {
         "latitude": 15.85,

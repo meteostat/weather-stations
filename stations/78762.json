@@ -6,12 +6,12 @@
     "country": "CR",
     "region": "A",
     "identifiers": {
-        "$wmo": "78762",
-        "$icao": "MROC",
-        "$iata": "SJO",
-        "$ghcn": "CSM00078762",
-        "$usaf": "787620",
-        "$mosmix": "78762"
+        "wmo": "78762",
+        "icao": "MROC",
+        "iata": "SJO",
+        "ghcn": "CSM00078762",
+        "usaf": "787620",
+        "mosmix": "78762"
     },
     "location": {
         "latitude": 10,

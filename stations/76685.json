@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "PUE",
     "identifiers": {
-        "$wmo": "76685",
-        "$icao": "MMPB",
-        "$iata": "PBC",
-        "$ghcn": "MXM00076685",
-        "$usaf": "766850"
+        "wmo": "76685",
+        "icao": "MMPB",
+        "iata": "PBC",
+        "ghcn": "MXM00076685",
+        "usaf": "766850"
     },
     "location": {
         "latitude": 19.05,

@@ -6,9 +6,9 @@
     "country": "SE",
     "region": "E",
     "identifiers": {
-        "$icao": "ESSL",
-        "$iata": "LPI",
-        "$usaf": "025625"
+        "icao": "ESSL",
+        "iata": "LPI",
+        "usaf": "025625"
     },
     "location": {
         "latitude": 58.4061,

@@ -6,11 +6,11 @@
     "country": "BJ",
     "region": "ZO",
     "identifiers": {
-        "$wmo": "65335",
-        "$icao": "DBBS",
-        "$iata": "SVF",
-        "$ghcn": "BN000065335",
-        "$usaf": "653350"
+        "wmo": "65335",
+        "icao": "DBBS",
+        "iata": "SVF",
+        "ghcn": "BN000065335",
+        "usaf": "653350"
     },
     "location": {
         "latitude": 8.0333,

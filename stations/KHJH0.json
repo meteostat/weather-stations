@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$icao": "KHJH",
-        "$iata": "HJH",
-        "$wban": "04998",
-        "$usaf": "722124"
+        "icao": "KHJH",
+        "iata": "HJH",
+        "wban": "04998",
+        "usaf": "722124"
     },
     "location": {
         "latitude": 40.1523,

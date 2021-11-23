@@ -6,11 +6,11 @@
     "country": "TH",
     "region": "CB",
     "identifiers": {
-        "$wmo": "48459",
-        "$icao": "VTBS",
-        "$iata": "BKK",
-        "$ghcn": "TH000048459",
-        "$usaf": "484590"
+        "wmo": "48459",
+        "icao": "VTBS",
+        "iata": "BKK",
+        "ghcn": "TH000048459",
+        "usaf": "484590"
     },
     "location": {
         "latitude": 13.3667,

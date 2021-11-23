@@ -6,13 +6,13 @@
     "country": "DE",
     "region": "BB",
     "identifiers": {
-        "$national": "00427",
-        "$wmo": "10385",
-        "$icao": "EDDB",
-        "$iata": "SXF",
-        "$ghcn": "GMM00010385",
-        "$usaf": "103850",
-        "$mosmix": "10385"
+        "national": "00427",
+        "wmo": "10385",
+        "icao": "EDDB",
+        "iata": "SXF",
+        "ghcn": "GMM00010385",
+        "usaf": "103850",
+        "mosmix": "10385"
     },
     "location": {
         "latitude": 52.3833,

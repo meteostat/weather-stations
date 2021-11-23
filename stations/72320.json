@@ -6,12 +6,12 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "$wmo": "72320",
-        "$icao": "KRMG",
-        "$iata": "RMG",
-        "$ghcn": "USW00093801",
-        "$wban": "93801",
-        "$usaf": "723200"
+        "wmo": "72320",
+        "icao": "KRMG",
+        "iata": "RMG",
+        "ghcn": "USW00093801",
+        "wban": "93801",
+        "usaf": "723200"
     },
     "location": {
         "latitude": 34.35,

@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "PV",
     "identifiers": {
-        "$wmo": "08027",
-        "$ghcn": "SP000008027",
-        "$mosmix": "08027"
+        "wmo": "08027",
+        "ghcn": "SP000008027",
+        "mosmix": "08027"
     },
     "location": {
         "latitude": 43.3,

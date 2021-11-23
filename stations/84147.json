@@ -6,10 +6,10 @@
     "country": "EC",
     "region": "T",
     "identifiers": {
-        "$wmo": "84147",
-        "$icao": "SEAM",
-        "$iata": "ATF",
-        "$usaf": "841470"
+        "wmo": "84147",
+        "icao": "SEAM",
+        "iata": "ATF",
+        "usaf": "841470"
     },
     "location": {
         "latitude": -1.2,

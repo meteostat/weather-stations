@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "AR",
     "identifiers": {
-        "$icao": "LEHC",
-        "$iata": "HSK",
-        "$usaf": "080940"
+        "icao": "LEHC",
+        "iata": "HSK",
+        "usaf": "080940"
     },
     "location": {
         "latitude": 42.0761,

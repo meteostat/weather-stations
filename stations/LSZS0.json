@@ -6,9 +6,9 @@
     "country": "CH",
     "region": "GR",
     "identifiers": {
-        "$icao": "LSZS",
-        "$iata": "SMV",
-        "$usaf": "066304"
+        "icao": "LSZS",
+        "iata": "SMV",
+        "usaf": "066304"
     },
     "location": {
         "latitude": 46.5353,

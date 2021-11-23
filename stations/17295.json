@@ -6,11 +6,11 @@
     "country": "TR",
     "region": "MUG",
     "identifiers": {
-        "$wmo": "17295",
-        "$icao": "LTBS",
-        "$iata": "DLM",
-        "$usaf": "172950",
-        "$mosmix": "17295"
+        "wmo": "17295",
+        "icao": "LTBS",
+        "iata": "DLM",
+        "usaf": "172950",
+        "mosmix": "17295"
     },
     "location": {
         "latitude": 36.7,

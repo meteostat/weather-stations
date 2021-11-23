@@ -6,9 +6,9 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "$wmo": "72413",
-        "$ghcn": "USW00063849",
-        "$wban": "93895"
+        "wmo": "72413",
+        "ghcn": "USW00063849",
+        "wban": "93895"
     },
     "location": {
         "latitude": 37.4833,

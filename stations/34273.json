@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "SAR",
     "identifiers": {
-        "$wmo": "34273",
-        "$ghcn": "RSM00034273"
+        "wmo": "34273",
+        "ghcn": "RSM00034273"
     },
     "location": {
         "latitude": 50.95,

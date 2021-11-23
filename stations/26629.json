@@ -6,9 +6,9 @@
     "country": "LT",
     "region": "KS",
     "identifiers": {
-        "$wmo": "26629",
-        "$ghcn": "LH000026629",
-        "$mosmix": "26629"
+        "wmo": "26629",
+        "ghcn": "LH000026629",
+        "mosmix": "26629"
     },
     "location": {
         "latitude": 54.8833,

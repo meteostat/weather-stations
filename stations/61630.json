@@ -6,11 +6,11 @@
     "country": "SN",
     "region": "SL",
     "identifiers": {
-        "$wmo": "61630",
-        "$icao": "GOSM",
-        "$iata": "MAX",
-        "$ghcn": "SGM00061630",
-        "$usaf": "616300"
+        "wmo": "61630",
+        "icao": "GOSM",
+        "iata": "MAX",
+        "ghcn": "SGM00061630",
+        "usaf": "616300"
     },
     "location": {
         "latitude": 15.65,

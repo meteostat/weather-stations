@@ -6,10 +6,10 @@
     "country": "KI",
     "region": null,
     "identifiers": {
-        "$wmo": "91623",
-        "$icao": "NGBR",
-        "$iata": "BEZ",
-        "$usaf": "916230"
+        "wmo": "91623",
+        "icao": "NGBR",
+        "iata": "BEZ",
+        "usaf": "916230"
     },
     "location": {
         "latitude": -1.35,

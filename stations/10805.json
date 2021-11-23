@@ -6,13 +6,13 @@
     "country": "DE",
     "region": "BW",
     "identifiers": {
-        "$national": "02812",
-        "$wmo": "10805",
-        "$icao": "EDTL",
-        "$iata": "LHA",
-        "$ghcn": "GME00121054",
-        "$usaf": "108050",
-        "$mosmix": "10805"
+        "national": "02812",
+        "wmo": "10805",
+        "icao": "EDTL",
+        "iata": "LHA",
+        "ghcn": "GME00121054",
+        "usaf": "108050",
+        "mosmix": "10805"
     },
     "location": {
         "latitude": 48.3667,

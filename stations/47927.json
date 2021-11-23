@@ -6,11 +6,11 @@
     "country": "JP",
     "region": "ON",
     "identifiers": {
-        "$wmo": "47927",
-        "$icao": "ROMY",
-        "$iata": "MMY",
-        "$ghcn": "JA000047927",
-        "$usaf": "479270"
+        "wmo": "47927",
+        "icao": "ROMY",
+        "iata": "MMY",
+        "ghcn": "JA000047927",
+        "usaf": "479270"
     },
     "location": {
         "latitude": 24.7833,

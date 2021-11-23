@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "$icao": "CWGU",
-        "$ghcn": "CA003016593",
-        "$usaf": "718570"
+        "icao": "CWGU",
+        "ghcn": "CA003016593",
+        "usaf": "718570"
     },
     "location": {
         "latitude": 51.6667,

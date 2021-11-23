@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "CHI",
     "identifiers": {
-        "$wmo": "30846",
-        "$ghcn": "RSM00030846"
+        "wmo": "30846",
+        "ghcn": "RSM00030846"
     },
     "location": {
         "latitude": 51.35,

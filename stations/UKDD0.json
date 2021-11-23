@@ -6,9 +6,9 @@
     "country": "UA",
     "region": "DP",
     "identifiers": {
-        "$icao": "UKDD",
-        "$iata": "DNK",
-        "$usaf": "330004"
+        "icao": "UKDD",
+        "iata": "DNK",
+        "usaf": "330004"
     },
     "location": {
         "latitude": 48.35,

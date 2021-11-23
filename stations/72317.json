@@ -6,12 +6,12 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$wmo": "72317",
-        "$icao": "KGSO",
-        "$iata": "GSO",
-        "$ghcn": "USW00013723",
-        "$wban": "13723",
-        "$usaf": "723170"
+        "wmo": "72317",
+        "icao": "KGSO",
+        "iata": "GSO",
+        "ghcn": "USW00013723",
+        "wban": "13723",
+        "usaf": "723170"
     },
     "location": {
         "latitude": 36.1,

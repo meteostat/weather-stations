@@ -6,10 +6,10 @@
     "country": "VE",
     "region": "B",
     "identifiers": {
-        "$wmo": "80441",
-        "$icao": "SVST",
-        "$iata": "SOM",
-        "$usaf": "804413"
+        "wmo": "80441",
+        "icao": "SVST",
+        "iata": "SOM",
+        "usaf": "804413"
     },
     "location": {
         "latitude": 8.95,

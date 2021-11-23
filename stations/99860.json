@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "$wmo": "99860",
-        "$icao": "EQAK",
-        "$usaf": "998600"
+        "wmo": "99860",
+        "icao": "EQAK",
+        "usaf": "998600"
     },
     "location": {
         "latitude": 51.3,

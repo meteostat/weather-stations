@@ -6,8 +6,8 @@
     "country": "IR",
     "region": "EAZ",
     "identifiers": {
-        "$wmo": "40708",
-        "$ghcn": "IRM00040708"
+        "wmo": "40708",
+        "ghcn": "IRM00040708"
     },
     "location": {
         "latitude": 38.25,

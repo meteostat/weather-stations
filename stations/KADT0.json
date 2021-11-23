@@ -6,8 +6,8 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "$icao": "KADT",
-        "$wban": "03043"
+        "icao": "KADT",
+        "wban": "03043"
     },
     "location": {
         "latitude": 39.8399,

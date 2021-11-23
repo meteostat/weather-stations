@@ -6,10 +6,10 @@
     "country": "DK",
     "region": "MJ",
     "identifiers": {
-        "$wmo": "06066",
-        "$icao": "EKVJ",
-        "$iata": "STA",
-        "$usaf": "060660"
+        "wmo": "06066",
+        "icao": "EKVJ",
+        "iata": "STA",
+        "usaf": "060660"
     },
     "location": {
         "latitude": 56,

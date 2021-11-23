@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "$icao": "KREO",
-        "$wban": "94107",
-        "$usaf": "726875"
+        "icao": "KREO",
+        "wban": "94107",
+        "usaf": "726875"
     },
     "location": {
         "latitude": 42.5777,

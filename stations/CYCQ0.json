@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "$icao": "CYCQ",
-        "$iata": "YCQ",
-        "$usaf": "710348"
+        "icao": "CYCQ",
+        "iata": "YCQ",
+        "usaf": "710348"
     },
     "location": {
         "latitude": 55.6872,

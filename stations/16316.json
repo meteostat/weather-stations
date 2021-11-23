@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "BC",
     "identifiers": {
-        "$wmo": "16316",
-        "$icao": "LIBU",
-        "$usaf": "163170"
+        "wmo": "16316",
+        "icao": "LIBU",
+        "usaf": "163170"
     },
     "location": {
         "latitude": 40.0833,

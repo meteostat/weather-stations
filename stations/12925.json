@@ -6,10 +6,10 @@
     "country": "HU",
     "region": "ZA",
     "identifiers": {
-        "$wmo": "12925",
-        "$ghcn": "HUM00012925",
-        "$usaf": "129250",
-        "$mosmix": "12925"
+        "wmo": "12925",
+        "ghcn": "HUM00012925",
+        "usaf": "129250",
+        "mosmix": "12925"
     },
     "location": {
         "latitude": 46.45,

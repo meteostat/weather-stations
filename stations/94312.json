@@ -6,12 +6,12 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "$wmo": "94312",
-        "$icao": "YPPD",
-        "$iata": "PHE",
-        "$ghcn": "ASN00004032",
-        "$usaf": "943120",
-        "$mosmix": "94312"
+        "wmo": "94312",
+        "icao": "YPPD",
+        "iata": "PHE",
+        "ghcn": "ASN00004032",
+        "usaf": "943120",
+        "mosmix": "94312"
     },
     "location": {
         "latitude": -20.1,

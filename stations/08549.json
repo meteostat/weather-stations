@@ -6,8 +6,8 @@
     "country": "PT",
     "region": "CO",
     "identifiers": {
-        "$wmo": "08549",
-        "$ghcn": "PO000008549"
+        "wmo": "08549",
+        "ghcn": "PO000008549"
     },
     "location": {
         "latitude": 40.2,

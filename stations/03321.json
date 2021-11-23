@@ -6,11 +6,11 @@
     "country": "GB",
     "region": "WLS",
     "identifiers": {
-        "$wmo": "03321",
-        "$icao": "EGNR",
-        "$iata": "CEG",
-        "$usaf": "033210",
-        "$mosmix": "03321"
+        "wmo": "03321",
+        "icao": "EGNR",
+        "iata": "CEG",
+        "usaf": "033210",
+        "mosmix": "03321"
     },
     "location": {
         "latitude": 53.1667,

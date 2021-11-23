@@ -6,12 +6,12 @@
     "country": "SK",
     "region": "BC",
     "identifiers": {
-        "$wmo": "11903",
-        "$icao": "LKSL",
-        "$iata": "SLD",
-        "$ghcn": "LOM00011903",
-        "$usaf": "119030",
-        "$mosmix": "11903"
+        "wmo": "11903",
+        "icao": "LKSL",
+        "iata": "SLD",
+        "ghcn": "LOM00011903",
+        "usaf": "119030",
+        "mosmix": "11903"
     },
     "location": {
         "latitude": 48.65,

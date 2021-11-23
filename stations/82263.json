@@ -6,8 +6,8 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "$wmo": "82263",
-        "$ghcn": "BR000249000"
+        "wmo": "82263",
+        "ghcn": "BR000249000"
     },
     "location": {
         "latitude": -2.25,

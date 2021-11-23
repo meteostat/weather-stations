@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "SN",
     "identifiers": {
-        "$wmo": "97182",
-        "$ghcn": "IDM00097182",
-        "$usaf": "971820"
+        "wmo": "97182",
+        "ghcn": "IDM00097182",
+        "usaf": "971820"
     },
     "location": {
         "latitude": -5.0667,

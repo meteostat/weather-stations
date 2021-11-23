@@ -6,12 +6,12 @@
     "country": "RU",
     "region": "KGD",
     "identifiers": {
-        "$wmo": "26702",
-        "$icao": "UMKK",
-        "$iata": "KGD",
-        "$ghcn": "RSM00026702",
-        "$usaf": "267020",
-        "$mosmix": "26702"
+        "wmo": "26702",
+        "icao": "UMKK",
+        "iata": "KGD",
+        "ghcn": "RSM00026702",
+        "usaf": "267020",
+        "mosmix": "26702"
     },
     "location": {
         "latitude": 54.7167,

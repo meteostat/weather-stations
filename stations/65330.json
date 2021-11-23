@@ -6,11 +6,11 @@
     "country": "BJ",
     "region": "BO",
     "identifiers": {
-        "$wmo": "65330",
-        "$icao": "DBBP",
-        "$iata": "PKO",
-        "$ghcn": "BNM00065330",
-        "$usaf": "653300"
+        "wmo": "65330",
+        "icao": "DBBP",
+        "iata": "PKO",
+        "ghcn": "BNM00065330",
+        "usaf": "653300"
     },
     "location": {
         "latitude": 9.35,

@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "MR",
     "identifiers": {
-        "$wmo": "01217",
-        "$icao": "ENML",
-        "$iata": "MOL",
-        "$usaf": "012170"
+        "wmo": "01217",
+        "icao": "ENML",
+        "iata": "MOL",
+        "usaf": "012170"
     },
     "location": {
         "latitude": 62.75,

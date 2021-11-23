@@ -6,11 +6,11 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$wmo": "72263",
-        "$icao": "KSJT",
-        "$ghcn": "USW00023034",
-        "$wban": "23034",
-        "$usaf": "722630"
+        "wmo": "72263",
+        "icao": "KSJT",
+        "ghcn": "USW00023034",
+        "wban": "23034",
+        "usaf": "722630"
     },
     "location": {
         "latitude": 31.35,

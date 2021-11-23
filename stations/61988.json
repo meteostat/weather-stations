@@ -6,12 +6,12 @@
     "country": "MU",
     "region": "RO",
     "identifiers": {
-        "$wmo": "61988",
-        "$icao": "FIMR",
-        "$iata": "RRG",
-        "$ghcn": "MP000061988",
-        "$usaf": "619880",
-        "$mosmix": "61988"
+        "wmo": "61988",
+        "icao": "FIMR",
+        "iata": "RRG",
+        "ghcn": "MP000061988",
+        "usaf": "619880",
+        "mosmix": "61988"
     },
     "location": {
         "latitude": -19.6833,

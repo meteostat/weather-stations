@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "NVS",
     "identifiers": {
-        "$wmo": "29724",
-        "$ghcn": "RSM00029724"
+        "wmo": "29724",
+        "ghcn": "RSM00029724"
     },
     "location": {
         "latitude": 54.3,

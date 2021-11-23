@@ -6,12 +6,12 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "$wmo": "72371",
-        "$icao": "KPGA",
-        "$iata": "PGA",
-        "$ghcn": "USW00003162",
-        "$wban": "03162",
-        "$usaf": "723710"
+        "wmo": "72371",
+        "icao": "KPGA",
+        "iata": "PGA",
+        "ghcn": "USW00003162",
+        "wban": "03162",
+        "usaf": "723710"
     },
     "location": {
         "latitude": 36.9333,

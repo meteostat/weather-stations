@@ -6,11 +6,11 @@
     "country": "UZ",
     "region": "QA",
     "identifiers": {
-        "$wmo": "38812",
-        "$icao": "KQSC",
-        "$iata": "KSQ",
-        "$ghcn": "UZM00038812",
-        "$usaf": "388120"
+        "wmo": "38812",
+        "icao": "KQSC",
+        "iata": "KSQ",
+        "ghcn": "UZM00038812",
+        "usaf": "388120"
     },
     "location": {
         "latitude": 38.8,

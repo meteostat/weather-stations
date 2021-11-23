@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "SIN",
     "identifiers": {
-        "$wmo": "76412",
-        "$icao": "MMCL",
-        "$iata": "CUL",
-        "$ghcn": "MXM00076412",
-        "$usaf": "764120"
+        "wmo": "76412",
+        "icao": "MMCL",
+        "iata": "CUL",
+        "ghcn": "MXM00076412",
+        "usaf": "764120"
     },
     "location": {
         "latitude": 24.8167,

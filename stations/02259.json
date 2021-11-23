@@ -2,16 +2,16 @@
     "id": "02259",
     "name": {
         "de": "Kramfors Flughafen",
-        "sv": "Kramfors Flygplats",
-        "en": "Kramfors Airport"
+        "en": "Kramfors Airport",
+        "sv": "Kramfors Flygplats"
     },
     "country": "SE",
     "region": "Y",
     "identifiers": {
-        "$wmo": "02259",
-        "$icao": "ESNK",
-        "$iata": "KRF",
-        "$usaf": "022590"
+        "wmo": "02259",
+        "icao": "ESNK",
+        "iata": "KRF",
+        "usaf": "022590"
     },
     "location": {
         "latitude": 63.05,

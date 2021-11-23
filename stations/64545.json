@@ -6,10 +6,10 @@
     "country": "GA",
     "region": "OI",
     "identifiers": {
-        "$wmo": "64545",
-        "$icao": "FOOE",
-        "$iata": "MKB",
-        "$usaf": "645450"
+        "wmo": "64545",
+        "icao": "FOOE",
+        "iata": "MKB",
+        "usaf": "645450"
     },
     "location": {
         "latitude": 1.0167,

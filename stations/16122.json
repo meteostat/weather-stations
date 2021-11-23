@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "LG",
     "identifiers": {
-        "$wmo": "16122",
-        "$icao": "LIMG",
-        "$iata": "ALL",
-        "$usaf": "161220",
-        "$mosmix": "16122"
+        "wmo": "16122",
+        "icao": "LIMG",
+        "iata": "ALL",
+        "usaf": "161220",
+        "mosmix": "16122"
     },
     "location": {
         "latitude": 44.05,

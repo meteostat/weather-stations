@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "ALM",
     "identifiers": {
-        "$wmo": "36837",
-        "$ghcn": "KZ000036837",
-        "$usaf": "368370"
+        "wmo": "36837",
+        "ghcn": "KZ000036837",
+        "usaf": "368370"
     },
     "location": {
         "latitude": 44.0167,

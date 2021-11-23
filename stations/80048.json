@@ -6,10 +6,10 @@
     "country": "CO",
     "region": "BOL",
     "identifiers": {
-        "$wmo": "80048",
-        "$icao": "SKMG",
-        "$iata": "MGN",
-        "$usaf": "800480"
+        "wmo": "80048",
+        "icao": "SKMG",
+        "iata": "MGN",
+        "usaf": "800480"
     },
     "location": {
         "latitude": 9.2667,

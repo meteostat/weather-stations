@@ -6,8 +6,8 @@
     "country": "MN",
     "region": "BO",
     "identifiers": {
-        "$wmo": "44214",
-        "$ghcn": "MGM00044214"
+        "wmo": "44214",
+        "ghcn": "MGM00044214"
     },
     "location": {
         "latitude": 48.9333,

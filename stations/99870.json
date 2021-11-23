@@ -6,9 +6,9 @@
     "country": "BE",
     "region": "WAL",
     "identifiers": {
-        "$wmo": "99870",
-        "$icao": "EQAU",
-        "$usaf": "998700"
+        "wmo": "99870",
+        "icao": "EQAU",
+        "usaf": "998700"
     },
     "location": {
         "latitude": 50.44,

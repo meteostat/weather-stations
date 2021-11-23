@@ -6,11 +6,11 @@
     "country": "NO",
     "region": "OP",
     "identifiers": {
-        "$wmo": "01368",
-        "$icao": "ENFG",
-        "$iata": "VDB",
-        "$usaf": "013680",
-        "$mosmix": "01368"
+        "wmo": "01368",
+        "icao": "ENFG",
+        "iata": "VDB",
+        "usaf": "013680",
+        "mosmix": "01368"
     },
     "location": {
         "latitude": 61,

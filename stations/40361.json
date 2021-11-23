@@ -6,11 +6,11 @@
     "country": "SA",
     "region": "JF",
     "identifiers": {
-        "$wmo": "40361",
-        "$icao": "OESK",
-        "$iata": "AJF",
-        "$ghcn": "SA000040361",
-        "$usaf": "403610"
+        "wmo": "40361",
+        "icao": "OESK",
+        "iata": "AJF",
+        "ghcn": "SA000040361",
+        "usaf": "403610"
     },
     "location": {
         "latitude": 29.7833,

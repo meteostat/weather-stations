@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "$icao": "CWXM",
-        "$ghcn": "CA003062475",
-        "$usaf": "714810"
+        "icao": "CWXM",
+        "ghcn": "CA003062475",
+        "usaf": "714810"
     },
     "location": {
         "latitude": 50.4,

@@ -6,11 +6,11 @@
     "country": "JP",
     "region": "ON",
     "identifiers": {
-        "$wmo": "47918",
-        "$icao": "ROIG",
-        "$iata": "ISG",
-        "$ghcn": "JA000047912",
-        "$usaf": "479180"
+        "wmo": "47918",
+        "icao": "ROIG",
+        "iata": "ISG",
+        "ghcn": "JA000047912",
+        "usaf": "479180"
     },
     "location": {
         "latitude": 24.3333,

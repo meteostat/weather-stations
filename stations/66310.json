@@ -6,10 +6,10 @@
     "country": "AO",
     "region": "BGU",
     "identifiers": {
-        "$wmo": "66310",
-        "$icao": "FNBG",
-        "$iata": "BUG",
-        "$usaf": "663100"
+        "wmo": "66310",
+        "icao": "FNBG",
+        "iata": "BUG",
+        "usaf": "663100"
     },
     "location": {
         "latitude": -12.5833,

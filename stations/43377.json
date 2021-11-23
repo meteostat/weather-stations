@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "TN",
     "identifiers": {
-        "$wmo": "43377",
-        "$ghcn": "IN020065100",
-        "$usaf": "433770"
+        "wmo": "43377",
+        "ghcn": "IN020065100",
+        "usaf": "433770"
     },
     "location": {
         "latitude": 8.0833,

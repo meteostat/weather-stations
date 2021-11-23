@@ -6,9 +6,9 @@
     "country": "RO",
     "region": "BZ",
     "identifiers": {
-        "$wmo": "15350",
-        "$ghcn": "ROE00100900",
-        "$usaf": "153500"
+        "wmo": "15350",
+        "ghcn": "ROE00100900",
+        "usaf": "153500"
     },
     "location": {
         "latitude": 45.15,

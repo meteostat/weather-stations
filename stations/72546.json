@@ -6,13 +6,13 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "$wmo": "72546",
-        "$icao": "KDSM",
-        "$iata": "DSM",
-        "$ghcn": "USW00014933",
-        "$wban": "14933",
-        "$usaf": "725460",
-        "$mosmix": "72546"
+        "wmo": "72546",
+        "icao": "KDSM",
+        "iata": "DSM",
+        "ghcn": "USW00014933",
+        "wban": "14933",
+        "usaf": "725460",
+        "mosmix": "72546"
     },
     "location": {
         "latitude": 41.5333,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$icao": "KADM",
-        "$iata": "ADM",
-        "$wban": "93940",
-        "$usaf": "723555"
+        "icao": "KADM",
+        "iata": "ADM",
+        "wban": "93940",
+        "usaf": "723555"
     },
     "location": {
         "latitude": 34.3043,

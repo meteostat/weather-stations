@@ -6,11 +6,11 @@
     "country": "BF",
     "region": "SEN",
     "identifiers": {
-        "$wmo": "65501",
-        "$icao": "DFEE",
-        "$iata": "DOR",
-        "$ghcn": "UV000065501",
-        "$usaf": "655010"
+        "wmo": "65501",
+        "icao": "DFEE",
+        "iata": "DOR",
+        "ghcn": "UV000065501",
+        "usaf": "655010"
     },
     "location": {
         "latitude": 14.0333,

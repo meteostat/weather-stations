@@ -6,12 +6,12 @@
     "country": "KG",
     "region": "CU",
     "identifiers": {
-        "$wmo": "38353",
-        "$icao": "UAFM",
-        "$iata": "FRU",
-        "$ghcn": "KG000038353",
-        "$usaf": "383530",
-        "$mosmix": "38353"
+        "wmo": "38353",
+        "icao": "UAFM",
+        "iata": "FRU",
+        "ghcn": "KG000038353",
+        "usaf": "383530",
+        "mosmix": "38353"
     },
     "location": {
         "latitude": 42.85,

@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "PM",
     "identifiers": {
-        "$wmo": "16059",
-        "$icao": "LIMF",
-        "$iata": "TRN",
-        "$usaf": "160590",
-        "$mosmix": "16059"
+        "wmo": "16059",
+        "icao": "LIMF",
+        "iata": "TRN",
+        "usaf": "160590",
+        "mosmix": "16059"
     },
     "location": {
         "latitude": 45.2167,

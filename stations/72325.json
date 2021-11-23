@@ -6,12 +6,12 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "$wmo": "72325",
-        "$icao": "KCSV",
-        "$iata": "CSV",
-        "$ghcn": "USW00003847",
-        "$wban": "03847",
-        "$usaf": "723250"
+        "wmo": "72325",
+        "icao": "KCSV",
+        "iata": "CSV",
+        "ghcn": "USW00003847",
+        "wban": "03847",
+        "usaf": "723250"
     },
     "location": {
         "latitude": 35.9513,

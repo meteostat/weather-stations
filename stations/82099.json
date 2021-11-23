@@ -6,8 +6,8 @@
     "country": "BR",
     "region": "AP",
     "identifiers": {
-        "$wmo": "82099",
-        "$mosmix": "82099"
+        "wmo": "82099",
+        "mosmix": "82099"
     },
     "location": {
         "latitude": 0.05,

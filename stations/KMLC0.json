@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$icao": "KMLC",
-        "$iata": "MLC",
-        "$wban": "93950",
-        "$usaf": "723566"
+        "icao": "KMLC",
+        "iata": "MLC",
+        "wban": "93950",
+        "usaf": "723566"
     },
     "location": {
         "latitude": 34.8824,

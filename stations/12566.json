@@ -6,12 +6,12 @@
     "country": "PL",
     "region": "ML",
     "identifiers": {
-        "$wmo": "12566",
-        "$icao": "EPKK",
-        "$iata": "KRK",
-        "$ghcn": "PLM00012566",
-        "$usaf": "125660",
-        "$mosmix": "12566"
+        "wmo": "12566",
+        "icao": "EPKK",
+        "iata": "KRK",
+        "ghcn": "PLM00012566",
+        "usaf": "125660",
+        "mosmix": "12566"
     },
     "location": {
         "latitude": 50.0833,

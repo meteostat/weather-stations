@@ -6,9 +6,9 @@
     "country": "UY",
     "region": "MO",
     "identifiers": {
-        "$wmo": "86575",
-        "$icao": "SUAA",
-        "$usaf": "865750"
+        "wmo": "86575",
+        "icao": "SUAA",
+        "usaf": "865750"
     },
     "location": {
         "latitude": -34.7833,

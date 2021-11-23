@@ -6,11 +6,11 @@
     "country": "CU",
     "region": "CH",
     "identifiers": {
-        "$wmo": "78224",
-        "$icao": "MUHA",
-        "$iata": "HAV",
-        "$usaf": "782240",
-        "$mosmix": "78224"
+        "wmo": "78224",
+        "icao": "MUHA",
+        "iata": "HAV",
+        "usaf": "782240",
+        "mosmix": "78224"
     },
     "location": {
         "latitude": 22.9833,

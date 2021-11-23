@@ -6,11 +6,11 @@
     "country": "LY",
     "region": "GD",
     "identifiers": {
-        "$wmo": "62103",
-        "$icao": "HLTD",
-        "$iata": "LTD",
-        "$ghcn": "LYM00062103",
-        "$usaf": "621030"
+        "wmo": "62103",
+        "icao": "HLTD",
+        "iata": "LTD",
+        "ghcn": "LYM00062103",
+        "usaf": "621030"
     },
     "location": {
         "latitude": 30.1333,

@@ -6,8 +6,8 @@
     "country": "RO",
     "region": "MA",
     "identifiers": {
-        "$wmo": "15004",
-        "$usaf": "150040"
+        "wmo": "15004",
+        "usaf": "150040"
     },
     "location": {
         "latitude": 47.9667,

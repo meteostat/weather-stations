@@ -6,12 +6,12 @@
     "country": "CH",
     "region": "VS",
     "identifiers": {
-        "$wmo": "06720",
-        "$icao": "LSGS",
-        "$iata": "SIR",
-        "$ghcn": "SZE00105086",
-        "$usaf": "067200",
-        "$mosmix": "06720"
+        "wmo": "06720",
+        "icao": "LSGS",
+        "iata": "SIR",
+        "ghcn": "SZE00105086",
+        "usaf": "067200",
+        "mosmix": "06720"
     },
     "location": {
         "latitude": 46.2167,

@@ -6,8 +6,8 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$icao": "KRID",
-        "$wban": "03846"
+        "icao": "KRID",
+        "wban": "03846"
     },
     "location": {
         "latitude": 39.7561,

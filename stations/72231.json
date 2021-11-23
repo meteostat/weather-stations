@@ -6,13 +6,13 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$wmo": "72231",
-        "$icao": "KMSY",
-        "$iata": "MSY",
-        "$ghcn": "USW00012916",
-        "$wban": "12916",
-        "$usaf": "722310",
-        "$mosmix": "72231"
+        "wmo": "72231",
+        "icao": "KMSY",
+        "iata": "MSY",
+        "ghcn": "USW00012916",
+        "wban": "12916",
+        "usaf": "722310",
+        "mosmix": "72231"
     },
     "location": {
         "latitude": 30,

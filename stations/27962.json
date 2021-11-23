@@ -6,12 +6,12 @@
     "country": "RU",
     "region": "PNZ",
     "identifiers": {
-        "$wmo": "27962",
-        "$icao": "UWPP",
-        "$iata": "PEZ",
-        "$ghcn": "RSM00027962",
-        "$usaf": "279620",
-        "$mosmix": "27962"
+        "wmo": "27962",
+        "icao": "UWPP",
+        "iata": "PEZ",
+        "ghcn": "RSM00027962",
+        "usaf": "279620",
+        "mosmix": "27962"
     },
     "location": {
         "latitude": 53.1167,

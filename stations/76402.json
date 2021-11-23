@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "BCS",
     "identifiers": {
-        "$wmo": "76402",
-        "$icao": "MMDA",
-        "$iata": "CUA",
-        "$ghcn": "MX000003068",
-        "$usaf": "764020"
+        "wmo": "76402",
+        "icao": "MMDA",
+        "iata": "CUA",
+        "ghcn": "MX000003068",
+        "usaf": "764020"
     },
     "location": {
         "latitude": 25,

@@ -6,9 +6,9 @@
     "country": "SY",
     "region": "HA",
     "identifiers": {
-        "$wmo": "40016",
-        "$usaf": "400160",
-        "$mosmix": "40016"
+        "wmo": "40016",
+        "usaf": "400160",
+        "mosmix": "40016"
     },
     "location": {
         "latitude": 36.5,

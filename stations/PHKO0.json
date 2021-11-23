@@ -6,10 +6,10 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "$icao": "PHKO",
-        "$iata": "KOA",
-        "$wban": "21510",
-        "$usaf": "911975"
+        "icao": "PHKO",
+        "iata": "KOA",
+        "wban": "21510",
+        "usaf": "911975"
     },
     "location": {
         "latitude": 19.7388,

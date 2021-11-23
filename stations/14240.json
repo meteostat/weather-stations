@@ -6,9 +6,9 @@
     "country": "HR",
     "region": "GZ",
     "identifiers": {
-        "$wmo": "14240",
-        "$icao": "LDDD",
-        "$usaf": "142400"
+        "wmo": "14240",
+        "icao": "LDDD",
+        "usaf": "142400"
     },
     "location": {
         "latitude": 45.8167,

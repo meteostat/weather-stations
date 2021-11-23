@@ -6,9 +6,9 @@
     "country": "LK",
     "region": "WE",
     "identifiers": {
-        "$wmo": "43466",
-        "$ghcn": "CEM00043466",
-        "$mosmix": "43466"
+        "wmo": "43466",
+        "ghcn": "CEM00043466",
+        "mosmix": "43466"
     },
     "location": {
         "latitude": 6.9,

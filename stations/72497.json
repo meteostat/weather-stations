@@ -6,12 +6,12 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$wmo": "72497",
-        "$icao": "KCIC",
-        "$iata": "CIC",
-        "$ghcn": "USW00054811",
-        "$wban": "93203",
-        "$usaf": "724973"
+        "wmo": "72497",
+        "icao": "KCIC",
+        "iata": "CIC",
+        "ghcn": "USW00054811",
+        "wban": "93203",
+        "usaf": "724973"
     },
     "location": {
         "latitude": 39.7954,

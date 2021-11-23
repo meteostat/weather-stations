@@ -6,11 +6,11 @@
     "country": "TD",
     "region": "BE",
     "identifiers": {
-        "$wmo": "64753",
-        "$icao": "FTTY",
-        "$iata": "FYT",
-        "$ghcn": "CD000064753",
-        "$usaf": "647530"
+        "wmo": "64753",
+        "icao": "FTTY",
+        "iata": "FYT",
+        "ghcn": "CD000064753",
+        "usaf": "647530"
     },
     "location": {
         "latitude": 18,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$icao": "KATS",
-        "$wban": "03035",
-        "$usaf": "722676"
+        "icao": "KATS",
+        "wban": "03035",
+        "usaf": "722676"
     },
     "location": {
         "latitude": 32.8525,

@@ -6,12 +6,12 @@
     "country": "ML",
     "region": "GA",
     "identifiers": {
-        "$wmo": "61226",
-        "$icao": "GAGO",
-        "$iata": "GAQ",
-        "$ghcn": "MLM00061226",
-        "$usaf": "612260",
-        "$mosmix": "61226"
+        "wmo": "61226",
+        "icao": "GAGO",
+        "iata": "GAQ",
+        "ghcn": "MLM00061226",
+        "usaf": "612260",
+        "mosmix": "61226"
     },
     "location": {
         "latitude": 16.2667,

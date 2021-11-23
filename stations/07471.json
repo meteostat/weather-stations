@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "C",
     "identifiers": {
-        "$wmo": "07471",
-        "$icao": "LFHP",
-        "$iata": "LPY",
-        "$ghcn": "FRM00007471",
-        "$usaf": "074710"
+        "wmo": "07471",
+        "icao": "LFHP",
+        "iata": "LPY",
+        "ghcn": "FRM00007471",
+        "usaf": "074710"
     },
     "location": {
         "latitude": 45.0833,

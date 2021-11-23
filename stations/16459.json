@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "SC",
     "identifiers": {
-        "$wmo": "16459",
-        "$icao": "LICZ",
-        "$iata": "NSY",
-        "$ghcn": "ITW00033126",
-        "$usaf": "164590"
+        "wmo": "16459",
+        "icao": "LICZ",
+        "iata": "NSY",
+        "ghcn": "ITW00033126",
+        "usaf": "164590"
     },
     "location": {
         "latitude": 37.4,

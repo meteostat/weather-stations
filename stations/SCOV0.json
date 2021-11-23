@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "CO",
     "identifiers": {
-        "$icao": "SCOV",
-        "$iata": "OVL",
-        "$usaf": "855080"
+        "icao": "SCOV",
+        "iata": "OVL",
+        "usaf": "855080"
     },
     "location": {
         "latitude": -30.5594,

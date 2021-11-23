@@ -6,9 +6,9 @@
     "country": "SA",
     "region": "ML",
     "identifiers": {
-        "$wmo": "41006",
-        "$icao": "OEMH",
-        "$usaf": "410060"
+        "wmo": "41006",
+        "icao": "OEMH",
+        "usaf": "410060"
     },
     "location": {
         "latitude": 22.4333,

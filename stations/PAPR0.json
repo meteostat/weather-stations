@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAPR",
-        "$iata": "PPC",
-        "$usaf": "701748"
+        "icao": "PAPR",
+        "iata": "PPC",
+        "usaf": "701748"
     },
     "location": {
         "latitude": 66.8141,

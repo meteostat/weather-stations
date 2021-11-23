@@ -6,11 +6,11 @@
     "country": "CG",
     "region": "PL",
     "identifiers": {
-        "$wmo": "64453",
-        "$icao": "FCBD",
-        "$iata": "JMB",
-        "$ghcn": "CF000004453",
-        "$usaf": "644530"
+        "wmo": "64453",
+        "icao": "FCBD",
+        "iata": "JMB",
+        "ghcn": "CF000004453",
+        "usaf": "644530"
     },
     "location": {
         "latitude": -2.5333,

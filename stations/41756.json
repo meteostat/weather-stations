@@ -6,11 +6,11 @@
     "country": "PK",
     "region": "B",
     "identifiers": {
-        "$wmo": "41756",
-        "$icao": "OPJI",
-        "$iata": "JIW",
-        "$ghcn": "PKM00041756",
-        "$usaf": "417560"
+        "wmo": "41756",
+        "icao": "OPJI",
+        "iata": "JIW",
+        "ghcn": "PKM00041756",
+        "usaf": "417560"
     },
     "location": {
         "latitude": 25.0667,

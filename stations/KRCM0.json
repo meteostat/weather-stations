@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "$icao": "KRCM",
-        "$wban": "00363",
-        "$usaf": "722367"
+        "icao": "KRCM",
+        "wban": "00363",
+        "usaf": "722367"
     },
     "location": {
         "latitude": 38.7842,

@@ -6,12 +6,12 @@
     "country": "GR",
     "region": "M",
     "identifiers": {
-        "$wmo": "16754",
-        "$icao": "LGIR",
-        "$iata": "HER",
-        "$ghcn": "GR000016754",
-        "$usaf": "167540",
-        "$mosmix": "16754"
+        "wmo": "16754",
+        "icao": "LGIR",
+        "iata": "HER",
+        "ghcn": "GR000016754",
+        "usaf": "167540",
+        "mosmix": "16754"
     },
     "location": {
         "latitude": 35.3333,

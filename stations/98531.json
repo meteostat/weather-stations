@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "MDC",
     "identifiers": {
-        "$wmo": "98531",
-        "$icao": "RPUH",
-        "$iata": "SJI",
-        "$usaf": "985310"
+        "wmo": "98531",
+        "icao": "RPUH",
+        "iata": "SJI",
+        "usaf": "985310"
     },
     "location": {
         "latitude": 12.35,

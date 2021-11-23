@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$icao": "K1F0",
-        "$wban": "53929",
-        "$usaf": "A00004"
+        "icao": "K1F0",
+        "wban": "53929",
+        "usaf": "A00004"
     },
     "location": {
         "latitude": 34.147,

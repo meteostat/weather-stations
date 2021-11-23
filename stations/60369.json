@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "ALG",
     "identifiers": {
-        "$wmo": "60369",
-        "$ghcn": "AGM00060369"
+        "wmo": "60369",
+        "ghcn": "AGM00060369"
     },
     "location": {
         "latitude": 36.7667,

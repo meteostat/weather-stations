@@ -6,10 +6,10 @@
     "country": "NL",
     "region": "NB",
     "identifiers": {
-        "$wmo": "06350",
-        "$icao": "EHGR",
-        "$usaf": "063500",
-        "$mosmix": "06350"
+        "wmo": "06350",
+        "icao": "EHGR",
+        "usaf": "063500",
+        "mosmix": "06350"
     },
     "location": {
         "latitude": 51.5667,

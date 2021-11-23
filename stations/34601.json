@@ -6,11 +6,11 @@
     "country": "UA",
     "region": "ZP",
     "identifiers": {
-        "$wmo": "34601",
-        "$icao": "UKDE",
-        "$iata": "OZH",
-        "$ghcn": "UPM00034601",
-        "$usaf": "346010"
+        "wmo": "34601",
+        "icao": "UKDE",
+        "iata": "OZH",
+        "ghcn": "UPM00034601",
+        "usaf": "346010"
     },
     "location": {
         "latitude": 47.8,

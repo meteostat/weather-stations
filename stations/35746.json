@@ -6,11 +6,11 @@
     "country": "KZ",
     "region": "KZY",
     "identifiers": {
-        "$wmo": "35746",
-        "$icao": "UATA",
-        "$ghcn": "KZ000035746",
-        "$usaf": "357460",
-        "$mosmix": "35746"
+        "wmo": "35746",
+        "icao": "UATA",
+        "ghcn": "KZ000035746",
+        "usaf": "357460",
+        "mosmix": "35746"
     },
     "location": {
         "latitude": 46.7833,

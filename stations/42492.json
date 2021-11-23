@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "BR",
     "identifiers": {
-        "$wmo": "42492",
-        "$icao": "VEPT",
-        "$iata": "PAT",
-        "$ghcn": "IN004102500",
-        "$usaf": "424920"
+        "wmo": "42492",
+        "icao": "VEPT",
+        "iata": "PAT",
+        "ghcn": "IN004102500",
+        "usaf": "424920"
     },
     "location": {
         "latitude": 25.6,

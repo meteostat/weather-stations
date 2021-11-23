@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "BCN",
     "identifiers": {
-        "$wmo": "76055",
-        "$icao": "MMSF",
-        "$iata": "SFH",
-        "$ghcn": "MXM00076055",
-        "$usaf": "760550"
+        "wmo": "76055",
+        "icao": "MMSF",
+        "iata": "SFH",
+        "ghcn": "MXM00076055",
+        "usaf": "760550"
     },
     "location": {
         "latitude": 31.0333,

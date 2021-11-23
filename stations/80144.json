@@ -6,11 +6,11 @@
     "country": "CO",
     "region": "CHO",
     "identifiers": {
-        "$wmo": "80144",
-        "$icao": "SKUI",
-        "$iata": "UIB",
-        "$ghcn": "COM00080144",
-        "$usaf": "801440"
+        "wmo": "80144",
+        "icao": "SKUI",
+        "iata": "UIB",
+        "ghcn": "COM00080144",
+        "usaf": "801440"
     },
     "location": {
         "latitude": 5.7167,

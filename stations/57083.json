@@ -6,12 +6,12 @@
     "country": "CN",
     "region": "HE",
     "identifiers": {
-        "$wmo": "57083",
-        "$icao": "ZHCC",
-        "$iata": "CGO",
-        "$ghcn": "CHM00057083",
-        "$usaf": "570830",
-        "$mosmix": "57083"
+        "wmo": "57083",
+        "icao": "ZHCC",
+        "iata": "CGO",
+        "ghcn": "CHM00057083",
+        "usaf": "570830",
+        "mosmix": "57083"
     },
     "location": {
         "latitude": 34.7167,

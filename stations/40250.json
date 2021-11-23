@@ -6,11 +6,11 @@
     "country": "JO",
     "region": "MF",
     "identifiers": {
-        "$wmo": "40250",
-        "$icao": "OJHR",
-        "$ghcn": "JOM00040250",
-        "$usaf": "402500",
-        "$mosmix": "40250"
+        "wmo": "40250",
+        "icao": "OJHR",
+        "ghcn": "JOM00040250",
+        "usaf": "402500",
+        "mosmix": "40250"
     },
     "location": {
         "latitude": 32.5,

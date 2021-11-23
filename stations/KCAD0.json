@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$icao": "KCAD",
-        "$iata": "CAD",
-        "$wban": "14817",
-        "$usaf": "726384"
+        "icao": "KCAD",
+        "iata": "CAD",
+        "wban": "14817",
+        "usaf": "726384"
     },
     "location": {
         "latitude": 44.2753,

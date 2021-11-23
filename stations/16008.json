@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "TT",
     "identifiers": {
-        "$wmo": "16008",
-        "$ghcn": "ITM00016008",
-        "$usaf": "160080",
-        "$mosmix": "16008"
+        "wmo": "16008",
+        "ghcn": "ITM00016008",
+        "usaf": "160080",
+        "mosmix": "16008"
     },
     "location": {
         "latitude": 46.75,

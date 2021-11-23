@@ -2,16 +2,16 @@
     "id": "02672",
     "name": {
         "de": "Kalmar Flughafen",
-        "sv": "Kalmar Flygplats",
-        "en": "Kalmar Airport"
+        "en": "Kalmar Airport",
+        "sv": "Kalmar Flygplats"
     },
     "country": "SE",
     "region": "H",
     "identifiers": {
-        "$wmo": "02672",
-        "$icao": "ESMQ",
-        "$iata": "KLR",
-        "$usaf": "026720"
+        "wmo": "02672",
+        "icao": "ESMQ",
+        "iata": "KLR",
+        "usaf": "026720"
     },
     "location": {
         "latitude": 56.7333,

@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "LP",
     "identifiers": {
-        "$wmo": "68290",
-        "$icao": "FAHS",
-        "$usaf": "682900"
+        "wmo": "68290",
+        "icao": "FAHS",
+        "usaf": "682900"
     },
     "location": {
         "latitude": -24.3667,

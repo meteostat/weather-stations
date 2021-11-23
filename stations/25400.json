@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "SA",
     "identifiers": {
-        "$wmo": "25400",
-        "$icao": "UESU",
-        "$ghcn": "RSM00025400"
+        "wmo": "25400",
+        "icao": "UESU",
+        "ghcn": "RSM00025400"
     },
     "location": {
         "latitude": 65.7333,

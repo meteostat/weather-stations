@@ -6,8 +6,8 @@
     "country": "ID",
     "region": "SN",
     "identifiers": {
-        "$wmo": "97126",
-        "$ghcn": "IDM00097126"
+        "wmo": "97126",
+        "ghcn": "IDM00097126"
     },
     "location": {
         "latitude": -2.55,

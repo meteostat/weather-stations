@@ -6,11 +6,11 @@
     "country": "CF",
     "region": "OUH",
     "identifiers": {
-        "$wmo": "64610",
-        "$icao": "FEFS",
-        "$iata": "BSN",
-        "$ghcn": "CT000004610",
-        "$usaf": "646100"
+        "wmo": "64610",
+        "icao": "FEFS",
+        "iata": "BSN",
+        "ghcn": "CT000004610",
+        "usaf": "646100"
     },
     "location": {
         "latitude": 6.4833,

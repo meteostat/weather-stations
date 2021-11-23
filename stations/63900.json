@@ -6,9 +6,9 @@
     "country": "TZ",
     "region": null,
     "identifiers": {
-        "$wmo": "63900",
-        "$icao": "HTSY",
-        "$usaf": "639003"
+        "wmo": "63900",
+        "icao": "HTSY",
+        "usaf": "639003"
     },
     "location": {
         "latitude": -3.5,

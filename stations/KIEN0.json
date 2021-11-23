@@ -6,9 +6,9 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "$icao": "KIEN",
-        "$wban": "94039",
-        "$usaf": "726517"
+        "icao": "KIEN",
+        "wban": "94039",
+        "usaf": "726517"
     },
     "location": {
         "latitude": 43.0225,

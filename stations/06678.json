@@ -6,8 +6,8 @@
     "country": "CH",
     "region": "TG",
     "identifiers": {
-        "$wmo": "06678",
-        "$mosmix": "06678"
+        "wmo": "06678",
+        "mosmix": "06678"
     },
     "location": {
         "latitude": 47.4975,

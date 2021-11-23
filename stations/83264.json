@@ -6,8 +6,8 @@
     "country": "BR",
     "region": "MT",
     "identifiers": {
-        "$wmo": "83264",
-        "$ghcn": "BRM00083264"
+        "wmo": "83264",
+        "ghcn": "BRM00083264"
     },
     "location": {
         "latitude": -12.2,

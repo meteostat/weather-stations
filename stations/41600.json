@@ -6,8 +6,8 @@
     "country": "PK",
     "region": "P",
     "identifiers": {
-        "$wmo": "41600",
-        "$ghcn": "PKM00041600"
+        "wmo": "41600",
+        "ghcn": "PKM00041600"
     },
     "location": {
         "latitude": 32.5,

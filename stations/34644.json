@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "ROS",
     "identifiers": {
-        "$wmo": "34644",
-        "$ghcn": "RSM00034644"
+        "wmo": "34644",
+        "ghcn": "RSM00034644"
     },
     "location": {
         "latitude": 47.5833,

@@ -6,12 +6,12 @@
     "country": "TD",
     "region": "CB",
     "identifiers": {
-        "$wmo": "64700",
-        "$icao": "FTTJ",
-        "$iata": "NDJ",
-        "$ghcn": "CD000004700",
-        "$usaf": "647000",
-        "$mosmix": "64700"
+        "wmo": "64700",
+        "icao": "FTTJ",
+        "iata": "NDJ",
+        "ghcn": "CD000004700",
+        "usaf": "647000",
+        "mosmix": "64700"
     },
     "location": {
         "latitude": 12.1333,

@@ -6,11 +6,11 @@
     "country": "GB",
     "region": null,
     "identifiers": {
-        "$wmo": "03091",
-        "$icao": "EGPD",
-        "$ghcn": "UKM00003091",
-        "$usaf": "030910",
-        "$mosmix": "03091"
+        "wmo": "03091",
+        "icao": "EGPD",
+        "ghcn": "UKM00003091",
+        "usaf": "030910",
+        "mosmix": "03091"
     },
     "location": {
         "latitude": 57.2,

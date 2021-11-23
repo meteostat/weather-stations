@@ -6,10 +6,10 @@
     "country": "ZA",
     "region": "GT",
     "identifiers": {
-        "$wmo": "68264",
-        "$icao": "FAWK",
-        "$iata": "WKF",
-        "$usaf": "682640"
+        "wmo": "68264",
+        "icao": "FAWK",
+        "iata": "WKF",
+        "usaf": "682640"
     },
     "location": {
         "latitude": -25.8333,

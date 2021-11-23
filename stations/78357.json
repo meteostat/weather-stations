@@ -6,10 +6,10 @@
     "country": "CU",
     "region": "LT",
     "identifiers": {
-        "$wmo": "78357",
-        "$icao": "MUVT",
-        "$iata": "VTU",
-        "$usaf": "783570"
+        "wmo": "78357",
+        "icao": "MUVT",
+        "iata": "VTU",
+        "usaf": "783570"
     },
     "location": {
         "latitude": 20.95,

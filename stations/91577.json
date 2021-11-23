@@ -6,11 +6,11 @@
     "country": "NC",
     "region": "NO",
     "identifiers": {
-        "$wmo": "91577",
-        "$icao": "NWWK",
-        "$iata": "KOC",
-        "$ghcn": "NC000091577",
-        "$usaf": "915770"
+        "wmo": "91577",
+        "icao": "NWWK",
+        "iata": "KOC",
+        "ghcn": "NC000091577",
+        "usaf": "915770"
     },
     "location": {
         "latitude": -20.5667,

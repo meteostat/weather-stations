@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "SAI",
     "identifiers": {
-        "$wmo": "60536",
-        "$ghcn": "AGM00060536"
+        "wmo": "60536",
+        "ghcn": "AGM00060536"
     },
     "location": {
         "latitude": 34.8667,

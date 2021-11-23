@@ -6,8 +6,8 @@
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "$wmo": "01043",
-        "$usaf": "010430"
+        "wmo": "01043",
+        "usaf": "010430"
     },
     "location": {
         "latitude": 70.3333,

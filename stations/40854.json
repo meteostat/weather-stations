@@ -6,11 +6,11 @@
     "country": "IR",
     "region": "KRB",
     "identifiers": {
-        "$wmo": "40854",
-        "$icao": "OIKM",
-        "$iata": "BXR",
-        "$usaf": "408540",
-        "$mosmix": "40854"
+        "wmo": "40854",
+        "icao": "OIKM",
+        "iata": "BXR",
+        "usaf": "408540",
+        "mosmix": "40854"
     },
     "location": {
         "latitude": 29.1,

@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "YAN",
     "identifiers": {
-        "$wmo": "23552",
-        "$icao": "USDS",
-        "$iata": "TQL",
-        "$ghcn": "RSM00023552"
+        "wmo": "23552",
+        "icao": "USDS",
+        "iata": "TQL",
+        "ghcn": "RSM00023552"
     },
     "location": {
         "latitude": 64.9167,

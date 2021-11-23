@@ -6,11 +6,11 @@
     "country": "CI",
     "region": "GAG",
     "identifiers": {
-        "$wmo": "65557",
-        "$icao": "DIGA",
-        "$ghcn": "IV000005557",
-        "$usaf": "655570",
-        "$mosmix": "65557"
+        "wmo": "65557",
+        "icao": "DIGA",
+        "ghcn": "IV000005557",
+        "usaf": "655570",
+        "mosmix": "65557"
     },
     "location": {
         "latitude": 6.1333,

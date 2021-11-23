@@ -6,11 +6,11 @@
     "country": "CU",
     "region": "SC",
     "identifiers": {
-        "$wmo": "78264",
-        "$icao": "MUCU",
-        "$iata": "SCU",
-        "$usaf": "782640",
-        "$mosmix": "78264"
+        "wmo": "78264",
+        "icao": "MUCU",
+        "iata": "SCU",
+        "usaf": "782640",
+        "mosmix": "78264"
     },
     "location": {
         "latitude": 19.9667,

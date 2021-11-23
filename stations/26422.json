@@ -6,12 +6,12 @@
     "country": "LV",
     "region": "RGA",
     "identifiers": {
-        "$wmo": "26422",
-        "$icao": "UMRR",
-        "$iata": "RIX",
-        "$ghcn": "LG000026422",
-        "$usaf": "264220",
-        "$mosmix": "26422"
+        "wmo": "26422",
+        "icao": "UMRR",
+        "iata": "RIX",
+        "ghcn": "LG000026422",
+        "usaf": "264220",
+        "mosmix": "26422"
     },
     "location": {
         "latitude": 56.9667,

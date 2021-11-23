@@ -6,10 +6,10 @@
     "country": "CA",
     "region": "YT",
     "identifiers": {
-        "$wmo": "69401",
-        "$icao": "CYDM",
-        "$iata": "XRR",
-        "$usaf": "719645"
+        "wmo": "69401",
+        "icao": "CYDM",
+        "iata": "XRR",
+        "usaf": "719645"
     },
     "location": {
         "latitude": 61.9667,

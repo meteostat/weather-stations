@@ -6,12 +6,12 @@
     "country": "NA",
     "region": "KH",
     "identifiers": {
-        "$wmo": "68110",
-        "$icao": "FAWW",
-        "$iata": "WDH",
-        "$ghcn": "WA007401540",
-        "$usaf": "681105",
-        "$mosmix": "68110"
+        "wmo": "68110",
+        "icao": "FAWW",
+        "iata": "WDH",
+        "ghcn": "WA007401540",
+        "usaf": "681105",
+        "mosmix": "68110"
     },
     "location": {
         "latitude": -22.5667,

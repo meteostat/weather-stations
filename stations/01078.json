@@ -1,14 +1,14 @@
 {
     "id": "01078",
     "name": {
-        "no": "Sletnes Fyr",
-        "en": "Sletnes Lighthouse"
+        "en": "Sletnes Lighthouse",
+        "no": "Sletnes Fyr"
     },
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "$wmo": "01078",
-        "$usaf": "010780"
+        "wmo": "01078",
+        "usaf": "010780"
     },
     "location": {
         "latitude": 71.0833,

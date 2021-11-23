@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "HO",
     "identifiers": {
-        "$icao": "ENSO",
-        "$iata": "SRP",
-        "$usaf": "010014"
+        "icao": "ENSO",
+        "iata": "SRP",
+        "usaf": "010014"
     },
     "location": {
         "latitude": 59.8,

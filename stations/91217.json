@@ -6,10 +6,10 @@
     "country": "US",
     "region": null,
     "identifiers": {
-        "$wmo": "91217",
-        "$icao": "PGAC",
-        "$usaf": "912170",
-        "$mosmix": "91217"
+        "wmo": "91217",
+        "icao": "PGAC",
+        "usaf": "912170",
+        "mosmix": "91217"
     },
     "location": {
         "latitude": 13.9167,

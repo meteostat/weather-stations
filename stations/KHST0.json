@@ -6,10 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KHST",
-        "$iata": "HST",
-        "$wban": "12826",
-        "$usaf": "722026"
+        "icao": "KHST",
+        "iata": "HST",
+        "wban": "12826",
+        "usaf": "722026"
     },
     "location": {
         "latitude": 25.4884,

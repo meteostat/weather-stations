@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "AP",
     "identifiers": {
-        "$wmo": "82030",
-        "$icao": "SBAM",
-        "$ghcn": "BR008250003",
-        "$usaf": "820300"
+        "wmo": "82030",
+        "icao": "SBAM",
+        "ghcn": "BR008250003",
+        "usaf": "820300"
     },
     "location": {
         "latitude": 2.0667,

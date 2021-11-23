@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "GO",
     "identifiers": {
-        "$wmo": "83419",
-        "$icao": "SBAN",
-        "$iata": "APS",
-        "$usaf": "834190"
+        "wmo": "83419",
+        "icao": "SBAN",
+        "iata": "APS",
+        "usaf": "834190"
     },
     "location": {
         "latitude": -16.2333,

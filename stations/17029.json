@@ -6,10 +6,10 @@
     "country": "TR",
     "region": "SAM",
     "identifiers": {
-        "$wmo": "17029",
-        "$icao": "LTAQ",
-        "$iata": "SSX",
-        "$usaf": "170290"
+        "wmo": "17029",
+        "icao": "LTAQ",
+        "iata": "SSX",
+        "usaf": "170290"
     },
     "location": {
         "latitude": 41.2667,

@@ -6,12 +6,12 @@
     "country": "RU",
     "region": "SAK",
     "identifiers": {
-        "$wmo": "32150",
-        "$icao": "UHSS",
-        "$iata": "UUS",
-        "$ghcn": "RSM00032150",
-        "$usaf": "321500",
-        "$mosmix": "32150"
+        "wmo": "32150",
+        "icao": "UHSS",
+        "iata": "UUS",
+        "ghcn": "RSM00032150",
+        "usaf": "321500",
+        "mosmix": "32150"
     },
     "location": {
         "latitude": 46.95,

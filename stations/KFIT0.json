@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "$icao": "KFIT",
-        "$wban": "04780",
-        "$usaf": "725107"
+        "icao": "KFIT",
+        "wban": "04780",
+        "usaf": "725107"
     },
     "location": {
         "latitude": 42.5541,

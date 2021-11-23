@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "SU",
     "identifiers": {
-        "$wmo": "96033",
-        "$ghcn": "IDM00096033",
-        "$usaf": "960330"
+        "wmo": "96033",
+        "ghcn": "IDM00096033",
+        "usaf": "960330"
     },
     "location": {
         "latitude": 3.8,

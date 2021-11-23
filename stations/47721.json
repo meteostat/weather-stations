@@ -6,10 +6,10 @@
     "country": "JP",
     "region": "SZ",
     "identifiers": {
-        "$wmo": "47721",
-        "$icao": "RJAT",
-        "$usaf": "477210",
-        "$mosmix": "47721"
+        "wmo": "47721",
+        "icao": "RJAT",
+        "usaf": "477210",
+        "mosmix": "47721"
     },
     "location": {
         "latitude": 35.3167,

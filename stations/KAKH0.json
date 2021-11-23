@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$icao": "KAKH",
-        "$wban": "53870",
-        "$usaf": "723147"
+        "icao": "KAKH",
+        "wban": "53870",
+        "usaf": "723147"
     },
     "location": {
         "latitude": 35.2026,

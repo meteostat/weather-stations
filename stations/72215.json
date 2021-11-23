@@ -6,11 +6,11 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "$wmo": "72215",
-        "$icao": "KFFC",
-        "$ghcn": "USW00053819",
-        "$wban": "53819",
-        "$usaf": "722197"
+        "wmo": "72215",
+        "icao": "KFFC",
+        "ghcn": "USW00053819",
+        "wban": "53819",
+        "usaf": "722197"
     },
     "location": {
         "latitude": 33.3667,

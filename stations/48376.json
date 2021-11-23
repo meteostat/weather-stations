@@ -6,11 +6,11 @@
     "country": "TH",
     "region": "TK",
     "identifiers": {
-        "$wmo": "48376",
-        "$icao": "VTPT",
-        "$iata": "TKT",
-        "$ghcn": "TH000048376",
-        "$usaf": "483760"
+        "wmo": "48376",
+        "icao": "VTPT",
+        "iata": "TKT",
+        "ghcn": "TH000048376",
+        "usaf": "483760"
     },
     "location": {
         "latitude": 16.8833,

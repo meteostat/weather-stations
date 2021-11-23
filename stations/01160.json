@@ -1,14 +1,14 @@
 {
     "id": "01160",
     "name": {
-        "no": "Skrova Fyr",
-        "en": "Skrova Lighthouse"
+        "en": "Skrova Lighthouse",
+        "no": "Skrova Fyr"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "$wmo": "01160",
-        "$usaf": "011600"
+        "wmo": "01160",
+        "usaf": "011600"
     },
     "location": {
         "latitude": 68.15,

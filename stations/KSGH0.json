@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "$icao": "KSGH",
-        "$iata": "SGH",
-        "$wban": "03867",
-        "$usaf": "724295"
+        "icao": "KSGH",
+        "iata": "SGH",
+        "wban": "03867",
+        "usaf": "724295"
     },
     "location": {
         "latitude": 39.8403,

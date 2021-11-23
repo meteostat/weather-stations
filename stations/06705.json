@@ -6,8 +6,8 @@
     "country": "CH",
     "region": "VD",
     "identifiers": {
-        "$wmo": "06705",
-        "$mosmix": "06705"
+        "wmo": "06705",
+        "mosmix": "06705"
     },
     "location": {
         "latitude": 46.4011,

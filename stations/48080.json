@@ -6,10 +6,10 @@
     "country": "MM",
     "region": "RK",
     "identifiers": {
-        "$wmo": "48080",
-        "$icao": "VBSY",
-        "$iata": "SNW",
-        "$usaf": "480800"
+        "wmo": "48080",
+        "icao": "VBSY",
+        "iata": "SNW",
+        "usaf": "480800"
     },
     "location": {
         "latitude": 18.4667,

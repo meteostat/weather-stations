@@ -6,9 +6,9 @@
     "country": "AT",
     "region": "OO",
     "identifiers": {
-        "$wmo": "11012",
-        "$ghcn": "AU000005010",
-        "$mosmix": "11012"
+        "wmo": "11012",
+        "ghcn": "AU000005010",
+        "mosmix": "11012"
     },
     "location": {
         "latitude": 48.05,

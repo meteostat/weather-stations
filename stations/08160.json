@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "AR",
     "identifiers": {
-        "$wmo": "08160",
-        "$icao": "LEZG",
-        "$iata": "ZAZ",
-        "$ghcn": "SP000009434",
-        "$usaf": "081600",
-        "$mosmix": "08160"
+        "wmo": "08160",
+        "icao": "LEZG",
+        "iata": "ZAZ",
+        "ghcn": "SP000009434",
+        "usaf": "081600",
+        "mosmix": "08160"
     },
     "location": {
         "latitude": 41.6667,

@@ -6,11 +6,11 @@
     "country": "MY",
     "region": "ML",
     "identifiers": {
-        "$wmo": "48665",
-        "$icao": "WMKM",
-        "$iata": "MKZ",
-        "$ghcn": "MYM00048665",
-        "$usaf": "486650"
+        "wmo": "48665",
+        "icao": "WMKM",
+        "iata": "MKZ",
+        "ghcn": "MYM00048665",
+        "usaf": "486650"
     },
     "location": {
         "latitude": 2.2667,

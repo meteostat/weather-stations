@@ -6,12 +6,12 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$wmo": "72515",
-        "$icao": "KBGM",
-        "$iata": "BGM",
-        "$ghcn": "USW00004725",
-        "$wban": "04725",
-        "$usaf": "725150"
+        "wmo": "72515",
+        "icao": "KBGM",
+        "iata": "BGM",
+        "ghcn": "USW00004725",
+        "wban": "04725",
+        "usaf": "725150"
     },
     "location": {
         "latitude": 42.2,

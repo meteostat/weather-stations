@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$icao": "KJHW",
-        "$iata": "JHW",
-        "$wban": "04720",
-        "$usaf": "725235"
+        "icao": "KJHW",
+        "iata": "JHW",
+        "wban": "04720",
+        "usaf": "725235"
     },
     "location": {
         "latitude": 42.1534,

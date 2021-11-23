@@ -6,10 +6,10 @@
     "country": "CU",
     "region": null,
     "identifiers": {
-        "$wmo": "78268",
-        "$icao": "MUBA",
-        "$iata": "BCA",
-        "$usaf": "782680"
+        "wmo": "78268",
+        "icao": "MUBA",
+        "iata": "BCA",
+        "usaf": "782680"
     },
     "location": {
         "latitude": 20.35,

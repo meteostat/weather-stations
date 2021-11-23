@@ -6,9 +6,9 @@
     "country": "NA",
     "region": "ER",
     "identifiers": {
-        "$wmo": "68108",
-        "$icao": "FAUS",
-        "$iata": "ULX"
+        "wmo": "68108",
+        "icao": "FAUS",
+        "iata": "ULX"
     },
     "location": {
         "latitude": -21.2333,

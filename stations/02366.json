@@ -2,18 +2,18 @@
     "id": "02366",
     "name": {
         "de": "Sundsvall-Harnosand Flughafen",
-        "sv": "Sundsvall-Harnosand Flygplats",
-        "en": "Sundsvall-Harnosand Airport"
+        "en": "Sundsvall-Harnosand Airport",
+        "sv": "Sundsvall-Harnosand Flygplats"
     },
     "country": "SE",
     "region": "Y",
     "identifiers": {
-        "$wmo": "02366",
-        "$icao": "ESNN",
-        "$iata": "SDL",
-        "$ghcn": "SWE00115961",
-        "$usaf": "023660",
-        "$mosmix": "02366"
+        "wmo": "02366",
+        "icao": "ESNN",
+        "iata": "SDL",
+        "ghcn": "SWE00115961",
+        "usaf": "023660",
+        "mosmix": "02366"
     },
     "location": {
         "latitude": 62.5333,

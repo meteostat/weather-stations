@@ -6,10 +6,10 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$icao": "KLAF",
-        "$iata": "LAF",
-        "$wban": "14835",
-        "$usaf": "724386"
+        "icao": "KLAF",
+        "iata": "LAF",
+        "wban": "14835",
+        "usaf": "724386"
     },
     "location": {
         "latitude": 40.4123,

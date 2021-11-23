@@ -6,11 +6,11 @@
     "country": "TH",
     "region": null,
     "identifiers": {
-        "$wmo": "48564",
-        "$iata": "PKC",
-        "$ghcn": "TH000048564",
-        "$usaf": "485640",
-        "$mosmix": "48564"
+        "wmo": "48564",
+        "iata": "PKC",
+        "ghcn": "TH000048564",
+        "usaf": "485640",
+        "mosmix": "48564"
     },
     "location": {
         "latitude": 7.8833,

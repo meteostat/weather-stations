@@ -6,12 +6,12 @@
     "country": "EG",
     "region": "BAM",
     "identifiers": {
-        "$wmo": "62463",
-        "$icao": "HEGN",
-        "$iata": "HRG",
-        "$ghcn": "EG000062463",
-        "$usaf": "624630",
-        "$mosmix": "62463"
+        "wmo": "62463",
+        "icao": "HEGN",
+        "iata": "HRG",
+        "ghcn": "EG000062463",
+        "usaf": "624630",
+        "mosmix": "62463"
     },
     "location": {
         "latitude": 27.15,

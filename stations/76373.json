@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "DUR",
     "identifiers": {
-        "$wmo": "76373",
-        "$ghcn": "MXM00076373",
-        "$usaf": "763730"
+        "wmo": "76373",
+        "ghcn": "MXM00076373",
+        "usaf": "763730"
     },
     "location": {
         "latitude": 25.35,

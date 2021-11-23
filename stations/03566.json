@@ -6,10 +6,10 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "$wmo": "03566",
-        "$icao": "EGUY",
-        "$iata": "QUY",
-        "$usaf": "035660"
+        "wmo": "03566",
+        "icao": "EGUY",
+        "iata": "QUY",
+        "usaf": "035660"
     },
     "location": {
         "latitude": 52.35,

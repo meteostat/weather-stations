@@ -6,11 +6,11 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "$wmo": "72447",
-        "$icao": "KIXD",
-        "$ghcn": "USW00093909",
-        "$wban": "93909",
-        "$usaf": "724475"
+        "wmo": "72447",
+        "icao": "KIXD",
+        "ghcn": "USW00093909",
+        "wban": "93909",
+        "usaf": "724475"
     },
     "location": {
         "latitude": 38.8309,

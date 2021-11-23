@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "UM",
     "identifiers": {
-        "$wmo": "16181",
-        "$icao": "LIRZ",
-        "$iata": "PEG",
-        "$usaf": "161810",
-        "$mosmix": "16181"
+        "wmo": "16181",
+        "icao": "LIRZ",
+        "iata": "PEG",
+        "usaf": "161810",
+        "mosmix": "16181"
     },
     "location": {
         "latitude": 43.0833,

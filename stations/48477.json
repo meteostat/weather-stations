@@ -6,8 +6,8 @@
     "country": "TH",
     "region": "CB",
     "identifiers": {
-        "$wmo": "48477",
-        "$ghcn": "TH000048477"
+        "wmo": "48477",
+        "ghcn": "TH000048477"
     },
     "location": {
         "latitude": 12.6833,

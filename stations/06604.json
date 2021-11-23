@@ -6,10 +6,10 @@
     "country": "CH",
     "region": "NE",
     "identifiers": {
-        "$wmo": "06604",
-        "$icao": "LSGN",
-        "$usaf": "066040",
-        "$mosmix": "06604"
+        "wmo": "06604",
+        "icao": "LSGN",
+        "usaf": "066040",
+        "mosmix": "06604"
     },
     "location": {
         "latitude": 47,

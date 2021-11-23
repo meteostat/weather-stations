@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "HE",
     "identifiers": {
-        "$wmo": "10633",
-        "$icao": "ETOU",
-        "$usaf": "106330",
-        "$mosmix": "10633"
+        "wmo": "10633",
+        "icao": "ETOU",
+        "usaf": "106330",
+        "mosmix": "10633"
     },
     "location": {
         "latitude": 50.05,

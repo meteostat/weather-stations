@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$icao": "KCTZ",
-        "$wban": "03727",
-        "$usaf": "722073"
+        "icao": "KCTZ",
+        "wban": "03727",
+        "usaf": "722073"
     },
     "location": {
         "latitude": 34.9749,

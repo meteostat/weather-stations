@@ -6,9 +6,9 @@
     "country": "DK",
     "region": "OS",
     "identifiers": {
-        "$wmo": "06011",
-        "$ghcn": "DAM00006011",
-        "$mosmix": "06011"
+        "wmo": "06011",
+        "ghcn": "DAM00006011",
+        "mosmix": "06011"
     },
     "location": {
         "latitude": 62.0167,

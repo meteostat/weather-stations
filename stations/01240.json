@@ -6,8 +6,8 @@
     "country": "NO",
     "region": "ST",
     "identifiers": {
-        "$wmo": "01240",
-        "$usaf": "012400"
+        "wmo": "01240",
+        "usaf": "012400"
     },
     "location": {
         "latitude": 64.1667,

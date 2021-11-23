@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "$icao": "KBFM",
-        "$iata": "BFM",
-        "$wban": "13838",
-        "$usaf": "722235"
+        "icao": "KBFM",
+        "iata": "BFM",
+        "wban": "13838",
+        "usaf": "722235"
     },
     "location": {
         "latitude": 30.6268,

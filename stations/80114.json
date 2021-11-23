@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "ANT",
     "identifiers": {
-        "$wmo": "80114",
-        "$icao": "SKAM",
-        "$iata": "AFI"
+        "wmo": "80114",
+        "icao": "SKAM",
+        "iata": "AFI"
     },
     "location": {
         "latitude": 6.9167,

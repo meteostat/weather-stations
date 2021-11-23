@@ -6,10 +6,10 @@
     "country": "ET",
     "region": "CN",
     "identifiers": {
-        "$wmo": "63404",
-        "$icao": "HASO",
-        "$iata": "ASO",
-        "$usaf": "634043"
+        "wmo": "63404",
+        "icao": "HASO",
+        "iata": "ASO",
+        "usaf": "634043"
     },
     "location": {
         "latitude": 10.0333,

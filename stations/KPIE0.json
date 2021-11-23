@@ -6,10 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KPIE",
-        "$iata": "PIE",
-        "$wban": "12873",
-        "$usaf": "722116"
+        "icao": "KPIE",
+        "iata": "PIE",
+        "wban": "12873",
+        "usaf": "722116"
     },
     "location": {
         "latitude": 27.91,

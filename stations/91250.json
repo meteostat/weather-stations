@@ -6,11 +6,11 @@
     "country": "MH",
     "region": "MH",
     "identifiers": {
-        "$wmo": "91250",
-        "$icao": "PKMA",
-        "$iata": "ENT",
-        "$ghcn": "RMW00041601",
-        "$wban": "41601"
+        "wmo": "91250",
+        "icao": "PKMA",
+        "iata": "ENT",
+        "ghcn": "RMW00041601",
+        "wban": "41601"
     },
     "location": {
         "latitude": 11.35,

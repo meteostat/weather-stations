@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KSKF",
-        "$iata": "SKF",
-        "$wban": "12909",
-        "$usaf": "722535"
+        "icao": "KSKF",
+        "iata": "SKF",
+        "wban": "12909",
+        "usaf": "722535"
     },
     "location": {
         "latitude": 29.3842,

@@ -6,10 +6,10 @@
     "country": "IR",
     "region": "TEH",
     "identifiers": {
-        "$wmo": "40730",
-        "$icao": "OIIE",
-        "$iata": "IKA",
-        "$usaf": "407300"
+        "wmo": "40730",
+        "icao": "OIIE",
+        "iata": "IKA",
+        "usaf": "407300"
     },
     "location": {
         "latitude": 35.4,

@@ -6,8 +6,8 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KETN",
-        "$wban": "03906"
+        "icao": "KETN",
+        "wban": "03906"
     },
     "location": {
         "latitude": 32.4149,

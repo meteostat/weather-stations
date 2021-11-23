@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "KLU",
     "identifiers": {
-        "$wmo": "27703",
-        "$ghcn": "RSM00027703"
+        "wmo": "27703",
+        "ghcn": "RSM00027703"
     },
     "location": {
         "latitude": 54.5667,

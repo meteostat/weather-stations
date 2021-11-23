@@ -6,8 +6,8 @@
     "country": "LV",
     "region": "RZR",
     "identifiers": {
-        "$wmo": "26446",
-        "$ghcn": "LG000026446"
+        "wmo": "26446",
+        "ghcn": "LG000026446"
     },
     "location": {
         "latitude": 56.5333,

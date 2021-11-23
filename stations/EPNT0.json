@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "MA",
     "identifiers": {
-        "$icao": "EPNT",
-        "$iata": "QWS",
-        "$usaf": "126899"
+        "icao": "EPNT",
+        "iata": "QWS",
+        "usaf": "126899"
     },
     "location": {
         "latitude": 49.4628,

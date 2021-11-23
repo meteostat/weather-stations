@@ -6,10 +6,10 @@
     "country": "SN",
     "region": "LO",
     "identifiers": {
-        "$wmo": "61627",
-        "$icao": "GOOG",
-        "$ghcn": "SG000001627",
-        "$usaf": "616270"
+        "wmo": "61627",
+        "icao": "GOOG",
+        "ghcn": "SG000001627",
+        "usaf": "616270"
     },
     "location": {
         "latitude": 15.3833,

@@ -6,12 +6,12 @@
     "country": "HN",
     "region": "FM",
     "identifiers": {
-        "$wmo": "78720",
-        "$icao": "MHTG",
-        "$iata": "TGU",
-        "$ghcn": "HO000078720",
-        "$usaf": "787200",
-        "$mosmix": "78720"
+        "wmo": "78720",
+        "icao": "MHTG",
+        "iata": "TGU",
+        "ghcn": "HO000078720",
+        "usaf": "787200",
+        "mosmix": "78720"
     },
     "location": {
         "latitude": 14.05,

@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "TAS",
     "identifiers": {
-        "$wmo": "95957",
-        "$iata": "WNY",
-        "$ghcn": "ASN00091107"
+        "wmo": "95957",
+        "iata": "WNY",
+        "ghcn": "ASN00091107"
     },
     "location": {
         "latitude": -40.9833,

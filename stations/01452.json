@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "VA",
     "identifiers": {
-        "$wmo": "01452",
-        "$icao": "ENCN",
-        "$usaf": "014520",
-        "$mosmix": "01452"
+        "wmo": "01452",
+        "icao": "ENCN",
+        "usaf": "014520",
+        "mosmix": "01452"
     },
     "location": {
         "latitude": 58.2,

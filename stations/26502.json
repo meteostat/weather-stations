@@ -6,12 +6,12 @@
     "country": "LT",
     "region": "KP",
     "identifiers": {
-        "$wmo": "26502",
-        "$icao": "EYPA",
-        "$iata": "PLQ",
-        "$ghcn": "LH000026502",
-        "$usaf": "265020",
-        "$mosmix": "26502"
+        "wmo": "26502",
+        "icao": "EYPA",
+        "iata": "PLQ",
+        "ghcn": "LH000026502",
+        "usaf": "265020",
+        "mosmix": "26502"
     },
     "location": {
         "latitude": 55.9667,

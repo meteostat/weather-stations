@@ -6,10 +6,10 @@
     "country": "US",
     "region": "WV",
     "identifiers": {
-        "$icao": "KCKB",
-        "$iata": "CKB",
-        "$wban": "03802",
-        "$usaf": "724175"
+        "icao": "KCKB",
+        "iata": "CKB",
+        "wban": "03802",
+        "usaf": "724175"
     },
     "location": {
         "latitude": 39.2966,

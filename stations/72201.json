@@ -6,13 +6,13 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$wmo": "72201",
-        "$icao": "KEYW",
-        "$iata": "EYW",
-        "$ghcn": "USW00012836",
-        "$wban": "12836",
-        "$usaf": "722010",
-        "$mosmix": "72201"
+        "wmo": "72201",
+        "icao": "KEYW",
+        "iata": "EYW",
+        "ghcn": "USW00012836",
+        "wban": "12836",
+        "usaf": "722010",
+        "mosmix": "72201"
     },
     "location": {
         "latitude": 24.55,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "$icao": "KLOR",
-        "$wban": "53861",
-        "$usaf": "722239"
+        "icao": "KLOR",
+        "wban": "53861",
+        "usaf": "722239"
     },
     "location": {
         "latitude": 31.3558,

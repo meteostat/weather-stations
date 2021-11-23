@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "MA",
     "identifiers": {
-        "$wmo": "97460",
-        "$icao": "WAPH",
-        "$iata": "LAH",
-        "$ghcn": "IDM00097460",
-        "$usaf": "974600"
+        "wmo": "97460",
+        "icao": "WAPH",
+        "iata": "LAH",
+        "ghcn": "IDM00097460",
+        "usaf": "974600"
     },
     "location": {
         "latitude": -1.6167,

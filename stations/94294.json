@@ -6,12 +6,12 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "$wmo": "94294",
-        "$icao": "YBTL",
-        "$iata": "TSV",
-        "$ghcn": "ASN00032040",
-        "$usaf": "942940",
-        "$mosmix": "94294"
+        "wmo": "94294",
+        "icao": "YBTL",
+        "iata": "TSV",
+        "ghcn": "ASN00032040",
+        "usaf": "942940",
+        "mosmix": "94294"
     },
     "location": {
         "latitude": -19.25,

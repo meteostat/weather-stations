@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "FV",
     "identifiers": {
-        "$wmo": "16044",
-        "$icao": "LIPD",
-        "$iata": "UDN",
-        "$usaf": "160440"
+        "wmo": "16044",
+        "icao": "LIPD",
+        "iata": "UDN",
+        "usaf": "160440"
     },
     "location": {
         "latitude": 46.0333,

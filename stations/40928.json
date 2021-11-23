@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "TAK",
     "identifiers": {
-        "$wmo": "40928",
-        "$icao": "OAYQ",
-        "$usaf": "409280"
+        "wmo": "40928",
+        "icao": "OAYQ",
+        "usaf": "409280"
     },
     "location": {
         "latitude": 37.4667,

@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "MOS",
     "identifiers": {
-        "$wmo": "60457",
-        "$ghcn": "AGM00060457"
+        "wmo": "60457",
+        "ghcn": "AGM00060457"
     },
     "location": {
         "latitude": 35.8833,

@@ -6,11 +6,11 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "$wmo": "71313",
-        "$icao": "CYGV",
-        "$iata": "YGV",
-        "$ghcn": "CA007043018",
-        "$usaf": "713130"
+        "wmo": "71313",
+        "icao": "CYGV",
+        "iata": "YGV",
+        "ghcn": "CA007043018",
+        "usaf": "713130"
     },
     "location": {
         "latitude": 50.2833,

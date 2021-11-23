@@ -6,12 +6,12 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$wmo": "72256",
-        "$icao": "KACT",
-        "$iata": "ACT",
-        "$ghcn": "USW00013959",
-        "$wban": "13959",
-        "$usaf": "722560"
+        "wmo": "72256",
+        "icao": "KACT",
+        "iata": "ACT",
+        "ghcn": "USW00013959",
+        "wban": "13959",
+        "usaf": "722560"
     },
     "location": {
         "latitude": 31.6,

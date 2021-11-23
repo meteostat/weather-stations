@@ -6,11 +6,11 @@
     "country": "UG",
     "region": "MZ",
     "identifiers": {
-        "$wmo": "63654",
-        "$icao": "HUMI",
-        "$iata": "KCU",
-        "$ghcn": "UG000063654",
-        "$usaf": "636540"
+        "wmo": "63654",
+        "icao": "HUMI",
+        "iata": "KCU",
+        "ghcn": "UG000063654",
+        "usaf": "636540"
     },
     "location": {
         "latitude": 1.6833,

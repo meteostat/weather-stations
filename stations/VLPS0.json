@@ -6,8 +6,8 @@
     "country": "LA",
     "region": "CH",
     "identifiers": {
-        "$icao": "VLPS",
-        "$iata": "PKZ"
+        "icao": "VLPS",
+        "iata": "PKZ"
     },
     "location": {
         "latitude": 15.1321,

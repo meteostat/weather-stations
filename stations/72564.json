@@ -6,13 +6,13 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "$wmo": "72564",
-        "$icao": "KCYS",
-        "$iata": "CYS",
-        "$ghcn": "USW00024018",
-        "$wban": "24018",
-        "$usaf": "725640",
-        "$mosmix": "72564"
+        "wmo": "72564",
+        "icao": "KCYS",
+        "iata": "CYS",
+        "ghcn": "USW00024018",
+        "wban": "24018",
+        "usaf": "725640",
+        "mosmix": "72564"
     },
     "location": {
         "latitude": 41.15,

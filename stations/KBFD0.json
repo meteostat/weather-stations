@@ -6,10 +6,10 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "$icao": "KBFD",
-        "$iata": "BFD",
-        "$wban": "04751",
-        "$usaf": "725266"
+        "icao": "KBFD",
+        "iata": "BFD",
+        "wban": "04751",
+        "usaf": "725266"
     },
     "location": {
         "latitude": 41.8031,

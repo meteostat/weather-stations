@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "BEL",
     "identifiers": {
-        "$wmo": "34214",
-        "$icao": "UUOB",
-        "$iata": "EGO",
-        "$ghcn": "RSM00034214"
+        "wmo": "34214",
+        "icao": "UUOB",
+        "iata": "EGO",
+        "ghcn": "RSM00034214"
     },
     "location": {
         "latitude": 50.6333,

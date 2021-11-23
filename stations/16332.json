@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "PU",
     "identifiers": {
-        "$wmo": "16332",
-        "$icao": "LIBN",
-        "$iata": "LCC",
-        "$usaf": "163320"
+        "wmo": "16332",
+        "icao": "LIBN",
+        "iata": "LCC",
+        "usaf": "163320"
     },
     "location": {
         "latitude": 40.2333,

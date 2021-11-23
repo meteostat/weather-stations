@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "$icao": "KRTS",
-        "$wban": "00279",
-        "$usaf": "720839"
+        "icao": "KRTS",
+        "wban": "00279",
+        "usaf": "720839"
     },
     "location": {
         "latitude": 39.6682,

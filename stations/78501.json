@@ -6,11 +6,11 @@
     "country": "HN",
     "region": "IB",
     "identifiers": {
-        "$wmo": "78501",
-        "$icao": "MHIC",
-        "$ghcn": "HOW00011807",
-        "$wban": "11807",
-        "$usaf": "785010"
+        "wmo": "78501",
+        "icao": "MHIC",
+        "ghcn": "HOW00011807",
+        "wban": "11807",
+        "usaf": "785010"
     },
     "location": {
         "latitude": 17.4,

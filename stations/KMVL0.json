@@ -6,9 +6,9 @@
     "country": "US",
     "region": "VT",
     "identifiers": {
-        "$icao": "KMVL",
-        "$wban": "54771",
-        "$usaf": "726114"
+        "icao": "KMVL",
+        "wban": "54771",
+        "usaf": "726114"
     },
     "location": {
         "latitude": 44.5346,

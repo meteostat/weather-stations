@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "RN",
     "identifiers": {
-        "$wmo": "82591",
-        "$icao": "SBMS",
-        "$iata": "MVF",
-        "$usaf": "825910"
+        "wmo": "82591",
+        "icao": "SBMS",
+        "iata": "MVF",
+        "usaf": "825910"
     },
     "location": {
         "latitude": -5.2,

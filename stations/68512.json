@@ -6,11 +6,11 @@
     "country": "ZA",
     "region": "NC",
     "identifiers": {
-        "$wmo": "68512",
-        "$icao": "FASB",
-        "$iata": "SBU",
-        "$ghcn": "SF002146700",
-        "$usaf": "685120"
+        "wmo": "68512",
+        "icao": "FASB",
+        "iata": "SBU",
+        "ghcn": "SF002146700",
+        "usaf": "685120"
     },
     "location": {
         "latitude": -29.6667,

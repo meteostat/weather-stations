@@ -6,11 +6,11 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$wmo": "74521",
-        "$icao": "KDRO",
-        "$iata": "DRO",
-        "$wban": "93005",
-        "$usaf": "724625"
+        "wmo": "74521",
+        "icao": "KDRO",
+        "iata": "DRO",
+        "wban": "93005",
+        "usaf": "724625"
     },
     "location": {
         "latitude": 37.2,

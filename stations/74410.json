@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "$wmo": "74410",
-        "$icao": "KPSF",
-        "$wban": "14763",
-        "$usaf": "744104"
+        "wmo": "74410",
+        "icao": "KPSF",
+        "wban": "14763",
+        "usaf": "744104"
     },
     "location": {
         "latitude": 42.42,

@@ -6,12 +6,12 @@
     "country": "AR",
     "region": "W",
     "identifiers": {
-        "$wmo": "87289",
-        "$icao": "SARL",
-        "$iata": "AOL",
-        "$ghcn": "ARM00087289",
-        "$usaf": "872890",
-        "$mosmix": "87289"
+        "wmo": "87289",
+        "icao": "SARL",
+        "iata": "AOL",
+        "ghcn": "ARM00087289",
+        "usaf": "872890",
+        "mosmix": "87289"
     },
     "location": {
         "latitude": -29.6833,

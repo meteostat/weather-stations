@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "VLG",
     "identifiers": {
-        "$wmo": "27008",
-        "$ghcn": "RSM00027008"
+        "wmo": "27008",
+        "ghcn": "RSM00027008"
     },
     "location": {
         "latitude": 59.4,

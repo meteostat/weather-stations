@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "LM",
     "identifiers": {
-        "$wmo": "16080",
-        "$icao": "LIML",
-        "$iata": "LIN",
-        "$usaf": "160800",
-        "$mosmix": "16080"
+        "wmo": "16080",
+        "icao": "LIML",
+        "iata": "LIN",
+        "usaf": "160800",
+        "mosmix": "16080"
     },
     "location": {
         "latitude": 45.4333,

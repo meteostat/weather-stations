@@ -6,12 +6,12 @@
     "country": "FM",
     "region": "P",
     "identifiers": {
-        "$wmo": "91348",
-        "$icao": "PTPN",
-        "$iata": "PNI",
-        "$ghcn": "FMW00040504",
-        "$usaf": "913480",
-        "$mosmix": "91348"
+        "wmo": "91348",
+        "icao": "PTPN",
+        "iata": "PNI",
+        "ghcn": "FMW00040504",
+        "usaf": "913480",
+        "mosmix": "91348"
     },
     "location": {
         "latitude": 6.9833,

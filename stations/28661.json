@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "KGN",
     "identifiers": {
-        "$wmo": "28661",
-        "$icao": "USUU",
-        "$iata": "KRO",
-        "$ghcn": "RSM00028661"
+        "wmo": "28661",
+        "icao": "USUU",
+        "iata": "KRO",
+        "ghcn": "RSM00028661"
     },
     "location": {
         "latitude": 55.4667,

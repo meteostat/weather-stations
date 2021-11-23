@@ -6,11 +6,11 @@
     "country": "CI",
     "region": "SPE",
     "identifiers": {
-        "$wmo": "65594",
-        "$icao": "DISP",
-        "$iata": "SPY",
-        "$ghcn": "IVM00065594",
-        "$usaf": "655940"
+        "wmo": "65594",
+        "icao": "DISP",
+        "iata": "SPY",
+        "ghcn": "IVM00065594",
+        "usaf": "655940"
     },
     "location": {
         "latitude": 4.75,

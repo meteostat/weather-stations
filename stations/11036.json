@@ -6,11 +6,11 @@
     "country": "AT",
     "region": "NO",
     "identifiers": {
-        "$wmo": "11036",
-        "$icao": "LOWW",
-        "$iata": "VIE",
-        "$usaf": "110360",
-        "$mosmix": "11036"
+        "wmo": "11036",
+        "icao": "LOWW",
+        "iata": "VIE",
+        "usaf": "110360",
+        "mosmix": "11036"
     },
     "location": {
         "latitude": 48.1167,

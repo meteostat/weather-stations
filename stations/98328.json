@@ -6,12 +6,12 @@
     "country": "PH",
     "region": "BEN",
     "identifiers": {
-        "$wmo": "98328",
-        "$icao": "RPUB",
-        "$iata": "BAG",
-        "$ghcn": "RPM00098328",
-        "$usaf": "983280",
-        "$mosmix": "98328"
+        "wmo": "98328",
+        "icao": "RPUB",
+        "iata": "BAG",
+        "ghcn": "RPM00098328",
+        "usaf": "983280",
+        "mosmix": "98328"
     },
     "location": {
         "latitude": 16.4167,

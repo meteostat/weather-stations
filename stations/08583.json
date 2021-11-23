@@ -6,9 +6,9 @@
     "country": "CV",
     "region": "SV",
     "identifiers": {
-        "$wmo": "08583",
-        "$ghcn": "CVM00008583",
-        "$usaf": "085830"
+        "wmo": "08583",
+        "ghcn": "CVM00008583",
+        "usaf": "085830"
     },
     "location": {
         "latitude": 16.8833,

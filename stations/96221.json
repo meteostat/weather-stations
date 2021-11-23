@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "SS",
     "identifiers": {
-        "$wmo": "96221",
-        "$icao": "WIPP",
-        "$iata": "PLM",
-        "$ghcn": "IDM00096221",
-        "$usaf": "962210"
+        "wmo": "96221",
+        "icao": "WIPP",
+        "iata": "PLM",
+        "ghcn": "IDM00096221",
+        "usaf": "962210"
     },
     "location": {
         "latitude": -2.9,

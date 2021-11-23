@@ -6,12 +6,12 @@
     "country": "GR",
     "region": "LI",
     "identifiers": {
-        "$wmo": "16648",
-        "$icao": "LGLR",
-        "$iata": "LRA",
-        "$ghcn": "GR000016648",
-        "$usaf": "166480",
-        "$mosmix": "16648"
+        "wmo": "16648",
+        "icao": "LGLR",
+        "iata": "LRA",
+        "ghcn": "GR000016648",
+        "usaf": "166480",
+        "mosmix": "16648"
     },
     "location": {
         "latitude": 39.6333,

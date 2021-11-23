@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "$icao": "ENVR",
-        "$iata": "VRY",
-        "$usaf": "011390"
+        "icao": "ENVR",
+        "iata": "VRY",
+        "usaf": "011390"
     },
     "location": {
         "latitude": 67.6554,

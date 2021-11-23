@@ -6,11 +6,11 @@
     "country": "PG",
     "region": "MR",
     "identifiers": {
-        "$wmo": "92047",
-        "$icao": "AYNZ",
-        "$iata": "LAE",
-        "$ghcn": "PPM00092047",
-        "$usaf": "920470"
+        "wmo": "92047",
+        "icao": "AYNZ",
+        "iata": "LAE",
+        "ghcn": "PPM00092047",
+        "usaf": "920470"
     },
     "location": {
         "latitude": -6.5667,

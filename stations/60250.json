@@ -6,11 +6,11 @@
     "country": "MA",
     "region": "SM",
     "identifiers": {
-        "$wmo": "60250",
-        "$icao": "GMAA",
-        "$iata": "AGA",
-        "$usaf": "602500",
-        "$mosmix": "60250"
+        "wmo": "60250",
+        "icao": "GMAA",
+        "iata": "AGA",
+        "usaf": "602500",
+        "mosmix": "60250"
     },
     "location": {
         "latitude": 30.3833,

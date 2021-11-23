@@ -6,12 +6,12 @@
     "country": "SD",
     "region": "RS",
     "identifiers": {
-        "$wmo": "62641",
-        "$icao": "HSSP",
-        "$iata": "PZU",
-        "$ghcn": "SU000062641",
-        "$usaf": "626410",
-        "$mosmix": "62641"
+        "wmo": "62641",
+        "icao": "HSSP",
+        "iata": "PZU",
+        "ghcn": "SU000062641",
+        "usaf": "626410",
+        "mosmix": "62641"
     },
     "location": {
         "latitude": 19.5833,

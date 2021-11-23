@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "CL",
     "identifiers": {
-        "$wmo": "08140",
-        "$icao": "LEVD",
-        "$iata": "VLL",
-        "$ghcn": "SPE00120602",
-        "$usaf": "081400",
-        "$mosmix": "08140"
+        "wmo": "08140",
+        "icao": "LEVD",
+        "iata": "VLL",
+        "ghcn": "SPE00120602",
+        "usaf": "081400",
+        "mosmix": "08140"
     },
     "location": {
         "latitude": 41.7167,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "$icao": "KRSP",
-        "$wban": "03749",
-        "$usaf": "722823"
+        "icao": "KRSP",
+        "wban": "03749",
+        "usaf": "722823"
     },
     "location": {
         "latitude": 39.6459,

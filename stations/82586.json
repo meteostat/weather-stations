@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "CE",
     "identifiers": {
-        "$wmo": "82586",
-        "$ghcn": "BR038014410",
-        "$usaf": "825860"
+        "wmo": "82586",
+        "ghcn": "BR038014410",
+        "usaf": "825860"
     },
     "location": {
         "latitude": -5.2,

@@ -6,11 +6,11 @@
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "$wmo": "01059",
-        "$icao": "ENNA",
-        "$iata": "LKL",
-        "$usaf": "010590",
-        "$mosmix": "01059"
+        "wmo": "01059",
+        "icao": "ENNA",
+        "iata": "LKL",
+        "usaf": "010590",
+        "mosmix": "01059"
     },
     "location": {
         "latitude": 70.0667,

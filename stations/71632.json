@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "$icao": "CWBI",
-        "$ghcn": "CA005061649",
-        "$usaf": "716150"
+        "icao": "CWBI",
+        "ghcn": "CA005061649",
+        "usaf": "716150"
     },
     "location": {
         "latitude": 45.8,

@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "TT",
     "identifiers": {
-        "$wmo": "16022",
-        "$icao": "LIVP",
-        "$ghcn": "IT000160220",
-        "$usaf": "160220",
-        "$mosmix": "16022"
+        "wmo": "16022",
+        "icao": "LIVP",
+        "ghcn": "IT000160220",
+        "usaf": "160220",
+        "mosmix": "16022"
     },
     "location": {
         "latitude": 46.15,

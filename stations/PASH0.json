@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PASH",
-        "$iata": "SHH",
-        "$wban": "26625",
-        "$usaf": "701195"
+        "icao": "PASH",
+        "iata": "SHH",
+        "wban": "26625",
+        "usaf": "701195"
     },
     "location": {
         "latitude": 66.2496,

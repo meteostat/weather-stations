@@ -6,11 +6,11 @@
     "country": "RE",
     "region": null,
     "identifiers": {
-        "$wmo": "61984",
-        "$icao": "FMEP",
-        "$iata": "ZSE",
-        "$usaf": "619840",
-        "$mosmix": "61984"
+        "wmo": "61984",
+        "icao": "FMEP",
+        "iata": "ZSE",
+        "usaf": "619840",
+        "mosmix": "61984"
     },
     "location": {
         "latitude": -21.3333,

@@ -6,11 +6,11 @@
     "country": "TN",
     "region": "GF",
     "identifiers": {
-        "$wmo": "60745",
-        "$icao": "DTTF",
-        "$iata": "GAF",
-        "$ghcn": "TSM00060745",
-        "$usaf": "607450"
+        "wmo": "60745",
+        "icao": "DTTF",
+        "iata": "GAF",
+        "ghcn": "TSM00060745",
+        "usaf": "607450"
     },
     "location": {
         "latitude": 34.4167,

@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "OUA",
     "identifiers": {
-        "$wmo": "60603",
-        "$ghcn": "AGM00060603"
+        "wmo": "60603",
+        "ghcn": "AGM00060603"
     },
     "location": {
         "latitude": 29.7167,

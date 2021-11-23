@@ -6,11 +6,11 @@
     "country": "PK",
     "region": "B",
     "identifiers": {
-        "$wmo": "41660",
-        "$icao": "OPQT",
-        "$iata": "UET",
-        "$ghcn": "PKM00041660",
-        "$usaf": "416600"
+        "wmo": "41660",
+        "icao": "OPQT",
+        "iata": "UET",
+        "ghcn": "PKM00041660",
+        "usaf": "416600"
     },
     "location": {
         "latitude": 30.25,

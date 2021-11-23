@@ -6,10 +6,10 @@
     "country": "CH",
     "region": "TI",
     "identifiers": {
-        "$wmo": "06762",
-        "$icao": "LSZL",
-        "$usaf": "067620",
-        "$mosmix": "06762"
+        "wmo": "06762",
+        "icao": "LSZL",
+        "usaf": "067620",
+        "mosmix": "06762"
     },
     "location": {
         "latitude": 46.1667,

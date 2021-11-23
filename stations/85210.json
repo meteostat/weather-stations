@@ -6,8 +6,8 @@
     "country": "BO",
     "region": "S",
     "identifiers": {
-        "$wmo": "85210",
-        "$ghcn": "BLM00085210"
+        "wmo": "85210",
+        "ghcn": "BLM00085210"
     },
     "location": {
         "latitude": -16.3333,

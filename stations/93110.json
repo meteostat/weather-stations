@@ -6,10 +6,10 @@
     "country": "NZ",
     "region": "AUK",
     "identifiers": {
-        "$wmo": "93110",
-        "$ghcn": "NZM00093110",
-        "$usaf": "931100",
-        "$mosmix": "93110"
+        "wmo": "93110",
+        "ghcn": "NZM00093110",
+        "usaf": "931100",
+        "mosmix": "93110"
     },
     "location": {
         "latitude": -37,

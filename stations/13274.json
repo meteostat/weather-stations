@@ -6,9 +6,9 @@
     "country": "RS",
     "region": "SI",
     "identifiers": {
-        "$wmo": "13274",
-        "$ghcn": "RIE00100818",
-        "$mosmix": "13274"
+        "wmo": "13274",
+        "ghcn": "RIE00100818",
+        "mosmix": "13274"
     },
     "location": {
         "latitude": 44.8,

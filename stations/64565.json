@@ -6,11 +6,11 @@
     "country": "GA",
     "region": "HO",
     "identifiers": {
-        "$wmo": "64565",
-        "$icao": "FOOD",
-        "$iata": "MFF",
-        "$ghcn": "GB000004565",
-        "$usaf": "645650"
+        "wmo": "64565",
+        "icao": "FOOD",
+        "iata": "MFF",
+        "ghcn": "GB000004565",
+        "usaf": "645650"
     },
     "location": {
         "latitude": -1.5333,

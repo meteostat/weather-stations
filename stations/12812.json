@@ -6,10 +6,10 @@
     "country": "HU",
     "region": "VA",
     "identifiers": {
-        "$wmo": "12812",
-        "$icao": "LHSY",
-        "$iata": "ZBX",
-        "$usaf": "128120"
+        "wmo": "12812",
+        "icao": "LHSY",
+        "iata": "ZBX",
+        "usaf": "128120"
     },
     "location": {
         "latitude": 47.2667,

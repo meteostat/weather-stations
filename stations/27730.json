@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "RYA",
     "identifiers": {
-        "$wmo": "27730",
-        "$ghcn": "RSM00027730",
-        "$mosmix": "27730"
+        "wmo": "27730",
+        "ghcn": "RSM00027730",
+        "mosmix": "27730"
     },
     "location": {
         "latitude": 54.6333,

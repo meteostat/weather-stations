@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "SG",
     "identifiers": {
-        "$wmo": "97142",
-        "$icao": "WAAP",
-        "$usaf": "971420"
+        "wmo": "97142",
+        "icao": "WAAP",
+        "usaf": "971420"
     },
     "location": {
         "latitude": -4.3,

@@ -6,11 +6,11 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "$wmo": "72683",
-        "$icao": "KBNO",
-        "$ghcn": "USW00094185",
-        "$wban": "94185",
-        "$usaf": "726830"
+        "wmo": "72683",
+        "icao": "KBNO",
+        "ghcn": "USW00094185",
+        "wban": "94185",
+        "usaf": "726830"
     },
     "location": {
         "latitude": 43.6,

@@ -6,11 +6,11 @@
     "country": "CI",
     "region": "TAB",
     "identifiers": {
-        "$wmo": "65592",
-        "$icao": "DITB",
-        "$iata": "TXU",
-        "$ghcn": "IV000005592",
-        "$usaf": "655920"
+        "wmo": "65592",
+        "icao": "DITB",
+        "iata": "TXU",
+        "ghcn": "IV000005592",
+        "usaf": "655920"
     },
     "location": {
         "latitude": 4.4167,

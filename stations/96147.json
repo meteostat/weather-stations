@@ -6,10 +6,10 @@
     "country": "ID",
     "region": "RI",
     "identifiers": {
-        "$wmo": "96147",
-        "$icao": "WION",
-        "$iata": "NTX",
-        "$usaf": "961470"
+        "wmo": "96147",
+        "icao": "WION",
+        "iata": "NTX",
+        "usaf": "961470"
     },
     "location": {
         "latitude": 3.95,

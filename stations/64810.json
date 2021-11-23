@@ -6,12 +6,12 @@
     "country": "GQ",
     "region": "BN",
     "identifiers": {
-        "$wmo": "64810",
-        "$icao": "FGSL",
-        "$iata": "SSG",
-        "$ghcn": "EKM00064810",
-        "$usaf": "648100",
-        "$mosmix": "64810"
+        "wmo": "64810",
+        "icao": "FGSL",
+        "iata": "SSG",
+        "ghcn": "EKM00064810",
+        "usaf": "648100",
+        "mosmix": "64810"
     },
     "location": {
         "latitude": 3.75,

@@ -6,8 +6,8 @@
     "country": "NO",
     "region": "SF",
     "identifiers": {
-        "$wmo": "01321",
-        "$usaf": "013210"
+        "wmo": "01321",
+        "usaf": "013210"
     },
     "location": {
         "latitude": 61.9,

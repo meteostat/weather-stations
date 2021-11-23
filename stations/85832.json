@@ -6,10 +6,10 @@
     "country": "CL",
     "region": "LL",
     "identifiers": {
-        "$wmo": "85832",
-        "$icao": "SCFT",
-        "$iata": "FFU",
-        "$usaf": "858320"
+        "wmo": "85832",
+        "icao": "SCFT",
+        "iata": "FFU",
+        "usaf": "858320"
     },
     "location": {
         "latitude": -43.1892,

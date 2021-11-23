@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "$icao": "KAXA",
-        "$wban": "04904",
-        "$usaf": "725457"
+        "icao": "KAXA",
+        "wban": "04904",
+        "usaf": "725457"
     },
     "location": {
         "latitude": 43.0779,

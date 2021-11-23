@@ -6,9 +6,9 @@
     "country": "GE",
     "region": null,
     "identifiers": {
-        "$wmo": "88903",
-        "$ghcn": "SXM00088903",
-        "$mosmix": "88903"
+        "wmo": "88903",
+        "ghcn": "SXM00088903",
+        "mosmix": "88903"
     },
     "location": {
         "latitude": -54.2667,

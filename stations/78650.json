@@ -6,10 +6,10 @@
     "country": "SV",
     "region": "SO",
     "identifiers": {
-        "$wmo": "78650",
-        "$icao": "MSAC",
-        "$ghcn": "ES000078650",
-        "$usaf": "786500"
+        "wmo": "78650",
+        "icao": "MSAC",
+        "ghcn": "ES000078650",
+        "usaf": "786500"
     },
     "location": {
         "latitude": 13.5667,

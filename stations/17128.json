@@ -6,11 +6,11 @@
     "country": "TR",
     "region": "ANK",
     "identifiers": {
-        "$wmo": "17128",
-        "$icao": "LTAC",
-        "$iata": "ESB",
-        "$usaf": "171280",
-        "$mosmix": "17128"
+        "wmo": "17128",
+        "icao": "LTAC",
+        "iata": "ESB",
+        "usaf": "171280",
+        "mosmix": "17128"
     },
     "location": {
         "latitude": 40.1167,

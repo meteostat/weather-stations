@@ -6,9 +6,9 @@
     "country": "ES",
     "region": "CT",
     "identifiers": {
-        "$icao": "LEDA",
-        "$iata": "ILD",
-        "$usaf": "084515"
+        "icao": "LEDA",
+        "iata": "ILD",
+        "usaf": "084515"
     },
     "location": {
         "latitude": 41.7281,

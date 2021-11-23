@@ -6,12 +6,12 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$wmo": "72550",
-        "$icao": "KOMA",
-        "$iata": "OMA",
-        "$ghcn": "USW00014942",
-        "$wban": "14942",
-        "$usaf": "725500"
+        "wmo": "72550",
+        "icao": "KOMA",
+        "iata": "OMA",
+        "ghcn": "USW00014942",
+        "wban": "14942",
+        "usaf": "725500"
     },
     "location": {
         "latitude": 41.3,

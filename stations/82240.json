@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "AM",
     "identifiers": {
-        "$wmo": "82240",
-        "$iata": "PIN",
-        "$mosmix": "82240"
+        "wmo": "82240",
+        "iata": "PIN",
+        "mosmix": "82240"
     },
     "location": {
         "latitude": -2.6333,

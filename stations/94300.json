@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "$wmo": "94300",
-        "$icao": "YCAR",
-        "$iata": "CVQ",
-        "$ghcn": "ASN00006011",
-        "$mosmix": "94300"
+        "wmo": "94300",
+        "icao": "YCAR",
+        "iata": "CVQ",
+        "ghcn": "ASN00006011",
+        "mosmix": "94300"
     },
     "location": {
         "latitude": -24.8667,

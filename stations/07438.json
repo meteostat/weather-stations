@@ -6,10 +6,10 @@
     "country": "FR",
     "region": "L",
     "identifiers": {
-        "$wmo": "07438",
-        "$icao": "LFBV",
-        "$iata": "BVE",
-        "$usaf": "074380"
+        "wmo": "07438",
+        "icao": "LFBV",
+        "iata": "BVE",
+        "usaf": "074380"
     },
     "location": {
         "latitude": 45.15,

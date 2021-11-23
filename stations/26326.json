@@ -6,8 +6,8 @@
     "country": "LV",
     "region": "LIM",
     "identifiers": {
-        "$wmo": "26326",
-        "$ghcn": "LG000026326"
+        "wmo": "26326",
+        "ghcn": "LG000026326"
     },
     "location": {
         "latitude": 57.3167,

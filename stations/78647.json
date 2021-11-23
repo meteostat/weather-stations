@@ -6,10 +6,10 @@
     "country": "GT",
     "region": "ES",
     "identifiers": {
-        "$wmo": "78647",
-        "$icao": "MGSJ",
-        "$iata": "GSJ",
-        "$usaf": "786470"
+        "wmo": "78647",
+        "icao": "MGSJ",
+        "iata": "GSJ",
+        "usaf": "786470"
     },
     "location": {
         "latitude": 13.9167,

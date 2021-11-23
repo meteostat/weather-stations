@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$icao": "KEDE",
-        "$wban": "03703",
-        "$usaf": "723074"
+        "icao": "KEDE",
+        "wban": "03703",
+        "usaf": "723074"
     },
     "location": {
         "latitude": 36.0277,

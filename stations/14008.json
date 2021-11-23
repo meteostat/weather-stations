@@ -6,9 +6,9 @@
     "country": "SI",
     "region": null,
     "identifiers": {
-        "$wmo": "14008",
-        "$ghcn": "SIE00105938",
-        "$usaf": "140080"
+        "wmo": "14008",
+        "ghcn": "SIE00105938",
+        "usaf": "140080"
     },
     "location": {
         "latitude": 46.3833,

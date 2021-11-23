@@ -6,9 +6,9 @@
     "country": "DZ",
     "region": "ADR",
     "identifiers": {
-        "$wmo": "60645",
-        "$icao": "DAAN",
-        "$usaf": "606450"
+        "wmo": "60645",
+        "icao": "DAAN",
+        "usaf": "606450"
     },
     "location": {
         "latitude": 26.7101,

@@ -6,11 +6,11 @@
     "country": "SA",
     "region": "ML",
     "identifiers": {
-        "$wmo": "41036",
-        "$icao": "OETF",
-        "$iata": "TIF",
-        "$ghcn": "SAM00041036",
-        "$usaf": "410360"
+        "wmo": "41036",
+        "icao": "OETF",
+        "iata": "TIF",
+        "ghcn": "SAM00041036",
+        "usaf": "410360"
     },
     "location": {
         "latitude": 21.4833,

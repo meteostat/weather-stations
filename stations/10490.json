@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "BB",
     "identifiers": {
-        "$national": "01001",
-        "$wmo": "10490",
-        "$ghcn": "GMM00010490",
-        "$mosmix": "10490"
+        "national": "01001",
+        "wmo": "10490",
+        "ghcn": "GMM00010490",
+        "mosmix": "10490"
     },
     "location": {
         "latitude": 51.65,

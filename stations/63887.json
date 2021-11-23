@@ -6,11 +6,11 @@
     "country": "TZ",
     "region": "IR",
     "identifiers": {
-        "$wmo": "63887",
-        "$icao": "HTIR",
-        "$iata": "IRI",
-        "$ghcn": "TZ000063887",
-        "$usaf": "638870"
+        "wmo": "63887",
+        "icao": "HTIR",
+        "iata": "IRI",
+        "ghcn": "TZ000063887",
+        "usaf": "638870"
     },
     "location": {
         "latitude": -7.6667,

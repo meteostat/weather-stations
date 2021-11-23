@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$icao": "KFMN",
-        "$iata": "FMN",
-        "$wban": "23090",
-        "$usaf": "723658"
+        "icao": "KFMN",
+        "iata": "FMN",
+        "wban": "23090",
+        "usaf": "723658"
     },
     "location": {
         "latitude": 36.7413,

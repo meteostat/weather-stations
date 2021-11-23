@@ -6,11 +6,11 @@
     "country": "CN",
     "region": "SC",
     "identifiers": {
-        "$wmo": "56294",
-        "$icao": "ZUUU",
-        "$iata": "CTU",
-        "$ghcn": "CHM00056294",
-        "$usaf": "562940"
+        "wmo": "56294",
+        "icao": "ZUUU",
+        "iata": "CTU",
+        "ghcn": "CHM00056294",
+        "usaf": "562940"
     },
     "location": {
         "latitude": 30.6667,

@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "NT",
     "identifiers": {
-        "$wmo": "94462",
-        "$icao": "YDYL",
-        "$ghcn": "ASN00015635",
-        "$usaf": "944620"
+        "wmo": "94462",
+        "icao": "YDYL",
+        "ghcn": "ASN00015635",
+        "usaf": "944620"
     },
     "location": {
         "latitude": -25.1833,

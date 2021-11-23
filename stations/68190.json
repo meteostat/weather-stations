@@ -6,11 +6,11 @@
     "country": "ZA",
     "region": "LP",
     "identifiers": {
-        "$wmo": "68190",
-        "$icao": "FAPH",
-        "$iata": "PHW",
-        "$usaf": "681900",
-        "$mosmix": "68190"
+        "wmo": "68190",
+        "icao": "FAPH",
+        "iata": "PHW",
+        "usaf": "681900",
+        "mosmix": "68190"
     },
     "location": {
         "latitude": -23.9333,

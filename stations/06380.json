@@ -6,11 +6,11 @@
     "country": "NL",
     "region": "LI",
     "identifiers": {
-        "$wmo": "06380",
-        "$icao": "EHBK",
-        "$ghcn": "NLM00006380",
-        "$usaf": "063800",
-        "$mosmix": "06380"
+        "wmo": "06380",
+        "icao": "EHBK",
+        "ghcn": "NLM00006380",
+        "usaf": "063800",
+        "mosmix": "06380"
     },
     "location": {
         "latitude": 50.9167,

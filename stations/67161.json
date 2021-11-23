@@ -6,11 +6,11 @@
     "country": "MG",
     "region": "U",
     "identifiers": {
-        "$wmo": "67161",
-        "$icao": "FMST",
-        "$iata": "TLE",
-        "$ghcn": "MA000067161",
-        "$usaf": "671610"
+        "wmo": "67161",
+        "icao": "FMST",
+        "iata": "TLE",
+        "ghcn": "MA000067161",
+        "usaf": "671610"
     },
     "location": {
         "latitude": -23.3833,

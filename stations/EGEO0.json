@@ -6,9 +6,9 @@
     "country": "GB",
     "region": "SCT",
     "identifiers": {
-        "$icao": "EGEO",
-        "$iata": "OBN",
-        "$usaf": "031140"
+        "icao": "EGEO",
+        "iata": "OBN",
+        "usaf": "031140"
     },
     "location": {
         "latitude": 56.4635,

@@ -6,12 +6,12 @@
     "country": "CA",
     "region": "NT",
     "identifiers": {
-        "$wmo": "71957",
-        "$icao": "CYEV",
-        "$iata": "YEV",
-        "$ghcn": "CA002202570",
-        "$usaf": "719570",
-        "$mosmix": "71957"
+        "wmo": "71957",
+        "icao": "CYEV",
+        "iata": "YEV",
+        "ghcn": "CA002202570",
+        "usaf": "719570",
+        "mosmix": "71957"
     },
     "location": {
         "latitude": 68.3,

@@ -6,9 +6,9 @@
     "country": "ID",
     "region": null,
     "identifiers": {
-        "$wmo": "97404",
-        "$icao": "WAMR",
-        "$iata": "OTI"
+        "wmo": "97404",
+        "icao": "WAMR",
+        "iata": "OTI"
     },
     "location": {
         "latitude": 2.05,

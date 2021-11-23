@@ -6,11 +6,11 @@
     "country": "MY",
     "region": "KN",
     "identifiers": {
-        "$wmo": "48615",
-        "$icao": "WMKC",
-        "$iata": "KBR",
-        "$ghcn": "MYM00048615",
-        "$usaf": "486150"
+        "wmo": "48615",
+        "icao": "WMKC",
+        "iata": "KBR",
+        "ghcn": "MYM00048615",
+        "usaf": "486150"
     },
     "location": {
         "latitude": 6.1667,

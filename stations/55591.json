@@ -6,12 +6,12 @@
     "country": "CN",
     "region": "XZ",
     "identifiers": {
-        "$wmo": "55591",
-        "$icao": "ZULS",
-        "$iata": "LXA",
-        "$ghcn": "CHM00055591",
-        "$usaf": "555910",
-        "$mosmix": "55591"
+        "wmo": "55591",
+        "icao": "ZULS",
+        "iata": "LXA",
+        "ghcn": "CHM00055591",
+        "usaf": "555910",
+        "mosmix": "55591"
     },
     "location": {
         "latitude": 29.6667,

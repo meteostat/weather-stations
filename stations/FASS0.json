@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "NC",
     "identifiers": {
-        "$icao": "FASS",
-        "$iata": "SIS",
-        "$usaf": "683354"
+        "icao": "FASS",
+        "iata": "SIS",
+        "usaf": "683354"
     },
     "location": {
         "latitude": -27.65,

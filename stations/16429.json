@@ -6,12 +6,12 @@
     "country": "IT",
     "region": "SC",
     "identifiers": {
-        "$wmo": "16429",
-        "$icao": "LICT",
-        "$iata": "TPS",
-        "$ghcn": "ITM00016429",
-        "$usaf": "164290",
-        "$mosmix": "16429"
+        "wmo": "16429",
+        "icao": "LICT",
+        "iata": "TPS",
+        "ghcn": "ITM00016429",
+        "usaf": "164290",
+        "mosmix": "16429"
     },
     "location": {
         "latitude": 37.9167,

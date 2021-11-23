@@ -6,13 +6,13 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$wmo": "72503",
-        "$icao": "KLGA",
-        "$iata": "LGA",
-        "$ghcn": "USW00014732",
-        "$wban": "14732",
-        "$usaf": "725030",
-        "$mosmix": "72503"
+        "wmo": "72503",
+        "icao": "KLGA",
+        "iata": "LGA",
+        "ghcn": "USW00014732",
+        "wban": "14732",
+        "usaf": "725030",
+        "mosmix": "72503"
     },
     "location": {
         "latitude": 40.7833,

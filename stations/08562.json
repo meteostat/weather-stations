@@ -6,12 +6,12 @@
     "country": "PT",
     "region": "BJ",
     "identifiers": {
-        "$wmo": "08562",
-        "$icao": "LPBJ",
-        "$iata": "BYJ",
-        "$ghcn": "PO000008562",
-        "$usaf": "085620",
-        "$mosmix": "08562"
+        "wmo": "08562",
+        "icao": "LPBJ",
+        "iata": "BYJ",
+        "ghcn": "PO000008562",
+        "usaf": "085620",
+        "mosmix": "08562"
     },
     "location": {
         "latitude": 38.0167,

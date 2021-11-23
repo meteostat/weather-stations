@@ -6,10 +6,10 @@
     "country": "PG",
     "region": "MD",
     "identifiers": {
-        "$wmo": "94014",
-        "$icao": "AYMD",
-        "$ghcn": "PP000092014",
-        "$usaf": "920140"
+        "wmo": "94014",
+        "icao": "AYMD",
+        "ghcn": "PP000092014",
+        "usaf": "920140"
     },
     "location": {
         "latitude": -5.2167,

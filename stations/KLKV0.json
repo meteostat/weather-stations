@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "$icao": "KLKV",
-        "$wban": "94285",
-        "$usaf": "725976"
+        "icao": "KLKV",
+        "wban": "94285",
+        "usaf": "725976"
     },
     "location": {
         "latitude": 42.1611,

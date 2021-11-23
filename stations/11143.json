@@ -6,10 +6,10 @@
     "country": "AT",
     "region": "SZ",
     "identifiers": {
-        "$wmo": "11143",
-        "$icao": "LOWZ",
-        "$usaf": "111440",
-        "$mosmix": "11143"
+        "wmo": "11143",
+        "icao": "LOWZ",
+        "usaf": "111440",
+        "mosmix": "11143"
     },
     "location": {
         "latitude": 47.3,

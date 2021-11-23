@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "COA",
     "identifiers": {
-        "$wmo": "76382",
-        "$icao": "MMTC",
-        "$iata": "TRC",
-        "$ghcn": "MXM00076382",
-        "$usaf": "763820"
+        "wmo": "76382",
+        "icao": "MMTC",
+        "iata": "TRC",
+        "ghcn": "MXM00076382",
+        "usaf": "763820"
     },
     "location": {
         "latitude": 25.5333,

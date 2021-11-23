@@ -6,10 +6,10 @@
     "country": "CL",
     "region": "ML",
     "identifiers": {
-        "$wmo": "85657",
-        "$icao": "SCLN",
-        "$iata": "ZLR",
-        "$usaf": "856570"
+        "wmo": "85657",
+        "icao": "SCLN",
+        "iata": "ZLR",
+        "usaf": "856570"
     },
     "location": {
         "latitude": -35.85,

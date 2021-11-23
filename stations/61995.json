@@ -6,8 +6,8 @@
     "country": "MU",
     "region": "PW",
     "identifiers": {
-        "$wmo": "61995",
-        "$ghcn": "MP000061995"
+        "wmo": "61995",
+        "ghcn": "MP000061995"
     },
     "location": {
         "latitude": -20.3,

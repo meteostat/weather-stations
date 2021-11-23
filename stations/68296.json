@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "MP",
     "identifiers": {
-        "$wmo": "68296",
-        "$ghcn": "SF000068296",
-        "$mosmix": "68296"
+        "wmo": "68296",
+        "ghcn": "SF000068296",
+        "mosmix": "68296"
     },
     "location": {
         "latitude": -24.9833,

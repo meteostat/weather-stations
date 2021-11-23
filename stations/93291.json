@@ -6,10 +6,10 @@
     "country": "NZ",
     "region": "GI",
     "identifiers": {
-        "$wmo": "93291",
-        "$icao": "NZGS",
-        "$iata": "GIS",
-        "$usaf": "932920"
+        "wmo": "93291",
+        "icao": "NZGS",
+        "iata": "GIS",
+        "usaf": "932920"
     },
     "location": {
         "latitude": -38.6667,

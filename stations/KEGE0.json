@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$icao": "KEGE",
-        "$iata": "EGE",
-        "$wban": "23063",
-        "$usaf": "724675"
+        "icao": "KEGE",
+        "iata": "EGE",
+        "wban": "23063",
+        "usaf": "724675"
     },
     "location": {
         "latitude": 39.6428,

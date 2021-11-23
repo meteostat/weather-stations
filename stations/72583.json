@@ -6,11 +6,11 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "$wmo": "72583",
-        "$icao": "KWMC",
-        "$ghcn": "USW00024128",
-        "$wban": "24128",
-        "$usaf": "725830"
+        "wmo": "72583",
+        "icao": "KWMC",
+        "ghcn": "USW00024128",
+        "wban": "24128",
+        "usaf": "725830"
     },
     "location": {
         "latitude": 40.9,

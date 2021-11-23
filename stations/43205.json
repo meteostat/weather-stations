@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "KA",
     "identifiers": {
-        "$wmo": "43205",
-        "$icao": "VOBI",
-        "$ghcn": "IN009030300",
-        "$usaf": "432050"
+        "wmo": "43205",
+        "icao": "VOBI",
+        "ghcn": "IN009030300",
+        "usaf": "432050"
     },
     "location": {
         "latitude": 15.15,

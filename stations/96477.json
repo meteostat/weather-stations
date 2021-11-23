@@ -6,10 +6,10 @@
     "country": "MY",
     "region": "SB",
     "identifiers": {
-        "$wmo": "96477",
-        "$icao": "WBKT",
-        "$iata": "KUD",
-        "$usaf": "964770"
+        "wmo": "96477",
+        "icao": "WBKT",
+        "iata": "KUD",
+        "usaf": "964770"
     },
     "location": {
         "latitude": 6.9167,

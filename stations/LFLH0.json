@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "D",
     "identifiers": {
-        "$icao": "LFLH",
-        "$iata": "XCD",
-        "$usaf": "073865"
+        "icao": "LFLH",
+        "iata": "XCD",
+        "usaf": "073865"
     },
     "location": {
         "latitude": 46.8333,

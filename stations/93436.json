@@ -6,12 +6,12 @@
     "country": "NZ",
     "region": "WGN",
     "identifiers": {
-        "$wmo": "93436",
-        "$icao": "NZWN",
-        "$iata": "WLG",
-        "$wban": "00488",
-        "$usaf": "934360",
-        "$mosmix": "93436"
+        "wmo": "93436",
+        "icao": "NZWN",
+        "iata": "WLG",
+        "wban": "00488",
+        "usaf": "934360",
+        "mosmix": "93436"
     },
     "location": {
         "latitude": -41.3333,

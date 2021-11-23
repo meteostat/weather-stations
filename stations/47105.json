@@ -6,9 +6,9 @@
     "country": "KR",
     "region": "KW",
     "identifiers": {
-        "$wmo": "47105",
-        "$ghcn": "KSM00047105",
-        "$mosmix": "47105"
+        "wmo": "47105",
+        "ghcn": "KSM00047105",
+        "mosmix": "47105"
     },
     "location": {
         "latitude": 37.75,

@@ -6,9 +6,9 @@
     "country": "EC",
     "region": "Y",
     "identifiers": {
-        "$wmo": "84179",
-        "$ghcn": "ECM00084179",
-        "$usaf": "841790"
+        "wmo": "84179",
+        "ghcn": "ECM00084179",
+        "usaf": "841790"
     },
     "location": {
         "latitude": -1.5,

@@ -6,8 +6,8 @@
     "country": "DE",
     "region": "ST",
     "identifiers": {
-        "$wmo": "10473",
-        "$icao": "EDAM"
+        "wmo": "10473",
+        "icao": "EDAM"
     },
     "location": {
         "latitude": 51.3636,

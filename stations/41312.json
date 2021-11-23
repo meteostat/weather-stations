@@ -6,9 +6,9 @@
     "country": "OM",
     "region": "ZU",
     "identifiers": {
-        "$wmo": "41312",
-        "$ghcn": "MUM00041312",
-        "$mosmix": "41312"
+        "wmo": "41312",
+        "ghcn": "MUM00041312",
+        "mosmix": "41312"
     },
     "location": {
         "latitude": 16.9167,

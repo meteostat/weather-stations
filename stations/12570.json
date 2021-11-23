@@ -6,11 +6,11 @@
     "country": "PL",
     "region": "SW",
     "identifiers": {
-        "$wmo": "12570",
-        "$icao": "EPKA",
-        "$iata": "QKI",
-        "$usaf": "125700",
-        "$mosmix": "12570"
+        "wmo": "12570",
+        "icao": "EPKA",
+        "iata": "QKI",
+        "usaf": "125700",
+        "mosmix": "12570"
     },
     "location": {
         "latitude": 50.8167,

@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "ARA",
     "identifiers": {
-        "$wmo": "80132",
-        "$icao": "SKTM",
-        "$iata": "TME"
+        "wmo": "80132",
+        "icao": "SKTM",
+        "iata": "TME"
     },
     "location": {
         "latitude": 6.45,

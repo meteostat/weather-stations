@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$icao": "KLAM",
-        "$iata": "LAM",
-        "$wban": "93091",
-        "$usaf": "723654"
+        "icao": "KLAM",
+        "iata": "LAM",
+        "wban": "93091",
+        "usaf": "723654"
     },
     "location": {
         "latitude": 35.8798,

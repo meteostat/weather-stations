@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "$wmo": "94320",
-        "$icao": "YBGO",
-        "$iata": "BQW",
-        "$ghcn": "ASN00013007"
+        "wmo": "94320",
+        "icao": "YBGO",
+        "iata": "BQW",
+        "ghcn": "ASN00013007"
     },
     "location": {
         "latitude": -20.1333,

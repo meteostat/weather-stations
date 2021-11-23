@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$icao": "KMSV",
-        "$iata": "MSV",
-        "$wban": "54746",
-        "$usaf": "725145"
+        "icao": "KMSV",
+        "iata": "MSV",
+        "wban": "54746",
+        "usaf": "725145"
     },
     "location": {
         "latitude": 41.7016,

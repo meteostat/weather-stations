@@ -6,8 +6,8 @@
     "country": "GB",
     "region": "ZET",
     "identifiers": {
-        "$wmo": "03014",
-        "$ghcn": "UKM00003014"
+        "wmo": "03014",
+        "ghcn": "UKM00003014"
     },
     "location": {
         "latitude": 60.1167,

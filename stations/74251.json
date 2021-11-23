@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$wmo": "74251",
-        "$icao": "KDUA",
-        "$wban": "53937",
-        "$usaf": "742513"
+        "wmo": "74251",
+        "icao": "KDUA",
+        "wban": "53937",
+        "usaf": "742513"
     },
     "location": {
         "latitude": 33.94,

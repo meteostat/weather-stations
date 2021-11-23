@@ -6,9 +6,9 @@
     "country": "MM",
     "region": "KC",
     "identifiers": {
-        "$wmo": "48019",
-        "$icao": "VBBM",
-        "$usaf": "480190"
+        "wmo": "48019",
+        "icao": "VBBM",
+        "usaf": "480190"
     },
     "location": {
         "latitude": 24.2667,

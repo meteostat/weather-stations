@@ -6,12 +6,12 @@
     "country": "AR",
     "region": "Y",
     "identifiers": {
-        "$wmo": "87046",
-        "$icao": "SASJ",
-        "$iata": "JUJ",
-        "$ghcn": "ARM00087046",
-        "$usaf": "870460",
-        "$mosmix": "87046"
+        "wmo": "87046",
+        "icao": "SASJ",
+        "iata": "JUJ",
+        "ghcn": "ARM00087046",
+        "usaf": "870460",
+        "mosmix": "87046"
     },
     "location": {
         "latitude": -24.3833,

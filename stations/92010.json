@@ -6,10 +6,10 @@
     "country": "PG",
     "region": "EH",
     "identifiers": {
-        "$wmo": "92010",
-        "$icao": "AYGA",
-        "$iata": "GKA",
-        "$usaf": "920147"
+        "wmo": "92010",
+        "icao": "AYGA",
+        "iata": "GKA",
+        "usaf": "920147"
     },
     "location": {
         "latitude": -6.0667,

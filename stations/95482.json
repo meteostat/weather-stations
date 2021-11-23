@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "$wmo": "95482",
-        "$icao": "YBDV",
-        "$iata": "BVI",
-        "$ghcn": "ASN00038026",
-        "$usaf": "954820"
+        "wmo": "95482",
+        "icao": "YBDV",
+        "iata": "BVI",
+        "ghcn": "ASN00038026",
+        "usaf": "954820"
     },
     "location": {
         "latitude": -25.8975,

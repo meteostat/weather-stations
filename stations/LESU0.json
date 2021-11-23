@@ -6,8 +6,8 @@
     "country": "ES",
     "region": "CT",
     "identifiers": {
-        "$icao": "LESU",
-        "$iata": "LEU"
+        "icao": "LESU",
+        "iata": "LEU"
     },
     "location": {
         "latitude": 42.3408,

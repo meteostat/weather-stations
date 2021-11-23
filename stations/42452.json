@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "RJ",
     "identifiers": {
-        "$wmo": "42452",
-        "$icao": "VIKO",
-        "$iata": "KTU",
-        "$ghcn": "IN019191200",
-        "$usaf": "424520"
+        "wmo": "42452",
+        "icao": "VIKO",
+        "iata": "KTU",
+        "ghcn": "IN019191200",
+        "usaf": "424520"
     },
     "location": {
         "latitude": 25.15,

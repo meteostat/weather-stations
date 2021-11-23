@@ -6,9 +6,9 @@
     "country": "UA",
     "region": "CH",
     "identifiers": {
-        "$wmo": "33135",
-        "$iata": "CEJ",
-        "$ghcn": "UPM00033135"
+        "wmo": "33135",
+        "iata": "CEJ",
+        "ghcn": "UPM00033135"
     },
     "location": {
         "latitude": 51.4667,

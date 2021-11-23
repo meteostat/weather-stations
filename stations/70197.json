@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$wmo": "70197",
-        "$icao": "PARL",
-        "$wban": "26418"
+        "wmo": "70197",
+        "icao": "PARL",
+        "wban": "26418"
     },
     "location": {
         "latitude": 65.5739,

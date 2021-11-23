@@ -6,9 +6,9 @@
     "country": "MV",
     "region": "ADD",
     "identifiers": {
-        "$icao": "VRMG",
-        "$iata": "GAN",
-        "$usaf": "435990"
+        "icao": "VRMG",
+        "iata": "GAN",
+        "usaf": "435990"
     },
     "location": {
         "latitude": -0.7,

@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "VIC",
     "identifiers": {
-        "$wmo": "94912",
-        "$icao": "YBNS",
-        "$iata": "BSJ",
-        "$ghcn": "ASN00085279"
+        "wmo": "94912",
+        "icao": "YBNS",
+        "iata": "BSJ",
+        "ghcn": "ASN00085279"
     },
     "location": {
         "latitude": -37.8833,

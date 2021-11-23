@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "PRI",
     "identifiers": {
-        "$wmo": "31960",
-        "$icao": "UHWW",
-        "$ghcn": "RSM00031960",
-        "$usaf": "319741",
-        "$mosmix": "31960"
+        "wmo": "31960",
+        "icao": "UHWW",
+        "ghcn": "RSM00031960",
+        "usaf": "319741",
+        "mosmix": "31960"
     },
     "location": {
         "latitude": 43.1167,

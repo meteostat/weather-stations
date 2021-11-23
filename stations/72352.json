@@ -6,12 +6,12 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$wmo": "72352",
-        "$icao": "KLTS",
-        "$iata": "LTS",
-        "$ghcn": "USW00013902",
-        "$wban": "13902",
-        "$usaf": "723520"
+        "wmo": "72352",
+        "icao": "KLTS",
+        "iata": "LTS",
+        "ghcn": "USW00013902",
+        "wban": "13902",
+        "usaf": "723520"
     },
     "location": {
         "latitude": 34.65,

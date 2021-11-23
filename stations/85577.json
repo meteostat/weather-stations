@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "RM",
     "identifiers": {
-        "$wmo": "85577",
-        "$ghcn": "CI000085543",
-        "$mosmix": "85577"
+        "wmo": "85577",
+        "ghcn": "CI000085543",
+        "mosmix": "85577"
     },
     "location": {
         "latitude": -33.4333,

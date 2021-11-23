@@ -6,9 +6,9 @@
     "country": "HU",
     "region": "SO",
     "identifiers": {
-        "$wmo": "12930",
-        "$icao": "LHKV",
-        "$usaf": "129300"
+        "wmo": "12930",
+        "icao": "LHKV",
+        "usaf": "129300"
     },
     "location": {
         "latitude": 46.3833,

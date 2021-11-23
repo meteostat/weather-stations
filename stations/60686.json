@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "ADR",
     "identifiers": {
-        "$wmo": "60686",
-        "$ghcn": "AGM00060686"
+        "wmo": "60686",
+        "ghcn": "AGM00060686"
     },
     "location": {
         "latitude": 21.3333,

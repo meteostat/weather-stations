@@ -6,11 +6,11 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "$wmo": "10500",
-        "$icao": "ETNG",
-        "$iata": "GKE",
-        "$usaf": "105000",
-        "$mosmix": "10500"
+        "wmo": "10500",
+        "icao": "ETNG",
+        "iata": "GKE",
+        "usaf": "105000",
+        "mosmix": "10500"
     },
     "location": {
         "latitude": 50.9667,

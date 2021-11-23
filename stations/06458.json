@@ -6,10 +6,10 @@
     "country": "BE",
     "region": "WAL",
     "identifiers": {
-        "$wmo": "06458",
-        "$icao": "EBBE",
-        "$usaf": "064580",
-        "$mosmix": "06458"
+        "wmo": "06458",
+        "icao": "EBBE",
+        "usaf": "064580",
+        "mosmix": "06458"
     },
     "location": {
         "latitude": 50.75,

@@ -6,11 +6,11 @@
     "country": "NL",
     "region": "NB",
     "identifiers": {
-        "$wmo": "06370",
-        "$icao": "EHEH",
-        "$iata": "EIN",
-        "$usaf": "063700",
-        "$mosmix": "06370"
+        "wmo": "06370",
+        "icao": "EHEH",
+        "iata": "EIN",
+        "usaf": "063700",
+        "mosmix": "06370"
     },
     "location": {
         "latitude": 51.45,

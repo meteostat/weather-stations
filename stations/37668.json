@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "OGU",
     "identifiers": {
-        "$wmo": "37668",
-        "$ghcn": "AJ000037668"
+        "wmo": "37668",
+        "ghcn": "AJ000037668"
     },
     "location": {
         "latitude": 41.0667,

@@ -6,11 +6,11 @@
     "country": "LV",
     "region": "VSL",
     "identifiers": {
-        "$wmo": "26314",
-        "$icao": "UMRW",
-        "$ghcn": "LG000026314",
-        "$usaf": "263140",
-        "$mosmix": "26314"
+        "wmo": "26314",
+        "icao": "UMRW",
+        "ghcn": "LG000026314",
+        "usaf": "263140",
+        "mosmix": "26314"
     },
     "location": {
         "latitude": 57.4,

@@ -6,12 +6,12 @@
     "country": "CD",
     "region": "EQ",
     "identifiers": {
-        "$wmo": "64005",
-        "$icao": "FZEA",
-        "$iata": "MDK",
-        "$ghcn": "CGM00064005",
-        "$usaf": "640050",
-        "$mosmix": "64005"
+        "wmo": "64005",
+        "icao": "FZEA",
+        "iata": "MDK",
+        "ghcn": "CGM00064005",
+        "usaf": "640050",
+        "mosmix": "64005"
     },
     "location": {
         "latitude": 0.05,

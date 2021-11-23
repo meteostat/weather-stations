@@ -6,11 +6,11 @@
     "country": "AR",
     "region": "V",
     "identifiers": {
-        "$wmo": "87934",
-        "$icao": "SAWE",
-        "$iata": "RGA",
-        "$ghcn": "ARM00087934",
-        "$usaf": "879340"
+        "wmo": "87934",
+        "icao": "SAWE",
+        "iata": "RGA",
+        "ghcn": "ARM00087934",
+        "usaf": "879340"
     },
     "location": {
         "latitude": -53.8,

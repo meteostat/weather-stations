@@ -6,11 +6,11 @@
     "country": "CL",
     "region": "BI",
     "identifiers": {
-        "$wmo": "85672",
-        "$icao": "SCCH",
-        "$iata": "YAI",
-        "$ghcn": "CIM00085672",
-        "$usaf": "856720"
+        "wmo": "85672",
+        "icao": "SCCH",
+        "iata": "YAI",
+        "ghcn": "CIM00085672",
+        "usaf": "856720"
     },
     "location": {
         "latitude": -36.5667,

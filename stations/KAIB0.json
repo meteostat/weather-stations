@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$icao": "KAIB",
-        "$wban": "00429",
-        "$usaf": "720529"
+        "icao": "KAIB",
+        "wban": "00429",
+        "usaf": "720529"
     },
     "location": {
         "latitude": 38.2388,

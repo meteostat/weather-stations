@@ -6,11 +6,11 @@
     "country": "DZ",
     "region": "CHL",
     "identifiers": {
-        "$wmo": "60425",
-        "$icao": "DAOI",
-        "$iata": "CFK",
-        "$ghcn": "AGM00060425",
-        "$usaf": "604250"
+        "wmo": "60425",
+        "icao": "DAOI",
+        "iata": "CFK",
+        "ghcn": "AGM00060425",
+        "usaf": "604250"
     },
     "location": {
         "latitude": 36.2167,

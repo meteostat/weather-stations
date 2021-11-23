@@ -6,12 +6,12 @@
     "country": "AF",
     "region": "KAN",
     "identifiers": {
-        "$wmo": "40990",
-        "$icao": "OAKN",
-        "$iata": "KDH",
-        "$ghcn": "AFM00040990",
-        "$usaf": "409900",
-        "$mosmix": "40990"
+        "wmo": "40990",
+        "icao": "OAKN",
+        "iata": "KDH",
+        "ghcn": "AFM00040990",
+        "usaf": "409900",
+        "mosmix": "40990"
     },
     "location": {
         "latitude": 31.5,

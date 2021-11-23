@@ -6,10 +6,10 @@
     "country": "NL",
     "region": "FL",
     "identifiers": {
-        "$wmo": "06269",
-        "$icao": "EHLE",
-        "$iata": "LEY",
-        "$usaf": "062690"
+        "wmo": "06269",
+        "icao": "EHLE",
+        "iata": "LEY",
+        "usaf": "062690"
     },
     "location": {
         "latitude": 52.45,

@@ -6,11 +6,11 @@
     "country": "KE",
     "region": "CO",
     "identifiers": {
-        "$wmo": "63723",
-        "$icao": "HKGA",
-        "$iata": "GAS",
-        "$ghcn": "KE000063723",
-        "$usaf": "637230"
+        "wmo": "63723",
+        "icao": "HKGA",
+        "iata": "GAS",
+        "ghcn": "KE000063723",
+        "usaf": "637230"
     },
     "location": {
         "latitude": -0.4667,

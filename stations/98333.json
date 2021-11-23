@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "AUR",
     "identifiers": {
-        "$wmo": "98333",
-        "$icao": "RPUR",
-        "$iata": "BQA",
-        "$usaf": "983330"
+        "wmo": "98333",
+        "icao": "RPUR",
+        "iata": "BQA",
+        "usaf": "983330"
     },
     "location": {
         "latitude": 15.7667,

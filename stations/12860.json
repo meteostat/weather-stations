@@ -6,9 +6,9 @@
     "country": "HU",
     "region": "JN",
     "identifiers": {
-        "$wmo": "12860",
-        "$icao": "LHSN",
-        "$usaf": "128600"
+        "wmo": "12860",
+        "icao": "LHSN",
+        "usaf": "128600"
     },
     "location": {
         "latitude": 47.1167,

@@ -6,12 +6,12 @@
     "country": "GW",
     "region": "BS",
     "identifiers": {
-        "$wmo": "61766",
-        "$icao": "GGOV",
-        "$iata": "OXB",
-        "$ghcn": "PUM00061766",
-        "$usaf": "617660",
-        "$mosmix": "61766"
+        "wmo": "61766",
+        "icao": "GGOV",
+        "iata": "OXB",
+        "ghcn": "PUM00061766",
+        "usaf": "617660",
+        "mosmix": "61766"
     },
     "location": {
         "latitude": 11.8833,

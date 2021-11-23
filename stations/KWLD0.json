@@ -6,10 +6,10 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "$icao": "KWLD",
-        "$iata": "WLD",
-        "$wban": "13932",
-        "$usaf": "724502"
+        "icao": "KWLD",
+        "iata": "WLD",
+        "wban": "13932",
+        "usaf": "724502"
     },
     "location": {
         "latitude": 37.1686,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "$icao": "KCDC",
-        "$iata": "CDC",
-        "$wban": "93129",
-        "$usaf": "724755"
+        "icao": "KCDC",
+        "iata": "CDC",
+        "wban": "93129",
+        "usaf": "724755"
     },
     "location": {
         "latitude": 37.701,

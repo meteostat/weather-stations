@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "$icao": "KFFZ",
-        "$wban": "03185",
-        "$usaf": "722783"
+        "icao": "KFFZ",
+        "wban": "03185",
+        "usaf": "722783"
     },
     "location": {
         "latitude": 33.4608,

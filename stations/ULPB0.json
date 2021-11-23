@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "KR",
     "identifiers": {
-        "$icao": "ULPB",
-        "$iata": "PES",
-        "$usaf": "228200"
+        "icao": "ULPB",
+        "iata": "PES",
+        "usaf": "228200"
     },
     "location": {
         "latitude": 61.8833,

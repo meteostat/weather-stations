@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "KUS",
     "identifiers": {
-        "$wmo": "35157",
-        "$ghcn": "KZ000035157"
+        "wmo": "35157",
+        "ghcn": "KZ000035157"
     },
     "location": {
         "latitude": 51.0833,

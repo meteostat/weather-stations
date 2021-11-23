@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "$icao": "KTWM",
-        "$wban": "04979",
-        "$usaf": "727444"
+        "icao": "KTWM",
+        "wban": "04979",
+        "usaf": "727444"
     },
     "location": {
         "latitude": 47.0491,

@@ -6,9 +6,9 @@
     "country": "UZ",
     "region": "XO",
     "identifiers": {
-        "$wmo": "38396",
-        "$ghcn": "UZM00038396",
-        "$usaf": "383960"
+        "wmo": "38396",
+        "ghcn": "UZM00038396",
+        "usaf": "383960"
     },
     "location": {
         "latitude": 41.5667,

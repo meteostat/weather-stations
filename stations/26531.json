@@ -6,8 +6,8 @@
     "country": "LT",
     "region": "PA",
     "identifiers": {
-        "$wmo": "26531",
-        "$ghcn": "LH000026531"
+        "wmo": "26531",
+        "ghcn": "LH000026531"
     },
     "location": {
         "latitude": 56.2,

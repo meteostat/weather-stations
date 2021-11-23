@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$icao": "KONZ",
-        "$wban": "54819",
-        "$usaf": "725373"
+        "icao": "KONZ",
+        "wban": "54819",
+        "usaf": "725373"
     },
     "location": {
         "latitude": 42.0991,

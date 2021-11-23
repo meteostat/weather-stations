@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "$icao": "KUNI",
-        "$wban": "00131",
-        "$usaf": "720397"
+        "icao": "KUNI",
+        "wban": "00131",
+        "usaf": "720397"
     },
     "location": {
         "latitude": 39.2119,

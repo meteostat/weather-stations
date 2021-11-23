@@ -6,11 +6,11 @@
     "country": "KZ",
     "region": "YUZ",
     "identifiers": {
-        "$wmo": "38328",
-        "$icao": "UAII",
-        "$iata": "CIT",
-        "$ghcn": "KZ000038328",
-        "$usaf": "383280"
+        "wmo": "38328",
+        "icao": "UAII",
+        "iata": "CIT",
+        "ghcn": "KZ000038328",
+        "usaf": "383280"
     },
     "location": {
         "latitude": 42.3167,

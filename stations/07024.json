@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "P",
     "identifiers": {
-        "$wmo": "07024",
-        "$icao": "LFRC",
-        "$iata": "CER",
-        "$usaf": "070240",
-        "$mosmix": "07024"
+        "wmo": "07024",
+        "icao": "LFRC",
+        "iata": "CER",
+        "usaf": "070240",
+        "mosmix": "07024"
     },
     "location": {
         "latitude": 49.65,

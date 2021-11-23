@@ -6,10 +6,10 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "$icao": "KEVW",
-        "$iata": "EVW",
-        "$wban": "04111",
-        "$usaf": "725775"
+        "icao": "KEVW",
+        "iata": "EVW",
+        "wban": "04111",
+        "usaf": "725775"
     },
     "location": {
         "latitude": 41.2748,

@@ -6,10 +6,10 @@
     "country": "IE",
     "region": "L",
     "identifiers": {
-        "$wmo": "03967",
-        "$icao": "EIME",
-        "$ghcn": "EIM00003967",
-        "$usaf": "039670"
+        "wmo": "03967",
+        "icao": "EIME",
+        "ghcn": "EIM00003967",
+        "usaf": "039670"
     },
     "location": {
         "latitude": 53.3,

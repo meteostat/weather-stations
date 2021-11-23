@@ -6,12 +6,12 @@
     "country": "SK",
     "region": "KI",
     "identifiers": {
-        "$wmo": "11968",
-        "$icao": "LKKZ",
-        "$iata": "KSC",
-        "$ghcn": "LOE00116344",
-        "$usaf": "119680",
-        "$mosmix": "11968"
+        "wmo": "11968",
+        "icao": "LKKZ",
+        "iata": "KSC",
+        "ghcn": "LOE00116344",
+        "usaf": "119680",
+        "mosmix": "11968"
     },
     "location": {
         "latitude": 48.6667,

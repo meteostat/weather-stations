@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "ES",
     "identifiers": {
-        "$wmo": "83649",
-        "$icao": "SBVT",
-        "$iata": "VIX",
-        "$usaf": "836490",
-        "$mosmix": "83649"
+        "wmo": "83649",
+        "icao": "SBVT",
+        "iata": "VIX",
+        "usaf": "836490",
+        "mosmix": "83649"
     },
     "location": {
         "latitude": -20.2667,

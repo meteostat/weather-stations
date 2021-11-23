@@ -6,10 +6,10 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$icao": "KMVN",
-        "$iata": "MVN",
-        "$wban": "93894",
-        "$usaf": "724335"
+        "icao": "KMVN",
+        "iata": "MVN",
+        "wban": "93894",
+        "usaf": "724335"
     },
     "location": {
         "latitude": 38.3234,

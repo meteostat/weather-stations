@@ -6,12 +6,12 @@
     "country": "LU",
     "region": "LL",
     "identifiers": {
-        "$wmo": "06590",
-        "$icao": "ELLX",
-        "$iata": "LUX",
-        "$ghcn": "LU000006590",
-        "$usaf": "065900",
-        "$mosmix": "06590"
+        "wmo": "06590",
+        "icao": "ELLX",
+        "iata": "LUX",
+        "ghcn": "LU000006590",
+        "usaf": "065900",
+        "mosmix": "06590"
     },
     "location": {
         "latitude": 49.6167,

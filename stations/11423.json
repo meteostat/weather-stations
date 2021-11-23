@@ -6,9 +6,9 @@
     "country": "CZ",
     "region": "PL",
     "identifiers": {
-        "$wmo": "11423",
-        "$ghcn": "EZM00011423",
-        "$mosmix": "11423"
+        "wmo": "11423",
+        "ghcn": "EZM00011423",
+        "mosmix": "11423"
     },
     "location": {
         "latitude": 49.6667,

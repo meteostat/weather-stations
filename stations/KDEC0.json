@@ -6,10 +6,10 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$icao": "KDEC",
-        "$iata": "DEC",
-        "$wban": "03887",
-        "$usaf": "725316"
+        "icao": "KDEC",
+        "iata": "DEC",
+        "wban": "03887",
+        "usaf": "725316"
     },
     "location": {
         "latitude": 39.8346,

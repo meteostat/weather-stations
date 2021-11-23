@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "TT",
     "identifiers": {
-        "$wmo": "16020",
-        "$icao": "LIPB",
-        "$iata": "BZO",
-        "$usaf": "160200",
-        "$mosmix": "16020"
+        "wmo": "16020",
+        "icao": "LIPB",
+        "iata": "BZO",
+        "usaf": "160200",
+        "mosmix": "16020"
     },
     "location": {
         "latitude": 46.4667,

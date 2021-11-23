@@ -6,12 +6,12 @@
     "country": "OM",
     "region": "DH",
     "identifiers": {
-        "$wmo": "41262",
-        "$icao": "OOFD",
-        "$iata": "FAU",
-        "$ghcn": "MUM00041262",
-        "$usaf": "412620",
-        "$mosmix": "41262"
+        "wmo": "41262",
+        "icao": "OOFD",
+        "iata": "FAU",
+        "ghcn": "MUM00041262",
+        "usaf": "412620",
+        "mosmix": "41262"
     },
     "location": {
         "latitude": 22.35,

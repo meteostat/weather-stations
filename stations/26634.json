@@ -6,8 +6,8 @@
     "country": "LT",
     "region": "VI",
     "identifiers": {
-        "$wmo": "26634",
-        "$ghcn": "LH000026634"
+        "wmo": "26634",
+        "ghcn": "LH000026634"
     },
     "location": {
         "latitude": 55.25,

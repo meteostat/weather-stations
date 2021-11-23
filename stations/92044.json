@@ -6,10 +6,10 @@
     "country": "PG",
     "region": "MN",
     "identifiers": {
-        "$wmo": "92044",
-        "$iata": "MAS",
-        "$ghcn": "PPM00092044",
-        "$wban": "80431"
+        "wmo": "92044",
+        "iata": "MAS",
+        "ghcn": "PPM00092044",
+        "wban": "80431"
     },
     "location": {
         "latitude": -2.05,

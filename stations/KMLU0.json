@@ -6,10 +6,10 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$icao": "KMLU",
-        "$iata": "MLU",
-        "$wban": "13942",
-        "$usaf": "722486"
+        "icao": "KMLU",
+        "iata": "MLU",
+        "wban": "13942",
+        "usaf": "722486"
     },
     "location": {
         "latitude": 32.5109,

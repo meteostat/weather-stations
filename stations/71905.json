@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "$icao": "CYGW",
-        "$iata": "YGW",
-        "$usaf": "716278"
+        "icao": "CYGW",
+        "iata": "YGW",
+        "usaf": "716278"
     },
     "location": {
         "latitude": 55.2833,

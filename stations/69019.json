@@ -6,12 +6,12 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$wmo": "69019",
-        "$icao": "KDYS",
-        "$iata": "DYS",
-        "$ghcn": "USW00013910",
-        "$wban": "13910",
-        "$usaf": "690190"
+        "wmo": "69019",
+        "icao": "KDYS",
+        "iata": "DYS",
+        "ghcn": "USW00013910",
+        "wban": "13910",
+        "usaf": "690190"
     },
     "location": {
         "latitude": 32.4198,

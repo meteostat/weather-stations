@@ -6,9 +6,9 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "$icao": "KPPF",
-        "$wban": "03998",
-        "$usaf": "745431"
+        "icao": "KPPF",
+        "wban": "03998",
+        "usaf": "745431"
     },
     "location": {
         "latitude": 37.3308,

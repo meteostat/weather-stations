@@ -6,10 +6,10 @@
     "country": "MM",
     "region": "KC",
     "identifiers": {
-        "$wmo": "48001",
-        "$icao": "VBPT",
-        "$iata": "PUT",
-        "$usaf": "480010"
+        "wmo": "48001",
+        "icao": "VBPT",
+        "iata": "PUT",
+        "usaf": "480010"
     },
     "location": {
         "latitude": 27.3333,

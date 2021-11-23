@@ -6,12 +6,12 @@
     "country": "VN",
     "region": "HC",
     "identifiers": {
-        "$wmo": "48900",
-        "$icao": "VVTS",
-        "$iata": "SGN",
-        "$ghcn": "VM000048900",
-        "$usaf": "489000",
-        "$mosmix": "48900"
+        "wmo": "48900",
+        "icao": "VVTS",
+        "iata": "SGN",
+        "ghcn": "VM000048900",
+        "usaf": "489000",
+        "mosmix": "48900"
     },
     "location": {
         "latitude": 10.8167,

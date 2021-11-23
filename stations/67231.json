@@ -6,11 +6,11 @@
     "country": "MZ",
     "region": "NI",
     "identifiers": {
-        "$wmo": "67231",
-        "$icao": "FQCB",
-        "$iata": "FXO",
-        "$ghcn": "MZM00067231",
-        "$usaf": "672310"
+        "wmo": "67231",
+        "icao": "FQCB",
+        "iata": "FXO",
+        "ghcn": "MZM00067231",
+        "usaf": "672310"
     },
     "location": {
         "latitude": -14.8167,

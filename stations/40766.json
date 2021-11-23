@@ -6,11 +6,11 @@
     "country": "IR",
     "region": "KRM",
     "identifiers": {
-        "$wmo": "40766",
-        "$icao": "OICC",
-        "$ghcn": "IR000407660",
-        "$usaf": "407660",
-        "$mosmix": "40766"
+        "wmo": "40766",
+        "icao": "OICC",
+        "ghcn": "IR000407660",
+        "usaf": "407660",
+        "mosmix": "40766"
     },
     "location": {
         "latitude": 34.2667,

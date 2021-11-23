@@ -6,12 +6,12 @@
     "country": "SY",
     "region": "HL",
     "identifiers": {
-        "$wmo": "40007",
-        "$icao": "OSAP",
-        "$iata": "ALP",
-        "$ghcn": "SYE00147760",
-        "$usaf": "400070",
-        "$mosmix": "40007"
+        "wmo": "40007",
+        "icao": "OSAP",
+        "iata": "ALP",
+        "ghcn": "SYE00147760",
+        "usaf": "400070",
+        "mosmix": "40007"
     },
     "location": {
         "latitude": 36.1833,

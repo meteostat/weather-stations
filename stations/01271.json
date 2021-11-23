@@ -6,11 +6,11 @@
     "country": "NO",
     "region": "NT",
     "identifiers": {
-        "$wmo": "01271",
-        "$icao": "ENVA",
-        "$ghcn": "NOE00112071",
-        "$usaf": "012710",
-        "$mosmix": "01271"
+        "wmo": "01271",
+        "icao": "ENVA",
+        "ghcn": "NOE00112071",
+        "usaf": "012710",
+        "mosmix": "01271"
     },
     "location": {
         "latitude": 63.4667,

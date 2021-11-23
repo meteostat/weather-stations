@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "$icao": "KASG",
-        "$wban": "03973",
-        "$usaf": "723434"
+        "icao": "KASG",
+        "wban": "03973",
+        "usaf": "723434"
     },
     "location": {
         "latitude": 36.1764,

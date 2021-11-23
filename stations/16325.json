@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "PU",
     "identifiers": {
-        "$wmo": "16325",
-        "$icao": "LIBH",
-        "$ghcn": "ITM00016325",
-        "$usaf": "163250",
-        "$mosmix": "16325"
+        "wmo": "16325",
+        "icao": "LIBH",
+        "ghcn": "ITM00016325",
+        "usaf": "163250",
+        "mosmix": "16325"
     },
     "location": {
         "latitude": 40.4333,

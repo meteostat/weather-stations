@@ -6,9 +6,9 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KVQQ",
-        "$wban": "63823",
-        "$usaf": "722067"
+        "icao": "KVQQ",
+        "wban": "63823",
+        "usaf": "722067"
     },
     "location": {
         "latitude": 30.2187,

@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "ZAP",
     "identifiers": {
-        "$wmo": "35217",
-        "$ghcn": "KZ000035217",
-        "$usaf": "352170"
+        "wmo": "35217",
+        "ghcn": "KZ000035217",
+        "usaf": "352170"
     },
     "location": {
         "latitude": 50.25,

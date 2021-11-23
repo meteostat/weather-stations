@@ -6,9 +6,9 @@
     "country": "BE",
     "region": "BRU",
     "identifiers": {
-        "$wmo": "06447",
-        "$ghcn": "BE000006447",
-        "$usaf": "064470"
+        "wmo": "06447",
+        "ghcn": "BE000006447",
+        "usaf": "064470"
     },
     "location": {
         "latitude": 50.8,

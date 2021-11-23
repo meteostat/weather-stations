@@ -6,8 +6,8 @@
     "country": "TJ",
     "region": null,
     "identifiers": {
-        "$wmo": "38879",
-        "$ghcn": "TI000038879"
+        "wmo": "38879",
+        "ghcn": "TI000038879"
     },
     "location": {
         "latitude": 38.0667,

@@ -6,11 +6,11 @@
     "country": "IR",
     "region": "BSH",
     "identifiers": {
-        "$wmo": "40858",
-        "$icao": "OIBB",
-        "$iata": "BUZ",
-        "$ghcn": "IRM00040858",
-        "$usaf": "408580"
+        "wmo": "40858",
+        "icao": "OIBB",
+        "iata": "BUZ",
+        "ghcn": "IRM00040858",
+        "usaf": "408580"
     },
     "location": {
         "latitude": 28.9833,

@@ -6,10 +6,10 @@
     "country": "SB",
     "region": null,
     "identifiers": {
-        "$wmo": "91541",
-        "$icao": "AGGL",
-        "$iata": "SCZ",
-        "$usaf": "915410"
+        "wmo": "91541",
+        "icao": "AGGL",
+        "iata": "SCZ",
+        "usaf": "915410"
     },
     "location": {
         "latitude": -10.7,

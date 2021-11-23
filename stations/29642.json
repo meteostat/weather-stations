@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "KEM",
     "identifiers": {
-        "$wmo": "29642",
-        "$icao": "UNEE",
-        "$iata": "KEJ",
-        "$ghcn": "RSM00029642",
-        "$usaf": "296420"
+        "wmo": "29642",
+        "icao": "UNEE",
+        "iata": "KEJ",
+        "ghcn": "RSM00029642",
+        "usaf": "296420"
     },
     "location": {
         "latitude": 55.2333,

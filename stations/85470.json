@@ -6,10 +6,10 @@
     "country": "CL",
     "region": "AT",
     "identifiers": {
-        "$wmo": "85470",
-        "$icao": "SCHA",
-        "$ghcn": "CIM00085470",
-        "$usaf": "854705"
+        "wmo": "85470",
+        "icao": "SCHA",
+        "ghcn": "CIM00085470",
+        "usaf": "854705"
     },
     "location": {
         "latitude": -27.3,

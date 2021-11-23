@@ -6,11 +6,11 @@
     "country": "VE",
     "region": "S",
     "identifiers": {
-        "$wmo": "80475",
-        "$icao": "SVSO",
-        "$iata": "STD",
-        "$ghcn": "VEM00080475",
-        "$usaf": "804750"
+        "wmo": "80475",
+        "icao": "SVSO",
+        "iata": "STD",
+        "ghcn": "VEM00080475",
+        "usaf": "804750"
     },
     "location": {
         "latitude": 7.5833,

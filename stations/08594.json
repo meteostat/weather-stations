@@ -6,12 +6,12 @@
     "country": "CV",
     "region": "SL",
     "identifiers": {
-        "$wmo": "08594",
-        "$icao": "GVAC",
-        "$iata": "SID",
-        "$ghcn": "CVM00008594",
-        "$usaf": "085940",
-        "$mosmix": "08594"
+        "wmo": "08594",
+        "icao": "GVAC",
+        "iata": "SID",
+        "ghcn": "CVM00008594",
+        "usaf": "085940",
+        "mosmix": "08594"
     },
     "location": {
         "latitude": 16.7333,

@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "$icao": "CWPQ",
-        "$ghcn": "CA006010735",
-        "$usaf": "713721"
+        "icao": "CWPQ",
+        "ghcn": "CA006010735",
+        "usaf": "713721"
     },
     "location": {
         "latitude": 45.6333,

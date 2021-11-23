@@ -6,9 +6,9 @@
     "country": "TH",
     "region": "SH",
     "identifiers": {
-        "$wmo": "48425",
-        "$ghcn": "TH000048425",
-        "$usaf": "484250"
+        "wmo": "48425",
+        "ghcn": "TH000048425",
+        "usaf": "484250"
     },
     "location": {
         "latitude": 14.4667,

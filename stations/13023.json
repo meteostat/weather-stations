@@ -6,9 +6,9 @@
     "country": "RS",
     "region": null,
     "identifiers": {
-        "$wmo": "13023",
-        "$icao": "LJCL",
-        "$usaf": "140230"
+        "wmo": "13023",
+        "icao": "LJCL",
+        "usaf": "140230"
     },
     "location": {
         "latitude": 46.25,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "$icao": "KMQS",
-        "$iata": "CTH",
-        "$wban": "00136",
-        "$usaf": "720408"
+        "icao": "KMQS",
+        "iata": "CTH",
+        "wban": "00136",
+        "usaf": "720408"
     },
     "location": {
         "latitude": 39.979,

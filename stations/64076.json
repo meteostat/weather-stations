@@ -6,9 +6,9 @@
     "country": "CD",
     "region": "OR",
     "identifiers": {
-        "$wmo": "64076",
-        "$icao": "FZKA",
-        "$iata": "BUX"
+        "wmo": "64076",
+        "icao": "FZKA",
+        "iata": "BUX"
     },
     "location": {
         "latitude": 1.5,

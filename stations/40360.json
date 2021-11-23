@@ -6,11 +6,11 @@
     "country": "SA",
     "region": "JF",
     "identifiers": {
-        "$wmo": "40360",
-        "$icao": "OEGT",
-        "$iata": "URY",
-        "$ghcn": "SAM00040360",
-        "$usaf": "403600"
+        "wmo": "40360",
+        "icao": "OEGT",
+        "iata": "URY",
+        "ghcn": "SAM00040360",
+        "usaf": "403600"
     },
     "location": {
         "latitude": 31.4,

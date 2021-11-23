@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "$icao": "KPRC",
-        "$iata": "PRC",
-        "$wban": "23184",
-        "$usaf": "723723"
+        "icao": "KPRC",
+        "iata": "PRC",
+        "wban": "23184",
+        "usaf": "723723"
     },
     "location": {
         "latitude": 34.6544,

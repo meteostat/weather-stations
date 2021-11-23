@@ -6,8 +6,8 @@
     "country": "IQ",
     "region": "WS",
     "identifiers": {
-        "$wmo": "40665",
-        "$ghcn": "IZ000040665"
+        "wmo": "40665",
+        "ghcn": "IZ000040665"
     },
     "location": {
         "latitude": 32.1667,

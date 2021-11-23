@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "AM",
     "identifiers": {
-        "$wmo": "82317",
-        "$icao": "SBTF",
-        "$iata": "TFF",
-        "$usaf": "823170",
-        "$mosmix": "82317"
+        "wmo": "82317",
+        "icao": "SBTF",
+        "iata": "TFF",
+        "usaf": "823170",
+        "mosmix": "82317"
     },
     "location": {
         "latitude": -3.3667,

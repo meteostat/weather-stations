@@ -6,8 +6,8 @@
     "country": "NO",
     "region": null,
     "identifiers": {
-        "$icao": "ENFR",
-        "$usaf": "010017"
+        "icao": "ENFR",
+        "usaf": "010017"
     },
     "location": {
         "latitude": 59.9333,

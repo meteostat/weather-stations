@@ -6,11 +6,11 @@
     "country": "PE",
     "region": "IC",
     "identifiers": {
-        "$wmo": "84691",
-        "$icao": "SPSO",
-        "$iata": "PIO",
-        "$ghcn": "PEM00084691",
-        "$usaf": "846910"
+        "wmo": "84691",
+        "icao": "SPSO",
+        "iata": "PIO",
+        "ghcn": "PEM00084691",
+        "usaf": "846910"
     },
     "location": {
         "latitude": -13.75,

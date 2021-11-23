@@ -6,11 +6,11 @@
     "country": "NG",
     "region": "AD",
     "identifiers": {
-        "$wmo": "65167",
-        "$icao": "DNYO",
-        "$iata": "YOL",
-        "$ghcn": "NIM00065167",
-        "$usaf": "651670"
+        "wmo": "65167",
+        "icao": "DNYO",
+        "iata": "YOL",
+        "ghcn": "NIM00065167",
+        "usaf": "651670"
     },
     "location": {
         "latitude": 9.2333,

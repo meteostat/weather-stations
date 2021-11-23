@@ -6,12 +6,12 @@
     "country": "DE",
     "region": "ST",
     "identifiers": {
-        "$national": "03126",
-        "$wmo": "10361",
-        "$icao": "EDBM",
-        "$ghcn": "GME00102252",
-        "$usaf": "106161",
-        "$mosmix": "10361"
+        "national": "03126",
+        "wmo": "10361",
+        "icao": "EDBM",
+        "ghcn": "GME00102252",
+        "usaf": "106161",
+        "mosmix": "10361"
     },
     "location": {
         "latitude": 52.1333,

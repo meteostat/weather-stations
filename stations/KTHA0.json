@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "$icao": "KTHA",
-        "$wban": "00348",
-        "$usaf": "721031"
+        "icao": "KTHA",
+        "wban": "00348",
+        "usaf": "721031"
     },
     "location": {
         "latitude": 35.38,

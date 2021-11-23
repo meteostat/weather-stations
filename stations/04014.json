@@ -6,8 +6,8 @@
     "country": "IS",
     "region": null,
     "identifiers": {
-        "$wmo": "04014",
-        "$ghcn": "ICM00004014"
+        "wmo": "04014",
+        "ghcn": "ICM00004014"
     },
     "location": {
         "latitude": 63.8167,

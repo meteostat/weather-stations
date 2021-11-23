@@ -6,11 +6,11 @@
     "country": "CI",
     "region": "BKE",
     "identifiers": {
-        "$wmo": "65555",
-        "$icao": "DIBK",
-        "$iata": "BYK",
-        "$ghcn": "IV000005555",
-        "$usaf": "655550"
+        "wmo": "65555",
+        "icao": "DIBK",
+        "iata": "BYK",
+        "ghcn": "IV000005555",
+        "usaf": "655550"
     },
     "location": {
         "latitude": 7.7333,

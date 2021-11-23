@@ -6,9 +6,9 @@
     "country": "PT",
     "region": "MA",
     "identifiers": {
-        "$wmo": "08000",
-        "$icao": "LPMA",
-        "$usaf": "080001"
+        "wmo": "08000",
+        "icao": "LPMA",
+        "usaf": "080001"
     },
     "location": {
         "latitude": 32.7,

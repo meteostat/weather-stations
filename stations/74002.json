@@ -6,11 +6,11 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "$wmo": "74002",
-        "$icao": "KAPG",
-        "$iata": "APG",
-        "$wban": "13701",
-        "$usaf": "724057"
+        "wmo": "74002",
+        "icao": "KAPG",
+        "iata": "APG",
+        "wban": "13701",
+        "usaf": "724057"
     },
     "location": {
         "latitude": 39.5,

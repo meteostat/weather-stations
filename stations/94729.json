@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "$wmo": "94729",
-        "$icao": "YBTH",
-        "$iata": "BHS",
-        "$ghcn": "ASN00063291"
+        "wmo": "94729",
+        "icao": "YBTH",
+        "iata": "BHS",
+        "ghcn": "ASN00063291"
     },
     "location": {
         "latitude": -33.4,

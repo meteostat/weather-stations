@@ -6,9 +6,9 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$icao": "KUXL",
-        "$wban": "00359",
-        "$usaf": "722248"
+        "icao": "KUXL",
+        "wban": "00359",
+        "usaf": "722248"
     },
     "location": {
         "latitude": 30.1314,

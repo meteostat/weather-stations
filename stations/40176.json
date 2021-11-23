@@ -6,9 +6,9 @@
     "country": "IL",
     "region": "T",
     "identifiers": {
-        "$wmo": "40176",
-        "$icao": "LLSD",
-        "$iata": "SDV"
+        "wmo": "40176",
+        "icao": "LLSD",
+        "iata": "SDV"
     },
     "location": {
         "latitude": 32.1,

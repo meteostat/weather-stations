@@ -6,8 +6,8 @@
     "country": "VN",
     "region": "SL",
     "identifiers": {
-        "$wmo": "48806",
-        "$ghcn": "VMM00048806"
+        "wmo": "48806",
+        "ghcn": "VMM00048806"
     },
     "location": {
         "latitude": 21.3333,

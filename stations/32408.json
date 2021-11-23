@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "KAM",
     "identifiers": {
-        "$wmo": "32408",
-        "$icao": "UHPK",
-        "$ghcn": "RSM00032408",
-        "$mosmix": "32408"
+        "wmo": "32408",
+        "icao": "UHPK",
+        "ghcn": "RSM00032408",
+        "mosmix": "32408"
     },
     "location": {
         "latitude": 56.2167,

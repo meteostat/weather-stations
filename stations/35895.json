@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "KAR",
     "identifiers": {
-        "$wmo": "35895",
-        "$ghcn": "KZ000035895",
-        "$usaf": "358950"
+        "wmo": "35895",
+        "ghcn": "KZ000035895",
+        "usaf": "358950"
     },
     "location": {
         "latitude": 46.0333,

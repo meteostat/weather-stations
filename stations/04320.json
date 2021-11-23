@@ -6,11 +6,11 @@
     "country": "GL",
     "region": "UO",
     "identifiers": {
-        "$wmo": "04320",
-        "$icao": "BGDH",
-        "$ghcn": "GL000004320",
-        "$usaf": "043200",
-        "$mosmix": "04320"
+        "wmo": "04320",
+        "icao": "BGDH",
+        "ghcn": "GL000004320",
+        "usaf": "043200",
+        "mosmix": "04320"
     },
     "location": {
         "latitude": 76.7667,

@@ -6,10 +6,10 @@
     "country": "RO",
     "region": "MU",
     "identifiers": {
-        "$wmo": "15145",
-        "$icao": "LRTM",
-        "$usaf": "151450",
-        "$mosmix": "15145"
+        "wmo": "15145",
+        "icao": "LRTM",
+        "usaf": "151450",
+        "mosmix": "15145"
     },
     "location": {
         "latitude": 46.5333,

@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "$wmo": "01047",
-        "$icao": "ENKA",
-        "$iata": "QKX",
-        "$usaf": "010470"
+        "wmo": "01047",
+        "icao": "ENKA",
+        "iata": "QKX",
+        "usaf": "010470"
     },
     "location": {
         "latitude": 69,

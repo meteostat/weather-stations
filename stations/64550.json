@@ -6,11 +6,11 @@
     "country": "GA",
     "region": "NG",
     "identifiers": {
-        "$wmo": "64550",
-        "$icao": "FOGM",
-        "$iata": "MJL",
-        "$ghcn": "GBM00064550",
-        "$usaf": "645500"
+        "wmo": "64550",
+        "icao": "FOGM",
+        "iata": "MJL",
+        "ghcn": "GBM00064550",
+        "usaf": "645500"
     },
     "location": {
         "latitude": -1.8667,

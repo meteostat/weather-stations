@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "OY",
     "identifiers": {
-        "$wmo": "47768",
-        "$ghcn": "JA000047768",
-        "$mosmix": "47768"
+        "wmo": "47768",
+        "ghcn": "JA000047768",
+        "mosmix": "47768"
     },
     "location": {
         "latitude": 34.65,

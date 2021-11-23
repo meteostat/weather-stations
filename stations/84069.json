@@ -6,9 +6,9 @@
     "country": "EC",
     "region": "P",
     "identifiers": {
-        "$wmo": "84069",
-        "$icao": "SESD",
-        "$usaf": "840690"
+        "wmo": "84069",
+        "icao": "SESD",
+        "usaf": "840690"
     },
     "location": {
         "latitude": -0.25,

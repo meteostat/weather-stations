@@ -6,8 +6,8 @@
     "country": "IN",
     "region": "TN",
     "identifiers": {
-        "$icao": "VOPC",
-        "$iata": "PNY"
+        "icao": "VOPC",
+        "iata": "PNY"
     },
     "location": {
         "latitude": 11.9687,

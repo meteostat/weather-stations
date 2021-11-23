@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "KL",
     "identifiers": {
-        "$wmo": "43353",
-        "$icao": "VOCC",
-        "$usaf": "433530"
+        "wmo": "43353",
+        "icao": "VOCC",
+        "usaf": "433530"
     },
     "location": {
         "latitude": 9.95,

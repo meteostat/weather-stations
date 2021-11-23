@@ -6,11 +6,11 @@
     "country": "PY",
     "region": "IT",
     "identifiers": {
-        "$wmo": "86297",
-        "$icao": "SGEN",
-        "$iata": "ENO",
-        "$ghcn": "PA000086297",
-        "$usaf": "862970"
+        "wmo": "86297",
+        "icao": "SGEN",
+        "iata": "ENO",
+        "ghcn": "PA000086297",
+        "usaf": "862970"
     },
     "location": {
         "latitude": -27.3167,

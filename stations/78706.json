@@ -6,10 +6,10 @@
     "country": "HN",
     "region": "AT",
     "identifiers": {
-        "$wmo": "78706",
-        "$icao": "MHTE",
-        "$iata": "TEA",
-        "$usaf": "787060"
+        "wmo": "78706",
+        "icao": "MHTE",
+        "iata": "TEA",
+        "usaf": "787060"
     },
     "location": {
         "latitude": 15.7167,

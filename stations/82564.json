@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "TO",
     "identifiers": {
-        "$wmo": "82564",
-        "$icao": "SBIZ",
-        "$iata": "IMP",
-        "$usaf": "825640",
-        "$mosmix": "82564"
+        "wmo": "82564",
+        "icao": "SBIZ",
+        "iata": "IMP",
+        "usaf": "825640",
+        "mosmix": "82564"
     },
     "location": {
         "latitude": -5.5333,

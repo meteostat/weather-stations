@@ -6,12 +6,12 @@
     "country": "SY",
     "region": "DI",
     "identifiers": {
-        "$wmo": "40080",
-        "$icao": "OSDI",
-        "$iata": "DAM",
-        "$ghcn": "SYM00040080",
-        "$usaf": "400800",
-        "$mosmix": "40080"
+        "wmo": "40080",
+        "icao": "OSDI",
+        "iata": "DAM",
+        "ghcn": "SYM00040080",
+        "usaf": "400800",
+        "mosmix": "40080"
     },
     "location": {
         "latitude": 33.4167,

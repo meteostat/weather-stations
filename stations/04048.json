@@ -6,12 +6,12 @@
     "country": "IS",
     "region": null,
     "identifiers": {
-        "$wmo": "04048",
-        "$icao": "BIVM",
-        "$iata": "VEY",
-        "$ghcn": "IC000004048",
-        "$usaf": "040480",
-        "$mosmix": "04048"
+        "wmo": "04048",
+        "icao": "BIVM",
+        "iata": "VEY",
+        "ghcn": "IC000004048",
+        "usaf": "040480",
+        "mosmix": "04048"
     },
     "location": {
         "latitude": 63.4,

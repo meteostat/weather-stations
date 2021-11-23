@@ -6,11 +6,11 @@
     "country": "AR",
     "region": "Z",
     "identifiers": {
-        "$wmo": "87880",
-        "$icao": "SAWR",
-        "$iata": "GGS",
-        "$ghcn": "ARM00087880",
-        "$usaf": "878800"
+        "wmo": "87880",
+        "icao": "SAWR",
+        "iata": "GGS",
+        "ghcn": "ARM00087880",
+        "usaf": "878800"
     },
     "location": {
         "latitude": -48.7833,

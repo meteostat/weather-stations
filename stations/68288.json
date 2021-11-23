@@ -6,9 +6,9 @@
     "country": "ZA",
     "region": "MP",
     "identifiers": {
-        "$wmo": "68288",
-        "$icao": "FANS",
-        "$usaf": "682890"
+        "wmo": "68288",
+        "icao": "FANS",
+        "usaf": "682890"
     },
     "location": {
         "latitude": -25.4333,

@@ -6,12 +6,12 @@
     "country": "CL",
     "region": "AN",
     "identifiers": {
-        "$wmo": "85442",
-        "$icao": "SCFA",
-        "$iata": "ANF",
-        "$ghcn": "CI000085442",
-        "$usaf": "854420",
-        "$mosmix": "85442"
+        "wmo": "85442",
+        "icao": "SCFA",
+        "iata": "ANF",
+        "ghcn": "CI000085442",
+        "usaf": "854420",
+        "mosmix": "85442"
     },
     "location": {
         "latitude": -23.4333,

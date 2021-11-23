@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KLUD",
-        "$wban": "53964",
-        "$usaf": "720305"
+        "icao": "KLUD",
+        "wban": "53964",
+        "usaf": "720305"
     },
     "location": {
         "latitude": 33.2542,

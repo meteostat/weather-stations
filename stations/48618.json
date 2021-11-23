@@ -6,11 +6,11 @@
     "country": "MY",
     "region": "TR",
     "identifiers": {
-        "$wmo": "48618",
-        "$icao": "WMKN",
-        "$iata": "TGG",
-        "$usaf": "486180",
-        "$mosmix": "48618"
+        "wmo": "48618",
+        "icao": "WMKN",
+        "iata": "TGG",
+        "usaf": "486180",
+        "mosmix": "48618"
     },
     "location": {
         "latitude": 5.3833,

@@ -6,11 +6,11 @@
     "country": "PK",
     "region": "B",
     "identifiers": {
-        "$wmo": "41759",
-        "$icao": "OPPI",
-        "$iata": "PSI",
-        "$ghcn": "PKM00041759",
-        "$usaf": "417590"
+        "wmo": "41759",
+        "icao": "OPPI",
+        "iata": "PSI",
+        "ghcn": "PKM00041759",
+        "usaf": "417590"
     },
     "location": {
         "latitude": 25.2667,

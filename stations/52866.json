@@ -6,12 +6,12 @@
     "country": "CN",
     "region": "QH",
     "identifiers": {
-        "$wmo": "52866",
-        "$icao": "ZLXN",
-        "$iata": "XNN",
-        "$ghcn": "CHM00052866",
-        "$usaf": "528660",
-        "$mosmix": "52866"
+        "wmo": "52866",
+        "icao": "ZLXN",
+        "iata": "XNN",
+        "ghcn": "CHM00052866",
+        "usaf": "528660",
+        "mosmix": "52866"
     },
     "location": {
         "latitude": 36.6167,

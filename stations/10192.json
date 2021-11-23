@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "MV",
     "identifiers": {
-        "$wmo": "10192",
-        "$icao": "EDAH",
-        "$iata": "HDF",
-        "$usaf": "101935"
+        "wmo": "10192",
+        "icao": "EDAH",
+        "iata": "HDF",
+        "usaf": "101935"
     },
     "location": {
         "latitude": 53.8833,

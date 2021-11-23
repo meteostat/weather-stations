@@ -6,8 +6,8 @@
     "country": "IR",
     "region": "ILM",
     "identifiers": {
-        "$wmo": "40780",
-        "$ghcn": "IRM00040780"
+        "wmo": "40780",
+        "ghcn": "IRM00040780"
     },
     "location": {
         "latitude": 33.6333,

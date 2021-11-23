@@ -2,17 +2,17 @@
     "id": "02128",
     "name": {
         "de": "Gunnarn Flughafen",
-        "sv": "Gunnarn Flyplats",
-        "en": "Gunnarn Airport"
+        "en": "Gunnarn Airport",
+        "sv": "Gunnarn Flyplats"
     },
     "country": "SE",
     "region": "AC",
     "identifiers": {
-        "$wmo": "02128",
-        "$icao": "ESPD",
-        "$ghcn": "SW000021280",
-        "$usaf": "021280",
-        "$mosmix": "02128"
+        "wmo": "02128",
+        "icao": "ESPD",
+        "ghcn": "SW000021280",
+        "usaf": "021280",
+        "mosmix": "02128"
     },
     "location": {
         "latitude": 64.9667,

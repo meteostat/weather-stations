@@ -6,9 +6,9 @@
     "country": "UY",
     "region": "RO",
     "identifiers": {
-        "$wmo": "86565",
-        "$ghcn": "UY000086565",
-        "$usaf": "865650"
+        "wmo": "86565",
+        "ghcn": "UY000086565",
+        "usaf": "865650"
     },
     "location": {
         "latitude": -34.4833,

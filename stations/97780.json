@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "PA",
     "identifiers": {
-        "$wmo": "97780",
-        "$icao": "WABT",
-        "$iata": "EWI",
-        "$ghcn": "IDM00097780",
-        "$usaf": "977800"
+        "wmo": "97780",
+        "icao": "WABT",
+        "iata": "EWI",
+        "ghcn": "IDM00097780",
+        "usaf": "977800"
     },
     "location": {
         "latitude": -3.9167,

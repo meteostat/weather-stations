@@ -6,12 +6,12 @@
     "country": "CN",
     "region": "GD",
     "identifiers": {
-        "$wmo": "59316",
-        "$icao": "ZGOW",
-        "$iata": "SWA",
-        "$ghcn": "CHM00059316",
-        "$usaf": "593160",
-        "$mosmix": "59316"
+        "wmo": "59316",
+        "icao": "ZGOW",
+        "iata": "SWA",
+        "ghcn": "CHM00059316",
+        "usaf": "593160",
+        "mosmix": "59316"
     },
     "location": {
         "latitude": 23.4,

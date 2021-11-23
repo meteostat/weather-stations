@@ -6,11 +6,11 @@
     "country": "MA",
     "region": "TO",
     "identifiers": {
-        "$wmo": "60318",
-        "$icao": "GMTN",
-        "$iata": "TTU",
-        "$ghcn": "MOM00060318",
-        "$usaf": "603180"
+        "wmo": "60318",
+        "icao": "GMTN",
+        "iata": "TTU",
+        "ghcn": "MOM00060318",
+        "usaf": "603180"
     },
     "location": {
         "latitude": 35.5833,

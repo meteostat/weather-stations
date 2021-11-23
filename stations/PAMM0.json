@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAMM",
-        "$wban": "25377",
-        "$usaf": "703985"
+        "icao": "PAMM",
+        "wban": "25377",
+        "usaf": "703985"
     },
     "location": {
         "latitude": 55.131,

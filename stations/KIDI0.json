@@ -6,9 +6,9 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "$icao": "KIDI",
-        "$wban": "64706",
-        "$usaf": "725175"
+        "icao": "KIDI",
+        "wban": "64706",
+        "usaf": "725175"
     },
     "location": {
         "latitude": 40.6322,

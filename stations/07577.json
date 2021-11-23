@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "V",
     "identifiers": {
-        "$wmo": "07577",
-        "$icao": "LFLQ",
-        "$ghcn": "FRE00104907",
-        "$usaf": "075770",
-        "$mosmix": "07577"
+        "wmo": "07577",
+        "icao": "LFLQ",
+        "ghcn": "FRE00104907",
+        "usaf": "075770",
+        "mosmix": "07577"
     },
     "location": {
         "latitude": 44.5833,

@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "MUS",
     "identifiers": {
-        "$wmo": "17204",
-        "$ghcn": "TUM00017204"
+        "wmo": "17204",
+        "ghcn": "TUM00017204"
     },
     "location": {
         "latitude": 38.7333,

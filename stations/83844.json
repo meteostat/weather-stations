@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "PR",
     "identifiers": {
-        "$wmo": "83844",
-        "$icao": "SBPG",
-        "$iata": "PXA",
-        "$ghcn": "BR002548005",
-        "$usaf": "838440"
+        "wmo": "83844",
+        "icao": "SBPG",
+        "iata": "PXA",
+        "ghcn": "BR002548005",
+        "usaf": "838440"
     },
     "location": {
         "latitude": -25.5167,

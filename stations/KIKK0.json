@@ -6,10 +6,10 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$icao": "KIKK",
-        "$iata": "IKK",
-        "$wban": "04880",
-        "$usaf": "722127"
+        "icao": "KIKK",
+        "iata": "IKK",
+        "wban": "04880",
+        "usaf": "722127"
     },
     "location": {
         "latitude": 41.0714,

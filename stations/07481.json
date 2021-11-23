@@ -6,12 +6,12 @@
     "country": "FR",
     "region": "V",
     "identifiers": {
-        "$wmo": "07481",
-        "$icao": "LFLL",
-        "$iata": "LYS",
-        "$ghcn": "FRM00007481",
-        "$usaf": "074810",
-        "$mosmix": "07481"
+        "wmo": "07481",
+        "icao": "LFLL",
+        "iata": "LYS",
+        "ghcn": "FRM00007481",
+        "usaf": "074810",
+        "mosmix": "07481"
     },
     "location": {
         "latitude": 45.7333,

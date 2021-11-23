@@ -6,8 +6,8 @@
     "country": "CN",
     "region": "GZ",
     "identifiers": {
-        "$wmo": "57025",
-        "$mosmix": "57025"
+        "wmo": "57025",
+        "mosmix": "57025"
     },
     "location": {
         "latitude": 34.5167,

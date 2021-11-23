@@ -6,11 +6,11 @@
     "country": "KR",
     "region": "SO",
     "identifiers": {
-        "$wmo": "47110",
-        "$icao": "RKSS",
-        "$iata": "GMP",
-        "$usaf": "471100",
-        "$mosmix": "47110"
+        "wmo": "47110",
+        "icao": "RKSS",
+        "iata": "GMP",
+        "usaf": "471100",
+        "mosmix": "47110"
     },
     "location": {
         "latitude": 37.55,

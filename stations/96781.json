@@ -6,10 +6,10 @@
     "country": "ID",
     "region": "JB",
     "identifiers": {
-        "$wmo": "96781",
-        "$icao": "WIIB",
-        "$iata": "BDU",
-        "$usaf": "967810"
+        "wmo": "96781",
+        "icao": "WIIB",
+        "iata": "BDU",
+        "usaf": "967810"
     },
     "location": {
         "latitude": -6.9,

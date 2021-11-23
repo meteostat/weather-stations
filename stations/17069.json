@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "SAK",
     "identifiers": {
-        "$wmo": "17069",
-        "$ghcn": "TUM00017069"
+        "wmo": "17069",
+        "ghcn": "TUM00017069"
     },
     "location": {
         "latitude": 40.7833,

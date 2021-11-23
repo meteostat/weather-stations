@@ -6,11 +6,11 @@
     "country": "TH",
     "region": "SG",
     "identifiers": {
-        "$wmo": "48568",
-        "$icao": "VTSH",
-        "$iata": "SGZ",
-        "$ghcn": "TH000048568",
-        "$usaf": "485680"
+        "wmo": "48568",
+        "icao": "VTSH",
+        "iata": "SGZ",
+        "ghcn": "TH000048568",
+        "usaf": "485680"
     },
     "location": {
         "latitude": 7.2,

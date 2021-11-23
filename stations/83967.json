@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "RS",
     "identifiers": {
-        "$wmo": "83967",
-        "$icao": "SBCO",
-        "$iata": "QNS",
-        "$ghcn": "BRM00083967",
-        "$usaf": "839670"
+        "wmo": "83967",
+        "icao": "SBCO",
+        "iata": "QNS",
+        "ghcn": "BRM00083967",
+        "usaf": "839670"
     },
     "location": {
         "latitude": -30.0167,

@@ -6,9 +6,9 @@
     "country": "AT",
     "region": "TR",
     "identifiers": {
-        "$wmo": "11122",
-        "$icao": "LOXS",
-        "$usaf": "111220"
+        "wmo": "11122",
+        "icao": "LOXS",
+        "usaf": "111220"
     },
     "location": {
         "latitude": 47.3333,

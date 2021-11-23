@@ -6,13 +6,13 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "$wmo": "72278",
-        "$icao": "KPHX",
-        "$iata": "PHX",
-        "$ghcn": "USW00023183",
-        "$wban": "23183",
-        "$usaf": "722780",
-        "$mosmix": "72278"
+        "wmo": "72278",
+        "icao": "KPHX",
+        "iata": "PHX",
+        "ghcn": "USW00023183",
+        "wban": "23183",
+        "usaf": "722780",
+        "mosmix": "72278"
     },
     "location": {
         "latitude": 33.4333,

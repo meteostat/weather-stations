@@ -6,12 +6,12 @@
     "country": "BR",
     "region": "RS",
     "identifiers": {
-        "$wmo": "83928",
-        "$icao": "SBUG",
-        "$iata": "URG",
-        "$ghcn": "BR002957005",
-        "$usaf": "839280",
-        "$mosmix": "83928"
+        "wmo": "83928",
+        "icao": "SBUG",
+        "iata": "URG",
+        "ghcn": "BR002957005",
+        "usaf": "839280",
+        "mosmix": "83928"
     },
     "location": {
         "latitude": -29.7833,

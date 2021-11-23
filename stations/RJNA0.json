@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "AI",
     "identifiers": {
-        "$icao": "RJNA",
-        "$iata": "NKM",
-        "$usaf": "476350"
+        "icao": "RJNA",
+        "iata": "NKM",
+        "usaf": "476350"
     },
     "location": {
         "latitude": 35.255,

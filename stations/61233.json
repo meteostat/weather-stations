@@ -6,11 +6,11 @@
     "country": "ML",
     "region": "BKO",
     "identifiers": {
-        "$wmo": "61233",
-        "$icao": "GANK",
-        "$iata": "NRM",
-        "$ghcn": "MLM00061233",
-        "$usaf": "612330"
+        "wmo": "61233",
+        "icao": "GANK",
+        "iata": "NRM",
+        "ghcn": "MLM00061233",
+        "usaf": "612330"
     },
     "location": {
         "latitude": 15.1667,

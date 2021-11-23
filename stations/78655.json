@@ -6,10 +6,10 @@
     "country": "SV",
     "region": "SA",
     "identifiers": {
-        "$wmo": "78655",
-        "$icao": "MSSA",
-        "$iata": "SBL",
-        "$usaf": "786550"
+        "wmo": "78655",
+        "icao": "MSSA",
+        "iata": "SBL",
+        "usaf": "786550"
     },
     "location": {
         "latitude": 13.9833,

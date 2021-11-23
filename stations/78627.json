@@ -6,10 +6,10 @@
     "country": "GT",
     "region": "HU",
     "identifiers": {
-        "$wmo": "78627",
-        "$icao": "MGHT",
-        "$iata": "HUG",
-        "$usaf": "786270"
+        "wmo": "78627",
+        "icao": "MGHT",
+        "iata": "HUG",
+        "usaf": "786270"
     },
     "location": {
         "latitude": 15.3167,

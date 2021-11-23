@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$icao": "KEKM",
-        "$wban": "04806",
-        "$usaf": "725354"
+        "icao": "KEKM",
+        "wban": "04806",
+        "usaf": "725354"
     },
     "location": {
         "latitude": 41.7194,

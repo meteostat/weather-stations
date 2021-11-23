@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "FV",
     "identifiers": {
-        "$wmo": "16040",
-        "$icao": "LIVO",
-        "$usaf": "160400",
-        "$mosmix": "16040"
+        "wmo": "16040",
+        "icao": "LIVO",
+        "usaf": "160400",
+        "mosmix": "16040"
     },
     "location": {
         "latitude": 46.5,

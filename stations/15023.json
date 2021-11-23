@@ -6,11 +6,11 @@
     "country": "RO",
     "region": "SU",
     "identifiers": {
-        "$wmo": "15023",
-        "$icao": "LRSV",
-        "$iata": "SCV",
-        "$ghcn": "ROM00015023",
-        "$usaf": "150230"
+        "wmo": "15023",
+        "icao": "LRSV",
+        "iata": "SCV",
+        "ghcn": "ROM00015023",
+        "usaf": "150230"
     },
     "location": {
         "latitude": 47.65,

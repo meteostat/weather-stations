@@ -6,11 +6,11 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$wmo": "74641",
-        "$icao": "KWWR",
-        "$ghcn": "USW00013975",
-        "$wban": "53957",
-        "$usaf": "722152"
+        "wmo": "74641",
+        "icao": "KWWR",
+        "ghcn": "USW00013975",
+        "wban": "53957",
+        "usaf": "722152"
     },
     "location": {
         "latitude": 36.4333,

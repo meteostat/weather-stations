@@ -6,11 +6,11 @@
     "country": "KE",
     "region": "RV",
     "identifiers": {
-        "$wmo": "63612",
-        "$icao": "HKLO",
-        "$iata": "LOK",
-        "$ghcn": "KE000063612",
-        "$usaf": "636120"
+        "wmo": "63612",
+        "icao": "HKLO",
+        "iata": "LOK",
+        "ghcn": "KE000063612",
+        "usaf": "636120"
     },
     "location": {
         "latitude": 3.1167,

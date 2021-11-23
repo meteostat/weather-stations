@@ -6,11 +6,11 @@
     "country": "SN",
     "region": "KA",
     "identifiers": {
-        "$wmo": "61679",
-        "$icao": "GOOK",
-        "$iata": "KLC",
-        "$ghcn": "SGM00061679",
-        "$usaf": "616790"
+        "wmo": "61679",
+        "icao": "GOOK",
+        "iata": "KLC",
+        "ghcn": "SGM00061679",
+        "usaf": "616790"
     },
     "location": {
         "latitude": 14.1333,

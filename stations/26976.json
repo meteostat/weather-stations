@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "BRY",
     "identifiers": {
-        "$wmo": "26976",
-        "$ghcn": "RSM00026976"
+        "wmo": "26976",
+        "ghcn": "RSM00026976"
     },
     "location": {
         "latitude": 53.0167,

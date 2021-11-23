@@ -6,11 +6,11 @@
     "country": "US",
     "region": "VT",
     "identifiers": {
-        "$wmo": "72614",
-        "$icao": "K1V4",
-        "$ghcn": "USC00437054",
-        "$wban": "54742",
-        "$usaf": "726140"
+        "wmo": "72614",
+        "icao": "K1V4",
+        "ghcn": "USC00437054",
+        "wban": "54742",
+        "usaf": "726140"
     },
     "location": {
         "latitude": 44.4167,

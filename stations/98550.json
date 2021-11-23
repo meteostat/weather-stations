@@ -6,11 +6,11 @@
     "country": "PH",
     "region": "LEY",
     "identifiers": {
-        "$wmo": "98550",
-        "$icao": "RPVA",
-        "$iata": "TAC",
-        "$ghcn": "RPM00098550",
-        "$usaf": "985500"
+        "wmo": "98550",
+        "icao": "RPVA",
+        "iata": "TAC",
+        "ghcn": "RPM00098550",
+        "usaf": "985500"
     },
     "location": {
         "latitude": 11.25,

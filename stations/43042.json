@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "OR",
     "identifiers": {
-        "$wmo": "43042",
-        "$iata": "PAT",
-        "$ghcn": "IN017070800",
-        "$usaf": "430420"
+        "wmo": "43042",
+        "iata": "PAT",
+        "ghcn": "IN017070800",
+        "usaf": "430420"
     },
     "location": {
         "latitude": 19.9167,

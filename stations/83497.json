@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "BA",
     "identifiers": {
-        "$wmo": "83497",
-        "$icao": "SBCV",
-        "$iata": "CRQ",
-        "$usaf": "834970"
+        "wmo": "83497",
+        "icao": "SBCV",
+        "iata": "CRQ",
+        "usaf": "834970"
     },
     "location": {
         "latitude": -17.65,

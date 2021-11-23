@@ -6,8 +6,8 @@
     "country": "IS",
     "region": "AL",
     "identifiers": {
-        "$wmo": "04197",
-        "$ghcn": "IC000004097"
+        "wmo": "04197",
+        "ghcn": "IC000004097"
     },
     "location": {
         "latitude": 65.2667,

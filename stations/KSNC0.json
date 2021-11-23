@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CT",
     "identifiers": {
-        "$icao": "KSNC",
-        "$iata": "SNC",
-        "$wban": "00169",
-        "$usaf": "720545"
+        "icao": "KSNC",
+        "iata": "SNC",
+        "wban": "00169",
+        "usaf": "720545"
     },
     "location": {
         "latitude": 41.3839,

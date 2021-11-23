@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "$icao": "KAIG",
-        "$wban": "04864",
-        "$usaf": "726626"
+        "icao": "KAIG",
+        "wban": "04864",
+        "usaf": "726626"
     },
     "location": {
         "latitude": 45.1542,

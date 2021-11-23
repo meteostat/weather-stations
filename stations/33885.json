@@ -6,8 +6,8 @@
     "country": "UA",
     "region": "CA",
     "identifiers": {
-        "$wmo": "33885",
-        "$ghcn": "MD000033885"
+        "wmo": "33885",
+        "ghcn": "MD000033885"
     },
     "location": {
         "latitude": 45.9,

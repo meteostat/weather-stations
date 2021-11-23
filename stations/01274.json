@@ -6,8 +6,8 @@
     "country": "NO",
     "region": "ST",
     "identifiers": {
-        "$wmo": "01274",
-        "$ghcn": "NO000068330"
+        "wmo": "01274",
+        "ghcn": "NO000068330"
     },
     "location": {
         "latitude": 63.2,

@@ -6,12 +6,12 @@
     "country": "GM",
     "region": "WE",
     "identifiers": {
-        "$wmo": "61701",
-        "$icao": "GBYD",
-        "$iata": "BJL",
-        "$ghcn": "GAM00061701",
-        "$usaf": "617010",
-        "$mosmix": "61701"
+        "wmo": "61701",
+        "icao": "GBYD",
+        "iata": "BJL",
+        "ghcn": "GAM00061701",
+        "usaf": "617010",
+        "mosmix": "61701"
     },
     "location": {
         "latitude": 13.35,

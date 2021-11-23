@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "UP",
     "identifiers": {
-        "$wmo": "42146",
-        "$icao": "VIPT",
-        "$iata": "PGH",
-        "$ghcn": "IN023420200"
+        "wmo": "42146",
+        "icao": "VIPT",
+        "iata": "PGH",
+        "ghcn": "IN023420200"
     },
     "location": {
         "latitude": 29.4,

@@ -6,9 +6,9 @@
     "country": "CZ",
     "region": "JC",
     "identifiers": {
-        "$wmo": "11487",
-        "$ghcn": "EZM00011487",
-        "$mosmix": "11487"
+        "wmo": "11487",
+        "ghcn": "EZM00011487",
+        "mosmix": "11487"
     },
     "location": {
         "latitude": 49.4667,

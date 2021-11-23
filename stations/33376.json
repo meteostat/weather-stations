@@ -6,8 +6,8 @@
     "country": "UA",
     "region": "MY",
     "identifiers": {
-        "$wmo": "33376",
-        "$ghcn": "UPM00033376"
+        "wmo": "33376",
+        "ghcn": "UPM00033376"
     },
     "location": {
         "latitude": 50.3667,

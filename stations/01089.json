@@ -2,17 +2,17 @@
     "id": "01089",
     "name": {
         "de": "Kirkenes Flughafen",
-        "no": "Kirkenes Lufthavn",
-        "en": "Kirkenes Airport"
+        "en": "Kirkenes Airport",
+        "no": "Kirkenes Lufthavn"
     },
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "$wmo": "01089",
-        "$icao": "ENKR",
-        "$iata": "KKN",
-        "$usaf": "010890",
-        "$mosmix": "01089"
+        "wmo": "01089",
+        "icao": "ENKR",
+        "iata": "KKN",
+        "usaf": "010890",
+        "mosmix": "01089"
     },
     "location": {
         "latitude": 69.7333,

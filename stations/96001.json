@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "AC",
     "identifiers": {
-        "$wmo": "96001",
-        "$icao": "WIAA",
-        "$ghcn": "IDM00096001",
-        "$usaf": "960010",
-        "$mosmix": "96001"
+        "wmo": "96001",
+        "icao": "WIAA",
+        "ghcn": "IDM00096001",
+        "usaf": "960010",
+        "mosmix": "96001"
     },
     "location": {
         "latitude": 5.8667,

@@ -6,12 +6,12 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "$wmo": "72542",
-        "$icao": "KBRL",
-        "$iata": "BRL",
-        "$ghcn": "USW00014931",
-        "$wban": "14931",
-        "$usaf": "725420"
+        "wmo": "72542",
+        "icao": "KBRL",
+        "iata": "BRL",
+        "ghcn": "USW00014931",
+        "wban": "14931",
+        "usaf": "725420"
     },
     "location": {
         "latitude": 40.7832,

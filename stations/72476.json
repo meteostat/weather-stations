@@ -6,13 +6,13 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$wmo": "72476",
-        "$icao": "KGJT",
-        "$iata": "GJT",
-        "$ghcn": "USW00023066",
-        "$wban": "23066",
-        "$usaf": "724760",
-        "$mosmix": "72476"
+        "wmo": "72476",
+        "icao": "KGJT",
+        "iata": "GJT",
+        "ghcn": "USW00023066",
+        "wban": "23066",
+        "usaf": "724760",
+        "mosmix": "72476"
     },
     "location": {
         "latitude": 39.1333,

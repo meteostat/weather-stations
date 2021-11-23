@@ -6,8 +6,8 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "$wmo": "10203",
-        "$mosmix": "10203"
+        "wmo": "10203",
+        "mosmix": "10203"
     },
     "location": {
         "latitude": 53.35,

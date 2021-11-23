@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "BCN",
     "identifiers": {
-        "$wmo": "76040",
-        "$ghcn": "MXM00076040",
-        "$usaf": "760400"
+        "wmo": "76040",
+        "ghcn": "MXM00076040",
+        "usaf": "760400"
     },
     "location": {
         "latitude": 32.4,

@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "VIC",
     "identifiers": {
-        "$wmo": "94907",
-        "$icao": "YMES",
-        "$iata": "SXE",
-        "$ghcn": "ASN00085072",
-        "$usaf": "949070"
+        "wmo": "94907",
+        "icao": "YMES",
+        "iata": "SXE",
+        "ghcn": "ASN00085072",
+        "usaf": "949070"
     },
     "location": {
         "latitude": -38.1,

@@ -6,12 +6,12 @@
     "country": "RO",
     "region": "B",
     "identifiers": {
-        "$wmo": "15420",
-        "$icao": "LRBS",
-        "$iata": "BBU",
-        "$ghcn": "ROE00108889",
-        "$usaf": "154200",
-        "$mosmix": "15420"
+        "wmo": "15420",
+        "icao": "LRBS",
+        "iata": "BBU",
+        "ghcn": "ROE00108889",
+        "usaf": "154200",
+        "mosmix": "15420"
     },
     "location": {
         "latitude": 44.5,

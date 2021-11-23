@@ -6,11 +6,11 @@
     "country": "CI",
     "region": "KOR",
     "identifiers": {
-        "$wmo": "65536",
-        "$icao": "DIKO",
-        "$iata": "HGO",
-        "$ghcn": "IVM00065536",
-        "$usaf": "655360"
+        "wmo": "65536",
+        "icao": "DIKO",
+        "iata": "HGO",
+        "ghcn": "IVM00065536",
+        "usaf": "655360"
     },
     "location": {
         "latitude": 9.4167,

@@ -6,10 +6,10 @@
     "country": "TC",
     "region": "GT",
     "identifiers": {
-        "$icao": "MBGT",
-        "$iata": "GDT",
-        "$wban": "12714",
-        "$usaf": "781180"
+        "icao": "MBGT",
+        "iata": "GDT",
+        "wban": "12714",
+        "usaf": "781180"
     },
     "location": {
         "latitude": 21.4445,

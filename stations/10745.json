@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "MV",
     "identifiers": {
-        "$wmo": "10745",
-        "$icao": "EDOP",
-        "$usaf": "101624"
+        "wmo": "10745",
+        "icao": "EDOP",
+        "usaf": "101624"
     },
     "location": {
         "latitude": 53.4167,

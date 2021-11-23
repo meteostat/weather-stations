@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "OM",
     "identifiers": {
-        "$wmo": "28698",
-        "$ghcn": "RSM00028698",
-        "$mosmix": "28698"
+        "wmo": "28698",
+        "ghcn": "RSM00028698",
+        "mosmix": "28698"
     },
     "location": {
         "latitude": 55.0167,

@@ -6,11 +6,11 @@
     "country": "KE",
     "region": "OR",
     "identifiers": {
-        "$wmo": "63619",
-        "$icao": "HKMY",
-        "$iata": "OYL",
-        "$ghcn": "KE000063619",
-        "$usaf": "636190"
+        "wmo": "63619",
+        "icao": "HKMY",
+        "iata": "OYL",
+        "ghcn": "KE000063619",
+        "usaf": "636190"
     },
     "location": {
         "latitude": 3.5333,

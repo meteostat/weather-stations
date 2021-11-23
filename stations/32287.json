@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "KOR",
     "identifiers": {
-        "$wmo": "32287",
-        "$icao": "UHPU",
-        "$ghcn": "RSM00032287"
+        "wmo": "32287",
+        "icao": "UHPU",
+        "ghcn": "RSM00032287"
     },
     "location": {
         "latitude": 57.0667,

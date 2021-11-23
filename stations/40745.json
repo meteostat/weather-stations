@@ -6,12 +6,12 @@
     "country": "IR",
     "region": "KV",
     "identifiers": {
-        "$wmo": "40745",
-        "$icao": "OIMM",
-        "$iata": "MHD",
-        "$ghcn": "IR000040745",
-        "$usaf": "407450",
-        "$mosmix": "40745"
+        "wmo": "40745",
+        "icao": "OIMM",
+        "iata": "MHD",
+        "ghcn": "IR000040745",
+        "usaf": "407450",
+        "mosmix": "40745"
     },
     "location": {
         "latitude": 36.2667,

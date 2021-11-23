@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "AM",
     "identifiers": {
-        "$wmo": "82816",
-        "$icao": "SBBA",
-        "$ghcn": "BR000867001",
-        "$usaf": "828160"
+        "wmo": "82816",
+        "icao": "SBBA",
+        "ghcn": "BR000867001",
+        "usaf": "828160"
     },
     "location": {
         "latitude": -8.75,

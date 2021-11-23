@@ -6,12 +6,12 @@
     "country": "BY",
     "region": "MA",
     "identifiers": {
-        "$wmo": "26850",
-        "$icao": "UMMS",
-        "$iata": "MHP",
-        "$ghcn": "BOM00026850",
-        "$usaf": "261148",
-        "$mosmix": "26850"
+        "wmo": "26850",
+        "icao": "UMMS",
+        "iata": "MHP",
+        "ghcn": "BOM00026850",
+        "usaf": "261148",
+        "mosmix": "26850"
     },
     "location": {
         "latitude": 53.9333,

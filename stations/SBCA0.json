@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "PR",
     "identifiers": {
-        "$icao": "SBCA",
-        "$iata": "CAC",
-        "$usaf": "836726"
+        "icao": "SBCA",
+        "iata": "CAC",
+        "usaf": "836726"
     },
     "location": {
         "latitude": -25.0003,

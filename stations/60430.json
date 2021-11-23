@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "ADE",
     "identifiers": {
-        "$wmo": "60430",
-        "$ghcn": "AGM00060430"
+        "wmo": "60430",
+        "ghcn": "AGM00060430"
     },
     "location": {
         "latitude": 36.3,

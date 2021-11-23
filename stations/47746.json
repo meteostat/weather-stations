@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "TT",
     "identifiers": {
-        "$wmo": "47746",
-        "$ghcn": "JA000047746",
-        "$mosmix": "47746"
+        "wmo": "47746",
+        "ghcn": "JA000047746",
+        "mosmix": "47746"
     },
     "location": {
         "latitude": 35.4833,

@@ -6,12 +6,12 @@
     "country": "MX",
     "region": "YUC",
     "identifiers": {
-        "$wmo": "76644",
-        "$icao": "MMMD",
-        "$iata": "MID",
-        "$ghcn": "MX000076644",
-        "$usaf": "766440",
-        "$mosmix": "76644"
+        "wmo": "76644",
+        "icao": "MMMD",
+        "iata": "MID",
+        "ghcn": "MX000076644",
+        "usaf": "766440",
+        "mosmix": "76644"
     },
     "location": {
         "latitude": 20.9333,

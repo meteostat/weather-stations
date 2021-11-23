@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "$wmo": "94755",
-        "$icao": "YSCN",
-        "$iata": "CDU",
-        "$ghcn": "ASN00068192",
-        "$usaf": "947550"
+        "wmo": "94755",
+        "icao": "YSCN",
+        "iata": "CDU",
+        "ghcn": "ASN00068192",
+        "usaf": "947550"
     },
     "location": {
         "latitude": -34.0333,

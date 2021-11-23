@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "IST",
     "identifiers": {
-        "$wmo": "17062",
-        "$ghcn": "TU000017062"
+        "wmo": "17062",
+        "ghcn": "TU000017062"
     },
     "location": {
         "latitude": 40.9667,

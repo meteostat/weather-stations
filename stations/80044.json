@@ -6,9 +6,9 @@
     "country": "CO",
     "region": "SUC",
     "identifiers": {
-        "$wmo": "80044",
-        "$icao": "SKCZ",
-        "$iata": "CZU"
+        "wmo": "80044",
+        "icao": "SKCZ",
+        "iata": "CZU"
     },
     "location": {
         "latitude": 9.3333,

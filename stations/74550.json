@@ -6,11 +6,11 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "$wmo": "74550",
-        "$icao": "KTBN",
-        "$iata": "TBN",
-        "$wban": "03938",
-        "$usaf": "724457"
+        "wmo": "74550",
+        "icao": "KTBN",
+        "iata": "TBN",
+        "wban": "03938",
+        "usaf": "724457"
     },
     "location": {
         "latitude": 37.5167,

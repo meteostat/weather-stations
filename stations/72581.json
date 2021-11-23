@@ -6,11 +6,11 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "$wmo": "72581",
-        "$icao": "KENV",
-        "$ghcn": "USW00024193",
-        "$wban": "24193",
-        "$usaf": "725810"
+        "wmo": "72581",
+        "icao": "KENV",
+        "ghcn": "USW00024193",
+        "wban": "24193",
+        "usaf": "725810"
     },
     "location": {
         "latitude": 40.7333,

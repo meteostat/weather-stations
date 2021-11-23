@@ -6,11 +6,11 @@
     "country": "KE",
     "region": "NE",
     "identifiers": {
-        "$wmo": "63624",
-        "$icao": "HKMA",
-        "$iata": "NDE",
-        "$ghcn": "KE000063624",
-        "$usaf": "636240"
+        "wmo": "63624",
+        "icao": "HKMA",
+        "iata": "NDE",
+        "ghcn": "KE000063624",
+        "usaf": "636240"
     },
     "location": {
         "latitude": 3.9333,

@@ -6,11 +6,11 @@
     "country": "KZ",
     "region": "VOS",
     "identifiers": {
-        "$wmo": "36177",
-        "$icao": "UASS",
-        "$iata": "PLX",
-        "$ghcn": "KZ000036177",
-        "$usaf": "361770"
+        "wmo": "36177",
+        "icao": "UASS",
+        "iata": "PLX",
+        "ghcn": "KZ000036177",
+        "usaf": "361770"
     },
     "location": {
         "latitude": 50.4167,

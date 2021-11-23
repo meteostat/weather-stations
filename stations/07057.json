@@ -6,10 +6,10 @@
     "country": "FR",
     "region": "S",
     "identifiers": {
-        "$wmo": "07057",
-        "$icao": "LFPC",
-        "$iata": "CSF",
-        "$usaf": "070570"
+        "wmo": "07057",
+        "icao": "LFPC",
+        "iata": "CSF",
+        "usaf": "070570"
     },
     "location": {
         "latitude": 49.25,

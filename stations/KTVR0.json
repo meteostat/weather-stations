@@ -6,9 +6,9 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$icao": "KTVR",
-        "$wban": "03996",
-        "$usaf": "722488"
+        "icao": "KTVR",
+        "wban": "03996",
+        "usaf": "722488"
     },
     "location": {
         "latitude": 32.3516,

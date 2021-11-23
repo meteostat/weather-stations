@@ -6,9 +6,9 @@
     "country": "BE",
     "region": "VAN",
     "identifiers": {
-        "$wmo": "06452",
-        "$icao": "EBBT",
-        "$usaf": "064520"
+        "wmo": "06452",
+        "icao": "EBBT",
+        "usaf": "064520"
     },
     "location": {
         "latitude": 51.3333,

@@ -6,8 +6,8 @@
     "country": "IN",
     "region": "MM",
     "identifiers": {
-        "$wmo": "42866",
-        "$ghcn": "IN012141100"
+        "wmo": "42866",
+        "ghcn": "IN012141100"
     },
     "location": {
         "latitude": 21.15,

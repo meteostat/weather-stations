@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "BGL",
     "identifiers": {
-        "$wmo": "40914",
-        "$icao": "OABG",
-        "$mosmix": "40914"
+        "wmo": "40914",
+        "icao": "OABG",
+        "mosmix": "40914"
     },
     "location": {
         "latitude": 36.1,

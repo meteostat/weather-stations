@@ -6,10 +6,10 @@
     "country": "NG",
     "region": "SO",
     "identifiers": {
-        "$wmo": "65010",
-        "$icao": "DNSO",
-        "$iata": "SKO",
-        "$usaf": "650100"
+        "wmo": "65010",
+        "icao": "DNSO",
+        "iata": "SKO",
+        "usaf": "650100"
     },
     "location": {
         "latitude": 13.0167,

@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "WB",
     "identifiers": {
-        "$wmo": "42295",
-        "$ghcn": "IN024050100",
-        "$usaf": "422950",
-        "$mosmix": "42295"
+        "wmo": "42295",
+        "ghcn": "IN024050100",
+        "usaf": "422950",
+        "mosmix": "42295"
     },
     "location": {
         "latitude": 27.05,

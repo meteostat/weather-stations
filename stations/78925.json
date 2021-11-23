@@ -6,13 +6,13 @@
     "country": "MQ",
     "region": "MQ",
     "identifiers": {
-        "$wmo": "78925",
-        "$icao": "TFFF",
-        "$iata": "FDF",
-        "$ghcn": "MBM00078925",
-        "$wban": "00404",
-        "$usaf": "789250",
-        "$mosmix": "78925"
+        "wmo": "78925",
+        "icao": "TFFF",
+        "iata": "FDF",
+        "ghcn": "MBM00078925",
+        "wban": "00404",
+        "usaf": "789250",
+        "mosmix": "78925"
     },
     "location": {
         "latitude": 14.6,

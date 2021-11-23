@@ -6,8 +6,8 @@
     "country": "SK",
     "region": "BA",
     "identifiers": {
-        "$wmo": "11880",
-        "$mosmix": "11880"
+        "wmo": "11880",
+        "mosmix": "11880"
     },
     "location": {
         "latitude": 48.1667,

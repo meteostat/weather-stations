@@ -6,9 +6,9 @@
     "country": "GT",
     "region": "PE",
     "identifiers": {
-        "$wmo": "78625",
-        "$icao": "MGPP",
-        "$iata": "PON"
+        "wmo": "78625",
+        "icao": "MGPP",
+        "iata": "PON"
     },
     "location": {
         "latitude": 16.3167,

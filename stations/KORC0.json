@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "$icao": "KORC",
-        "$wban": "04959",
-        "$usaf": "725489"
+        "icao": "KORC",
+        "wban": "04959",
+        "usaf": "725489"
     },
     "location": {
         "latitude": 42.9903,

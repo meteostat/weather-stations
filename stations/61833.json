@@ -6,11 +6,11 @@
     "country": "GN",
     "region": "FRN",
     "identifiers": {
-        "$wmo": "61833",
-        "$icao": "GUFH",
-        "$iata": "FAA",
-        "$ghcn": "GVM00061833",
-        "$usaf": "618330"
+        "wmo": "61833",
+        "icao": "GUFH",
+        "iata": "FAA",
+        "ghcn": "GVM00061833",
+        "usaf": "618330"
     },
     "location": {
         "latitude": 10.0333,

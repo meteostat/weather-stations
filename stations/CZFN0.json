@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NT",
     "identifiers": {
-        "$icao": "CZFN",
-        "$iata": "ZFN",
-        "$usaf": "719576"
+        "icao": "CZFN",
+        "iata": "ZFN",
+        "usaf": "719576"
     },
     "location": {
         "latitude": 64.9086,

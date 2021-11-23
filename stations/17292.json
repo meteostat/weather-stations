@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "MUG",
     "identifiers": {
-        "$wmo": "17292",
-        "$ghcn": "TUM00017292"
+        "wmo": "17292",
+        "ghcn": "TUM00017292"
     },
     "location": {
         "latitude": 37.2,

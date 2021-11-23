@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KWVI",
-        "$wban": "23277",
-        "$usaf": "745058"
+        "icao": "KWVI",
+        "wban": "23277",
+        "usaf": "745058"
     },
     "location": {
         "latitude": 36.9357,

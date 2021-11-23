@@ -6,8 +6,8 @@
     "country": "GB",
     "region": "SCT",
     "identifiers": {
-        "$wmo": "03136",
-        "$mosmix": "03136"
+        "wmo": "03136",
+        "mosmix": "03136"
     },
     "location": {
         "latitude": 55.5167,

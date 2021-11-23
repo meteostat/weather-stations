@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "KZY",
     "identifiers": {
-        "$wmo": "35849",
-        "$ghcn": "KZ000035849",
-        "$usaf": "358490"
+        "wmo": "35849",
+        "ghcn": "KZ000035849",
+        "usaf": "358490"
     },
     "location": {
         "latitude": 45.7667,

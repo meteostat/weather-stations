@@ -6,10 +6,10 @@
     "country": "IQ",
     "region": "NI",
     "identifiers": {
-        "$wmo": "40608",
-        "$icao": "ORBM",
-        "$usaf": "406080",
-        "$mosmix": "40608"
+        "wmo": "40608",
+        "icao": "ORBM",
+        "usaf": "406080",
+        "mosmix": "40608"
     },
     "location": {
         "latitude": 36.3167,

@@ -6,8 +6,8 @@
     "country": "SD",
     "region": "GZ",
     "identifiers": {
-        "$wmo": "62751",
-        "$ghcn": "SUM00062751"
+        "wmo": "62751",
+        "ghcn": "SUM00062751"
     },
     "location": {
         "latitude": 14.4,

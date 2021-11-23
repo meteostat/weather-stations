@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "PE",
     "identifiers": {
-        "$wmo": "82900",
-        "$ghcn": "BRM00082900",
-        "$mosmix": "82900"
+        "wmo": "82900",
+        "ghcn": "BRM00082900",
+        "mosmix": "82900"
     },
     "location": {
         "latitude": -8.05,

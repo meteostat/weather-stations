@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "IZM",
     "identifiers": {
-        "$wmo": "17220",
-        "$ghcn": "TUM00017220"
+        "wmo": "17220",
+        "ghcn": "TUM00017220"
     },
     "location": {
         "latitude": 38.4333,

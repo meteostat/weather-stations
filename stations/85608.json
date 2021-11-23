@@ -6,10 +6,10 @@
     "country": "CL",
     "region": "LI",
     "identifiers": {
-        "$wmo": "85608",
-        "$icao": "SCRG",
-        "$iata": "QRC",
-        "$usaf": "858327"
+        "wmo": "85608",
+        "icao": "SCRG",
+        "iata": "QRC",
+        "usaf": "858327"
     },
     "location": {
         "latitude": -34.1667,

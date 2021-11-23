@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$icao": "KLOT",
-        "$wban": "04831",
-        "$usaf": "725348"
+        "icao": "KLOT",
+        "wban": "04831",
+        "usaf": "725348"
     },
     "location": {
         "latitude": 41.6081,

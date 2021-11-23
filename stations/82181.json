@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "PA",
     "identifiers": {
-        "$wmo": "82181",
-        "$iata": "MTE",
-        "$ghcn": "BRM00082181",
-        "$usaf": "821810"
+        "wmo": "82181",
+        "iata": "MTE",
+        "ghcn": "BRM00082181",
+        "usaf": "821810"
     },
     "location": {
         "latitude": -2,

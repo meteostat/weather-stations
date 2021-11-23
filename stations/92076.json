@@ -6,11 +6,11 @@
     "country": "PG",
     "region": "NI",
     "identifiers": {
-        "$wmo": "92076",
-        "$icao": "AYKV",
-        "$iata": "KVG",
-        "$ghcn": "PPM00092076",
-        "$wban": "80516"
+        "wmo": "92076",
+        "icao": "AYKV",
+        "iata": "KVG",
+        "ghcn": "PPM00092076",
+        "wban": "80516"
     },
     "location": {
         "latitude": -2.5833,

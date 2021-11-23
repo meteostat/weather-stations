@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "FA",
     "identifiers": {
-        "$wmo": "33744",
-        "$ghcn": "MD000033744",
-        "$usaf": "337440"
+        "wmo": "33744",
+        "ghcn": "MD000033744",
+        "usaf": "337440"
     },
     "location": {
         "latitude": 47.5833,

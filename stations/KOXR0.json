@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KOXR",
-        "$iata": "OXR",
-        "$wban": "93110",
-        "$usaf": "723927"
+        "icao": "KOXR",
+        "iata": "OXR",
+        "wban": "93110",
+        "usaf": "723927"
     },
     "location": {
         "latitude": 34.2008,

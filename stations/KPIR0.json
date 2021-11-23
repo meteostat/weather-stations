@@ -6,10 +6,10 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "$icao": "KPIR",
-        "$iata": "PIR",
-        "$wban": "24025",
-        "$usaf": "726686"
+        "icao": "KPIR",
+        "iata": "PIR",
+        "wban": "24025",
+        "usaf": "726686"
     },
     "location": {
         "latitude": 44.3827,

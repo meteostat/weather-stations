@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KPRX",
-        "$iata": "PRX",
-        "$wban": "93955",
-        "$usaf": "722587"
+        "icao": "KPRX",
+        "iata": "PRX",
+        "wban": "93955",
+        "usaf": "722587"
     },
     "location": {
         "latitude": 33.6366,

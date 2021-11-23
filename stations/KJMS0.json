@@ -6,10 +6,10 @@
     "country": "US",
     "region": "ND",
     "identifiers": {
-        "$icao": "KJMS",
-        "$iata": "JMS",
-        "$wban": "14919",
-        "$usaf": "727535"
+        "icao": "KJMS",
+        "iata": "JMS",
+        "wban": "14919",
+        "usaf": "727535"
     },
     "location": {
         "latitude": 46.9297,

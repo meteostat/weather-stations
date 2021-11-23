@@ -6,13 +6,13 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "$wmo": "72640",
-        "$icao": "KMKE",
-        "$iata": "MKE",
-        "$ghcn": "USW00014839",
-        "$wban": "14839",
-        "$usaf": "726400",
-        "$mosmix": "72640"
+        "wmo": "72640",
+        "icao": "KMKE",
+        "iata": "MKE",
+        "ghcn": "USW00014839",
+        "wban": "14839",
+        "usaf": "726400",
+        "mosmix": "72640"
     },
     "location": {
         "latitude": 42.955,

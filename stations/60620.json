@@ -6,11 +6,11 @@
     "country": "DZ",
     "region": "ADR",
     "identifiers": {
-        "$wmo": "60620",
-        "$icao": "DAUA",
-        "$iata": "AZR",
-        "$ghcn": "AGM00060620",
-        "$usaf": "606200"
+        "wmo": "60620",
+        "icao": "DAUA",
+        "iata": "AZR",
+        "ghcn": "AGM00060620",
+        "usaf": "606200"
     },
     "location": {
         "latitude": 27.8833,

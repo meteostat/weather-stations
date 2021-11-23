@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "G",
     "identifiers": {
-        "$wmo": "07283",
-        "$icao": "LFSU",
-        "$usaf": "072830"
+        "wmo": "07283",
+        "icao": "LFSU",
+        "usaf": "072830"
     },
     "location": {
         "latitude": 47.8333,

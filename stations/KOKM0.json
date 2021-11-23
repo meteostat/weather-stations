@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$icao": "KOKM",
-        "$wban": "53949",
-        "$usaf": "722164"
+        "icao": "KOKM",
+        "wban": "53949",
+        "usaf": "722164"
     },
     "location": {
         "latitude": 35.6681,

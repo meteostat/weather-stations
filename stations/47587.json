@@ -6,8 +6,8 @@
     "country": "JP",
     "region": "YT",
     "identifiers": {
-        "$wmo": "47587",
-        "$ghcn": "JA000047587"
+        "wmo": "47587",
+        "ghcn": "JA000047587"
     },
     "location": {
         "latitude": 38.9,

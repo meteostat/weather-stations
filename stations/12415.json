@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "DO",
     "identifiers": {
-        "$wmo": "12415",
-        "$usaf": "124150",
-        "$mosmix": "12415"
+        "wmo": "12415",
+        "usaf": "124150",
+        "mosmix": "12415"
     },
     "location": {
         "latitude": 51.2,

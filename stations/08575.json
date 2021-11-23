@@ -6,11 +6,11 @@
     "country": "PT",
     "region": "BN",
     "identifiers": {
-        "$wmo": "08575",
-        "$icao": "LPBG",
-        "$iata": "BGC",
-        "$ghcn": "PO000008575",
-        "$usaf": "085750"
+        "wmo": "08575",
+        "icao": "LPBG",
+        "iata": "BGC",
+        "ghcn": "PO000008575",
+        "usaf": "085750"
     },
     "location": {
         "latitude": 41.8,

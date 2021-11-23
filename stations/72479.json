@@ -6,12 +6,12 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "$wmo": "72479",
-        "$icao": "KDTA",
-        "$iata": "DTA",
-        "$ghcn": "USW00023162",
-        "$wban": "23162",
-        "$usaf": "A00018"
+        "wmo": "72479",
+        "icao": "KDTA",
+        "iata": "DTA",
+        "ghcn": "USW00023162",
+        "wban": "23162",
+        "usaf": "A00018"
     },
     "location": {
         "latitude": 39.3806,

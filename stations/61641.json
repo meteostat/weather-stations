@@ -6,12 +6,12 @@
     "country": "SN",
     "region": "DA",
     "identifiers": {
-        "$wmo": "61641",
-        "$icao": "GOOY",
-        "$iata": "DKR",
-        "$ghcn": "SG000061641",
-        "$usaf": "616410",
-        "$mosmix": "61641"
+        "wmo": "61641",
+        "icao": "GOOY",
+        "iata": "DKR",
+        "ghcn": "SG000061641",
+        "usaf": "616410",
+        "mosmix": "61641"
     },
     "location": {
         "latitude": 14.7333,

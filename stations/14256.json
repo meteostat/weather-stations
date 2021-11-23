@@ -6,9 +6,9 @@
     "country": "HR",
     "region": "VP",
     "identifiers": {
-        "$wmo": "14256",
-        "$usaf": "142560",
-        "$mosmix": "14256"
+        "wmo": "14256",
+        "usaf": "142560",
+        "mosmix": "14256"
     },
     "location": {
         "latitude": 45.8833,

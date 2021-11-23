@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "SC",
     "identifiers": {
-        "$wmo": "16400",
-        "$icao": "LICU",
-        "$ghcn": "ITM00016400",
-        "$usaf": "164000"
+        "wmo": "16400",
+        "icao": "LICU",
+        "ghcn": "ITM00016400",
+        "usaf": "164000"
     },
     "location": {
         "latitude": 38.7,

@@ -6,9 +6,9 @@
     "country": "VE",
     "region": "I",
     "identifiers": {
-        "$wmo": "80404",
-        "$icao": "SVJC",
-        "$usaf": "804043"
+        "wmo": "80404",
+        "icao": "SVJC",
+        "usaf": "804043"
     },
     "location": {
         "latitude": 11.77,

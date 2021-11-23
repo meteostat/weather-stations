@@ -6,8 +6,8 @@
     "country": "NE",
     "region": "DS",
     "identifiers": {
-        "$wmo": "61053",
-        "$ghcn": "NGM00061053"
+        "wmo": "61053",
+        "ghcn": "NGM00061053"
     },
     "location": {
         "latitude": 13.0333,

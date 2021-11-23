@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PACM",
-        "$iata": "SCM",
-        "$wban": "00108",
-        "$usaf": "703054"
+        "icao": "PACM",
+        "iata": "SCM",
+        "wban": "00108",
+        "usaf": "703054"
     },
     "location": {
         "latitude": 61.8445,

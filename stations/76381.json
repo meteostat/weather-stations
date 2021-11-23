@@ -6,8 +6,8 @@
     "country": "MX",
     "region": "DUR",
     "identifiers": {
-        "$wmo": "76381",
-        "$ghcn": "MX000010009"
+        "wmo": "76381",
+        "ghcn": "MX000010009"
     },
     "location": {
         "latitude": 25.5269,

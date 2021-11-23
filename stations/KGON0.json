@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CT",
     "identifiers": {
-        "$icao": "KGON",
-        "$iata": "GON",
-        "$wban": "14707",
-        "$usaf": "725046"
+        "icao": "KGON",
+        "iata": "GON",
+        "wban": "14707",
+        "usaf": "725046"
     },
     "location": {
         "latitude": 41.3301,

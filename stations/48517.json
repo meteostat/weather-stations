@@ -6,9 +6,9 @@
     "country": "TH",
     "region": null,
     "identifiers": {
-        "$wmo": "48517",
-        "$icao": "VTSD",
-        "$ghcn": "TH000048517"
+        "wmo": "48517",
+        "icao": "VTSD",
+        "ghcn": "TH000048517"
     },
     "location": {
         "latitude": 10.4833,

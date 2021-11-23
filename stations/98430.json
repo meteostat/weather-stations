@@ -6,8 +6,8 @@
     "country": "PH",
     "region": "NCR",
     "identifiers": {
-        "$wmo": "98430",
-        "$ghcn": "RP000098430"
+        "wmo": "98430",
+        "ghcn": "RP000098430"
     },
     "location": {
         "latitude": 14.6333,

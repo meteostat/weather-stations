@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "SIN",
     "identifiers": {
-        "$icao": "LTCM",
-        "$iata": "SIC"
+        "icao": "LTCM",
+        "iata": "SIC"
     },
     "location": {
         "latitude": 42.0158,

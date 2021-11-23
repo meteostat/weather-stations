@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "FV",
     "identifiers": {
-        "$wmo": "16037",
-        "$icao": "LIYW",
-        "$usaf": "160370"
+        "wmo": "16037",
+        "icao": "LIYW",
+        "usaf": "160370"
     },
     "location": {
         "latitude": 46.0333,

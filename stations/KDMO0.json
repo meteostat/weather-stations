@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "$icao": "KDMO",
-        "$iata": "DMO",
-        "$wban": "03994",
-        "$usaf": "724453"
+        "icao": "KDMO",
+        "iata": "DMO",
+        "wban": "03994",
+        "usaf": "724453"
     },
     "location": {
         "latitude": 38.7074,

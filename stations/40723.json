@@ -6,11 +6,11 @@
     "country": "IR",
     "region": "KS",
     "identifiers": {
-        "$wmo": "40723",
-        "$icao": "OIMN",
-        "$iata": "BJB",
-        "$ghcn": "IRM00040723",
-        "$usaf": "407230"
+        "wmo": "40723",
+        "icao": "OIMN",
+        "iata": "BJB",
+        "ghcn": "IRM00040723",
+        "usaf": "407230"
     },
     "location": {
         "latitude": 37.4667,

@@ -6,11 +6,11 @@
     "country": "PL",
     "region": "ZA",
     "identifiers": {
-        "$wmo": "12205",
-        "$icao": "EPSC",
-        "$iata": "SZZ",
-        "$ghcn": "PLM00012205",
-        "$mosmix": "12205"
+        "wmo": "12205",
+        "icao": "EPSC",
+        "iata": "SZZ",
+        "ghcn": "PLM00012205",
+        "mosmix": "12205"
     },
     "location": {
         "latitude": 53.4,

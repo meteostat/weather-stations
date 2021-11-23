@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$icao": "KMGC",
-        "$wban": "00384",
-        "$usaf": "726358"
+        "icao": "KMGC",
+        "wban": "00384",
+        "usaf": "726358"
     },
     "location": {
         "latitude": 41.7033,

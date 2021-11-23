@@ -6,12 +6,12 @@
     "country": "RU",
     "region": "MUR",
     "identifiers": {
-        "$wmo": "22113",
-        "$icao": "ULMM",
-        "$iata": "MMK",
-        "$ghcn": "RSM00022113",
-        "$usaf": "221130",
-        "$mosmix": "22113"
+        "wmo": "22113",
+        "icao": "ULMM",
+        "iata": "MMK",
+        "ghcn": "RSM00022113",
+        "usaf": "221130",
+        "mosmix": "22113"
     },
     "location": {
         "latitude": 68.9667,

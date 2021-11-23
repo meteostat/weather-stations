@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "LAC",
     "identifiers": {
-        "$wmo": "37898",
-        "$ghcn": "AJ000037898"
+        "wmo": "37898",
+        "ghcn": "AJ000037898"
     },
     "location": {
         "latitude": 39.65,

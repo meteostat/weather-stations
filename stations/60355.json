@@ -6,11 +6,11 @@
     "country": "DZ",
     "region": "SKI",
     "identifiers": {
-        "$wmo": "60355",
-        "$icao": "DABP",
-        "$iata": "SKI",
-        "$ghcn": "AGM00060355",
-        "$usaf": "603550"
+        "wmo": "60355",
+        "icao": "DABP",
+        "iata": "SKI",
+        "ghcn": "AGM00060355",
+        "usaf": "603550"
     },
     "location": {
         "latitude": 36.9333,

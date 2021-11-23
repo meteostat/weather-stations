@@ -6,11 +6,11 @@
     "country": "GP",
     "region": null,
     "identifiers": {
-        "$wmo": "78894",
-        "$icao": "TFFJ",
-        "$iata": "SBH",
-        "$ghcn": "GPM00078894",
-        "$usaf": "788940"
+        "wmo": "78894",
+        "icao": "TFFJ",
+        "iata": "SBH",
+        "ghcn": "GPM00078894",
+        "usaf": "788940"
     },
     "location": {
         "latitude": 17.9,

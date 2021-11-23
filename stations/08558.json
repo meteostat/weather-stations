@@ -6,8 +6,8 @@
     "country": "PT",
     "region": "EV",
     "identifiers": {
-        "$wmo": "08558",
-        "$ghcn": "POM00008558"
+        "wmo": "08558",
+        "ghcn": "POM00008558"
     },
     "location": {
         "latitude": 38.5333,

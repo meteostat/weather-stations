@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "KO",
     "identifiers": {
-        "$wmo": "23606",
-        "$iata": "UCT",
-        "$ghcn": "RSM00023606"
+        "wmo": "23606",
+        "iata": "UCT",
+        "ghcn": "RSM00023606"
     },
     "location": {
         "latitude": 63.55,

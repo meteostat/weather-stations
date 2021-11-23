@@ -6,11 +6,11 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "$wmo": "72791",
-        "$icao": "KAST",
-        "$ghcn": "USW00094224",
-        "$wban": "94224",
-        "$usaf": "727910"
+        "wmo": "72791",
+        "icao": "KAST",
+        "ghcn": "USW00094224",
+        "wban": "94224",
+        "usaf": "727910"
     },
     "location": {
         "latitude": 46.15,

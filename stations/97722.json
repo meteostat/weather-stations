@@ -6,11 +6,11 @@
     "country": "ID",
     "region": null,
     "identifiers": {
-        "$wmo": "97722",
-        "$icao": "WAPA",
-        "$iata": "AHI",
-        "$ghcn": "IDM00097722",
-        "$usaf": "977220"
+        "wmo": "97722",
+        "icao": "WAPA",
+        "iata": "AHI",
+        "ghcn": "IDM00097722",
+        "usaf": "977220"
     },
     "location": {
         "latitude": -3.35,

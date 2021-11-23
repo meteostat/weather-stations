@@ -6,12 +6,12 @@
     "country": "MR",
     "region": "TR",
     "identifiers": {
-        "$wmo": "61442",
-        "$icao": "GQNN",
-        "$iata": "NKC",
-        "$ghcn": "MR000001442",
-        "$usaf": "614420",
-        "$mosmix": "61442"
+        "wmo": "61442",
+        "icao": "GQNN",
+        "iata": "NKC",
+        "ghcn": "MR000001442",
+        "usaf": "614420",
+        "mosmix": "61442"
     },
     "location": {
         "latitude": 18.1,

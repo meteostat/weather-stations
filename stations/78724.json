@@ -6,10 +6,10 @@
     "country": "HN",
     "region": "CH",
     "identifiers": {
-        "$wmo": "78724",
-        "$icao": "MHCH",
-        "$ghcn": "HO000078724",
-        "$usaf": "787240"
+        "wmo": "78724",
+        "icao": "MHCH",
+        "ghcn": "HO000078724",
+        "usaf": "787240"
     },
     "location": {
         "latitude": 13.3,

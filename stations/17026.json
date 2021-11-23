@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "SIN",
     "identifiers": {
-        "$wmo": "17026",
-        "$ghcn": "TUM00017026",
-        "$mosmix": "17026"
+        "wmo": "17026",
+        "ghcn": "TUM00017026",
+        "mosmix": "17026"
     },
     "location": {
         "latitude": 42.0333,

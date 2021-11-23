@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "BAR",
     "identifiers": {
-        "$wmo": "37832",
-        "$ghcn": "AJ000037832"
+        "wmo": "37832",
+        "ghcn": "AJ000037832"
     },
     "location": {
         "latitude": 40.3667,

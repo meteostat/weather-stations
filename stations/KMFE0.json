@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KMFE",
-        "$iata": "MFE",
-        "$wban": "12959",
-        "$usaf": "722506"
+        "icao": "KMFE",
+        "iata": "MFE",
+        "wban": "12959",
+        "usaf": "722506"
     },
     "location": {
         "latitude": 26.1758,

@@ -6,12 +6,12 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "$wmo": "72513",
-        "$icao": "KAVP",
-        "$iata": "AVP",
-        "$ghcn": "USW00014777",
-        "$wban": "14777",
-        "$usaf": "725130"
+        "wmo": "72513",
+        "icao": "KAVP",
+        "iata": "AVP",
+        "ghcn": "USW00014777",
+        "wban": "14777",
+        "usaf": "725130"
     },
     "location": {
         "latitude": 41.3333,

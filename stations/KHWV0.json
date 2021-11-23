@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$icao": "KHWV",
-        "$wban": "54790",
-        "$usaf": "725016"
+        "icao": "KHWV",
+        "wban": "54790",
+        "usaf": "725016"
     },
     "location": {
         "latitude": 40.8219,

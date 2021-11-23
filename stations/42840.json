@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "GJ",
     "identifiers": {
-        "$wmo": "42840",
-        "$ghcn": "IN005171200",
-        "$usaf": "428400"
+        "wmo": "42840",
+        "ghcn": "IN005171200",
+        "usaf": "428400"
     },
     "location": {
         "latitude": 21.2,

@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "$icao": "YHID",
-        "$iata": "HID",
-        "$usaf": "941740"
+        "icao": "YHID",
+        "iata": "HID",
+        "usaf": "941740"
     },
     "location": {
         "latitude": -10.5864,

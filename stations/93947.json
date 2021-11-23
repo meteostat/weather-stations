@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "STL",
     "identifiers": {
-        "$wmo": "93947",
-        "$ghcn": "NZ000939450",
-        "$usaf": "939470"
+        "wmo": "93947",
+        "ghcn": "NZ000939450",
+        "usaf": "939470"
     },
     "location": {
         "latitude": -52.55,

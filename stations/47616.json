@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "FI",
     "identifiers": {
-        "$wmo": "47616",
-        "$ghcn": "JA000047616",
-        "$mosmix": "47616"
+        "wmo": "47616",
+        "ghcn": "JA000047616",
+        "mosmix": "47616"
     },
     "location": {
         "latitude": 36.05,

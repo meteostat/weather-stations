@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "$icao": "CPEL",
-        "$ghcn": "CA003072151",
-        "$usaf": "714610"
+        "icao": "CPEL",
+        "ghcn": "CA003072151",
+        "usaf": "714610"
     },
     "location": {
         "latitude": 48.3,

@@ -6,9 +6,9 @@
     "country": "RO",
     "region": "BO",
     "identifiers": {
-        "$wmo": "15020",
-        "$usaf": "150200",
-        "$mosmix": "15020"
+        "wmo": "15020",
+        "usaf": "150200",
+        "mosmix": "15020"
     },
     "location": {
         "latitude": 47.6833,

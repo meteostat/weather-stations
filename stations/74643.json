@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$wmo": "74643",
-        "$icao": "KH92",
-        "$ghcn": "USW00053927"
+        "wmo": "74643",
+        "icao": "KH92",
+        "ghcn": "USW00053927"
     },
     "location": {
         "latitude": 36.4333,

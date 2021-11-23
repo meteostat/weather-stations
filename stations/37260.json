@@ -6,9 +6,9 @@
     "country": "GE",
     "region": "AB",
     "identifiers": {
-        "$wmo": "37260",
-        "$iata": "SUI",
-        "$mosmix": "37260"
+        "wmo": "37260",
+        "iata": "SUI",
+        "mosmix": "37260"
     },
     "location": {
         "latitude": 42.8667,

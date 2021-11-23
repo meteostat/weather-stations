@@ -6,10 +6,10 @@
     "country": "LY",
     "region": "TU",
     "identifiers": {
-        "$wmo": "62062",
-        "$iata": "TOB",
-        "$ghcn": "LYM00062062",
-        "$usaf": "620620"
+        "wmo": "62062",
+        "iata": "TOB",
+        "ghcn": "LYM00062062",
+        "usaf": "620620"
     },
     "location": {
         "latitude": 32.1,

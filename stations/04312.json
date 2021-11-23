@@ -6,9 +6,9 @@
     "country": "GL",
     "region": null,
     "identifiers": {
-        "$wmo": "04312",
-        "$ghcn": "GLE00147401",
-        "$usaf": "043120"
+        "wmo": "04312",
+        "ghcn": "GLE00147401",
+        "usaf": "043120"
     },
     "location": {
         "latitude": 81.6,

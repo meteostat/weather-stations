@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "SEV",
     "identifiers": {
-        "$wmo": "28879",
-        "$ghcn": "KZ000028879",
-        "$usaf": "288790"
+        "wmo": "28879",
+        "ghcn": "KZ000028879",
+        "usaf": "288790"
     },
     "location": {
         "latitude": 53.2833,

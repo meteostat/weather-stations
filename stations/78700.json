@@ -6,9 +6,9 @@
     "country": "HN",
     "region": "VA",
     "identifiers": {
-        "$wmo": "78700",
-        "$icao": "MHAM",
-        "$usaf": "787000"
+        "wmo": "78700",
+        "icao": "MHAM",
+        "usaf": "787000"
     },
     "location": {
         "latitude": 13.2667,

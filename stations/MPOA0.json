@@ -6,9 +6,9 @@
     "country": "PA",
     "region": "SB",
     "identifiers": {
-        "$icao": "MPOA",
-        "$iata": "PUE",
-        "$usaf": "787885"
+        "icao": "MPOA",
+        "iata": "PUE",
+        "usaf": "787885"
     },
     "location": {
         "latitude": 8.6667,

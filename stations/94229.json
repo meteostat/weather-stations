@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "NT",
     "identifiers": {
-        "$wmo": "94229",
-        "$iata": "WAV",
-        "$ghcn": "ASN00014840"
+        "wmo": "94229",
+        "iata": "WAV",
+        "ghcn": "ASN00014840"
     },
     "location": {
         "latitude": -17.3833,

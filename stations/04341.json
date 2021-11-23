@@ -6,10 +6,10 @@
     "country": "GL",
     "region": "SE",
     "identifiers": {
-        "$wmo": "04341",
-        "$icao": "BGCO",
-        "$iata": "CNP",
-        "$usaf": "043410"
+        "wmo": "04341",
+        "icao": "BGCO",
+        "iata": "CNP",
+        "usaf": "043410"
     },
     "location": {
         "latitude": 70.75,

@@ -6,11 +6,11 @@
     "country": "CL",
     "region": "LL",
     "identifiers": {
-        "$wmo": "85766",
-        "$icao": "SCVD",
-        "$iata": "ZAL",
-        "$ghcn": "CIM00085766",
-        "$usaf": "857660"
+        "wmo": "85766",
+        "icao": "SCVD",
+        "iata": "ZAL",
+        "ghcn": "CIM00085766",
+        "usaf": "857660"
     },
     "location": {
         "latitude": -39.6167,

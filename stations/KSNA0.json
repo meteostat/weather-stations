@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KSNA",
-        "$iata": "SNA",
-        "$wban": "93184",
-        "$usaf": "722977"
+        "icao": "KSNA",
+        "iata": "SNA",
+        "wban": "93184",
+        "usaf": "722977"
     },
     "location": {
         "latitude": 33.6757,

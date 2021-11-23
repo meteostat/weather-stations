@@ -6,9 +6,9 @@
     "country": "FI",
     "region": "LS",
     "identifiers": {
-        "$wmo": "02752",
-        "$usaf": "027520",
-        "$mosmix": "02752"
+        "wmo": "02752",
+        "usaf": "027520",
+        "mosmix": "02752"
     },
     "location": {
         "latitude": 62.2,

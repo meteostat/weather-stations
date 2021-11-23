@@ -6,11 +6,11 @@
     "country": "CG",
     "region": "CU",
     "identifiers": {
-        "$wmo": "64456",
-        "$icao": "FCOM",
-        "$iata": "MKJ",
-        "$ghcn": "CF000004456",
-        "$usaf": "644560"
+        "wmo": "64456",
+        "icao": "FCOM",
+        "iata": "MKJ",
+        "ghcn": "CF000004456",
+        "usaf": "644560"
     },
     "location": {
         "latitude": -0.0167,

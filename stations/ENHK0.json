@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "$icao": "ENHK",
-        "$iata": "HAA",
-        "$usaf": "010440"
+        "icao": "ENHK",
+        "iata": "HAA",
+        "usaf": "010440"
     },
     "location": {
         "latitude": 70.4867,

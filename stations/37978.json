@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "EZC",
     "identifiers": {
-        "$wmo": "37978",
-        "$ghcn": "AJ000037978"
+        "wmo": "37978",
+        "ghcn": "AJ000037978"
     },
     "location": {
         "latitude": 39.1333,

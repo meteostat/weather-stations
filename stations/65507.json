@@ -6,11 +6,11 @@
     "country": "BF",
     "region": "ES",
     "identifiers": {
-        "$wmo": "65507",
-        "$icao": "DFEF",
-        "$iata": "FNG",
-        "$ghcn": "UV000005507",
-        "$usaf": "655070"
+        "wmo": "65507",
+        "icao": "DFEF",
+        "iata": "FNG",
+        "ghcn": "UV000005507",
+        "usaf": "655070"
     },
     "location": {
         "latitude": 12.0333,

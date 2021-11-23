@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "GUA",
     "identifiers": {
-        "$wmo": "76577",
-        "$ghcn": "MX000076577",
-        "$usaf": "765770"
+        "wmo": "76577",
+        "ghcn": "MX000076577",
+        "usaf": "765770"
     },
     "location": {
         "latitude": 21.0167,

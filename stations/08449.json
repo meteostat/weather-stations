@@ -6,11 +6,11 @@
     "country": "ES",
     "region": "AN",
     "identifiers": {
-        "$wmo": "08449",
-        "$icao": "LERT",
-        "$ghcn": "SPW00013025",
-        "$wban": "13025",
-        "$usaf": "084490"
+        "wmo": "08449",
+        "icao": "LERT",
+        "ghcn": "SPW00013025",
+        "wban": "13025",
+        "usaf": "084490"
     },
     "location": {
         "latitude": 36.65,

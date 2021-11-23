@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "LAG",
     "identifiers": {
-        "$wmo": "40952",
-        "$icao": "OALN",
-        "$usaf": "409520"
+        "wmo": "40952",
+        "icao": "OALN",
+        "usaf": "409520"
     },
     "location": {
         "latitude": 34.65,

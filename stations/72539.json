@@ -6,12 +6,12 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$wmo": "72539",
-        "$icao": "KLAN",
-        "$iata": "LAN",
-        "$ghcn": "USW00014836",
-        "$wban": "14836",
-        "$usaf": "725390"
+        "wmo": "72539",
+        "icao": "KLAN",
+        "iata": "LAN",
+        "ghcn": "USW00014836",
+        "wban": "14836",
+        "usaf": "725390"
     },
     "location": {
         "latitude": 42.7833,

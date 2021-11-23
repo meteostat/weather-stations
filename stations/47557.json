@@ -6,10 +6,10 @@
     "country": "JP",
     "region": "FS",
     "identifiers": {
-        "$wmo": "47557",
-        "$icao": "RJSF",
-        "$iata": "FKS",
-        "$usaf": "475570"
+        "wmo": "47557",
+        "icao": "RJSF",
+        "iata": "FKS",
+        "usaf": "475570"
     },
     "location": {
         "latitude": 37.2333,

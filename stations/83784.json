@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "SP",
     "identifiers": {
-        "$wmo": "83784",
-        "$ghcn": "BR00E2-0220",
-        "$usaf": "837840"
+        "wmo": "83784",
+        "ghcn": "BR00E2-0220",
+        "usaf": "837840"
     },
     "location": {
         "latitude": -23.0167,

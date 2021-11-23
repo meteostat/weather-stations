@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "PAM",
     "identifiers": {
-        "$wmo": "98326",
-        "$icao": "RPUF",
-        "$usaf": "983260"
+        "wmo": "98326",
+        "icao": "RPUF",
+        "usaf": "983260"
     },
     "location": {
         "latitude": 14.9833,

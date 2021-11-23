@@ -6,12 +6,12 @@
     "country": "AR",
     "region": "K",
     "identifiers": {
-        "$wmo": "87222",
-        "$icao": "SANC",
-        "$iata": "CTC",
-        "$ghcn": "ARM00087222",
-        "$usaf": "872220",
-        "$mosmix": "87222"
+        "wmo": "87222",
+        "icao": "SANC",
+        "iata": "CTC",
+        "ghcn": "ARM00087222",
+        "usaf": "872220",
+        "mosmix": "87222"
     },
     "location": {
         "latitude": -28.6,

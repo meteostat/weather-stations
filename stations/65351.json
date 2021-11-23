@@ -6,8 +6,8 @@
     "country": "TG",
     "region": "SA",
     "identifiers": {
-        "$wmo": "65351",
-        "$ghcn": "TOM00065351"
+        "wmo": "65351",
+        "ghcn": "TOM00065351"
     },
     "location": {
         "latitude": 10.8667,

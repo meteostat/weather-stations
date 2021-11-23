@@ -6,11 +6,11 @@
     "country": "GL",
     "region": "SE",
     "identifiers": {
-        "$wmo": "04360",
-        "$icao": "BGAM",
-        "$ghcn": "GL000004360",
-        "$usaf": "043600",
-        "$mosmix": "04360"
+        "wmo": "04360",
+        "icao": "BGAM",
+        "ghcn": "GL000004360",
+        "usaf": "043600",
+        "mosmix": "04360"
     },
     "location": {
         "latitude": 65.6,

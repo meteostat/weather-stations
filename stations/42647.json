@@ -6,12 +6,12 @@
     "country": "IN",
     "region": "GJ",
     "identifiers": {
-        "$wmo": "42647",
-        "$icao": "VAAH",
-        "$iata": "AMD",
-        "$ghcn": "IN005010600",
-        "$usaf": "426470",
-        "$mosmix": "42647"
+        "wmo": "42647",
+        "icao": "VAAH",
+        "iata": "AMD",
+        "ghcn": "IN005010600",
+        "usaf": "426470",
+        "mosmix": "42647"
     },
     "location": {
         "latitude": 23.0667,

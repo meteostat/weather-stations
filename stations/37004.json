@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "KDA",
     "identifiers": {
-        "$wmo": "37004",
-        "$iata": "GDZ",
-        "$ghcn": "RSM00037004"
+        "wmo": "37004",
+        "iata": "GDZ",
+        "ghcn": "RSM00037004"
     },
     "location": {
         "latitude": 44.5667,

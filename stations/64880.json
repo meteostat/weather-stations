@@ -6,9 +6,9 @@
     "country": "CM",
     "region": "AD",
     "identifiers": {
-        "$wmo": "64880",
-        "$icao": "FKAB",
-        "$usaf": "648800"
+        "wmo": "64880",
+        "icao": "FKAB",
+        "usaf": "648800"
     },
     "location": {
         "latitude": 6.7833,

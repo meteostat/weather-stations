@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "BT",
     "identifiers": {
-        "$wmo": "33745",
-        "$ghcn": "MD000033745",
-        "$usaf": "337450"
+        "wmo": "33745",
+        "ghcn": "MD000033745",
+        "usaf": "337450"
     },
     "location": {
         "latitude": 47.7833,

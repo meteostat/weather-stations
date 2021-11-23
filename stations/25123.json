@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "SA",
     "identifiers": {
-        "$wmo": "25123",
-        "$icao": "UESS",
-        "$iata": "CYX",
-        "$ghcn": "RSM00025123"
+        "wmo": "25123",
+        "icao": "UESS",
+        "iata": "CYX",
+        "ghcn": "RSM00025123"
     },
     "location": {
         "latitude": 68.75,

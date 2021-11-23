@@ -6,13 +6,13 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$wmo": "72519",
-        "$icao": "KSYR",
-        "$iata": "SYR",
-        "$ghcn": "USW00014771",
-        "$wban": "14771",
-        "$usaf": "725190",
-        "$mosmix": "72519"
+        "wmo": "72519",
+        "icao": "KSYR",
+        "iata": "SYR",
+        "ghcn": "USW00014771",
+        "wban": "14771",
+        "usaf": "725190",
+        "mosmix": "72519"
     },
     "location": {
         "latitude": 43.1167,

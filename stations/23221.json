@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "KO",
     "identifiers": {
-        "$wmo": "23221",
-        "$icao": "UUYS",
-        "$usaf": "232210"
+        "wmo": "23221",
+        "icao": "UUYS",
+        "usaf": "232210"
     },
     "location": {
         "latitude": 66,

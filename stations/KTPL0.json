@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KTPL",
-        "$iata": "TPL",
-        "$wban": "93984",
-        "$usaf": "722577"
+        "icao": "KTPL",
+        "iata": "TPL",
+        "wban": "93984",
+        "usaf": "722577"
     },
     "location": {
         "latitude": 31.1525,

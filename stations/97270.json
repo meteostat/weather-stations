@@ -6,10 +6,10 @@
     "country": "ID",
     "region": "NB",
     "identifiers": {
-        "$wmo": "97270",
-        "$icao": "WRRB",
-        "$ghcn": "IDM00097270",
-        "$usaf": "972700"
+        "wmo": "97270",
+        "icao": "WRRB",
+        "ghcn": "IDM00097270",
+        "usaf": "972700"
     },
     "location": {
         "latitude": -8.55,

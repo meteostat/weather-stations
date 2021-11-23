@@ -6,11 +6,11 @@
     "country": "PH",
     "region": "CAV",
     "identifiers": {
-        "$wmo": "98428",
-        "$icao": "RPMS",
-        "$iata": "NSP",
-        "$ghcn": "RPW00041224",
-        "$usaf": "986530"
+        "wmo": "98428",
+        "icao": "RPMS",
+        "iata": "NSP",
+        "ghcn": "RPW00041224",
+        "usaf": "986530"
     },
     "location": {
         "latitude": 14.5,

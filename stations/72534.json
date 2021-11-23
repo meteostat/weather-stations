@@ -6,11 +6,11 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$wmo": "72534",
-        "$icao": "KMDW",
-        "$ghcn": "USC00111577",
-        "$wban": "14819",
-        "$usaf": "725340"
+        "wmo": "72534",
+        "icao": "KMDW",
+        "ghcn": "USC00111577",
+        "wban": "14819",
+        "usaf": "725340"
     },
     "location": {
         "latitude": 41.7833,

@@ -6,9 +6,9 @@
     "country": "DZ",
     "region": "ORA",
     "identifiers": {
-        "$icao": "DAOL",
-        "$iata": "TAF",
-        "$usaf": "605054"
+        "icao": "DAOL",
+        "iata": "TAF",
+        "usaf": "605054"
     },
     "location": {
         "latitude": 35.55,

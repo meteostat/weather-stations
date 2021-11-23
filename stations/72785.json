@@ -6,13 +6,13 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "$wmo": "72785",
-        "$icao": "KGEG",
-        "$iata": "GEG",
-        "$ghcn": "USW00024157",
-        "$wban": "24157",
-        "$usaf": "727850",
-        "$mosmix": "72785"
+        "wmo": "72785",
+        "icao": "KGEG",
+        "iata": "GEG",
+        "ghcn": "USW00024157",
+        "wban": "24157",
+        "usaf": "727850",
+        "mosmix": "72785"
     },
     "location": {
         "latitude": 47.6167,

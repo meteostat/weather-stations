@@ -6,8 +6,8 @@
     "country": "ID",
     "region": "KT",
     "identifiers": {
-        "$wmo": "96651",
-        "$icao": "WRBS"
+        "wmo": "96651",
+        "icao": "WRBS"
     },
     "location": {
         "latitude": -2.5167,

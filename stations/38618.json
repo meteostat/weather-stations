@@ -6,10 +6,10 @@
     "country": "UZ",
     "region": "FA",
     "identifiers": {
-        "$wmo": "38618",
-        "$iata": "FEG",
-        "$ghcn": "UZM00038618",
-        "$usaf": "386180"
+        "wmo": "38618",
+        "iata": "FEG",
+        "ghcn": "UZM00038618",
+        "usaf": "386180"
     },
     "location": {
         "latitude": 40.3667,

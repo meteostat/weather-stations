@@ -6,10 +6,10 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "$icao": "KTWF",
-        "$iata": "TWF",
-        "$wban": "94178",
-        "$usaf": "725866"
+        "icao": "KTWF",
+        "iata": "TWF",
+        "wban": "94178",
+        "usaf": "725866"
     },
     "location": {
         "latitude": 42.4818,

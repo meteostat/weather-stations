@@ -6,12 +6,12 @@
     "country": "SC",
     "region": "PR",
     "identifiers": {
-        "$wmo": "63980",
-        "$icao": "FSIA",
-        "$iata": "SEZ",
-        "$ghcn": "SE000063980",
-        "$usaf": "639800",
-        "$mosmix": "63980"
+        "wmo": "63980",
+        "icao": "FSIA",
+        "iata": "SEZ",
+        "ghcn": "SE000063980",
+        "usaf": "639800",
+        "mosmix": "63980"
     },
     "location": {
         "latitude": -4.6667,

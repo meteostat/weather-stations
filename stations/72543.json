@@ -6,12 +6,12 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$wmo": "72543",
-        "$icao": "KRFD",
-        "$iata": "RFD",
-        "$ghcn": "USW00094822",
-        "$wban": "94822",
-        "$usaf": "725430"
+        "wmo": "72543",
+        "icao": "KRFD",
+        "iata": "RFD",
+        "ghcn": "USW00094822",
+        "wban": "94822",
+        "usaf": "725430"
     },
     "location": {
         "latitude": 42.2,

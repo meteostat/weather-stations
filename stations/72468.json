@@ -6,11 +6,11 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$wmo": "72468",
-        "$icao": "KFCS",
-        "$ghcn": "USW00094015",
-        "$wban": "94015",
-        "$usaf": "724680"
+        "wmo": "72468",
+        "icao": "KFCS",
+        "ghcn": "USW00094015",
+        "wban": "94015",
+        "usaf": "724680"
     },
     "location": {
         "latitude": 38.7,

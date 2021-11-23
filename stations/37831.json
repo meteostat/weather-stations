@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "TAR",
     "identifiers": {
-        "$wmo": "37831",
-        "$ghcn": "AJ000037831"
+        "wmo": "37831",
+        "ghcn": "AJ000037831"
     },
     "location": {
         "latitude": 40.35,

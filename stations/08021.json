@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "S",
     "identifiers": {
-        "$wmo": "08021",
-        "$icao": "LEXJ",
-        "$iata": "SDR",
-        "$ghcn": "SPE00119990",
-        "$usaf": "080210",
-        "$mosmix": "08021"
+        "wmo": "08021",
+        "icao": "LEXJ",
+        "iata": "SDR",
+        "ghcn": "SPE00119990",
+        "usaf": "080210",
+        "mosmix": "08021"
     },
     "location": {
         "latitude": 43.4333,

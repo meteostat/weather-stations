@@ -6,12 +6,12 @@
     "country": "SA",
     "region": "HS",
     "identifiers": {
-        "$wmo": "40362",
-        "$icao": "OERF",
-        "$iata": "RAH",
-        "$ghcn": "SAM00040362",
-        "$usaf": "403620",
-        "$mosmix": "40362"
+        "wmo": "40362",
+        "icao": "OERF",
+        "iata": "RAH",
+        "ghcn": "SAM00040362",
+        "usaf": "403620",
+        "mosmix": "40362"
     },
     "location": {
         "latitude": 29.6167,

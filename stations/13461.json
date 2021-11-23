@@ -6,8 +6,8 @@
     "country": "RS",
     "region": "BA",
     "identifiers": {
-        "$wmo": "13461",
-        "$ghcn": "MJM00013461"
+        "wmo": "13461",
+        "ghcn": "MJM00013461"
     },
     "location": {
         "latitude": 42.1,

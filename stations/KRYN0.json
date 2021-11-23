@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "$icao": "KRYN",
-        "$wban": "00121",
-        "$usaf": "720339"
+        "icao": "KRYN",
+        "wban": "00121",
+        "usaf": "720339"
     },
     "location": {
         "latitude": 32.1422,

@@ -6,9 +6,9 @@
     "country": "WS",
     "region": null,
     "identifiers": {
-        "$wmo": "91760",
-        "$icao": "NSAU",
-        "$iata": "AAU"
+        "wmo": "91760",
+        "icao": "NSAU",
+        "iata": "AAU"
     },
     "location": {
         "latitude": -13.5,

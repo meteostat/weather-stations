@@ -6,10 +6,10 @@
     "country": "IS",
     "region": null,
     "identifiers": {
-        "$wmo": "04092",
-        "$icao": "BIDV",
-        "$iata": "DJU",
-        "$ghcn": "IC000004092"
+        "wmo": "04092",
+        "icao": "BIDV",
+        "iata": "DJU",
+        "ghcn": "IC000004092"
     },
     "location": {
         "latitude": 64.6442,

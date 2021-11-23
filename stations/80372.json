@@ -6,10 +6,10 @@
     "country": "CO",
     "region": "PUT",
     "identifiers": {
-        "$wmo": "80372",
-        "$icao": "SKAS",
-        "$iata": "PUU",
-        "$usaf": "803720"
+        "wmo": "80372",
+        "icao": "SKAS",
+        "iata": "PUU",
+        "usaf": "803720"
     },
     "location": {
         "latitude": 0.5,

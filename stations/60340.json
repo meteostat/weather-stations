@@ -6,9 +6,9 @@
     "country": "MA",
     "region": "OR",
     "identifiers": {
-        "$wmo": "60340",
-        "$icao": "GMFN",
-        "$usaf": "603400"
+        "wmo": "60340",
+        "icao": "GMFN",
+        "usaf": "603400"
     },
     "location": {
         "latitude": 35.15,

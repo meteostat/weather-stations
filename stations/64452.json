@@ -6,11 +6,11 @@
     "country": "CG",
     "region": "BN",
     "identifiers": {
-        "$wmo": "64452",
-        "$icao": "FCBO",
-        "$iata": "KBS",
-        "$ghcn": "CF000004452",
-        "$usaf": "644520"
+        "wmo": "64452",
+        "icao": "FCBO",
+        "iata": "KBS",
+        "ghcn": "CF000004452",
+        "usaf": "644520"
     },
     "location": {
         "latitude": -2.6167,

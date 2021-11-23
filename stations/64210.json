@@ -6,12 +6,12 @@
     "country": "CD",
     "region": "KN",
     "identifiers": {
-        "$wmo": "64210",
-        "$icao": "FZAA",
-        "$iata": "FIH",
-        "$ghcn": "CGM00064210",
-        "$usaf": "642100",
-        "$mosmix": "64210"
+        "wmo": "64210",
+        "icao": "FZAA",
+        "iata": "FIH",
+        "ghcn": "CGM00064210",
+        "usaf": "642100",
+        "mosmix": "64210"
     },
     "location": {
         "latitude": -4.3833,

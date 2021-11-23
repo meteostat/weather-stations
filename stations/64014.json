@@ -6,9 +6,9 @@
     "country": "CD",
     "region": "EQ",
     "identifiers": {
-        "$wmo": "64014",
-        "$icao": "FZGA",
-        "$iata": "LIQ"
+        "wmo": "64014",
+        "icao": "FZGA",
+        "iata": "LIQ"
     },
     "location": {
         "latitude": 2.3167,

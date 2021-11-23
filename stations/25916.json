@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "MAG",
     "identifiers": {
-        "$wmo": "25916",
-        "$ghcn": "RSM00025916"
+        "wmo": "25916",
+        "ghcn": "RSM00025916"
     },
     "location": {
         "latitude": 58.8333,

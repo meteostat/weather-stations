@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "MA",
     "identifiers": {
-        "$wmo": "82281",
-        "$icao": "SBSL",
-        "$iata": "SLZ",
-        "$usaf": "822810"
+        "wmo": "82281",
+        "icao": "SBSL",
+        "iata": "SLZ",
+        "usaf": "822810"
     },
     "location": {
         "latitude": -2.6,

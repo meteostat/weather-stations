@@ -6,10 +6,10 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "$icao": "KDUJ",
-        "$iata": "DUJ",
-        "$wban": "04787",
-        "$usaf": "725125"
+        "icao": "KDUJ",
+        "iata": "DUJ",
+        "wban": "04787",
+        "usaf": "725125"
     },
     "location": {
         "latitude": 41.1783,

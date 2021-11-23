@@ -6,10 +6,10 @@
     "country": "NZ",
     "region": "BP",
     "identifiers": {
-        "$wmo": "93186",
-        "$icao": "NZTG",
-        "$iata": "TRG",
-        "$usaf": "931860"
+        "wmo": "93186",
+        "icao": "NZTG",
+        "iata": "TRG",
+        "usaf": "931860"
     },
     "location": {
         "latitude": -37.6667,

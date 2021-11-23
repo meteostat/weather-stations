@@ -6,12 +6,12 @@
     "country": "DZ",
     "region": "CON",
     "identifiers": {
-        "$wmo": "60419",
-        "$icao": "DABC",
-        "$iata": "CZL",
-        "$ghcn": "AGM00060419",
-        "$usaf": "604190",
-        "$mosmix": "60419"
+        "wmo": "60419",
+        "icao": "DABC",
+        "iata": "CZL",
+        "ghcn": "AGM00060419",
+        "usaf": "604190",
+        "mosmix": "60419"
     },
     "location": {
         "latitude": 36.2833,

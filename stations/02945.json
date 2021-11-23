@@ -6,10 +6,10 @@
     "country": "FI",
     "region": null,
     "identifiers": {
-        "$wmo": "02945",
-        "$icao": "EFHA",
-        "$iata": "KEV",
-        "$usaf": "029450"
+        "wmo": "02945",
+        "icao": "EFHA",
+        "iata": "KEV",
+        "usaf": "029450"
     },
     "location": {
         "latitude": 61.85,

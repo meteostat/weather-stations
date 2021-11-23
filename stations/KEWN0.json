@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$icao": "KEWN",
-        "$iata": "EWN",
-        "$wban": "93719",
-        "$usaf": "723095"
+        "icao": "KEWN",
+        "iata": "EWN",
+        "wban": "93719",
+        "usaf": "723095"
     },
     "location": {
         "latitude": 35.073,

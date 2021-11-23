@@ -6,12 +6,12 @@
     "country": "US",
     "region": "ND",
     "identifiers": {
-        "$wmo": "72767",
-        "$icao": "KISN",
-        "$iata": "ISN",
-        "$ghcn": "USW00094014",
-        "$wban": "94014",
-        "$usaf": "727670"
+        "wmo": "72767",
+        "icao": "KISN",
+        "iata": "ISN",
+        "ghcn": "USW00094014",
+        "wban": "94014",
+        "usaf": "727670"
     },
     "location": {
         "latitude": 48.1833,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "$icao": "KLUK",
-        "$iata": "LUK",
-        "$wban": "93812",
-        "$usaf": "724297"
+        "icao": "KLUK",
+        "iata": "LUK",
+        "wban": "93812",
+        "usaf": "724297"
     },
     "location": {
         "latitude": 39.1033,

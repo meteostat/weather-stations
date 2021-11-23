@@ -6,9 +6,9 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$icao": "KOPL",
-        "$wban": "00466",
-        "$usaf": "720468"
+        "icao": "KOPL",
+        "wban": "00466",
+        "usaf": "720468"
     },
     "location": {
         "latitude": 30.5584,

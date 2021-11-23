@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "NAY",
     "identifiers": {
-        "$wmo": "76556",
-        "$icao": "MMEP",
-        "$iata": "TPQ",
-        "$ghcn": "MXM00076556",
-        "$usaf": "765560"
+        "wmo": "76556",
+        "icao": "MMEP",
+        "iata": "TPQ",
+        "ghcn": "MXM00076556",
+        "usaf": "765560"
     },
     "location": {
         "latitude": 21.5167,

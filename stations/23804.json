@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "KO",
     "identifiers": {
-        "$wmo": "23804",
-        "$icao": "UUYY",
-        "$ghcn": "RSM00023804",
-        "$usaf": "238040",
-        "$mosmix": "23804"
+        "wmo": "23804",
+        "icao": "UUYY",
+        "ghcn": "RSM00023804",
+        "usaf": "238040",
+        "mosmix": "23804"
     },
     "location": {
         "latitude": 61.7167,

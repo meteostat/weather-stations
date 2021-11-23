@@ -6,8 +6,8 @@
     "country": "JP",
     "region": "HK",
     "identifiers": {
-        "$wmo": "47433",
-        "$ghcn": "JA000047433"
+        "wmo": "47433",
+        "ghcn": "JA000047433"
     },
     "location": {
         "latitude": 42.9,

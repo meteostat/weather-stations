@@ -6,10 +6,10 @@
     "country": "AR",
     "region": "S",
     "identifiers": {
-        "$wmo": "87371",
-        "$icao": "SAAV",
-        "$iata": "SFN",
-        "$usaf": "873710"
+        "wmo": "87371",
+        "icao": "SAAV",
+        "iata": "SFN",
+        "usaf": "873710"
     },
     "location": {
         "latitude": -31.7,

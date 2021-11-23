@@ -6,10 +6,10 @@
     "country": "ID",
     "region": "YO",
     "identifiers": {
-        "$wmo": "96853",
-        "$icao": "WIIJ",
-        "$usaf": "968530",
-        "$mosmix": "96853"
+        "wmo": "96853",
+        "icao": "WIIJ",
+        "usaf": "968530",
+        "mosmix": "96853"
     },
     "location": {
         "latitude": -7.7833,

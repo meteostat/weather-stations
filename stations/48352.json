@@ -6,9 +6,9 @@
     "country": "TH",
     "region": "NH",
     "identifiers": {
-        "$wmo": "48352",
-        "$icao": "VTUM",
-        "$usaf": "483520"
+        "wmo": "48352",
+        "icao": "VTUM",
+        "usaf": "483520"
     },
     "location": {
         "latitude": 17.8667,

@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "PR",
     "identifiers": {
-        "$wmo": "83767",
-        "$icao": "SBMG",
-        "$usaf": "837670",
-        "$mosmix": "83767"
+        "wmo": "83767",
+        "icao": "SBMG",
+        "usaf": "837670",
+        "mosmix": "83767"
     },
     "location": {
         "latitude": -23.4167,

@@ -6,11 +6,11 @@
     "country": "GH",
     "region": "AS",
     "identifiers": {
-        "$wmo": "65442",
-        "$icao": "DGSI",
-        "$iata": "KMS",
-        "$ghcn": "GHM00065442",
-        "$usaf": "654420"
+        "wmo": "65442",
+        "icao": "DGSI",
+        "iata": "KMS",
+        "ghcn": "GHM00065442",
+        "usaf": "654420"
     },
     "location": {
         "latitude": 6.7167,

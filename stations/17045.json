@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "ART",
     "identifiers": {
-        "$wmo": "17045",
-        "$ghcn": "TUM00017045"
+        "wmo": "17045",
+        "ghcn": "TUM00017045"
     },
     "location": {
         "latitude": 41.1667,

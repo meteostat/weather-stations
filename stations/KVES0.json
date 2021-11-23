@@ -6,9 +6,9 @@
     "country": "US",
     "region": "OH",
     "identifiers": {
-        "$icao": "KVES",
-        "$wban": "00251",
-        "$usaf": "720713"
+        "icao": "KVES",
+        "wban": "00251",
+        "usaf": "720713"
     },
     "location": {
         "latitude": 40.2044,

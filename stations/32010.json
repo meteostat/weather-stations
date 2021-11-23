@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "SAK",
     "identifiers": {
-        "$wmo": "32010",
-        "$icao": "UHSH",
-        "$iata": "OHH",
-        "$usaf": "353943"
+        "wmo": "32010",
+        "icao": "UHSH",
+        "iata": "OHH",
+        "usaf": "353943"
     },
     "location": {
         "latitude": 53.5667,

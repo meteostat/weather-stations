@@ -6,12 +6,12 @@
     "country": "CH",
     "region": "TI",
     "identifiers": {
-        "$wmo": "06770",
-        "$icao": "LSZA",
-        "$iata": "LUG",
-        "$ghcn": "SZ000009480",
-        "$usaf": "067700",
-        "$mosmix": "06770"
+        "wmo": "06770",
+        "icao": "LSZA",
+        "iata": "LUG",
+        "ghcn": "SZ000009480",
+        "usaf": "067700",
+        "mosmix": "06770"
     },
     "location": {
         "latitude": 46,

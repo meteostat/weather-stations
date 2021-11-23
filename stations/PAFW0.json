@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAFW",
-        "$iata": "FWL",
-        "$usaf": "702483"
+        "icao": "PAFW",
+        "iata": "FWL",
+        "usaf": "702483"
     },
     "location": {
         "latitude": 62.5066,

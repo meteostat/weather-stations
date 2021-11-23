@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "LL",
     "identifiers": {
-        "$wmo": "85831",
-        "$icao": "SCON",
-        "$usaf": "858326"
+        "wmo": "85831",
+        "icao": "SCON",
+        "usaf": "858326"
     },
     "location": {
         "latitude": -43.1167,

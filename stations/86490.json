@@ -6,10 +6,10 @@
     "country": "UY",
     "region": "SO",
     "identifiers": {
-        "$wmo": "86490",
-        "$icao": "SUME",
-        "$ghcn": "UY000086490",
-        "$usaf": "864900"
+        "wmo": "86490",
+        "icao": "SUME",
+        "ghcn": "UY000086490",
+        "usaf": "864900"
     },
     "location": {
         "latitude": -33.25,

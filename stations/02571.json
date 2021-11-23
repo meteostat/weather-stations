@@ -2,15 +2,15 @@
     "id": "02571",
     "name": {
         "de": "Norrkoping Flughafen",
-        "sv": "Norrkoping Flygplats",
-        "en": "Norrkoping Airport"
+        "en": "Norrkoping Airport",
+        "sv": "Norrkoping Flygplats"
     },
     "country": "SE",
     "region": "OG",
     "identifiers": {
-        "$wmo": "02571",
-        "$icao": "ESSP",
-        "$usaf": "025710"
+        "wmo": "02571",
+        "icao": "ESSP",
+        "usaf": "025710"
     },
     "location": {
         "latitude": 58.5833,

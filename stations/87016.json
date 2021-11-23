@@ -6,11 +6,11 @@
     "country": "AR",
     "region": "A",
     "identifiers": {
-        "$wmo": "87016",
-        "$icao": "SASO",
-        "$iata": "ORA",
-        "$ghcn": "ARM00087016",
-        "$usaf": "870160"
+        "wmo": "87016",
+        "icao": "SASO",
+        "iata": "ORA",
+        "ghcn": "ARM00087016",
+        "usaf": "870160"
     },
     "location": {
         "latitude": -23.15,

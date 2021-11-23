@@ -6,9 +6,9 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "$icao": "KMBG",
-        "$wban": "94052",
-        "$usaf": "726685"
+        "icao": "KMBG",
+        "wban": "94052",
+        "usaf": "726685"
     },
     "location": {
         "latitude": 45.5463,

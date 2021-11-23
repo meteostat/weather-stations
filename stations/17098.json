@@ -6,11 +6,11 @@
     "country": "TR",
     "region": "KRS",
     "identifiers": {
-        "$wmo": "17098",
-        "$icao": "LTCF",
-        "$iata": "KSY",
-        "$ghcn": "TUM00017098",
-        "$usaf": "170980"
+        "wmo": "17098",
+        "icao": "LTCF",
+        "iata": "KSY",
+        "ghcn": "TUM00017098",
+        "usaf": "170980"
     },
     "location": {
         "latitude": 40.6,

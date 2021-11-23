@@ -6,12 +6,12 @@
     "country": "AT",
     "region": "TR",
     "identifiers": {
-        "$wmo": "11120",
-        "$icao": "LOWI",
-        "$iata": "INN",
-        "$ghcn": "AU000011801",
-        "$usaf": "111200",
-        "$mosmix": "11120"
+        "wmo": "11120",
+        "icao": "LOWI",
+        "iata": "INN",
+        "ghcn": "AU000011801",
+        "usaf": "111200",
+        "mosmix": "11120"
     },
     "location": {
         "latitude": 47.2667,

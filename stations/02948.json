@@ -6,11 +6,11 @@
     "country": "FI",
     "region": null,
     "identifiers": {
-        "$wmo": "02948",
-        "$icao": "EFSA",
-        "$iata": "SVL",
-        "$usaf": "029480",
-        "$mosmix": "02948"
+        "wmo": "02948",
+        "icao": "EFSA",
+        "iata": "SVL",
+        "usaf": "029480",
+        "mosmix": "02948"
     },
     "location": {
         "latitude": 61.95,

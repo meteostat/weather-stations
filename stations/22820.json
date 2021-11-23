@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "KR",
     "identifiers": {
-        "$wmo": "22820",
-        "$icao": "ULPP",
-        "$ghcn": "RSM00022820",
-        "$mosmix": "22820"
+        "wmo": "22820",
+        "icao": "ULPP",
+        "ghcn": "RSM00022820",
+        "mosmix": "22820"
     },
     "location": {
         "latitude": 61.8167,

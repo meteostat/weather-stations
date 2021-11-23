@@ -6,10 +6,10 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "$icao": "KCNY",
-        "$iata": "CNY",
-        "$wban": "93075",
-        "$usaf": "724776"
+        "icao": "KCNY",
+        "iata": "CNY",
+        "wban": "93075",
+        "usaf": "724776"
     },
     "location": {
         "latitude": 38.755,

@@ -6,9 +6,9 @@
     "country": "TW",
     "region": "PT",
     "identifiers": {
-        "$wmo": "46750",
-        "$icao": "RCDC",
-        "$usaf": "467500"
+        "wmo": "46750",
+        "icao": "RCDC",
+        "usaf": "467500"
     },
     "location": {
         "latitude": 22.6833,

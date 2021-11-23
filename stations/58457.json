@@ -6,12 +6,12 @@
     "country": "CN",
     "region": "ZJ",
     "identifiers": {
-        "$wmo": "58457",
-        "$icao": "ZSHC",
-        "$iata": "HGH",
-        "$ghcn": "CHM00058457",
-        "$usaf": "584570",
-        "$mosmix": "58457"
+        "wmo": "58457",
+        "icao": "ZSHC",
+        "iata": "HGH",
+        "ghcn": "CHM00058457",
+        "usaf": "584570",
+        "mosmix": "58457"
     },
     "location": {
         "latitude": 30.2333,

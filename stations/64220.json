@@ -6,9 +6,9 @@
     "country": "CD",
     "region": "KN",
     "identifiers": {
-        "$wmo": "64220",
-        "$ghcn": "CGM00064220",
-        "$mosmix": "64220"
+        "wmo": "64220",
+        "ghcn": "CGM00064220",
+        "mosmix": "64220"
     },
     "location": {
         "latitude": -4.3667,

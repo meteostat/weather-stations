@@ -6,12 +6,12 @@
     "country": "BR",
     "region": "RJ",
     "identifiers": {
-        "$wmo": "83698",
-        "$icao": "SBCP",
-        "$iata": "CAW",
-        "$ghcn": "BRM00083698",
-        "$usaf": "836980",
-        "$mosmix": "83698"
+        "wmo": "83698",
+        "icao": "SBCP",
+        "iata": "CAW",
+        "ghcn": "BRM00083698",
+        "usaf": "836980",
+        "mosmix": "83698"
     },
     "location": {
         "latitude": -21.75,

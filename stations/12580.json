@@ -6,11 +6,11 @@
     "country": "PL",
     "region": "PP",
     "identifiers": {
-        "$wmo": "12580",
-        "$icao": "EPRZ",
-        "$iata": "RZE",
-        "$usaf": "125800",
-        "$mosmix": "12580"
+        "wmo": "12580",
+        "icao": "EPRZ",
+        "iata": "RZE",
+        "usaf": "125800",
+        "mosmix": "12580"
     },
     "location": {
         "latitude": 50.1,

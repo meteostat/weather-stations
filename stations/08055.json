@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "CL",
     "identifiers": {
-        "$wmo": "08055",
-        "$icao": "LELN",
-        "$iata": "LEN",
-        "$ghcn": "SPE00120224",
-        "$usaf": "080550",
-        "$mosmix": "08055"
+        "wmo": "08055",
+        "icao": "LELN",
+        "iata": "LEN",
+        "ghcn": "SPE00120224",
+        "usaf": "080550",
+        "mosmix": "08055"
     },
     "location": {
         "latitude": 42.5833,

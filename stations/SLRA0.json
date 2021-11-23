@@ -6,9 +6,9 @@
     "country": "BO",
     "region": "B",
     "identifiers": {
-        "$icao": "SLRA",
-        "$iata": "SRD",
-        "$usaf": "851090"
+        "icao": "SLRA",
+        "iata": "SRD",
+        "usaf": "851090"
     },
     "location": {
         "latitude": -13.2639,

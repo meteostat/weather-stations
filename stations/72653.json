@@ -6,11 +6,11 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "$wmo": "72653",
-        "$icao": "K9V9",
-        "$ghcn": "USW00094943",
-        "$wban": "94943",
-        "$usaf": "726530"
+        "wmo": "72653",
+        "icao": "K9V9",
+        "ghcn": "USW00094943",
+        "wban": "94943",
+        "usaf": "726530"
     },
     "location": {
         "latitude": 43.7667,

@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "AST",
     "identifiers": {
-        "$wmo": "37989",
-        "$ghcn": "AJ000037989"
+        "wmo": "37989",
+        "ghcn": "AJ000037989"
     },
     "location": {
         "latitude": 38.45,

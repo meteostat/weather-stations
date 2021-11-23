@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KUKI",
-        "$iata": "UKI",
-        "$wban": "23275",
-        "$usaf": "725905"
+        "icao": "KUKI",
+        "iata": "UKI",
+        "wban": "23275",
+        "usaf": "725905"
     },
     "location": {
         "latitude": 39.126,

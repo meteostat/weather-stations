@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAVD",
-        "$iata": "VDZ",
-        "$wban": "26479",
-        "$usaf": "702756"
+        "icao": "PAVD",
+        "iata": "VDZ",
+        "wban": "26479",
+        "usaf": "702756"
     },
     "location": {
         "latitude": 61.1342,

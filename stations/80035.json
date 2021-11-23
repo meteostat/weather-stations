@@ -6,11 +6,11 @@
     "country": "CO",
     "region": "GJR",
     "identifiers": {
-        "$wmo": "80035",
-        "$icao": "SKRH",
-        "$iata": "RCH",
-        "$ghcn": "COM00080035",
-        "$usaf": "800350"
+        "wmo": "80035",
+        "icao": "SKRH",
+        "iata": "RCH",
+        "ghcn": "COM00080035",
+        "usaf": "800350"
     },
     "location": {
         "latitude": 11.5333,

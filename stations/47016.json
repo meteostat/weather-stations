@@ -6,9 +6,9 @@
     "country": "KP",
     "region": "YG",
     "identifiers": {
-        "$wmo": "47016",
-        "$ghcn": "KNM00047016",
-        "$mosmix": "47016"
+        "wmo": "47016",
+        "ghcn": "KNM00047016",
+        "mosmix": "47016"
     },
     "location": {
         "latitude": 41.4,

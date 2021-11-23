@@ -6,10 +6,10 @@
     "country": "CL",
     "region": "LL",
     "identifiers": {
-        "$wmo": "85836",
-        "$icao": "SCAP",
-        "$iata": "WAP",
-        "$usaf": "858360"
+        "wmo": "85836",
+        "icao": "SCAP",
+        "iata": "WAP",
+        "usaf": "858360"
     },
     "location": {
         "latitude": -43.6333,

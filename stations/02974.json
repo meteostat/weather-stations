@@ -6,12 +6,12 @@
     "country": "FI",
     "region": null,
     "identifiers": {
-        "$wmo": "02974",
-        "$icao": "EFHK",
-        "$iata": "HEL",
-        "$ghcn": "FIE00142080",
-        "$usaf": "029740",
-        "$mosmix": "02974"
+        "wmo": "02974",
+        "icao": "EFHK",
+        "iata": "HEL",
+        "ghcn": "FIE00142080",
+        "usaf": "029740",
+        "mosmix": "02974"
     },
     "location": {
         "latitude": 60.3167,

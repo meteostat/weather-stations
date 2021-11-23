@@ -6,12 +6,12 @@
     "country": "CN",
     "region": "JS",
     "identifiers": {
-        "$wmo": "58238",
-        "$icao": "ZSNJ",
-        "$iata": "NKG",
-        "$ghcn": "CHM00058238",
-        "$usaf": "582380",
-        "$mosmix": "58238"
+        "wmo": "58238",
+        "icao": "ZSNJ",
+        "iata": "NKG",
+        "ghcn": "CHM00058238",
+        "usaf": "582380",
+        "mosmix": "58238"
     },
     "location": {
         "latitude": 32,

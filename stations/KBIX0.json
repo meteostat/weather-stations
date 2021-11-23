@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MS",
     "identifiers": {
-        "$icao": "KBIX",
-        "$iata": "BIX",
-        "$wban": "13820",
-        "$usaf": "747686"
+        "icao": "KBIX",
+        "iata": "BIX",
+        "wban": "13820",
+        "usaf": "747686"
     },
     "location": {
         "latitude": 30.4104,

@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "MT",
     "identifiers": {
-        "$wmo": "83319",
-        "$icao": "SBXV",
-        "$ghcn": "BR001452000",
-        "$usaf": "833190"
+        "wmo": "83319",
+        "icao": "SBXV",
+        "ghcn": "BR001452000",
+        "usaf": "833190"
     },
     "location": {
         "latitude": -14.7,

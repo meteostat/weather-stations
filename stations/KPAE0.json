@@ -6,10 +6,10 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "$icao": "KPAE",
-        "$iata": "PAE",
-        "$wban": "24222",
-        "$usaf": "727937"
+        "icao": "KPAE",
+        "iata": "PAE",
+        "wban": "24222",
+        "usaf": "727937"
     },
     "location": {
         "latitude": 47.907,

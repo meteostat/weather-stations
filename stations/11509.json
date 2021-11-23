@@ -6,8 +6,8 @@
     "country": "CZ",
     "region": "US",
     "identifiers": {
-        "$wmo": "11509",
-        "$mosmix": "11509"
+        "wmo": "11509",
+        "mosmix": "11509"
     },
     "location": {
         "latitude": 50.4667,

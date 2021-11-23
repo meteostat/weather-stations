@@ -6,9 +6,9 @@
     "country": "LV",
     "region": "ALU",
     "identifiers": {
-        "$wmo": "26346",
-        "$ghcn": "LG000026346",
-        "$mosmix": "26346"
+        "wmo": "26346",
+        "ghcn": "LG000026346",
+        "mosmix": "26346"
     },
     "location": {
         "latitude": 57.4333,

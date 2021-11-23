@@ -6,10 +6,10 @@
     "country": "ID",
     "region": "SS",
     "identifiers": {
-        "$wmo": "96249",
-        "$icao": "WIKD",
-        "$ghcn": "IDM00096249",
-        "$usaf": "962490"
+        "wmo": "96249",
+        "icao": "WIKD",
+        "ghcn": "IDM00096249",
+        "usaf": "962490"
     },
     "location": {
         "latitude": -2.75,

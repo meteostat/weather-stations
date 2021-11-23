@@ -6,11 +6,11 @@
     "country": "SK",
     "region": "BA",
     "identifiers": {
-        "$wmo": "11927",
-        "$icao": "LZLU",
-        "$iata": "LUE",
-        "$usaf": "119270",
-        "$mosmix": "11927"
+        "wmo": "11927",
+        "icao": "LZLU",
+        "iata": "LUE",
+        "usaf": "119270",
+        "mosmix": "11927"
     },
     "location": {
         "latitude": 48.3333,

@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "ZAC",
     "identifiers": {
-        "$wmo": "76471",
-        "$ghcn": "MXM00076471",
-        "$usaf": "764710"
+        "wmo": "76471",
+        "ghcn": "MXM00076471",
+        "usaf": "764710"
     },
     "location": {
         "latitude": 23.6333,

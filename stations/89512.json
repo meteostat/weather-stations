@@ -6,9 +6,9 @@
     "country": "AQ",
     "region": null,
     "identifiers": {
-        "$wmo": "89512",
-        "$ghcn": "AYM00089512",
-        "$mosmix": "89512"
+        "wmo": "89512",
+        "ghcn": "AYM00089512",
+        "mosmix": "89512"
     },
     "location": {
         "latitude": -70.7667,

@@ -6,10 +6,10 @@
     "country": "TR",
     "region": "AYI",
     "identifiers": {
-        "$wmo": "17234",
-        "$icao": "LTBD",
-        "$ghcn": "TUM00017234",
-        "$usaf": "172340"
+        "wmo": "17234",
+        "icao": "LTBD",
+        "ghcn": "TUM00017234",
+        "usaf": "172340"
     },
     "location": {
         "latitude": 37.85,

@@ -6,11 +6,11 @@
     "country": "GN",
     "region": "BOK",
     "identifiers": {
-        "$wmo": "61816",
-        "$icao": "GUOK",
-        "$iata": "BKJ",
-        "$ghcn": "GV000001816",
-        "$usaf": "618160"
+        "wmo": "61816",
+        "icao": "GUOK",
+        "iata": "BKJ",
+        "ghcn": "GV000001816",
+        "usaf": "618160"
     },
     "location": {
         "latitude": 10.9333,

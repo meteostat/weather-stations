@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "ORA",
     "identifiers": {
-        "$wmo": "60452",
-        "$ghcn": "AGM00060452"
+        "wmo": "60452",
+        "ghcn": "AGM00060452"
     },
     "location": {
         "latitude": 35.8167,

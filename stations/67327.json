@@ -6,9 +6,9 @@
     "country": "MZ",
     "region": "G",
     "identifiers": {
-        "$wmo": "67327",
-        "$ghcn": "MZM00067327",
-        "$usaf": "673270"
+        "wmo": "67327",
+        "ghcn": "MZM00067327",
+        "usaf": "673270"
     },
     "location": {
         "latitude": -24.2,

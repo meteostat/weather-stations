@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "$icao": "KWWD",
-        "$iata": "WWD",
-        "$wban": "03726",
-        "$usaf": "745966"
+        "icao": "KWWD",
+        "iata": "WWD",
+        "wban": "03726",
+        "usaf": "745966"
     },
     "location": {
         "latitude": 39.0085,

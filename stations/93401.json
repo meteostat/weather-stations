@@ -6,10 +6,10 @@
     "country": "NZ",
     "region": "MWT",
     "identifiers": {
-        "$wmo": "93401",
-        "$icao": "NZOH",
-        "$iata": "OHA",
-        "$usaf": "934010"
+        "wmo": "93401",
+        "icao": "NZOH",
+        "iata": "OHA",
+        "usaf": "934010"
     },
     "location": {
         "latitude": -40.2,

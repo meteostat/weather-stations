@@ -6,9 +6,9 @@
     "country": "HR",
     "region": "PG",
     "identifiers": {
-        "$wmo": "13116",
-        "$icao": "LDRI",
-        "$usaf": "131160"
+        "wmo": "13116",
+        "icao": "LDRI",
+        "usaf": "131160"
     },
     "location": {
         "latitude": 45.2167,

@@ -6,10 +6,10 @@
     "country": "CU",
     "region": "GR",
     "identifiers": {
-        "$wmo": "78256",
-        "$icao": "MUMZ",
-        "$iata": "MZO",
-        "$usaf": "782560"
+        "wmo": "78256",
+        "icao": "MUMZ",
+        "iata": "MZO",
+        "usaf": "782560"
     },
     "location": {
         "latitude": 20.3333,

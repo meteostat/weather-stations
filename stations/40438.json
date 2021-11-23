@@ -6,11 +6,11 @@
     "country": "SA",
     "region": "RD",
     "identifiers": {
-        "$wmo": "40438",
-        "$icao": "OERY",
-        "$ghcn": "SA000040438",
-        "$usaf": "404380",
-        "$mosmix": "40438"
+        "wmo": "40438",
+        "icao": "OERY",
+        "ghcn": "SA000040438",
+        "usaf": "404380",
+        "mosmix": "40438"
     },
     "location": {
         "latitude": 24.7167,

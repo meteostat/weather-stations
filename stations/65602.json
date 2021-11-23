@@ -6,10 +6,10 @@
     "country": "LR",
     "region": "MS",
     "identifiers": {
-        "$wmo": "65602",
-        "$icao": "GLMR",
-        "$iata": "MLW",
-        "$usaf": "656020"
+        "wmo": "65602",
+        "icao": "GLMR",
+        "iata": "MLW",
+        "usaf": "656020"
     },
     "location": {
         "latitude": 6.3333,

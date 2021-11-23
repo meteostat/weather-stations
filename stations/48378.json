@@ -6,10 +6,10 @@
     "country": "TH",
     "region": "PS",
     "identifiers": {
-        "$wmo": "48378",
-        "$icao": "VTPS",
-        "$ghcn": "TH000048378",
-        "$usaf": "483780"
+        "wmo": "48378",
+        "icao": "VTPS",
+        "ghcn": "TH000048378",
+        "usaf": "483780"
     },
     "location": {
         "latitude": 16.7833,

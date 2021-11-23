@@ -6,9 +6,9 @@
     "country": "NO",
     "region": "MR",
     "identifiers": {
-        "$wmo": "01212",
-        "$ghcn": "NO000001212",
-        "$usaf": "012120"
+        "wmo": "01212",
+        "ghcn": "NO000001212",
+        "usaf": "012120"
     },
     "location": {
         "latitude": 62.8667,

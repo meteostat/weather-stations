@@ -2,16 +2,16 @@
     "id": "01194",
     "name": {
         "de": "Narvik Flughafen",
-        "no": "Narvik Flughavn",
-        "en": "Narvik Airport"
+        "en": "Narvik Airport",
+        "no": "Narvik Flughavn"
     },
     "country": "NO",
     "region": "NO",
     "identifiers": {
-        "$wmo": "01194",
-        "$icao": "ENNK",
-        "$usaf": "011930",
-        "$mosmix": "01194"
+        "wmo": "01194",
+        "icao": "ENNK",
+        "usaf": "011930",
+        "mosmix": "01194"
     },
     "location": {
         "latitude": 68.4667,

@@ -6,10 +6,10 @@
     "country": "TO",
     "region": "VA",
     "identifiers": {
-        "$wmo": "91779",
-        "$icao": "NFTV",
-        "$iata": "VAV",
-        "$usaf": "917830"
+        "wmo": "91779",
+        "icao": "NFTV",
+        "iata": "VAV",
+        "usaf": "917830"
     },
     "location": {
         "latitude": -18.5833,

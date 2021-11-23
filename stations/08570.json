@@ -6,8 +6,8 @@
     "country": "PT",
     "region": "CB",
     "identifiers": {
-        "$wmo": "08570",
-        "$ghcn": "POM00008570"
+        "wmo": "08570",
+        "ghcn": "POM00008570"
     },
     "location": {
         "latitude": 39.8333,

@@ -6,11 +6,11 @@
     "country": "KZ",
     "region": "KZY",
     "identifiers": {
-        "$wmo": "38062",
-        "$icao": "UAOO",
-        "$iata": "KZO",
-        "$ghcn": "KZ000038062",
-        "$usaf": "380620"
+        "wmo": "38062",
+        "icao": "UAOO",
+        "iata": "KZO",
+        "ghcn": "KZ000038062",
+        "usaf": "380620"
     },
     "location": {
         "latitude": 44.85,

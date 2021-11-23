@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "SB",
     "identifiers": {
-        "$wmo": "96163",
-        "$icao": "WIMG",
-        "$ghcn": "ID000096163",
-        "$usaf": "961630",
-        "$mosmix": "96163"
+        "wmo": "96163",
+        "icao": "WIMG",
+        "ghcn": "ID000096163",
+        "usaf": "961630",
+        "mosmix": "96163"
     },
     "location": {
         "latitude": -0.8833,

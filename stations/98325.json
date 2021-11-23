@@ -6,8 +6,8 @@
     "country": "PH",
     "region": "PAN",
     "identifiers": {
-        "$wmo": "98325",
-        "$ghcn": "RPM00098325"
+        "wmo": "98325",
+        "ghcn": "RPM00098325"
     },
     "location": {
         "latitude": 16.05,

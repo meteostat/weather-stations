@@ -6,8 +6,8 @@
     "country": "PY",
     "region": "AG",
     "identifiers": {
-        "$wmo": "86011",
-        "$ghcn": "PAM00086011"
+        "wmo": "86011",
+        "ghcn": "PAM00086011"
     },
     "location": {
         "latitude": -19.5333,

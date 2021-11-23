@@ -6,11 +6,11 @@
     "country": "EE",
     "region": "HI",
     "identifiers": {
-        "$wmo": "26116",
-        "$icao": "EEKA",
-        "$iata": "KDL",
-        "$ghcn": "EN000026116",
-        "$usaf": "261160"
+        "wmo": "26116",
+        "icao": "EEKA",
+        "iata": "KDL",
+        "ghcn": "EN000026116",
+        "usaf": "261160"
     },
     "location": {
         "latitude": 58.9833,

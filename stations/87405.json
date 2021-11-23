@@ -6,9 +6,9 @@
     "country": "AR",
     "region": "M",
     "identifiers": {
-        "$wmo": "87405",
-        "$icao": "SAMU",
-        "$usaf": "874050"
+        "wmo": "87405",
+        "icao": "SAMU",
+        "usaf": "874050"
     },
     "location": {
         "latitude": -32.6,

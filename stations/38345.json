@@ -6,9 +6,9 @@
     "country": "KG",
     "region": "TL",
     "identifiers": {
-        "$wmo": "38345",
-        "$ghcn": "KG000038345",
-        "$usaf": "383450"
+        "wmo": "38345",
+        "ghcn": "KG000038345",
+        "usaf": "383450"
     },
     "location": {
         "latitude": 42.5167,

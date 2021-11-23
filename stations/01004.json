@@ -1,16 +1,16 @@
 {
     "id": "01004",
     "name": {
-        "no": "Ny-Ålesund II",
-        "en": "New Alesund II"
+        "en": "New Alesund II",
+        "no": "Ny-Ålesund II"
     },
     "country": "NO",
     "region": "SJ",
     "identifiers": {
-        "$wmo": "01004",
-        "$icao": "ENAS",
-        "$ghcn": "NOE00134766",
-        "$usaf": "010040"
+        "wmo": "01004",
+        "icao": "ENAS",
+        "ghcn": "NOE00134766",
+        "usaf": "010040"
     },
     "location": {
         "latitude": 78.9167,

@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "MSR",
     "identifiers": {
-        "$wmo": "98748",
-        "$icao": "RPWL",
-        "$iata": "CGY",
-        "$mosmix": "98748"
+        "wmo": "98748",
+        "icao": "RPWL",
+        "iata": "CGY",
+        "mosmix": "98748"
     },
     "location": {
         "latitude": 8.4833,

@@ -6,8 +6,8 @@
     "country": "LB",
     "region": null,
     "identifiers": {
-        "$wmo": "40103",
-        "$ghcn": "LEM00040103"
+        "wmo": "40103",
+        "ghcn": "LEM00040103"
     },
     "location": {
         "latitude": 34.45,

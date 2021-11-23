@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "$wmo": "74590",
-        "$icao": "KN78",
-        "$ghcn": "USW00003739"
+        "wmo": "74590",
+        "icao": "KN78",
+        "ghcn": "USW00003739"
     },
     "location": {
         "latitude": 39.7667,

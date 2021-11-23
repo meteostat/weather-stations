@@ -6,11 +6,11 @@
     "country": "HR",
     "region": null,
     "identifiers": {
-        "$wmo": "14307",
-        "$icao": "LDPL",
-        "$iata": "PUY",
-        "$usaf": "143070",
-        "$mosmix": "14307"
+        "wmo": "14307",
+        "icao": "LDPL",
+        "iata": "PUY",
+        "usaf": "143070",
+        "mosmix": "14307"
     },
     "location": {
         "latitude": 45.9,

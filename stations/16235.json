@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "LZ",
     "identifiers": {
-        "$wmo": "16235",
-        "$icao": "LIRU",
-        "$usaf": "162350"
+        "wmo": "16235",
+        "icao": "LIRU",
+        "usaf": "162350"
     },
     "location": {
         "latitude": 41.95,

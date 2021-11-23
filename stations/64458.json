@@ -6,11 +6,11 @@
     "country": "CG",
     "region": "SA",
     "identifiers": {
-        "$wmo": "64458",
-        "$icao": "FCOU",
-        "$iata": "OUE",
-        "$ghcn": "CF000004458",
-        "$usaf": "644580"
+        "wmo": "64458",
+        "icao": "FCOU",
+        "iata": "OUE",
+        "ghcn": "CF000004458",
+        "usaf": "644580"
     },
     "location": {
         "latitude": 1.6167,

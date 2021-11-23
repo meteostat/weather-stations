@@ -6,10 +6,10 @@
     "country": "SD",
     "region": "SI",
     "identifiers": {
-        "$wmo": "62762",
-        "$icao": "HSNR",
-        "$ghcn": "SU000062762",
-        "$usaf": "627620"
+        "wmo": "62762",
+        "icao": "HSNR",
+        "ghcn": "SU000062762",
+        "usaf": "627620"
     },
     "location": {
         "latitude": 13.55,

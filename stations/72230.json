@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "$wmo": "72230",
-        "$icao": "KBMX",
-        "$ghcn": "USW00053864",
-        "$wban": "53864"
+        "wmo": "72230",
+        "icao": "KBMX",
+        "ghcn": "USW00053864",
+        "wban": "53864"
     },
     "location": {
         "latitude": 33.1667,

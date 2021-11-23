@@ -6,11 +6,11 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "$wmo": "72576",
-        "$icao": "KLND",
-        "$ghcn": "USW00024021",
-        "$wban": "24021",
-        "$usaf": "725760"
+        "wmo": "72576",
+        "icao": "KLND",
+        "ghcn": "USW00024021",
+        "wban": "24021",
+        "usaf": "725760"
     },
     "location": {
         "latitude": 42.8167,

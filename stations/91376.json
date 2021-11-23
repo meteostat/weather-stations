@@ -6,12 +6,12 @@
     "country": "MH",
     "region": null,
     "identifiers": {
-        "$wmo": "91376",
-        "$icao": "PKMJ",
-        "$iata": "MAJ",
-        "$ghcn": "RMW00040710",
-        "$wban": "00492",
-        "$usaf": "913760"
+        "wmo": "91376",
+        "icao": "PKMJ",
+        "iata": "MAJ",
+        "ghcn": "RMW00040710",
+        "wban": "00492",
+        "usaf": "913760"
     },
     "location": {
         "latitude": 7.0667,

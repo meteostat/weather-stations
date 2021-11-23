@@ -6,11 +6,11 @@
     "country": "MZ",
     "region": "NA",
     "identifiers": {
-        "$wmo": "67273",
-        "$icao": "FQAG",
-        "$iata": "ANO",
-        "$ghcn": "MZM00067273",
-        "$usaf": "672730"
+        "wmo": "67273",
+        "icao": "FQAG",
+        "iata": "ANO",
+        "ghcn": "MZM00067273",
+        "usaf": "672730"
     },
     "location": {
         "latitude": -16.2167,

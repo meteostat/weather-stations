@@ -6,9 +6,9 @@
     "country": "DE",
     "region": "RP",
     "identifiers": {
-        "$wmo": "10712",
-        "$icao": "ETAS",
-        "$usaf": "107120"
+        "wmo": "10712",
+        "icao": "ETAS",
+        "usaf": "107120"
     },
     "location": {
         "latitude": 49.5,

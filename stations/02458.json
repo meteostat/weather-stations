@@ -2,16 +2,16 @@
     "id": "02458",
     "name": {
         "de": "Uppsala Flughafen",
-        "sv": "Uppsala Flyplats",
-        "en": "Uppsala Airport"
+        "en": "Uppsala Airport",
+        "sv": "Uppsala Flyplats"
     },
     "country": "SE",
     "region": "UP",
     "identifiers": {
-        "$wmo": "02458",
-        "$icao": "ESCM",
-        "$usaf": "024580",
-        "$mosmix": "02458"
+        "wmo": "02458",
+        "icao": "ESCM",
+        "usaf": "024580",
+        "mosmix": "02458"
     },
     "location": {
         "latitude": 59.8833,

@@ -6,9 +6,9 @@
     "country": "FI",
     "region": "LL",
     "identifiers": {
-        "$wmo": "02805",
-        "$ghcn": "FIE00146698",
-        "$usaf": "028050"
+        "wmo": "02805",
+        "ghcn": "FIE00146698",
+        "usaf": "028050"
     },
     "location": {
         "latitude": 69.75,

@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "ZA",
     "identifiers": {
-        "$wmo": "12226",
-        "$icao": "EPMI",
-        "$usaf": "122260"
+        "wmo": "12226",
+        "icao": "EPMI",
+        "usaf": "122260"
     },
     "location": {
         "latitude": 53.4,

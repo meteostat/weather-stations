@@ -6,10 +6,10 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "$icao": "KMWC",
-        "$iata": "MWC",
-        "$wban": "94869",
-        "$usaf": "726405"
+        "icao": "KMWC",
+        "iata": "MWC",
+        "wban": "94869",
+        "usaf": "726405"
     },
     "location": {
         "latitude": 43.1104,

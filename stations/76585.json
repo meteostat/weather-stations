@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "SLP",
     "identifiers": {
-        "$wmo": "76585",
-        "$ghcn": "MXM00076585",
-        "$usaf": "765850"
+        "wmo": "76585",
+        "ghcn": "MXM00076585",
+        "usaf": "765850"
     },
     "location": {
         "latitude": 21.3333,

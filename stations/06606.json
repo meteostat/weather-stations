@@ -6,8 +6,8 @@
     "country": "CH",
     "region": "NE",
     "identifiers": {
-        "$wmo": "06606",
-        "$mosmix": "06606"
+        "wmo": "06606",
+        "mosmix": "06606"
     },
     "location": {
         "latitude": 47.0475,

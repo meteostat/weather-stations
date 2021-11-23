@@ -6,8 +6,8 @@
     "country": "ES",
     "region": "CL",
     "identifiers": {
-        "$wmo": "08210",
-        "$ghcn": "SPE00119837"
+        "wmo": "08210",
+        "ghcn": "SPE00119837"
     },
     "location": {
         "latitude": 40.65,

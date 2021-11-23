@@ -6,12 +6,12 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$wmo": "70395",
-        "$icao": "PAKT",
-        "$iata": "KTN",
-        "$ghcn": "USW00025325",
-        "$wban": "25325",
-        "$usaf": "703950"
+        "wmo": "70395",
+        "icao": "PAKT",
+        "iata": "KTN",
+        "ghcn": "USW00025325",
+        "wban": "25325",
+        "usaf": "703950"
     },
     "location": {
         "latitude": 55.35,

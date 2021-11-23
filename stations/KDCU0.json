@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "$icao": "KDCU",
-        "$wban": "53852",
-        "$usaf": "722279"
+        "icao": "KDCU",
+        "wban": "53852",
+        "usaf": "722279"
     },
     "location": {
         "latitude": 34.6541,

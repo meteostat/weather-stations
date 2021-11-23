@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "TA",
     "identifiers": {
-        "$wmo": "28711",
-        "$icao": "UWKB",
-        "$iata": "UUA",
-        "$ghcn": "RSM00028711"
+        "wmo": "28711",
+        "icao": "UWKB",
+        "iata": "UUA",
+        "ghcn": "RSM00028711"
     },
     "location": {
         "latitude": 54.5833,

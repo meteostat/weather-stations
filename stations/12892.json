@@ -6,9 +6,9 @@
     "country": "HU",
     "region": "SZ",
     "identifiers": {
-        "$wmo": "12892",
-        "$icao": "LHNY",
-        "$usaf": "128920"
+        "wmo": "12892",
+        "icao": "LHNY",
+        "usaf": "128920"
     },
     "location": {
         "latitude": 47.9667,

@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "VOS",
     "identifiers": {
-        "$wmo": "36487",
-        "$ghcn": "KZ000036487"
+        "wmo": "36487",
+        "ghcn": "KZ000036487"
     },
     "location": {
         "latitude": 48.2667,

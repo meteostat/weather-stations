@@ -6,10 +6,10 @@
     "country": "PR",
     "region": null,
     "identifiers": {
-        "$icao": "TJIG",
-        "$iata": "SIG",
-        "$wban": "00494",
-        "$usaf": "785265"
+        "icao": "TJIG",
+        "iata": "SIG",
+        "wban": "00494",
+        "usaf": "785265"
     },
     "location": {
         "latitude": 18.4568,

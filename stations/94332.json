@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "$wmo": "94332",
-        "$icao": "YBMA",
-        "$iata": "ISA",
-        "$ghcn": "ASN00029126",
-        "$usaf": "943320"
+        "wmo": "94332",
+        "icao": "YBMA",
+        "iata": "ISA",
+        "ghcn": "ASN00029126",
+        "usaf": "943320"
     },
     "location": {
         "latitude": -20.6667,

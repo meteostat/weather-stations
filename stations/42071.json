@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "PB",
     "identifiers": {
-        "$wmo": "42071",
-        "$icao": "VIAR",
-        "$iata": "ATQ",
-        "$ghcn": "INM00042071",
-        "$usaf": "420710"
+        "wmo": "42071",
+        "icao": "VIAR",
+        "iata": "ATQ",
+        "ghcn": "INM00042071",
+        "usaf": "420710"
     },
     "location": {
         "latitude": 31.6333,

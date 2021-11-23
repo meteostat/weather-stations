@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "AC",
     "identifiers": {
-        "$wmo": "82704",
-        "$icao": "SBCZ",
-        "$iata": "CZS",
-        "$ghcn": "BR000082704",
-        "$usaf": "827040"
+        "wmo": "82704",
+        "icao": "SBCZ",
+        "iata": "CZS",
+        "ghcn": "BR000082704",
+        "usaf": "827040"
     },
     "location": {
         "latitude": -7.6333,

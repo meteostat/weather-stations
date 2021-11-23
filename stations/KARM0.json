@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KARM",
-        "$wban": "12953",
-        "$usaf": "722351"
+        "icao": "KARM",
+        "wban": "12953",
+        "usaf": "722351"
     },
     "location": {
         "latitude": 29.2543,

@@ -6,10 +6,10 @@
     "country": "CR",
     "region": "G",
     "identifiers": {
-        "$wmo": "78755",
-        "$icao": "MRNC",
-        "$iata": "NCT",
-        "$usaf": "787550"
+        "wmo": "78755",
+        "icao": "MRNC",
+        "iata": "NCT",
+        "usaf": "787550"
     },
     "location": {
         "latitude": 10.15,

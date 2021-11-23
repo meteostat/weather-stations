@@ -6,10 +6,10 @@
     "country": "ID",
     "region": "SG",
     "identifiers": {
-        "$wmo": "97192",
-        "$icao": "WAAB",
-        "$ghcn": "IDM00097192",
-        "$usaf": "971920"
+        "wmo": "97192",
+        "icao": "WAAB",
+        "ghcn": "IDM00097192",
+        "usaf": "971920"
     },
     "location": {
         "latitude": -5.4667,

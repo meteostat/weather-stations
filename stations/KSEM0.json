@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "$icao": "KSEM",
-        "$wban": "13850",
-        "$usaf": "722266"
+        "icao": "KSEM",
+        "wban": "13850",
+        "usaf": "722266"
     },
     "location": {
         "latitude": 32.3439,

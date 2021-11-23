@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "PAV",
     "identifiers": {
-        "$wmo": "28993",
-        "$ghcn": "KZ000028993",
-        "$usaf": "289930"
+        "wmo": "28993",
+        "ghcn": "KZ000028993",
+        "usaf": "289930"
     },
     "location": {
         "latitude": 53.15,

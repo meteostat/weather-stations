@@ -6,12 +6,12 @@
     "country": "PH",
     "region": "NCR",
     "identifiers": {
-        "$wmo": "98429",
-        "$icao": "RPLL",
-        "$iata": "MNL",
-        "$ghcn": "RP000098429",
-        "$usaf": "984290",
-        "$mosmix": "98429"
+        "wmo": "98429",
+        "icao": "RPLL",
+        "iata": "MNL",
+        "ghcn": "RP000098429",
+        "usaf": "984290",
+        "mosmix": "98429"
     },
     "location": {
         "latitude": 14.5167,

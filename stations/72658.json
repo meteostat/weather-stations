@@ -6,13 +6,13 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "$wmo": "72658",
-        "$icao": "KMSP",
-        "$iata": "MSP",
-        "$ghcn": "USW00014922",
-        "$wban": "14922",
-        "$usaf": "726580",
-        "$mosmix": "72658"
+        "wmo": "72658",
+        "icao": "KMSP",
+        "iata": "MSP",
+        "ghcn": "USW00014922",
+        "wban": "14922",
+        "usaf": "726580",
+        "mosmix": "72658"
     },
     "location": {
         "latitude": 44.8667,

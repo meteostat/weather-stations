@@ -6,9 +6,9 @@
     "country": "NP",
     "region": "KO",
     "identifiers": {
-        "$wmo": "44477",
-        "$ghcn": "NPM00044477",
-        "$usaf": "444770"
+        "wmo": "44477",
+        "ghcn": "NPM00044477",
+        "usaf": "444770"
     },
     "location": {
         "latitude": 26.9833,

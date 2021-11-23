@@ -6,8 +6,8 @@
     "country": "NF",
     "region": null,
     "identifiers": {
-        "$wmo": "95997",
-        "$ghcn": "ASM00095997"
+        "wmo": "95997",
+        "ghcn": "ASM00095997"
     },
     "location": {
         "latitude": -53.0189,

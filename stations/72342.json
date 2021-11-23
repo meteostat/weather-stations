@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "$wmo": "72342",
-        "$icao": "KRUE",
-        "$wban": "53920",
-        "$usaf": "723429"
+        "wmo": "72342",
+        "icao": "KRUE",
+        "wban": "53920",
+        "usaf": "723429"
     },
     "location": {
         "latitude": 35.25,

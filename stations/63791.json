@@ -6,12 +6,12 @@
     "country": "TZ",
     "region": "AR",
     "identifiers": {
-        "$wmo": "63791",
-        "$icao": "HTKJ",
-        "$iata": "JRO",
-        "$ghcn": "TZ000063791",
-        "$usaf": "637910",
-        "$mosmix": "63791"
+        "wmo": "63791",
+        "icao": "HTKJ",
+        "iata": "JRO",
+        "ghcn": "TZ000063791",
+        "usaf": "637910",
+        "mosmix": "63791"
     },
     "location": {
         "latitude": -3.4167,

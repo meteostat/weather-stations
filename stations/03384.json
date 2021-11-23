@@ -6,9 +6,9 @@
     "country": "GB",
     "region": "ERY",
     "identifiers": {
-        "$wmo": "03384",
-        "$icao": "EGXV",
-        "$usaf": "033840"
+        "wmo": "03384",
+        "icao": "EGXV",
+        "usaf": "033840"
     },
     "location": {
         "latitude": 53.8667,

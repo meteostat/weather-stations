@@ -6,10 +6,10 @@
     "country": "US",
     "region": "FL",
     "identifiers": {
-        "$icao": "KFPR",
-        "$iata": "FPR",
-        "$wban": "12895",
-        "$usaf": "722103"
+        "icao": "KFPR",
+        "iata": "FPR",
+        "wban": "12895",
+        "usaf": "722103"
     },
     "location": {
         "latitude": 27.4975,

@@ -6,11 +6,11 @@
     "country": "RO",
     "region": "AD",
     "identifiers": {
-        "$wmo": "15200",
-        "$icao": "LRAR",
-        "$iata": "ARW",
-        "$usaf": "152000",
-        "$mosmix": "15200"
+        "wmo": "15200",
+        "icao": "LRAR",
+        "iata": "ARW",
+        "usaf": "152000",
+        "mosmix": "15200"
     },
     "location": {
         "latitude": 46.2,

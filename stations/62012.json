@@ -6,9 +6,9 @@
     "country": "LY",
     "region": "KH",
     "identifiers": {
-        "$wmo": "62012",
-        "$ghcn": "LYM00062012",
-        "$usaf": "620120"
+        "wmo": "62012",
+        "ghcn": "LYM00062012",
+        "usaf": "620120"
     },
     "location": {
         "latitude": 32.6333,

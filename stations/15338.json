@@ -6,9 +6,9 @@
     "country": "RO",
     "region": "CS",
     "identifiers": {
-        "$wmo": "15338",
-        "$usaf": "153380",
-        "$mosmix": "15338"
+        "wmo": "15338",
+        "usaf": "153380",
+        "mosmix": "15338"
     },
     "location": {
         "latitude": 45.0333,

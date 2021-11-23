@@ -6,10 +6,10 @@
     "country": "PL",
     "region": "PM",
     "identifiers": {
-        "$wmo": "12120",
-        "$ghcn": "PL000012120",
-        "$usaf": "121200",
-        "$mosmix": "12120"
+        "wmo": "12120",
+        "ghcn": "PL000012120",
+        "usaf": "121200",
+        "mosmix": "12120"
     },
     "location": {
         "latitude": 54.75,

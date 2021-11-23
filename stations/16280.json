@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "LZ",
     "identifiers": {
-        "$wmo": "16280",
-        "$icao": "LIQZ",
-        "$ghcn": "ITM00016280",
-        "$usaf": "162800",
-        "$mosmix": "16280"
+        "wmo": "16280",
+        "icao": "LIQZ",
+        "ghcn": "ITM00016280",
+        "usaf": "162800",
+        "mosmix": "16280"
     },
     "location": {
         "latitude": 40.9167,

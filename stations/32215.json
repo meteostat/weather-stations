@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "SAK",
     "identifiers": {
-        "$wmo": "32215",
-        "$mosmix": "32215"
+        "wmo": "32215",
+        "mosmix": "32215"
     },
     "location": {
         "latitude": 50.6833,

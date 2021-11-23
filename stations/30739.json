@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "BU",
     "identifiers": {
-        "$wmo": "30739",
-        "$icao": "UIUH",
-        "$ghcn": "RSM00030739",
-        "$usaf": "307390"
+        "wmo": "30739",
+        "icao": "UIUH",
+        "ghcn": "RSM00030739",
+        "usaf": "307390"
     },
     "location": {
         "latitude": 52.1667,

@@ -6,13 +6,13 @@
     "country": "BM",
     "region": "SC",
     "identifiers": {
-        "$wmo": "78016",
-        "$icao": "TXKF",
-        "$iata": "BDA",
-        "$ghcn": "BDM00078016",
-        "$wban": "13601",
-        "$usaf": "780160",
-        "$mosmix": "78016"
+        "wmo": "78016",
+        "icao": "TXKF",
+        "iata": "BDA",
+        "ghcn": "BDM00078016",
+        "wban": "13601",
+        "usaf": "780160",
+        "mosmix": "78016"
     },
     "location": {
         "latitude": 32.3667,

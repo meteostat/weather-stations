@@ -6,12 +6,12 @@
     "country": "ML",
     "region": "MP",
     "identifiers": {
-        "$wmo": "61265",
-        "$icao": "GAMB",
-        "$iata": "MZI",
-        "$ghcn": "MLM00061265",
-        "$usaf": "612650",
-        "$mosmix": "61265"
+        "wmo": "61265",
+        "icao": "GAMB",
+        "iata": "MZI",
+        "ghcn": "MLM00061265",
+        "usaf": "612650",
+        "mosmix": "61265"
     },
     "location": {
         "latitude": 14.5167,

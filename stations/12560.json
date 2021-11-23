@@ -6,10 +6,10 @@
     "country": "PL",
     "region": "SL",
     "identifiers": {
-        "$wmo": "12560",
-        "$icao": "EPKT",
-        "$iata": "KTW",
-        "$mosmix": "12560"
+        "wmo": "12560",
+        "icao": "EPKT",
+        "iata": "KTW",
+        "mosmix": "12560"
     },
     "location": {
         "latitude": 50.2333,

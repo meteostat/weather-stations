@@ -6,10 +6,10 @@
     "country": "IS",
     "region": "AL",
     "identifiers": {
-        "$wmo": "04089",
-        "$icao": "BIEG",
-        "$iata": "EGS",
-        "$usaf": "040890"
+        "wmo": "04089",
+        "icao": "BIEG",
+        "iata": "EGS",
+        "usaf": "040890"
     },
     "location": {
         "latitude": 65.2833,

@@ -6,8 +6,8 @@
     "country": "IN",
     "region": "DD",
     "identifiers": {
-        "$icao": "VADN",
-        "$iata": "NMB"
+        "icao": "VADN",
+        "iata": "NMB"
     },
     "location": {
         "latitude": 20.4344,

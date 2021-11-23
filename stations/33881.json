@@ -6,9 +6,9 @@
     "country": "MD",
     "region": "VA",
     "identifiers": {
-        "$wmo": "33881",
-        "$ghcn": "MD000033881",
-        "$usaf": "338810"
+        "wmo": "33881",
+        "ghcn": "MD000033881",
+        "usaf": "338810"
     },
     "location": {
         "latitude": 46.4833,

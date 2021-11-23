@@ -6,12 +6,12 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "$national": "48208",
-        "$wmo": "71471",
-        "$icao": "CYDQ",
-        "$iata": "YDQ",
-        "$ghcn": "CA001182285",
-        "$wban": "25248"
+        "national": "48208",
+        "wmo": "71471",
+        "icao": "CYDQ",
+        "iata": "YDQ",
+        "ghcn": "CA001182285",
+        "wban": "25248"
     },
     "location": {
         "latitude": 55.74,

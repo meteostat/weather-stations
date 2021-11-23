@@ -2,16 +2,16 @@
     "id": "02404",
     "name": {
         "de": "Arvika Högvalta Flughafen",
-        "sv": "Arvika Högvalta Flygplats",
-        "en": "Arvika Hoegvalta Airport"
+        "en": "Arvika Hoegvalta Airport",
+        "sv": "Arvika Högvalta Flygplats"
     },
     "country": "SE",
     "region": "S",
     "identifiers": {
-        "$wmo": "02404",
-        "$icao": "ESKV",
-        "$usaf": "024110",
-        "$mosmix": "02404"
+        "wmo": "02404",
+        "icao": "ESKV",
+        "usaf": "024110",
+        "mosmix": "02404"
     },
     "location": {
         "latitude": 59.6667,

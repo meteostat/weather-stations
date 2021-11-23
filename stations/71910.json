@@ -6,10 +6,10 @@
     "country": "CA",
     "region": "NU",
     "identifiers": {
-        "$wmo": "71910",
-        "$icao": "CYTE",
-        "$ghcn": "CA002400634",
-        "$usaf": "719100"
+        "wmo": "71910",
+        "icao": "CYTE",
+        "ghcn": "CA002400634",
+        "usaf": "719100"
     },
     "location": {
         "latitude": 64.2167,

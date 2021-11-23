@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "$icao": "KTDO",
-        "$wban": "24241",
-        "$usaf": "727926"
+        "icao": "KTDO",
+        "wban": "24241",
+        "usaf": "727926"
     },
     "location": {
         "latitude": 46.4772,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$wmo": "47871",
-        "$icao": "PACK",
-        "$iata": "CYF"
+        "wmo": "47871",
+        "icao": "PACK",
+        "iata": "CYF"
     },
     "location": {
         "latitude": 60.1492,

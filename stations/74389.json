@@ -6,10 +6,10 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "$wmo": "74389",
-        "$icao": "KGYX",
-        "$ghcn": "USC00173295",
-        "$wban": "54762"
+        "wmo": "74389",
+        "icao": "KGYX",
+        "ghcn": "USC00173295",
+        "wban": "54762"
     },
     "location": {
         "latitude": 43.9,

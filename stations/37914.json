@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "IMI",
     "identifiers": {
-        "$wmo": "37914",
-        "$ghcn": "AJ000037914"
+        "wmo": "37914",
+        "ghcn": "AJ000037914"
     },
     "location": {
         "latitude": 39.8667,

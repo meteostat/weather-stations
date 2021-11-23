@@ -6,10 +6,10 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "$icao": "KEMP",
-        "$iata": "EMP",
-        "$wban": "13989",
-        "$usaf": "724556"
+        "icao": "KEMP",
+        "iata": "EMP",
+        "wban": "13989",
+        "usaf": "724556"
     },
     "location": {
         "latitude": 38.3306,

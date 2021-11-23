@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "NGR",
     "identifiers": {
-        "$wmo": "26179",
-        "$icao": "ULNN",
-        "$iata": "NVR",
-        "$ghcn": "RSM00026179"
+        "wmo": "26179",
+        "icao": "ULNN",
+        "iata": "NVR",
+        "ghcn": "RSM00026179"
     },
     "location": {
         "latitude": 58.5167,

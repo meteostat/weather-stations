@@ -6,9 +6,9 @@
     "country": "PK",
     "region": "N",
     "identifiers": {
-        "$wmo": "41523",
-        "$icao": "OPSS",
-        "$iata": "SDT"
+        "wmo": "41523",
+        "icao": "OPSS",
+        "iata": "SDT"
     },
     "location": {
         "latitude": 34.7333,

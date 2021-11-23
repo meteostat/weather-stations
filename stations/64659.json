@@ -6,10 +6,10 @@
     "country": "CF",
     "region": "HMB",
     "identifiers": {
-        "$wmo": "64659",
-        "$icao": "FEFB",
-        "$ghcn": "CT000004659",
-        "$usaf": "646590"
+        "wmo": "64659",
+        "icao": "FEFB",
+        "ghcn": "CT000004659",
+        "usaf": "646590"
     },
     "location": {
         "latitude": 5.4,

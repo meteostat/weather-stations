@@ -6,8 +6,8 @@
     "country": "EE",
     "region": "LN",
     "identifiers": {
-        "$wmo": "26128",
-        "$ghcn": "EN000026128"
+        "wmo": "26128",
+        "ghcn": "EN000026128"
     },
     "location": {
         "latitude": 58.5667,

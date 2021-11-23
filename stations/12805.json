@@ -6,9 +6,9 @@
     "country": "HU",
     "region": "GS",
     "identifiers": {
-        "$wmo": "12805",
-        "$usaf": "128050",
-        "$mosmix": "12805"
+        "wmo": "12805",
+        "usaf": "128050",
+        "mosmix": "12805"
     },
     "location": {
         "latitude": 47.6833,

@@ -6,12 +6,12 @@
     "country": "FM",
     "region": "K",
     "identifiers": {
-        "$wmo": "91356",
-        "$icao": "PTSA",
-        "$iata": "KSA",
-        "$ghcn": "FMC00914395",
-        "$wban": "00493",
-        "$usaf": "913560"
+        "wmo": "91356",
+        "icao": "PTSA",
+        "iata": "KSA",
+        "ghcn": "FMC00914395",
+        "wban": "00493",
+        "usaf": "913560"
     },
     "location": {
         "latitude": 5.35,

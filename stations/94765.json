@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "$wmo": "94765",
-        "$icao": "YSBK",
-        "$ghcn": "ASN00066137",
-        "$usaf": "947650"
+        "wmo": "94765",
+        "icao": "YSBK",
+        "ghcn": "ASN00066137",
+        "usaf": "947650"
     },
     "location": {
         "latitude": -33.9167,

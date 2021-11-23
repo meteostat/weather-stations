@@ -2,19 +2,19 @@
     "id": "10637",
     "name": {
         "de": "Frankfurt Flughafen",
-        "es": "Aeropuerto de Fráncfort",
-        "en": "Frankfurt Airport"
+        "en": "Frankfurt Airport",
+        "es": "Aeropuerto de Fráncfort"
     },
     "country": "DE",
     "region": "HE",
     "identifiers": {
-        "$national": "01420",
-        "$wmo": "10637",
-        "$icao": "EDDF",
-        "$iata": "FRA",
-        "$ghcn": "GMW00035032",
-        "$usaf": "106370",
-        "$mosmix": "10637"
+        "national": "01420",
+        "wmo": "10637",
+        "icao": "EDDF",
+        "iata": "FRA",
+        "ghcn": "GMW00035032",
+        "usaf": "106370",
+        "mosmix": "10637"
     },
     "location": {
         "latitude": 50.05,

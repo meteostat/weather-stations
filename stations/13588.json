@@ -6,9 +6,9 @@
     "country": "MK",
     "region": "KX",
     "identifiers": {
-        "$wmo": "13588",
-        "$ghcn": "MKM00013588",
-        "$usaf": "135880"
+        "wmo": "13588",
+        "ghcn": "MKM00013588",
+        "usaf": "135880"
     },
     "location": {
         "latitude": 42.0167,

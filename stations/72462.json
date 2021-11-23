@@ -6,12 +6,12 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$wmo": "72462",
-        "$icao": "KALS",
-        "$iata": "ALS",
-        "$ghcn": "USW00023061",
-        "$wban": "23061",
-        "$usaf": "724620"
+        "wmo": "72462",
+        "icao": "KALS",
+        "iata": "ALS",
+        "ghcn": "USW00023061",
+        "wban": "23061",
+        "usaf": "724620"
     },
     "location": {
         "latitude": 37.4333,

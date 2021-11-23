@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "JK",
     "identifiers": {
-        "$wmo": "42056",
-        "$iata": "IXJ",
-        "$ghcn": "IN008040500",
-        "$usaf": "420560"
+        "wmo": "42056",
+        "iata": "IXJ",
+        "ghcn": "IN008040500",
+        "usaf": "420560"
     },
     "location": {
         "latitude": 32.6667,

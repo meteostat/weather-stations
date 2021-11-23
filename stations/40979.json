@@ -6,9 +6,9 @@
     "country": "AF",
     "region": "ZAB",
     "identifiers": {
-        "$wmo": "40979",
-        "$icao": "OAKT",
-        "$usaf": "409790"
+        "wmo": "40979",
+        "icao": "OAKT",
+        "usaf": "409790"
     },
     "location": {
         "latitude": 32.1167,

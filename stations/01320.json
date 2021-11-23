@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "SF",
     "identifiers": {
-        "$wmo": "01320",
-        "$icao": "ENSD",
-        "$iata": "SDN",
-        "$usaf": "013200"
+        "wmo": "01320",
+        "icao": "ENSD",
+        "iata": "SDN",
+        "usaf": "013200"
     },
     "location": {
         "latitude": 61.8333,

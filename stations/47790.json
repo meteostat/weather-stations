@@ -6,10 +6,10 @@
     "country": "JP",
     "region": "SM",
     "identifiers": {
-        "$wmo": "47790",
-        "$icao": "RJOC",
-        "$iata": "IZO",
-        "$usaf": "477900"
+        "wmo": "47790",
+        "icao": "RJOC",
+        "iata": "IZO",
+        "usaf": "477900"
     },
     "location": {
         "latitude": 35.4167,

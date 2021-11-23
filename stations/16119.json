@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "LG",
     "identifiers": {
-        "$wmo": "16119",
-        "$icao": "LIMV",
-        "$usaf": "161190"
+        "wmo": "16119",
+        "icao": "LIMV",
+        "usaf": "161190"
     },
     "location": {
         "latitude": 44.6333,

@@ -6,11 +6,11 @@
     "country": "CD",
     "region": "KE",
     "identifiers": {
-        "$wmo": "64247",
-        "$icao": "FZWA",
-        "$iata": "MJM",
-        "$ghcn": "CGM00064247",
-        "$usaf": "641556"
+        "wmo": "64247",
+        "icao": "FZWA",
+        "iata": "MJM",
+        "ghcn": "CGM00064247",
+        "usaf": "641556"
     },
     "location": {
         "latitude": -6.1667,

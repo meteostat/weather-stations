@@ -6,11 +6,11 @@
     "country": "FJ",
     "region": "RO",
     "identifiers": {
-        "$wmo": "91650",
-        "$icao": "NFNR",
-        "$iata": "RTA",
-        "$ghcn": "FJ000091650",
-        "$usaf": "916500"
+        "wmo": "91650",
+        "icao": "NFNR",
+        "iata": "RTA",
+        "ghcn": "FJ000091650",
+        "usaf": "916500"
     },
     "location": {
         "latitude": -12.5,

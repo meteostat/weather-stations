@@ -2,17 +2,17 @@
     "id": "01223",
     "name": {
         "de": "Kristiansund Flughafen",
-        "no": "Kristiansund Flughavn",
-        "en": "Kristiansund Airport"
+        "en": "Kristiansund Airport",
+        "no": "Kristiansund Flughavn"
     },
     "country": "NO",
     "region": "15",
     "identifiers": {
-        "$wmo": "01223",
-        "$icao": "ENKB",
-        "$iata": "KSU",
-        "$usaf": "012230",
-        "$mosmix": "01223"
+        "wmo": "01223",
+        "icao": "ENKB",
+        "iata": "KSU",
+        "usaf": "012230",
+        "mosmix": "01223"
     },
     "location": {
         "latitude": 63.1167,

@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "U",
     "identifiers": {
-        "$wmo": "07579",
-        "$icao": "LFMO",
-        "$iata": "XOG",
-        "$usaf": "075790",
-        "$mosmix": "07579"
+        "wmo": "07579",
+        "icao": "LFMO",
+        "iata": "XOG",
+        "usaf": "075790",
+        "mosmix": "07579"
     },
     "location": {
         "latitude": 44.1333,

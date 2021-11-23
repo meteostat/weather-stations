@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "$icao": "KEUL",
-        "$wban": "94195",
-        "$usaf": "726813"
+        "icao": "KEUL",
+        "wban": "94195",
+        "usaf": "726813"
     },
     "location": {
         "latitude": 43.6419,

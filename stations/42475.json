@@ -6,12 +6,12 @@
     "country": "IN",
     "region": "UP",
     "identifiers": {
-        "$wmo": "42475",
-        "$icao": "VIAL",
-        "$iata": "IXD",
-        "$ghcn": "INM00042475",
-        "$usaf": "424750",
-        "$mosmix": "42475"
+        "wmo": "42475",
+        "icao": "VIAL",
+        "iata": "IXD",
+        "ghcn": "INM00042475",
+        "usaf": "424750",
+        "mosmix": "42475"
     },
     "location": {
         "latitude": 25.45,

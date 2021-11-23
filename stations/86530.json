@@ -6,11 +6,11 @@
     "country": "UY",
     "region": "DU",
     "identifiers": {
-        "$wmo": "86530",
-        "$icao": "SUDU",
-        "$iata": "DZO",
-        "$ghcn": "UY000002206",
-        "$usaf": "865300"
+        "wmo": "86530",
+        "icao": "SUDU",
+        "iata": "DZO",
+        "ghcn": "UY000002206",
+        "usaf": "865300"
     },
     "location": {
         "latitude": -33.35,

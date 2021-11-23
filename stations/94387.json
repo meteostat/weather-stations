@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "$wmo": "94387",
-        "$icao": "YBUD",
-        "$iata": "BDB",
-        "$ghcn": "ASN00039128",
-        "$mosmix": "94387"
+        "wmo": "94387",
+        "icao": "YBUD",
+        "iata": "BDB",
+        "ghcn": "ASN00039128",
+        "mosmix": "94387"
     },
     "location": {
         "latitude": -24.9,

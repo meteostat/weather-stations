@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "$icao": "KMKL",
-        "$iata": "MKL",
-        "$wban": "03811",
-        "$usaf": "723346"
+        "icao": "KMKL",
+        "iata": "MKL",
+        "wban": "03811",
+        "usaf": "723346"
     },
     "location": {
         "latitude": 35.5999,

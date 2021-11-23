@@ -6,12 +6,12 @@
     "country": "CL",
     "region": "VS",
     "identifiers": {
-        "$wmo": "85469",
-        "$icao": "SCIP",
-        "$iata": "IPC",
-        "$ghcn": "CI000085469",
-        "$usaf": "854690",
-        "$mosmix": "85469"
+        "wmo": "85469",
+        "icao": "SCIP",
+        "iata": "IPC",
+        "ghcn": "CI000085469",
+        "usaf": "854690",
+        "mosmix": "85469"
     },
     "location": {
         "latitude": -27.15,

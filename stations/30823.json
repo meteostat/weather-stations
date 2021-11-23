@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "BU",
     "identifiers": {
-        "$wmo": "30823",
-        "$icao": "UIUU",
-        "$iata": "UUD",
-        "$ghcn": "RSM00030823",
-        "$usaf": "308230"
+        "wmo": "30823",
+        "icao": "UIUU",
+        "iata": "UUD",
+        "ghcn": "RSM00030823",
+        "usaf": "308230"
     },
     "location": {
         "latitude": 51.8333,

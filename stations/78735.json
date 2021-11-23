@@ -6,10 +6,10 @@
     "country": "NI",
     "region": "CT",
     "identifiers": {
-        "$wmo": "78735",
-        "$icao": "MNJU",
-        "$ghcn": "NU000069034",
-        "$usaf": "787350"
+        "wmo": "78735",
+        "icao": "MNJU",
+        "ghcn": "NU000069034",
+        "usaf": "787350"
     },
     "location": {
         "latitude": 12.1,

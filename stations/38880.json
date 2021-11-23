@@ -6,12 +6,12 @@
     "country": "TM",
     "region": "AL",
     "identifiers": {
-        "$wmo": "38880",
-        "$icao": "UTAA",
-        "$iata": "ASB",
-        "$ghcn": "TX000038880",
-        "$usaf": "388800",
-        "$mosmix": "38880"
+        "wmo": "38880",
+        "icao": "UTAA",
+        "iata": "ASB",
+        "ghcn": "TX000038880",
+        "usaf": "388800",
+        "mosmix": "38880"
     },
     "location": {
         "latitude": 37.9667,

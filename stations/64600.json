@@ -6,11 +6,11 @@
     "country": "CF",
     "region": "MKD",
     "identifiers": {
-        "$wmo": "64600",
-        "$icao": "FEFT",
-        "$iata": "BBT",
-        "$ghcn": "CT000004600",
-        "$usaf": "646000"
+        "wmo": "64600",
+        "icao": "FEFT",
+        "iata": "BBT",
+        "ghcn": "CT000004600",
+        "usaf": "646000"
     },
     "location": {
         "latitude": 4.25,

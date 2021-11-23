@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "CHI",
     "identifiers": {
-        "$wmo": "30758",
-        "$icao": "UIAA",
-        "$ghcn": "RSM00030758",
-        "$usaf": "307580",
-        "$mosmix": "30758"
+        "wmo": "30758",
+        "icao": "UIAA",
+        "ghcn": "RSM00030758",
+        "usaf": "307580",
+        "mosmix": "30758"
     },
     "location": {
         "latitude": 52.0833,

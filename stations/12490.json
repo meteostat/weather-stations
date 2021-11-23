@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "LL",
     "identifiers": {
-        "$wmo": "12490",
-        "$icao": "EPDE",
-        "$usaf": "124900"
+        "wmo": "12490",
+        "icao": "EPDE",
+        "usaf": "124900"
     },
     "location": {
         "latitude": 51.55,

@@ -6,11 +6,11 @@
     "country": "SY",
     "region": "LA",
     "identifiers": {
-        "$wmo": "40022",
-        "$icao": "OSLK",
-        "$iata": "LTK",
-        "$ghcn": "SY000040022",
-        "$usaf": "400250"
+        "wmo": "40022",
+        "icao": "OSLK",
+        "iata": "LTK",
+        "ghcn": "SY000040022",
+        "usaf": "400250"
     },
     "location": {
         "latitude": 35.5333,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "PA",
     "identifiers": {
-        "$icao": "KPNE",
-        "$iata": "PNE",
-        "$wban": "94732",
-        "$usaf": "724085"
+        "icao": "KPNE",
+        "iata": "PNE",
+        "wban": "94732",
+        "usaf": "724085"
     },
     "location": {
         "latitude": 40.0819,

@@ -6,10 +6,10 @@
     "country": "CL",
     "region": "AT",
     "identifiers": {
-        "$wmo": "85460",
-        "$icao": "SCRA",
-        "$iata": "CNR",
-        "$usaf": "854600"
+        "wmo": "85460",
+        "icao": "SCRA",
+        "iata": "CNR",
+        "usaf": "854600"
     },
     "location": {
         "latitude": -26.3167,

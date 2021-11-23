@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "NLE",
     "identifiers": {
-        "$wmo": "76393",
-        "$ghcn": "MX000076393",
-        "$usaf": "763930"
+        "wmo": "76393",
+        "ghcn": "MX000076393",
+        "usaf": "763930"
     },
     "location": {
         "latitude": 25.8667,

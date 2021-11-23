@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "AN",
     "identifiers": {
-        "$wmo": "43333",
-        "$icao": "VEPB",
-        "$ghcn": "IN099999901",
-        "$usaf": "433330"
+        "wmo": "43333",
+        "icao": "VEPB",
+        "ghcn": "IN099999901",
+        "usaf": "433330"
     },
     "location": {
         "latitude": 11.6667,

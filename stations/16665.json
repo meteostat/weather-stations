@@ -6,10 +6,10 @@
     "country": "GR",
     "region": "LI",
     "identifiers": {
-        "$wmo": "16665",
-        "$icao": "LGBL",
-        "$iata": "VOL",
-        "$usaf": "166650"
+        "wmo": "16665",
+        "icao": "LGBL",
+        "iata": "VOL",
+        "usaf": "166650"
     },
     "location": {
         "latitude": 39.2167,

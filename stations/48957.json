@@ -6,10 +6,10 @@
     "country": "LA",
     "region": "AT",
     "identifiers": {
-        "$wmo": "48957",
-        "$icao": "VLAP",
-        "$iata": "AOU",
-        "$usaf": "489570"
+        "wmo": "48957",
+        "icao": "VLAP",
+        "iata": "AOU",
+        "usaf": "489570"
     },
     "location": {
         "latitude": 14.8,

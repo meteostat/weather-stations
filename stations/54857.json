@@ -6,12 +6,12 @@
     "country": "CN",
     "region": "SD",
     "identifiers": {
-        "$wmo": "54857",
-        "$icao": "ZSQD",
-        "$iata": "TAO",
-        "$ghcn": "CHM00054857",
-        "$usaf": "548570",
-        "$mosmix": "54857"
+        "wmo": "54857",
+        "icao": "ZSQD",
+        "iata": "TAO",
+        "ghcn": "CHM00054857",
+        "usaf": "548570",
+        "mosmix": "54857"
     },
     "location": {
         "latitude": 36.0667,

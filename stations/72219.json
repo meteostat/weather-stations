@@ -6,13 +6,13 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "$wmo": "72219",
-        "$icao": "KATL",
-        "$iata": "ATL",
-        "$ghcn": "USW00013874",
-        "$wban": "13874",
-        "$usaf": "722190",
-        "$mosmix": "72219"
+        "wmo": "72219",
+        "icao": "KATL",
+        "iata": "ATL",
+        "ghcn": "USW00013874",
+        "wban": "13874",
+        "usaf": "722190",
+        "mosmix": "72219"
     },
     "location": {
         "latitude": 33.65,

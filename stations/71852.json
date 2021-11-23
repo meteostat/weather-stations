@@ -6,12 +6,12 @@
     "country": "CA",
     "region": "MB",
     "identifiers": {
-        "$wmo": "71852",
-        "$icao": "CYWG",
-        "$iata": "YWG",
-        "$ghcn": "CA005023222",
-        "$usaf": "718520",
-        "$mosmix": "71852"
+        "wmo": "71852",
+        "icao": "CYWG",
+        "iata": "YWG",
+        "ghcn": "CA005023222",
+        "usaf": "718520",
+        "mosmix": "71852"
     },
     "location": {
         "latitude": 49.9,

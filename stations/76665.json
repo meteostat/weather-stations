@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "MIC",
     "identifiers": {
-        "$wmo": "76665",
-        "$ghcn": "MXM00076665",
-        "$usaf": "766650"
+        "wmo": "76665",
+        "ghcn": "MXM00076665",
+        "usaf": "766650"
     },
     "location": {
         "latitude": 19.7,

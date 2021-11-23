@@ -6,13 +6,13 @@
     "country": "US",
     "region": "KY",
     "identifiers": {
-        "$wmo": "72421",
-        "$icao": "KCVG",
-        "$iata": "CVG",
-        "$ghcn": "USW00093814",
-        "$wban": "93814",
-        "$usaf": "724210",
-        "$mosmix": "72421"
+        "wmo": "72421",
+        "icao": "KCVG",
+        "iata": "CVG",
+        "ghcn": "USW00093814",
+        "wban": "93814",
+        "usaf": "724210",
+        "mosmix": "72421"
     },
     "location": {
         "latitude": 39.05,

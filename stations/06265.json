@@ -6,9 +6,9 @@
     "country": "NL",
     "region": "UT",
     "identifiers": {
-        "$wmo": "06265",
-        "$icao": "EHSB",
-        "$usaf": "062650"
+        "wmo": "06265",
+        "icao": "EHSB",
+        "usaf": "062650"
     },
     "location": {
         "latitude": 52.1333,

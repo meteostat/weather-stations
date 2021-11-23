@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$wmo": "72555",
-        "$icao": "KK20",
-        "$ghcn": "USW00013301"
+        "wmo": "72555",
+        "icao": "KK20",
+        "ghcn": "USW00013301"
     },
     "location": {
         "latitude": 37.3874,

@@ -6,11 +6,11 @@
     "country": "CO",
     "region": "SAN",
     "identifiers": {
-        "$wmo": "80091",
-        "$icao": "SKEJ",
-        "$iata": "EJA",
-        "$ghcn": "COM00080091",
-        "$usaf": "800910"
+        "wmo": "80091",
+        "icao": "SKEJ",
+        "iata": "EJA",
+        "ghcn": "COM00080091",
+        "usaf": "800910"
     },
     "location": {
         "latitude": 7.0167,

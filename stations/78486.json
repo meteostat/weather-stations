@@ -6,9 +6,9 @@
     "country": "DO",
     "region": null,
     "identifiers": {
-        "$wmo": "78486",
-        "$ghcn": "DRM00078486",
-        "$mosmix": "78486"
+        "wmo": "78486",
+        "ghcn": "DRM00078486",
+        "mosmix": "78486"
     },
     "location": {
         "latitude": 18.4333,

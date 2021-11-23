@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "YT",
     "identifiers": {
-        "$wmo": "47588",
-        "$ghcn": "JA000047588",
-        "$mosmix": "47588"
+        "wmo": "47588",
+        "ghcn": "JA000047588",
+        "mosmix": "47588"
     },
     "location": {
         "latitude": 38.25,

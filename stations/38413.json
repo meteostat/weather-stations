@@ -6,10 +6,10 @@
     "country": "UZ",
     "region": "NW",
     "identifiers": {
-        "$wmo": "38413",
-        "$icao": "UTSM",
-        "$ghcn": "UZM00038413",
-        "$usaf": "384130"
+        "wmo": "38413",
+        "icao": "UTSM",
+        "ghcn": "UZM00038413",
+        "usaf": "384130"
     },
     "location": {
         "latitude": 41.7333,

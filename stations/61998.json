@@ -6,8 +6,8 @@
     "country": "TF",
     "region": "KG",
     "identifiers": {
-        "$wmo": "61998",
-        "$ghcn": "FRM00061998"
+        "wmo": "61998",
+        "ghcn": "FRM00061998"
     },
     "location": {
         "latitude": -49.35,

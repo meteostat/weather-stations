@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "$icao": "CYSP",
-        "$iata": "YSP",
-        "$usaf": "710514"
+        "icao": "CYSP",
+        "iata": "YSP",
+        "usaf": "710514"
     },
     "location": {
         "latitude": 48.7553,

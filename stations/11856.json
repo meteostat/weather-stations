@@ -6,8 +6,8 @@
     "country": "SK",
     "region": "NI",
     "identifiers": {
-        "$wmo": "11856",
-        "$mosmix": "11856"
+        "wmo": "11856",
+        "mosmix": "11856"
     },
     "location": {
         "latitude": 48.2833,

@@ -6,10 +6,10 @@
     "country": "LY",
     "region": "KU",
     "identifiers": {
-        "$wmo": "62259",
-        "$ghcn": "LYM00062259",
-        "$usaf": "622590",
-        "$mosmix": "62259"
+        "wmo": "62259",
+        "ghcn": "LYM00062259",
+        "usaf": "622590",
+        "mosmix": "62259"
     },
     "location": {
         "latitude": 25.8,

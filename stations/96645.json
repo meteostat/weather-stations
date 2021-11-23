@@ -6,10 +6,10 @@
     "country": "ID",
     "region": "KT",
     "identifiers": {
-        "$wmo": "96645",
-        "$icao": "WRBI",
-        "$ghcn": "IDM00096645",
-        "$usaf": "966450"
+        "wmo": "96645",
+        "icao": "WRBI",
+        "ghcn": "IDM00096645",
+        "usaf": "966450"
     },
     "location": {
         "latitude": -2.7,

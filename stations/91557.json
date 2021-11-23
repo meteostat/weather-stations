@@ -6,11 +6,11 @@
     "country": "VU",
     "region": "SH",
     "identifiers": {
-        "$wmo": "91557",
-        "$icao": "NVVV",
-        "$iata": "VLI",
-        "$ghcn": "NHM00091557",
-        "$usaf": "915570"
+        "wmo": "91557",
+        "icao": "NVVV",
+        "iata": "VLI",
+        "ghcn": "NHM00091557",
+        "usaf": "915570"
     },
     "location": {
         "latitude": -17.7,

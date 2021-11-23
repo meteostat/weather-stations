@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$icao": "KGSB",
-        "$iata": "GSB",
-        "$wban": "13713",
-        "$usaf": "723066"
+        "icao": "KGSB",
+        "iata": "GSB",
+        "wban": "13713",
+        "usaf": "723066"
     },
     "location": {
         "latitude": 35.3394,

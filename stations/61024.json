@@ -6,12 +6,12 @@
     "country": "NE",
     "region": "AG",
     "identifiers": {
-        "$wmo": "61024",
-        "$icao": "DRZA",
-        "$iata": "AJY",
-        "$ghcn": "NG000061024",
-        "$usaf": "610240",
-        "$mosmix": "61024"
+        "wmo": "61024",
+        "icao": "DRZA",
+        "iata": "AJY",
+        "ghcn": "NG000061024",
+        "usaf": "610240",
+        "mosmix": "61024"
     },
     "location": {
         "latitude": 16.9667,

@@ -6,12 +6,12 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "$national": "52258",
-        "$wmo": "71068",
-        "$icao": "CYPE",
-        "$iata": "YPE",
-        "$ghcn": "CA003075040",
-        "$usaf": "710680"
+        "national": "52258",
+        "wmo": "71068",
+        "icao": "CYPE",
+        "iata": "YPE",
+        "ghcn": "CA003075040",
+        "usaf": "710680"
     },
     "location": {
         "latitude": 56.23,

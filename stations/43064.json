@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "MM",
     "identifiers": {
-        "$wmo": "43064",
-        "$icao": "VAPO",
-        "$iata": "PNQ"
+        "wmo": "43064",
+        "icao": "VAPO",
+        "iata": "PNQ"
     },
     "location": {
         "latitude": 18.5833,

@@ -6,12 +6,12 @@
     "country": "PL",
     "region": "DO",
     "identifiers": {
-        "$wmo": "12424",
-        "$icao": "EPWR",
-        "$iata": "WRO",
-        "$ghcn": "PLM00012424",
-        "$usaf": "124240",
-        "$mosmix": "12424"
+        "wmo": "12424",
+        "icao": "EPWR",
+        "iata": "WRO",
+        "ghcn": "PLM00012424",
+        "usaf": "124240",
+        "mosmix": "12424"
     },
     "location": {
         "latitude": 51.1,

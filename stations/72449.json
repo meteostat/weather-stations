@@ -6,12 +6,12 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "$wmo": "72449",
-        "$icao": "KSTJ",
-        "$iata": "STJ",
-        "$ghcn": "USW00013993",
-        "$wban": "13993",
-        "$usaf": "724490"
+        "wmo": "72449",
+        "icao": "KSTJ",
+        "iata": "STJ",
+        "ghcn": "USW00013993",
+        "wban": "13993",
+        "usaf": "724490"
     },
     "location": {
         "latitude": 39.7667,

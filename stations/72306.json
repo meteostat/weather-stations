@@ -6,13 +6,13 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$wmo": "72306",
-        "$icao": "KRDU",
-        "$iata": "RDU",
-        "$ghcn": "USW00013722",
-        "$wban": "13722",
-        "$usaf": "723060",
-        "$mosmix": "72306"
+        "wmo": "72306",
+        "icao": "KRDU",
+        "iata": "RDU",
+        "ghcn": "USW00013722",
+        "wban": "13722",
+        "usaf": "723060",
+        "mosmix": "72306"
     },
     "location": {
         "latitude": 35.9,

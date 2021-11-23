@@ -6,12 +6,12 @@
     "country": "CN",
     "region": "YN",
     "identifiers": {
-        "$wmo": "56778",
-        "$icao": "ZPPP",
-        "$iata": "KMG",
-        "$ghcn": "CHM00056778",
-        "$usaf": "567780",
-        "$mosmix": "56778"
+        "wmo": "56778",
+        "icao": "ZPPP",
+        "iata": "KMG",
+        "ghcn": "CHM00056778",
+        "usaf": "567780",
+        "mosmix": "56778"
     },
     "location": {
         "latitude": 25.0167,

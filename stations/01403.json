@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "RO",
     "identifiers": {
-        "$wmo": "01403",
-        "$ghcn": "NO000014030",
-        "$usaf": "014030",
-        "$mosmix": "01403"
+        "wmo": "01403",
+        "ghcn": "NO000014030",
+        "usaf": "014030",
+        "mosmix": "01403"
     },
     "location": {
         "latitude": 59.3,

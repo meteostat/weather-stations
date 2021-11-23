@@ -6,11 +6,11 @@
     "country": "KM",
     "region": "GC",
     "identifiers": {
-        "$wmo": "67002",
-        "$icao": "FMCH",
-        "$iata": "HAH",
-        "$usaf": "670020",
-        "$mosmix": "67002"
+        "wmo": "67002",
+        "icao": "FMCH",
+        "iata": "HAH",
+        "usaf": "670020",
+        "mosmix": "67002"
     },
     "location": {
         "latitude": -11.5333,

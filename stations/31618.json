@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "YEV",
     "identifiers": {
-        "$wmo": "31618",
-        "$ghcn": "RSM00031618"
+        "wmo": "31618",
+        "ghcn": "RSM00031618"
     },
     "location": {
         "latitude": 49.0167,

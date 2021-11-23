@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "WB",
     "identifiers": {
-        "$wmo": "42398",
-        "$icao": "VEBD",
-        "$iata": "IXB",
-        "$ghcn": "IN024059900",
-        "$usaf": "423980"
+        "wmo": "42398",
+        "icao": "VEBD",
+        "iata": "IXB",
+        "ghcn": "IN024059900",
+        "usaf": "423980"
     },
     "location": {
         "latitude": 26.6333,

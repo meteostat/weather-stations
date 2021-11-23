@@ -6,13 +6,13 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$wmo": "70273",
-        "$icao": "PANC",
-        "$iata": "MRI",
-        "$ghcn": "USW00026451",
-        "$wban": "26451",
-        "$usaf": "702730",
-        "$mosmix": "70273"
+        "wmo": "70273",
+        "icao": "PANC",
+        "iata": "MRI",
+        "ghcn": "USW00026451",
+        "wban": "26451",
+        "usaf": "702730",
+        "mosmix": "70273"
     },
     "location": {
         "latitude": 61.1667,

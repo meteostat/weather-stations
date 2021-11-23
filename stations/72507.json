@@ -6,12 +6,12 @@
     "country": "US",
     "region": "RI",
     "identifiers": {
-        "$wmo": "72507",
-        "$icao": "KPVD",
-        "$iata": "PVD",
-        "$ghcn": "USW00014765",
-        "$wban": "14765",
-        "$usaf": "725070"
+        "wmo": "72507",
+        "icao": "KPVD",
+        "iata": "PVD",
+        "ghcn": "USW00014765",
+        "wban": "14765",
+        "usaf": "725070"
     },
     "location": {
         "latitude": 41.7333,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NC",
     "identifiers": {
-        "$wmo": "72305",
-        "$icao": "KMHX",
-        "$usaf": "723050"
+        "wmo": "72305",
+        "icao": "KMHX",
+        "usaf": "723050"
     },
     "location": {
         "latitude": 34.7833,

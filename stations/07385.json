@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "D",
     "identifiers": {
-        "$wmo": "07385",
-        "$icao": "LFLM",
-        "$iata": "QNX",
-        "$usaf": "073850",
-        "$mosmix": "07385"
+        "wmo": "07385",
+        "icao": "LFLM",
+        "iata": "QNX",
+        "usaf": "073850",
+        "mosmix": "07385"
     },
     "location": {
         "latitude": 46.3,

@@ -6,11 +6,11 @@
     "country": "EG",
     "region": "SHS",
     "identifiers": {
-        "$wmo": "62337",
-        "$icao": "HEAR",
-        "$iata": "AAC",
-        "$ghcn": "EGM00062337",
-        "$usaf": "623370"
+        "wmo": "62337",
+        "icao": "HEAR",
+        "iata": "AAC",
+        "ghcn": "EGM00062337",
+        "usaf": "623370"
     },
     "location": {
         "latitude": 31.0833,

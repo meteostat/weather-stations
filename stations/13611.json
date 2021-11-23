@@ -6,9 +6,9 @@
     "country": "AL",
     "region": "DR",
     "identifiers": {
-        "$wmo": "13611",
-        "$usaf": "136110",
-        "$mosmix": "13611"
+        "wmo": "13611",
+        "usaf": "136110",
+        "mosmix": "13611"
     },
     "location": {
         "latitude": 41.3,

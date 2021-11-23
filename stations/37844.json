@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "KUR",
     "identifiers": {
-        "$wmo": "37844",
-        "$ghcn": "AJ000037844"
+        "wmo": "37844",
+        "ghcn": "AJ000037844"
     },
     "location": {
         "latitude": 40.3333,

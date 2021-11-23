@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "SAM",
     "identifiers": {
-        "$wmo": "27983",
-        "$ghcn": "RSM00027983"
+        "wmo": "27983",
+        "ghcn": "RSM00027983"
     },
     "location": {
         "latitude": 53.1833,

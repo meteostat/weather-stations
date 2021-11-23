@@ -6,11 +6,11 @@
     "country": "BE",
     "region": "VOV",
     "identifiers": {
-        "$wmo": "06431",
-        "$icao": "EBGT",
-        "$iata": "GNE",
-        "$usaf": "064310",
-        "$mosmix": "06431"
+        "wmo": "06431",
+        "icao": "EBGT",
+        "iata": "GNE",
+        "usaf": "064310",
+        "mosmix": "06431"
     },
     "location": {
         "latitude": 51.1833,

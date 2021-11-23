@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "$icao": "KAXN",
-        "$iata": "AXN",
-        "$wban": "14910",
-        "$usaf": "726557"
+        "icao": "KAXN",
+        "iata": "AXN",
+        "wban": "14910",
+        "usaf": "726557"
     },
     "location": {
         "latitude": 45.8663,

@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "SP",
     "identifiers": {
-        "$wmo": "16125",
-        "$icao": "LIQW",
-        "$usaf": "161250",
-        "$mosmix": "16125"
+        "wmo": "16125",
+        "icao": "LIQW",
+        "usaf": "161250",
+        "mosmix": "16125"
     },
     "location": {
         "latitude": 44.0833,

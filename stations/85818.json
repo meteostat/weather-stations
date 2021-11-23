@@ -6,10 +6,10 @@
     "country": "CL",
     "region": "LL",
     "identifiers": {
-        "$wmo": "85818",
-        "$icao": "SCAC",
-        "$iata": "ZUD",
-        "$usaf": "858180"
+        "wmo": "85818",
+        "icao": "SCAC",
+        "iata": "ZUD",
+        "usaf": "858180"
     },
     "location": {
         "latitude": -41.9,

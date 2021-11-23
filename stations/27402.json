@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "TVE",
     "identifiers": {
-        "$wmo": "27402",
-        "$icao": "UUEM",
-        "$ghcn": "RSM00027402",
-        "$usaf": "274020"
+        "wmo": "27402",
+        "icao": "UUEM",
+        "ghcn": "RSM00027402",
+        "usaf": "274020"
     },
     "location": {
         "latitude": 56.9,

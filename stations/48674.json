@@ -6,11 +6,11 @@
     "country": "MY",
     "region": "JH",
     "identifiers": {
-        "$wmo": "48674",
-        "$icao": "WMAU",
-        "$iata": "MEP",
-        "$ghcn": "MYM00048674",
-        "$usaf": "486021"
+        "wmo": "48674",
+        "icao": "WMAU",
+        "iata": "MEP",
+        "ghcn": "MYM00048674",
+        "usaf": "486021"
     },
     "location": {
         "latitude": 2.45,

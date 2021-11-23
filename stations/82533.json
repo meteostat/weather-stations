@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "AM",
     "identifiers": {
-        "$wmo": "82533",
-        "$icao": "SBMY",
-        "$iata": "MNX",
-        "$ghcn": "BRM00082533",
-        "$usaf": "825330"
+        "wmo": "82533",
+        "icao": "SBMY",
+        "iata": "MNX",
+        "ghcn": "BRM00082533",
+        "usaf": "825330"
     },
     "location": {
         "latitude": -5.8167,

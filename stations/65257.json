@@ -6,10 +6,10 @@
     "country": "NG",
     "region": "EN",
     "identifiers": {
-        "$wmo": "65257",
-        "$icao": "DNEN",
-        "$iata": "ENU",
-        "$ghcn": "NIM00065257"
+        "wmo": "65257",
+        "icao": "DNEN",
+        "iata": "ENU",
+        "ghcn": "NIM00065257"
     },
     "location": {
         "latitude": 6.4667,

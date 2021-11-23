@@ -6,9 +6,9 @@
     "country": "PF",
     "region": "IC",
     "identifiers": {
-        "$wmo": "91952",
-        "$icao": "NTTX",
-        "$usaf": "919520"
+        "wmo": "91952",
+        "icao": "NTTX",
+        "usaf": "919520"
     },
     "location": {
         "latitude": -21.8167,

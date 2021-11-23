@@ -6,9 +6,9 @@
     "country": "MR",
     "region": "TZ",
     "identifiers": {
-        "$wmo": "61404",
-        "$ghcn": "MRM00061404",
-        "$usaf": "614040"
+        "wmo": "61404",
+        "ghcn": "MRM00061404",
+        "usaf": "614040"
     },
     "location": {
         "latitude": 22.75,

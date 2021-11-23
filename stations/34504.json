@@ -6,9 +6,9 @@
     "country": "UA",
     "region": "DP",
     "identifiers": {
-        "$wmo": "34504",
-        "$ghcn": "UPM00034504",
-        "$mosmix": "34504"
+        "wmo": "34504",
+        "ghcn": "UPM00034504",
+        "mosmix": "34504"
     },
     "location": {
         "latitude": 48.6,

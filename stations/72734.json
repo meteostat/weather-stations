@@ -6,12 +6,12 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$wmo": "72734",
-        "$icao": "KANJ",
-        "$ghcn": "USW00014847",
-        "$wban": "14847",
-        "$usaf": "727340",
-        "$mosmix": "72734"
+        "wmo": "72734",
+        "icao": "KANJ",
+        "ghcn": "USW00014847",
+        "wban": "14847",
+        "usaf": "727340",
+        "mosmix": "72734"
     },
     "location": {
         "latitude": 46.4833,

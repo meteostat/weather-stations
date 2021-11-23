@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "VER",
     "identifiers": {
-        "$wmo": "76741",
-        "$icao": "MMMT",
-        "$iata": "MTT",
-        "$ghcn": "MXM00076741",
-        "$usaf": "767383"
+        "wmo": "76741",
+        "icao": "MMMT",
+        "iata": "MTT",
+        "ghcn": "MXM00076741",
+        "usaf": "767383"
     },
     "location": {
         "latitude": 18.15,

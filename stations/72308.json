@@ -6,13 +6,13 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "$wmo": "72308",
-        "$icao": "KORF",
-        "$iata": "NGU",
-        "$ghcn": "USW00013737",
-        "$wban": "13737",
-        "$usaf": "723080",
-        "$mosmix": "72308"
+        "wmo": "72308",
+        "icao": "KORF",
+        "iata": "NGU",
+        "ghcn": "USW00013737",
+        "wban": "13737",
+        "usaf": "723080",
+        "mosmix": "72308"
     },
     "location": {
         "latitude": 36.9,

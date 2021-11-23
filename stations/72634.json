@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$wmo": "72634",
-        "$icao": "KAPX",
-        "$ghcn": "USC00203099",
-        "$usaf": "726340"
+        "wmo": "72634",
+        "icao": "KAPX",
+        "ghcn": "USC00203099",
+        "usaf": "726340"
     },
     "location": {
         "latitude": 44.9167,

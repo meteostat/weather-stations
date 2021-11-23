@@ -6,9 +6,9 @@
     "country": "ER",
     "region": "GB",
     "identifiers": {
-        "$wmo": "63013",
-        "$icao": "HAAG",
-        "$usaf": "630130"
+        "wmo": "63013",
+        "icao": "HAAG",
+        "usaf": "630130"
     },
     "location": {
         "latitude": 15.55,

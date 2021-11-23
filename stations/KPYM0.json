@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "$icao": "KPYM",
-        "$wban": "54769",
-        "$usaf": "725064"
+        "icao": "KPYM",
+        "wban": "54769",
+        "usaf": "725064"
     },
     "location": {
         "latitude": 41.909,

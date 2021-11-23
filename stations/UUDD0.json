@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "MOS",
     "identifiers": {
-        "$icao": "UUDD",
-        "$iata": "DME",
-        "$usaf": "370008"
+        "icao": "UUDD",
+        "iata": "DME",
+        "usaf": "370008"
     },
     "location": {
         "latitude": 55.4,

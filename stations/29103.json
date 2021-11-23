@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "TOM",
     "identifiers": {
-        "$wmo": "29103",
-        "$ghcn": "RSM00029103"
+        "wmo": "29103",
+        "ghcn": "RSM00029103"
     },
     "location": {
         "latitude": 59.0667,

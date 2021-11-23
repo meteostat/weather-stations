@@ -6,10 +6,10 @@
     "country": "GH",
     "region": "UW",
     "identifiers": {
-        "$wmo": "65404",
-        "$icao": "DGLW",
-        "$ghcn": "GHM00065404",
-        "$usaf": "654040"
+        "wmo": "65404",
+        "icao": "DGLW",
+        "ghcn": "GHM00065404",
+        "usaf": "654040"
     },
     "location": {
         "latitude": 10.05,

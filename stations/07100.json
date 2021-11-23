@@ -6,10 +6,10 @@
     "country": "FR",
     "region": "E",
     "identifiers": {
-        "$wmo": "07100",
-        "$ghcn": "FRM00007100",
-        "$usaf": "071000",
-        "$mosmix": "07100"
+        "wmo": "07100",
+        "ghcn": "FRM00007100",
+        "usaf": "071000",
+        "mosmix": "07100"
     },
     "location": {
         "latitude": 48.4667,

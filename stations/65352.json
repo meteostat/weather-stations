@@ -6,10 +6,10 @@
     "country": "TG",
     "region": "SA",
     "identifiers": {
-        "$wmo": "65352",
-        "$icao": "DXMG",
-        "$ghcn": "TOM00065352",
-        "$usaf": "653520"
+        "wmo": "65352",
+        "icao": "DXMG",
+        "ghcn": "TOM00065352",
+        "usaf": "653520"
     },
     "location": {
         "latitude": 10.3667,

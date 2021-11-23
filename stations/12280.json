@@ -6,10 +6,10 @@
     "country": "PL",
     "region": "WM",
     "identifiers": {
-        "$wmo": "12280",
-        "$icao": "EPMJ",
-        "$usaf": "122800",
-        "$mosmix": "12280"
+        "wmo": "12280",
+        "icao": "EPMJ",
+        "usaf": "122800",
+        "mosmix": "12280"
     },
     "location": {
         "latitude": 53.7833,

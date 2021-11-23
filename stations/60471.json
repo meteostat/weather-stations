@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "BAT",
     "identifiers": {
-        "$wmo": "60471",
-        "$ghcn": "AGM00060471"
+        "wmo": "60471",
+        "ghcn": "AGM00060471"
     },
     "location": {
         "latitude": 35.3333,

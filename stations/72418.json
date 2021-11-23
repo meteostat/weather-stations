@@ -6,12 +6,12 @@
     "country": "US",
     "region": "DE",
     "identifiers": {
-        "$wmo": "72418",
-        "$icao": "KILG",
-        "$iata": "ILG",
-        "$ghcn": "USW00013781",
-        "$wban": "13781",
-        "$usaf": "724089"
+        "wmo": "72418",
+        "icao": "KILG",
+        "iata": "ILG",
+        "ghcn": "USW00013781",
+        "wban": "13781",
+        "usaf": "724089"
     },
     "location": {
         "latitude": 39.6787,

@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "VIC",
     "identifiers": {
-        "$wmo": "94864",
-        "$icao": "YMEN",
-        "$iata": "MEB",
-        "$ghcn": "ASN00086383",
-        "$usaf": "948640"
+        "wmo": "94864",
+        "icao": "YMEN",
+        "iata": "MEB",
+        "ghcn": "ASN00086383",
+        "usaf": "948640"
     },
     "location": {
         "latitude": -37.7333,

@@ -6,9 +6,9 @@
     "country": "EG",
     "region": "MAT",
     "identifiers": {
-        "$wmo": "62417",
-        "$ghcn": "EG000062417",
-        "$usaf": "624170"
+        "wmo": "62417",
+        "ghcn": "EG000062417",
+        "usaf": "624170"
     },
     "location": {
         "latitude": 29.2,

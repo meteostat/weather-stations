@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "MAN",
     "identifiers": {
-        "$icao": "UATE",
-        "$iata": "SCO",
-        "$usaf": "380010"
+        "icao": "UATE",
+        "iata": "SCO",
+        "usaf": "380010"
     },
     "location": {
         "latitude": 43.85,

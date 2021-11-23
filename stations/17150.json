@@ -6,11 +6,11 @@
     "country": "TR",
     "region": "BAL",
     "identifiers": {
-        "$wmo": "17150",
-        "$icao": "LTBF",
-        "$iata": "BZI",
-        "$ghcn": "TUM00017150",
-        "$usaf": "171500"
+        "wmo": "17150",
+        "icao": "LTBF",
+        "iata": "BZI",
+        "ghcn": "TUM00017150",
+        "usaf": "171500"
     },
     "location": {
         "latitude": 39.6167,

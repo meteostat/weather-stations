@@ -6,10 +6,10 @@
     "country": "EC",
     "region": "N",
     "identifiers": {
-        "$wmo": "84132",
-        "$icao": "SENU",
-        "$ghcn": "ECM00084132",
-        "$usaf": "841320"
+        "wmo": "84132",
+        "icao": "SENU",
+        "ghcn": "ECM00084132",
+        "usaf": "841320"
     },
     "location": {
         "latitude": -0.9167,

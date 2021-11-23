@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KEMT",
-        "$iata": "EMT",
-        "$wban": "03165",
-        "$usaf": "747043"
+        "icao": "KEMT",
+        "iata": "EMT",
+        "wban": "03165",
+        "usaf": "747043"
     },
     "location": {
         "latitude": 34.086,

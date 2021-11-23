@@ -6,11 +6,11 @@
     "country": "DZ",
     "region": "BEC",
     "identifiers": {
-        "$wmo": "60571",
-        "$icao": "DAOR",
-        "$ghcn": "AGM00060571",
-        "$usaf": "605710",
-        "$mosmix": "60571"
+        "wmo": "60571",
+        "icao": "DAOR",
+        "ghcn": "AGM00060571",
+        "usaf": "605710",
+        "mosmix": "60571"
     },
     "location": {
         "latitude": 31.6167,

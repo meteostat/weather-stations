@@ -6,9 +6,9 @@
     "country": "DK",
     "region": "MJ",
     "identifiers": {
-        "$wmo": "06054",
-        "$icao": "EKHO",
-        "$usaf": "060540"
+        "wmo": "06054",
+        "icao": "EKHO",
+        "usaf": "060540"
     },
     "location": {
         "latitude": 56.4,

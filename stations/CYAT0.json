@@ -6,8 +6,8 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "$icao": "CYAT",
-        "$iata": "YAT"
+        "icao": "CYAT",
+        "iata": "YAT"
     },
     "location": {
         "latitude": 52.9275,

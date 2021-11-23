@@ -6,13 +6,13 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "$wmo": "72606",
-        "$icao": "KPWM",
-        "$iata": "PWM",
-        "$ghcn": "USW00014764",
-        "$wban": "14764",
-        "$usaf": "726060",
-        "$mosmix": "72606"
+        "wmo": "72606",
+        "icao": "KPWM",
+        "iata": "PWM",
+        "ghcn": "USW00014764",
+        "wban": "14764",
+        "usaf": "726060",
+        "mosmix": "72606"
     },
     "location": {
         "latitude": 43.65,

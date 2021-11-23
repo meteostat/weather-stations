@@ -6,12 +6,12 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "$national": "10220",
-        "$wmo": "71747",
-        "$icao": "CYIB",
-        "$iata": "YIB",
-        "$ghcn": "CA006020LPQ",
-        "$wban": "94932"
+        "national": "10220",
+        "wmo": "71747",
+        "icao": "CYIB",
+        "iata": "YIB",
+        "ghcn": "CA006020LPQ",
+        "wban": "94932"
     },
     "location": {
         "latitude": 48.76,

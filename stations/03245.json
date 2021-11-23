@@ -6,8 +6,8 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "$wmo": "03245",
-        "$mosmix": "03245"
+        "wmo": "03245",
+        "mosmix": "03245"
     },
     "location": {
         "latitude": 54.9667,

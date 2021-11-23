@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$icao": "KFRG",
-        "$iata": "FRG",
-        "$wban": "54787",
-        "$usaf": "744864"
+        "icao": "KFRG",
+        "iata": "FRG",
+        "wban": "54787",
+        "usaf": "744864"
     },
     "location": {
         "latitude": 40.7288,

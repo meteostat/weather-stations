@@ -6,12 +6,12 @@
     "country": "NO",
     "region": null,
     "identifiers": {
-        "$wmo": "01008",
-        "$icao": "ENSB",
-        "$iata": "LYR",
-        "$ghcn": "SV000001008",
-        "$usaf": "010080",
-        "$mosmix": "01008"
+        "wmo": "01008",
+        "icao": "ENSB",
+        "iata": "LYR",
+        "ghcn": "SV000001008",
+        "usaf": "010080",
+        "mosmix": "01008"
     },
     "location": {
         "latitude": 78.25,

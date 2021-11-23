@@ -6,8 +6,8 @@
     "country": "SE",
     "region": "W",
     "identifiers": {
-        "$wmo": "02410",
-        "$ghcn": "SW000002410"
+        "wmo": "02410",
+        "ghcn": "SW000002410"
     },
     "location": {
         "latitude": 60.6833,

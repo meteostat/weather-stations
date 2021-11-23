@@ -6,9 +6,9 @@
     "country": "FI",
     "region": "OU",
     "identifiers": {
-        "$icao": "EFYL",
-        "$iata": "YLI",
-        "$usaf": "028744"
+        "icao": "EFYL",
+        "iata": "YLI",
+        "usaf": "028744"
     },
     "location": {
         "latitude": 64.05,

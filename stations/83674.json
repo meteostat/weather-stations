@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "SP",
     "identifiers": {
-        "$wmo": "83674",
-        "$icao": "SBLN",
-        "$iata": "LIP"
+        "wmo": "83674",
+        "icao": "SBLN",
+        "iata": "LIP"
     },
     "location": {
         "latitude": -21.6667,

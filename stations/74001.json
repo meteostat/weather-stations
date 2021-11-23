@@ -6,11 +6,11 @@
     "country": "US",
     "region": "AL",
     "identifiers": {
-        "$wmo": "74001",
-        "$icao": "KHUA",
-        "$iata": "HUA",
-        "$wban": "63883",
-        "$usaf": "723231"
+        "wmo": "74001",
+        "icao": "KHUA",
+        "iata": "HUA",
+        "wban": "63883",
+        "usaf": "723231"
     },
     "location": {
         "latitude": 34.6,

@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "GJ",
     "identifiers": {
-        "$wmo": "42832",
-        "$icao": "VAKS",
-        "$iata": "IXK"
+        "wmo": "42832",
+        "icao": "VAKS",
+        "iata": "IXK"
     },
     "location": {
         "latitude": 21.3167,

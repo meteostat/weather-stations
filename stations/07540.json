@@ -6,10 +6,10 @@
     "country": "FR",
     "region": "N",
     "identifiers": {
-        "$wmo": "07540",
-        "$icao": "LFDB",
-        "$iata": "XMW",
-        "$usaf": "075400"
+        "wmo": "07540",
+        "icao": "LFDB",
+        "iata": "XMW",
+        "usaf": "075400"
     },
     "location": {
         "latitude": 44.0281,

@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "TUL",
     "identifiers": {
-        "$wmo": "27719",
-        "$ghcn": "RSM00027719",
-        "$mosmix": "27719"
+        "wmo": "27719",
+        "ghcn": "RSM00027719",
+        "mosmix": "27719"
     },
     "location": {
         "latitude": 54.2333,

@@ -6,13 +6,13 @@
     "country": "TR",
     "region": "ADA",
     "identifiers": {
-        "$wmo": "17350",
-        "$icao": "LTAG",
-        "$iata": "UAB",
-        "$ghcn": "TUW00033308",
-        "$wban": "33308",
-        "$usaf": "173500",
-        "$mosmix": "17350"
+        "wmo": "17350",
+        "icao": "LTAG",
+        "iata": "UAB",
+        "ghcn": "TUW00033308",
+        "wban": "33308",
+        "usaf": "173500",
+        "mosmix": "17350"
     },
     "location": {
         "latitude": 37,

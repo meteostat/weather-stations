@@ -6,12 +6,12 @@
     "country": "KR",
     "region": "CB",
     "identifiers": {
-        "$wmo": "47141",
-        "$icao": "RKJK",
-        "$iata": "KUV",
-        "$ghcn": "KSW00043219",
-        "$wban": "43219",
-        "$usaf": "471410"
+        "wmo": "47141",
+        "icao": "RKJK",
+        "iata": "KUV",
+        "ghcn": "KSW00043219",
+        "wban": "43219",
+        "usaf": "471410"
     },
     "location": {
         "latitude": 35.9167,

@@ -6,11 +6,11 @@
     "country": "KZ",
     "region": "KAR",
     "identifiers": {
-        "$wmo": "35671",
-        "$icao": "UAKD",
-        "$iata": "DZN",
-        "$ghcn": "KZ000035671",
-        "$usaf": "356710"
+        "wmo": "35671",
+        "icao": "UAKD",
+        "iata": "DZN",
+        "ghcn": "KZ000035671",
+        "usaf": "356710"
     },
     "location": {
         "latitude": 47.8,

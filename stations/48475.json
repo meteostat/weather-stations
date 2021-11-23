@@ -6,11 +6,11 @@
     "country": "TH",
     "region": "PK",
     "identifiers": {
-        "$wmo": "48475",
-        "$icao": "VTPH",
-        "$ghcn": "TH000048475",
-        "$usaf": "484750",
-        "$mosmix": "48475"
+        "wmo": "48475",
+        "icao": "VTPH",
+        "ghcn": "TH000048475",
+        "usaf": "484750",
+        "mosmix": "48475"
     },
     "location": {
         "latitude": 12.5833,

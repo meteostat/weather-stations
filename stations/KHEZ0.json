@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MS",
     "identifiers": {
-        "$icao": "KHEZ",
-        "$iata": "HEZ",
-        "$wban": "03961",
-        "$usaf": "722357"
+        "icao": "KHEZ",
+        "iata": "HEZ",
+        "wban": "03961",
+        "usaf": "722357"
     },
     "location": {
         "latitude": 31.6137,

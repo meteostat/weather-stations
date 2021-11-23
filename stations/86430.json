@@ -6,11 +6,11 @@
     "country": "UY",
     "region": "PA",
     "identifiers": {
-        "$wmo": "86430",
-        "$icao": "SUPU",
-        "$iata": "PDU",
-        "$ghcn": "UY000086430",
-        "$usaf": "864300"
+        "wmo": "86430",
+        "icao": "SUPU",
+        "iata": "PDU",
+        "ghcn": "UY000086430",
+        "usaf": "864300"
     },
     "location": {
         "latitude": -32.3333,

@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "FI",
     "identifiers": {
-        "$wmo": "01074",
-        "$icao": "ENMH",
-        "$iata": "MEH",
-        "$usaf": "010740"
+        "wmo": "01074",
+        "icao": "ENMH",
+        "iata": "MEH",
+        "usaf": "010740"
     },
     "location": {
         "latitude": 71.0333,

@@ -6,8 +6,8 @@
     "country": "CO",
     "region": "VIC",
     "identifiers": {
-        "$wmo": "80241",
-        "$ghcn": "CO000080241"
+        "wmo": "80241",
+        "ghcn": "CO000080241"
     },
     "location": {
         "latitude": 4.55,

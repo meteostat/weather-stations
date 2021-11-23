@@ -6,9 +6,9 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "$icao": "KCNI",
-        "$wban": "00355",
-        "$usaf": "722109"
+        "icao": "KCNI",
+        "wban": "00355",
+        "usaf": "722109"
     },
     "location": {
         "latitude": 34.3122,

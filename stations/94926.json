@@ -6,12 +6,12 @@
     "country": "AU",
     "region": "ACT",
     "identifiers": {
-        "$wmo": "94926",
-        "$icao": "YSCB",
-        "$iata": "CBR",
-        "$ghcn": "ASN00070015",
-        "$usaf": "949260",
-        "$mosmix": "94926"
+        "wmo": "94926",
+        "icao": "YSCB",
+        "iata": "CBR",
+        "ghcn": "ASN00070015",
+        "usaf": "949260",
+        "mosmix": "94926"
     },
     "location": {
         "latitude": -35.3,

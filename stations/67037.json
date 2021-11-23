@@ -6,11 +6,11 @@
     "country": "MG",
     "region": "M",
     "identifiers": {
-        "$wmo": "67037",
-        "$icao": "FMNQ",
-        "$iata": "BPY",
-        "$ghcn": "MAM00067037",
-        "$usaf": "670370"
+        "wmo": "67037",
+        "icao": "FMNQ",
+        "iata": "BPY",
+        "ghcn": "MAM00067037",
+        "usaf": "670370"
     },
     "location": {
         "latitude": -16.75,

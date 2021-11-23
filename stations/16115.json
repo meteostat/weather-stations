@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "PM",
     "identifiers": {
-        "$wmo": "16115",
-        "$icao": "LIMY",
-        "$usaf": "161150"
+        "wmo": "16115",
+        "icao": "LIMY",
+        "usaf": "161150"
     },
     "location": {
         "latitude": 44.25,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$icao": "KRZL",
-        "$wban": "00388",
-        "$usaf": "744660"
+        "icao": "KRZL",
+        "wban": "00388",
+        "usaf": "744660"
     },
     "location": {
         "latitude": 40.9479,

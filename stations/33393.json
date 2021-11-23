@@ -6,11 +6,11 @@
     "country": "UA",
     "region": "LV",
     "identifiers": {
-        "$wmo": "33393",
-        "$icao": "UKLL",
-        "$iata": "LWO",
-        "$ghcn": "UPM00033393",
-        "$usaf": "333930"
+        "wmo": "33393",
+        "icao": "UKLL",
+        "iata": "LWO",
+        "ghcn": "UPM00033393",
+        "usaf": "333930"
     },
     "location": {
         "latitude": 49.8167,

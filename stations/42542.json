@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "RJ",
     "identifiers": {
-        "$wmo": "42542",
-        "$icao": "VIUD",
-        "$iata": "UDR",
-        "$ghcn": "IN019261900"
+        "wmo": "42542",
+        "icao": "VIUD",
+        "iata": "UDR",
+        "ghcn": "IN019261900"
     },
     "location": {
         "latitude": 24.6167,

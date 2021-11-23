@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "E",
     "identifiers": {
-        "$wmo": "07125",
-        "$icao": "LFRD",
-        "$iata": "DNR",
-        "$usaf": "071250",
-        "$mosmix": "07125"
+        "wmo": "07125",
+        "icao": "LFRD",
+        "iata": "DNR",
+        "usaf": "071250",
+        "mosmix": "07125"
     },
     "location": {
         "latitude": 48.5833,

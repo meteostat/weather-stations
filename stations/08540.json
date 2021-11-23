@@ -6,10 +6,10 @@
     "country": "PT",
     "region": "LE",
     "identifiers": {
-        "$wmo": "08540",
-        "$icao": "LPMR",
-        "$usaf": "085400",
-        "$mosmix": "08540"
+        "wmo": "08540",
+        "icao": "LPMR",
+        "usaf": "085400",
+        "mosmix": "08540"
     },
     "location": {
         "latitude": 39.8333,

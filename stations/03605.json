@@ -6,9 +6,9 @@
     "country": "GB",
     "region": "WLS",
     "identifiers": {
-        "$wmo": "03605",
-        "$icao": "EGOP",
-        "$usaf": "036050"
+        "wmo": "03605",
+        "icao": "EGOP",
+        "usaf": "036050"
     },
     "location": {
         "latitude": 51.7167,

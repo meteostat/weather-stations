@@ -6,10 +6,10 @@
     "country": "TD",
     "region": "CB",
     "identifiers": {
-        "$wmo": "64705",
-        "$icao": "FTTS",
-        "$iata": "OUT",
-        "$usaf": "647050"
+        "wmo": "64705",
+        "icao": "FTTS",
+        "iata": "OUT",
+        "usaf": "647050"
     },
     "location": {
         "latitude": 10.4833,

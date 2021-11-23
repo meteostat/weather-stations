@@ -6,10 +6,10 @@
     "country": "US",
     "region": "IA",
     "identifiers": {
-        "$icao": "KMCW",
-        "$iata": "MCW",
-        "$wban": "14940",
-        "$usaf": "725485"
+        "icao": "KMCW",
+        "iata": "MCW",
+        "wban": "14940",
+        "usaf": "725485"
     },
     "location": {
         "latitude": 43.1578,

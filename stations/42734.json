@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "GJ",
     "identifiers": {
-        "$wmo": "42734",
-        "$icao": "VAJM",
-        "$iata": "JGA",
-        "$ghcn": "IN005091300"
+        "wmo": "42734",
+        "icao": "VAJM",
+        "iata": "JGA",
+        "ghcn": "IN005091300"
     },
     "location": {
         "latitude": 22.45,

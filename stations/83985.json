@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "RS",
     "identifiers": {
-        "$wmo": "83985",
-        "$icao": "SBPK",
-        "$iata": "PET",
-        "$usaf": "839850",
-        "$mosmix": "83985"
+        "wmo": "83985",
+        "icao": "SBPK",
+        "iata": "PET",
+        "usaf": "839850",
+        "mosmix": "83985"
     },
     "location": {
         "latitude": -31.8667,

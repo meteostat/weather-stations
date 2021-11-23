@@ -6,10 +6,10 @@
     "country": "VN",
     "region": "CM",
     "identifiers": {
-        "$wmo": "48914",
-        "$icao": "VVCM",
-        "$iata": "CAH",
-        "$ghcn": "VMM00048914"
+        "wmo": "48914",
+        "icao": "VVCM",
+        "iata": "CAH",
+        "ghcn": "VMM00048914"
     },
     "location": {
         "latitude": 9.1667,

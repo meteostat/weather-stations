@@ -6,10 +6,10 @@
     "country": "GL",
     "region": "KU",
     "identifiers": {
-        "$wmo": "04390",
-        "$icao": "BGPC",
-        "$ghcn": "GLM00004390",
-        "$usaf": "043900"
+        "wmo": "04390",
+        "icao": "BGPC",
+        "ghcn": "GLM00004390",
+        "usaf": "043900"
     },
     "location": {
         "latitude": 60.05,

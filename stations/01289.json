@@ -6,10 +6,10 @@
     "country": "NO",
     "region": "ST",
     "identifiers": {
-        "$wmo": "01289",
-        "$icao": "ENRO",
-        "$iata": "RRS",
-        "$usaf": "010882"
+        "wmo": "01289",
+        "icao": "ENRO",
+        "iata": "RRS",
+        "usaf": "010882"
     },
     "location": {
         "latitude": 62.5833,

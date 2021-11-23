@@ -6,11 +6,11 @@
     "country": "PY",
     "region": "BO",
     "identifiers": {
-        "$wmo": "86068",
-        "$icao": "SGME",
-        "$iata": "ESG",
-        "$ghcn": "PA000086068",
-        "$usaf": "860680"
+        "wmo": "86068",
+        "icao": "SGME",
+        "iata": "ESG",
+        "ghcn": "PA000086068",
+        "usaf": "860680"
     },
     "location": {
         "latitude": -22.0167,

@@ -6,11 +6,11 @@
     "country": "TG",
     "region": "KA",
     "identifiers": {
-        "$wmo": "65355",
-        "$icao": "DXNG",
-        "$iata": "LRL",
-        "$ghcn": "TOM00065355",
-        "$usaf": "653550"
+        "wmo": "65355",
+        "icao": "DXNG",
+        "iata": "LRL",
+        "ghcn": "TOM00065355",
+        "usaf": "653550"
     },
     "location": {
         "latitude": 9.7667,

@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "CAP",
     "identifiers": {
-        "$wmo": "98538",
-        "$icao": "RPVR",
-        "$iata": "RXS",
-        "$usaf": "985380"
+        "wmo": "98538",
+        "icao": "RPVR",
+        "iata": "RXS",
+        "usaf": "985380"
     },
     "location": {
         "latitude": 11.5833,

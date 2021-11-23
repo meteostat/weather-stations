@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "PER",
     "identifiers": {
-        "$icao": "USPP",
-        "$iata": "PEE",
-        "$usaf": "282250"
+        "icao": "USPP",
+        "iata": "PEE",
+        "usaf": "282250"
     },
     "location": {
         "latitude": 57.9167,

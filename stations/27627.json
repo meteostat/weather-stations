@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "MOS",
     "identifiers": {
-        "$wmo": "27627",
-        "$ghcn": "RSM00027627"
+        "wmo": "27627",
+        "ghcn": "RSM00027627"
     },
     "location": {
         "latitude": 54.8333,

@@ -6,11 +6,11 @@
     "country": "PH",
     "region": "ILI",
     "identifiers": {
-        "$wmo": "98637",
-        "$icao": "RPVI",
-        "$iata": "ILO",
-        "$ghcn": "RP000986370",
-        "$usaf": "986370"
+        "wmo": "98637",
+        "icao": "RPVI",
+        "iata": "ILO",
+        "ghcn": "RP000986370",
+        "usaf": "986370"
     },
     "location": {
         "latitude": 10.7,

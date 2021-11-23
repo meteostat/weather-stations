@@ -2,18 +2,18 @@
     "id": "02512",
     "name": {
         "de": "Goteborg Save Flughafen",
-        "sv": "Goteborg Save Flygplats",
-        "en": "Goteborg Save Airport"
+        "en": "Goteborg Save Airport",
+        "sv": "Goteborg Save Flygplats"
     },
     "country": "SE",
     "region": "VG",
     "identifiers": {
-        "$wmo": "02512",
-        "$icao": "ESGP",
-        "$iata": "GSE",
-        "$ghcn": "SW000002512",
-        "$usaf": "025120",
-        "$mosmix": "02512"
+        "wmo": "02512",
+        "icao": "ESGP",
+        "iata": "GSE",
+        "ghcn": "SW000002512",
+        "usaf": "025120",
+        "mosmix": "02512"
     },
     "location": {
         "latitude": 57.7833,

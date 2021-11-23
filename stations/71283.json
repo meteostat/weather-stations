@@ -6,8 +6,8 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "$icao": "CWDF",
-        "$ghcn": "CA003070800"
+        "icao": "CWDF",
+        "ghcn": "CA003070800"
     },
     "location": {
         "latitude": 44.7333,

@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "HK",
     "identifiers": {
-        "$wmo": "47407",
-        "$ghcn": "JA000047407",
-        "$mosmix": "47407"
+        "wmo": "47407",
+        "ghcn": "JA000047407",
+        "mosmix": "47407"
     },
     "location": {
         "latitude": 43.7667,

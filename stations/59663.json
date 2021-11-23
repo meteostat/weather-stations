@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "GD",
     "identifiers": {
-        "$wmo": "59663",
-        "$ghcn": "CHM00059663",
-        "$mosmix": "59663"
+        "wmo": "59663",
+        "ghcn": "CHM00059663",
+        "mosmix": "59663"
     },
     "location": {
         "latitude": 21.8667,

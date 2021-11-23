@@ -6,10 +6,10 @@
     "country": "HU",
     "region": "BU",
     "identifiers": {
-        "$wmo": "12840",
-        "$icao": "LHBM",
-        "$usaf": "128400",
-        "$mosmix": "12840"
+        "wmo": "12840",
+        "icao": "LHBM",
+        "usaf": "128400",
+        "mosmix": "12840"
     },
     "location": {
         "latitude": 47.5167,

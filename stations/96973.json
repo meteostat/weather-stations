@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "JI",
     "identifiers": {
-        "$wmo": "96973",
-        "$ghcn": "IDM00096973",
-        "$usaf": "969730"
+        "wmo": "96973",
+        "ghcn": "IDM00096973",
+        "usaf": "969730"
     },
     "location": {
         "latitude": -7.05,

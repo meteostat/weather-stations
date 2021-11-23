@@ -6,12 +6,12 @@
     "country": "NL",
     "region": "NH",
     "identifiers": {
-        "$wmo": "06235",
-        "$icao": "EHKD",
-        "$iata": "DHR",
-        "$ghcn": "NLM00006235",
-        "$usaf": "062350",
-        "$mosmix": "06235"
+        "wmo": "06235",
+        "icao": "EHKD",
+        "iata": "DHR",
+        "ghcn": "NLM00006235",
+        "usaf": "062350",
+        "mosmix": "06235"
     },
     "location": {
         "latitude": 52.9167,

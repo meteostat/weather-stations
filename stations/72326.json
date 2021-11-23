@@ -6,12 +6,12 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "$wmo": "72326",
-        "$icao": "KTYS",
-        "$iata": "TYS",
-        "$ghcn": "USW00013891",
-        "$wban": "13891",
-        "$usaf": "723260"
+        "wmo": "72326",
+        "icao": "KTYS",
+        "iata": "TYS",
+        "ghcn": "USW00013891",
+        "wban": "13891",
+        "usaf": "723260"
     },
     "location": {
         "latitude": 35.8167,

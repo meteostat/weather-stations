@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "YT",
     "identifiers": {
-        "$icao": "CYDB",
-        "$iata": "YDB",
-        "$usaf": "710010"
+        "icao": "CYDB",
+        "iata": "YDB",
+        "usaf": "710010"
     },
     "location": {
         "latitude": 61.3667,

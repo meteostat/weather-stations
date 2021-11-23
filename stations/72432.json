@@ -6,12 +6,12 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$wmo": "72432",
-        "$icao": "KEVV",
-        "$iata": "EVV",
-        "$ghcn": "USW00093817",
-        "$wban": "93817",
-        "$usaf": "724320"
+        "wmo": "72432",
+        "icao": "KEVV",
+        "iata": "EVV",
+        "ghcn": "USW00093817",
+        "wban": "93817",
+        "usaf": "724320"
     },
     "location": {
         "latitude": 38.0333,

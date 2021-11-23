@@ -6,10 +6,10 @@
     "country": "EG",
     "region": "WJD",
     "identifiers": {
-        "$wmo": "62393",
-        "$icao": "HEAT",
-        "$iata": "ATZ",
-        "$usaf": "623930"
+        "wmo": "62393",
+        "icao": "HEAT",
+        "iata": "ATZ",
+        "usaf": "623930"
     },
     "location": {
         "latitude": 27.05,

@@ -6,12 +6,12 @@
     "country": "TR",
     "region": "EZR",
     "identifiers": {
-        "$wmo": "17096",
-        "$icao": "LTCE",
-        "$iata": "ERZ",
-        "$ghcn": "TUM00017096",
-        "$usaf": "170960",
-        "$mosmix": "17096"
+        "wmo": "17096",
+        "icao": "LTCE",
+        "iata": "ERZ",
+        "ghcn": "TUM00017096",
+        "usaf": "170960",
+        "mosmix": "17096"
     },
     "location": {
         "latitude": 39.9167,

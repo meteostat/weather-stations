@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MN",
     "identifiers": {
-        "$icao": "KHIB",
-        "$iata": "HIB",
-        "$wban": "94931",
-        "$usaf": "727455"
+        "icao": "KHIB",
+        "iata": "HIB",
+        "wban": "94931",
+        "usaf": "727455"
     },
     "location": {
         "latitude": 47.3866,

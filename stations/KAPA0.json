@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$icao": "KAPA",
-        "$wban": "93067",
-        "$usaf": "724666"
+        "icao": "KAPA",
+        "wban": "93067",
+        "usaf": "724666"
     },
     "location": {
         "latitude": 39.5701,

@@ -6,8 +6,8 @@
     "country": "IN",
     "region": "AN",
     "identifiers": {
-        "$wmo": "43310",
-        "$usaf": "433100"
+        "wmo": "43310",
+        "usaf": "433100"
     },
     "location": {
         "latitude": 12.4167,

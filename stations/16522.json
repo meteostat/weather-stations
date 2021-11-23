@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "SD",
     "identifiers": {
-        "$wmo": "16522",
-        "$icao": "LIEH",
-        "$ghcn": "ITM00016522",
-        "$usaf": "165220"
+        "wmo": "16522",
+        "icao": "LIEH",
+        "ghcn": "ITM00016522",
+        "usaf": "165220"
     },
     "location": {
         "latitude": 40.5667,

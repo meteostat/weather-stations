@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "TC",
     "identifiers": {
-        "$wmo": "16168",
-        "$icao": "LIQO",
-        "$usaf": "161680"
+        "wmo": "16168",
+        "icao": "LIQO",
+        "usaf": "161680"
     },
     "location": {
         "latitude": 42.3833,

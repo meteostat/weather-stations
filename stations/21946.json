@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "SA",
     "identifiers": {
-        "$wmo": "21946",
-        "$icao": "UESO",
-        "$iata": "CKH",
-        "$ghcn": "RSM00021946",
-        "$usaf": "353947"
+        "wmo": "21946",
+        "icao": "UESO",
+        "iata": "CKH",
+        "ghcn": "RSM00021946",
+        "usaf": "353947"
     },
     "location": {
         "latitude": 70.6167,

@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "AMU",
     "identifiers": {
-        "$wmo": "31329",
-        "$icao": "UHBP",
-        "$ghcn": "RSM00031329",
-        "$usaf": "313290"
+        "wmo": "31329",
+        "icao": "UHBP",
+        "ghcn": "RSM00031329",
+        "usaf": "313290"
     },
     "location": {
         "latitude": 53.0667,

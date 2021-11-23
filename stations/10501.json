@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "NW",
     "identifiers": {
-        "$national": "00003",
-        "$wmo": "10501",
-        "$ghcn": "GME00102316",
-        "$mosmix": "10501"
+        "national": "00003",
+        "wmo": "10501",
+        "ghcn": "GME00102316",
+        "mosmix": "10501"
     },
     "location": {
         "latitude": 50.7833,

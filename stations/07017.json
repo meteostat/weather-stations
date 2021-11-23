@@ -6,11 +6,11 @@
     "country": "FR",
     "region": "O",
     "identifiers": {
-        "$wmo": "07017",
-        "$icao": "LFQI",
-        "$iata": "XCB",
-        "$usaf": "070170",
-        "$mosmix": "07017"
+        "wmo": "07017",
+        "icao": "LFQI",
+        "iata": "XCB",
+        "usaf": "070170",
+        "mosmix": "07017"
     },
     "location": {
         "latitude": 50.2167,

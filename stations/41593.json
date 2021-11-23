@@ -6,10 +6,10 @@
     "country": "PK",
     "region": "S",
     "identifiers": {
-        "$wmo": "41593",
-        "$icao": "OPSK",
-        "$iata": "SKZ",
-        "$usaf": "415925"
+        "wmo": "41593",
+        "icao": "OPSK",
+        "iata": "SKZ",
+        "usaf": "415925"
     },
     "location": {
         "latitude": 32.05,

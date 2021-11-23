@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NY",
     "identifiers": {
-        "$icao": "KUCA",
-        "$iata": "UCA",
-        "$wban": "94794",
-        "$usaf": "725197"
+        "icao": "KUCA",
+        "iata": "UCA",
+        "wban": "94794",
+        "usaf": "725197"
     },
     "location": {
         "latitude": 43.15,

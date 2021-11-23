@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KPSP",
-        "$iata": "PSP",
-        "$wban": "93138",
-        "$usaf": "722868"
+        "icao": "KPSP",
+        "iata": "PSP",
+        "wban": "93138",
+        "usaf": "722868"
     },
     "location": {
         "latitude": 33.8297,

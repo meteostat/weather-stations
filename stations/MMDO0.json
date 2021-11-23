@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "DUR",
     "identifiers": {
-        "$icao": "MMDO",
-        "$iata": "DGO",
-        "$usaf": "764235"
+        "icao": "MMDO",
+        "iata": "DGO",
+        "usaf": "764235"
     },
     "location": {
         "latitude": 24.1249,

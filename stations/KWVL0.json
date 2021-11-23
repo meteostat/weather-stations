@@ -6,10 +6,10 @@
     "country": "US",
     "region": "ME",
     "identifiers": {
-        "$icao": "KWVL",
-        "$iata": "WVL",
-        "$wban": "14615",
-        "$usaf": "726073"
+        "icao": "KWVL",
+        "iata": "WVL",
+        "wban": "14615",
+        "usaf": "726073"
     },
     "location": {
         "latitude": 44.5333,

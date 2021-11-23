@@ -6,9 +6,9 @@
     "country": "CN",
     "region": "HN",
     "identifiers": {
-        "$wmo": "57662",
-        "$ghcn": "CHM00057662",
-        "$mosmix": "57662"
+        "wmo": "57662",
+        "ghcn": "CHM00057662",
+        "mosmix": "57662"
     },
     "location": {
         "latitude": 29.05,

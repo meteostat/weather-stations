@@ -6,12 +6,12 @@
     "country": "BO",
     "region": "O",
     "identifiers": {
-        "$wmo": "85242",
-        "$icao": "SLOR",
-        "$iata": "ORU",
-        "$ghcn": "BLM00085242",
-        "$usaf": "852420",
-        "$mosmix": "85242"
+        "wmo": "85242",
+        "icao": "SLOR",
+        "iata": "ORU",
+        "ghcn": "BLM00085242",
+        "usaf": "852420",
+        "mosmix": "85242"
     },
     "location": {
         "latitude": -17.9667,

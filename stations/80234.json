@@ -6,11 +6,11 @@
     "country": "CO",
     "region": "MET",
     "identifiers": {
-        "$wmo": "80234",
-        "$icao": "SKVV",
-        "$iata": "VVC",
-        "$ghcn": "COM00080234",
-        "$usaf": "802340"
+        "wmo": "80234",
+        "icao": "SKVV",
+        "iata": "VVC",
+        "ghcn": "COM00080234",
+        "usaf": "802340"
     },
     "location": {
         "latitude": 4.1667,

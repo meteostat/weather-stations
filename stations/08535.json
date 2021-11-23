@@ -6,8 +6,8 @@
     "country": "PT",
     "region": "LI",
     "identifiers": {
-        "$wmo": "08535",
-        "$ghcn": "PO000008535"
+        "wmo": "08535",
+        "ghcn": "PO000008535"
     },
     "location": {
         "latitude": 38.7167,

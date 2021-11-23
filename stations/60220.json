@@ -6,10 +6,10 @@
     "country": "MA",
     "region": "MRK",
     "identifiers": {
-        "$wmo": "60220",
-        "$icao": "GMMI",
-        "$iata": "ESU",
-        "$ghcn": "MOM00060220"
+        "wmo": "60220",
+        "icao": "GMMI",
+        "iata": "ESU",
+        "ghcn": "MOM00060220"
     },
     "location": {
         "latitude": 31.5167,

@@ -6,11 +6,11 @@
     "country": "SE",
     "region": "N",
     "identifiers": {
-        "$wmo": "02604",
-        "$icao": "ESMT",
-        "$iata": "HAD",
-        "$usaf": "026040",
-        "$mosmix": "02604"
+        "wmo": "02604",
+        "icao": "ESMT",
+        "iata": "HAD",
+        "usaf": "026040",
+        "mosmix": "02604"
     },
     "location": {
         "latitude": 56.6833,

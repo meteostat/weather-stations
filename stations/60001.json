@@ -6,11 +6,11 @@
     "country": "ES",
     "region": "CN",
     "identifiers": {
-        "$wmo": "60001",
-        "$icao": "GCHI",
-        "$iata": "VDE",
-        "$ghcn": "SPE00120431",
-        "$usaf": "600010"
+        "wmo": "60001",
+        "icao": "GCHI",
+        "iata": "VDE",
+        "ghcn": "SPE00120431",
+        "usaf": "600010"
     },
     "location": {
         "latitude": 27.8167,

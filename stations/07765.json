@@ -6,10 +6,10 @@
     "country": "FR",
     "region": "H",
     "identifiers": {
-        "$wmo": "07765",
-        "$icao": "LFKS",
-        "$iata": "SOZ",
-        "$usaf": "077650"
+        "wmo": "07765",
+        "icao": "LFKS",
+        "iata": "SOZ",
+        "usaf": "077650"
     },
     "location": {
         "latitude": 41.9167,

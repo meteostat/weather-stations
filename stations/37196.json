@@ -6,8 +6,8 @@
     "country": "GE",
     "region": "AB",
     "identifiers": {
-        "$wmo": "37196",
-        "$ghcn": "GGM00037196"
+        "wmo": "37196",
+        "ghcn": "GGM00037196"
     },
     "location": {
         "latitude": 43.1167,

@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "TAM",
     "identifiers": {
-        "$wmo": "27848",
-        "$ghcn": "RSM00027848"
+        "wmo": "27848",
+        "ghcn": "RSM00027848"
     },
     "location": {
         "latitude": 53.45,

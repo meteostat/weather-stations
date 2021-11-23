@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "RS",
     "identifiers": {
-        "$icao": "SBCX",
-        "$iata": "CXJ",
-        "$usaf": "839420"
+        "icao": "SBCX",
+        "iata": "CXJ",
+        "usaf": "839420"
     },
     "location": {
         "latitude": -29.18,

@@ -6,11 +6,11 @@
     "country": "TR",
     "region": "EZC",
     "identifiers": {
-        "$wmo": "17092",
-        "$icao": "LTCD",
-        "$iata": "ERC",
-        "$ghcn": "TUM00017092",
-        "$usaf": "170920"
+        "wmo": "17092",
+        "icao": "LTCD",
+        "iata": "ERC",
+        "ghcn": "TUM00017092",
+        "usaf": "170920"
     },
     "location": {
         "latitude": 39.7333,

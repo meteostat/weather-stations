@@ -6,8 +6,8 @@
     "country": "US",
     "region": "OK",
     "identifiers": {
-        "$icao": "KAQR",
-        "$wban": "53932"
+        "icao": "KAQR",
+        "wban": "53932"
     },
     "location": {
         "latitude": 34.3983,

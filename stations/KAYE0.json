@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "$icao": "KAYE",
-        "$iata": "AYE",
-        "$wban": "04779",
-        "$usaf": "744905"
+        "icao": "KAYE",
+        "iata": "AYE",
+        "wban": "04779",
+        "usaf": "744905"
     },
     "location": {
         "latitude": 42.5667,

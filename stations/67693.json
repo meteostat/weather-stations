@@ -6,12 +6,12 @@
     "country": "MW",
     "region": null,
     "identifiers": {
-        "$wmo": "67693",
-        "$icao": "FWCL",
-        "$iata": "BLZ",
-        "$ghcn": "MI000067693",
-        "$usaf": "676930",
-        "$mosmix": "67693"
+        "wmo": "67693",
+        "icao": "FWCL",
+        "iata": "BLZ",
+        "ghcn": "MI000067693",
+        "usaf": "676930",
+        "mosmix": "67693"
     },
     "location": {
         "latitude": -15.6833,

@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "SN",
     "identifiers": {
-        "$icao": "WAWM",
-        "$iata": "MXB",
-        "$usaf": "971260"
+        "icao": "WAWM",
+        "iata": "MXB",
+        "usaf": "971260"
     },
     "location": {
         "latitude": -2.558,

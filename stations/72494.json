@@ -6,13 +6,13 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$wmo": "72494",
-        "$icao": "KSFO",
-        "$iata": "SFO",
-        "$ghcn": "USW00023234",
-        "$wban": "23234",
-        "$usaf": "724940",
-        "$mosmix": "72494"
+        "wmo": "72494",
+        "icao": "KSFO",
+        "iata": "SFO",
+        "ghcn": "USW00023234",
+        "wban": "23234",
+        "usaf": "724940",
+        "mosmix": "72494"
     },
     "location": {
         "latitude": 37.6167,

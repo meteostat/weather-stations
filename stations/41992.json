@@ -6,11 +6,11 @@
     "country": "BD",
     "region": "BAR",
     "identifiers": {
-        "$wmo": "41992",
-        "$icao": "VGCB",
-        "$iata": "CXB",
-        "$ghcn": "BGM00041992",
-        "$usaf": "419920"
+        "wmo": "41992",
+        "icao": "VGCB",
+        "iata": "CXB",
+        "ghcn": "BGM00041992",
+        "usaf": "419920"
     },
     "location": {
         "latitude": 21.4333,

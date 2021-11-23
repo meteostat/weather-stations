@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "KO",
     "identifiers": {
-        "$wmo": "23418",
-        "$icao": "UUYP",
-        "$iata": "PEX",
-        "$ghcn": "RSM00023418"
+        "wmo": "23418",
+        "icao": "UUYP",
+        "iata": "PEX",
+        "ghcn": "RSM00023418"
     },
     "location": {
         "latitude": 65.1167,

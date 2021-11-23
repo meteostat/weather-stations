@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "AB",
     "identifiers": {
-        "$wmo": "71124",
-        "$icao": "CWIQ",
-        "$usaf": "710565"
+        "wmo": "71124",
+        "icao": "CWIQ",
+        "usaf": "710565"
     },
     "location": {
         "latitude": 54.75,

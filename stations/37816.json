@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "DAS",
     "identifiers": {
-        "$wmo": "37816",
-        "$ghcn": "AJ000037816"
+        "wmo": "37816",
+        "ghcn": "AJ000037816"
     },
     "location": {
         "latitude": 40.5,

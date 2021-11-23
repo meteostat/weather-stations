@@ -6,10 +6,10 @@
     "country": "GE",
     "region": "MM",
     "identifiers": {
-        "$wmo": "37541",
-        "$icao": "UGMM",
-        "$ghcn": "GG000037541",
-        "$usaf": "375410"
+        "wmo": "37541",
+        "icao": "UGMM",
+        "ghcn": "GG000037541",
+        "usaf": "375410"
     },
     "location": {
         "latitude": 41.9333,

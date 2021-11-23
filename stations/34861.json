@@ -6,11 +6,11 @@
     "country": "RU",
     "region": "KL",
     "identifiers": {
-        "$wmo": "34861",
-        "$icao": "URWI",
-        "$iata": "ESL",
-        "$ghcn": "RSM00034861",
-        "$usaf": "348610"
+        "wmo": "34861",
+        "icao": "URWI",
+        "iata": "ESL",
+        "ghcn": "RSM00034861",
+        "usaf": "348610"
     },
     "location": {
         "latitude": 46.3667,

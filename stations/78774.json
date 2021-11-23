@@ -6,12 +6,12 @@
     "country": "CR",
     "region": "G",
     "identifiers": {
-        "$wmo": "78774",
-        "$icao": "MRLB",
-        "$iata": "LIR",
-        "$ghcn": "CS000078774",
-        "$usaf": "787740",
-        "$mosmix": "78774"
+        "wmo": "78774",
+        "icao": "MRLB",
+        "iata": "LIR",
+        "ghcn": "CS000078774",
+        "usaf": "787740",
+        "mosmix": "78774"
     },
     "location": {
         "latitude": 10.6167,

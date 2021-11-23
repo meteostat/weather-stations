@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "OAX",
     "identifiers": {
-        "$wmo": "76855",
-        "$ghcn": "MXM00076855",
-        "$usaf": "768550"
+        "wmo": "76855",
+        "ghcn": "MXM00076855",
+        "usaf": "768550"
     },
     "location": {
         "latitude": 15.65,

@@ -6,10 +6,10 @@
     "country": "SR",
     "region": "PM",
     "identifiers": {
-        "$wmo": "81200",
-        "$icao": "SMZO",
-        "$iata": "ORG",
-        "$usaf": "812000"
+        "wmo": "81200",
+        "icao": "SMZO",
+        "iata": "ORG",
+        "usaf": "812000"
     },
     "location": {
         "latitude": 5.8167,

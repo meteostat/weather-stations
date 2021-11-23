@@ -6,11 +6,11 @@
     "country": "CG",
     "region": "LI",
     "identifiers": {
-        "$wmo": "64459",
-        "$icao": "FCOI",
-        "$iata": "ION",
-        "$ghcn": "CF000064459",
-        "$usaf": "644590"
+        "wmo": "64459",
+        "icao": "FCOI",
+        "iata": "ION",
+        "ghcn": "CF000064459",
+        "usaf": "644590"
     },
     "location": {
         "latitude": 1.6167,

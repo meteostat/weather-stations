@@ -6,12 +6,12 @@
     "country": "ZA",
     "region": "EC",
     "identifiers": {
-        "$wmo": "68842",
-        "$icao": "FAPE",
-        "$iata": "PLZ",
-        "$ghcn": "SFM00068842",
-        "$usaf": "688420",
-        "$mosmix": "68842"
+        "wmo": "68842",
+        "icao": "FAPE",
+        "iata": "PLZ",
+        "ghcn": "SFM00068842",
+        "usaf": "688420",
+        "mosmix": "68842"
     },
     "location": {
         "latitude": -33.9833,

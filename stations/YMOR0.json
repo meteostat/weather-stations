@@ -6,8 +6,8 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "$icao": "YMOR",
-        "$iata": "MRZ"
+        "icao": "YMOR",
+        "iata": "MRZ"
     },
     "location": {
         "latitude": -29.4989,

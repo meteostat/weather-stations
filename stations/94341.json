@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "$wmo": "94341",
-        "$icao": "YRMD",
-        "$iata": "RCM",
-        "$ghcn": "ASN00030161",
-        "$usaf": "943410"
+        "wmo": "94341",
+        "icao": "YRMD",
+        "iata": "RCM",
+        "ghcn": "ASN00030161",
+        "usaf": "943410"
     },
     "location": {
         "latitude": -20.7017,

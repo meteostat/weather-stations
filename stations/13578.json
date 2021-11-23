@@ -6,10 +6,10 @@
     "country": "MK",
     "region": "OD",
     "identifiers": {
-        "$wmo": "13578",
-        "$icao": "LWOH",
-        "$iata": "OHD",
-        "$usaf": "135780"
+        "wmo": "13578",
+        "icao": "LWOH",
+        "iata": "OHD",
+        "usaf": "135780"
     },
     "location": {
         "latitude": 41.1167,

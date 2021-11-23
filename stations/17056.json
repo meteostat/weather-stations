@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "TEL",
     "identifiers": {
-        "$wmo": "17056",
-        "$ghcn": "TUM00017056",
-        "$mosmix": "17056"
+        "wmo": "17056",
+        "ghcn": "TUM00017056",
+        "mosmix": "17056"
     },
     "location": {
         "latitude": 40.9833,

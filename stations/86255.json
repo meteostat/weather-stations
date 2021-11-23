@@ -6,11 +6,11 @@
     "country": "PY",
     "region": "P",
     "identifiers": {
-        "$wmo": "86255",
-        "$icao": "SGPI",
-        "$iata": "PIL",
-        "$ghcn": "PAM00086255",
-        "$usaf": "860335"
+        "wmo": "86255",
+        "icao": "SGPI",
+        "iata": "PIL",
+        "ghcn": "PAM00086255",
+        "usaf": "860335"
     },
     "location": {
         "latitude": -26.85,

@@ -6,12 +6,12 @@
     "country": "AE",
     "region": "SH",
     "identifiers": {
-        "$wmo": "41196",
-        "$icao": "OMSJ",
-        "$iata": "SHJ",
-        "$ghcn": "AE000041196",
-        "$usaf": "411960",
-        "$mosmix": "41196"
+        "wmo": "41196",
+        "icao": "OMSJ",
+        "iata": "SHJ",
+        "ghcn": "AE000041196",
+        "usaf": "411960",
+        "mosmix": "41196"
     },
     "location": {
         "latitude": 25.3333,

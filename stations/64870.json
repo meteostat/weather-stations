@@ -6,11 +6,11 @@
     "country": "CM",
     "region": "AD",
     "identifiers": {
-        "$wmo": "64870",
-        "$icao": "FKKN",
-        "$iata": "NGE",
-        "$ghcn": "CM000064870",
-        "$usaf": "648700"
+        "wmo": "64870",
+        "icao": "FKKN",
+        "iata": "NGE",
+        "ghcn": "CM000064870",
+        "usaf": "648700"
     },
     "location": {
         "latitude": 7.35,

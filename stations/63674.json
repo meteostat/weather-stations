@@ -6,11 +6,11 @@
     "country": "UG",
     "region": "KS",
     "identifiers": {
-        "$wmo": "63674",
-        "$icao": "HUKS",
-        "$iata": "KSE",
-        "$ghcn": "UG000063674",
-        "$usaf": "636740"
+        "wmo": "63674",
+        "icao": "HUKS",
+        "iata": "KSE",
+        "ghcn": "UG000063674",
+        "usaf": "636740"
     },
     "location": {
         "latitude": 0.1833,

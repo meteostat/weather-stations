@@ -6,10 +6,10 @@
     "country": "TH",
     "region": "KN",
     "identifiers": {
-        "$wmo": "48450",
-        "$icao": "VTBG",
-        "$ghcn": "TH000048450",
-        "$usaf": "484500"
+        "wmo": "48450",
+        "icao": "VTBG",
+        "ghcn": "TH000048450",
+        "usaf": "484500"
     },
     "location": {
         "latitude": 14.0167,

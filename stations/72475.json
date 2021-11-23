@@ -6,12 +6,12 @@
     "country": "US",
     "region": "UT",
     "identifiers": {
-        "$wmo": "72475",
-        "$icao": "KMLF",
-        "$iata": "MLF",
-        "$ghcn": "USC00425654",
-        "$wban": "23176",
-        "$usaf": "724750"
+        "wmo": "72475",
+        "icao": "KMLF",
+        "iata": "MLF",
+        "ghcn": "USC00425654",
+        "wban": "23176",
+        "usaf": "724750"
     },
     "location": {
         "latitude": 38.4266,

@@ -6,12 +6,12 @@
     "country": "LB",
     "region": "JL",
     "identifiers": {
-        "$wmo": "40100",
-        "$icao": "OLBA",
-        "$iata": "BEY",
-        "$ghcn": "LEM00040100",
-        "$usaf": "401000",
-        "$mosmix": "40100"
+        "wmo": "40100",
+        "icao": "OLBA",
+        "iata": "BEY",
+        "ghcn": "LEM00040100",
+        "usaf": "401000",
+        "mosmix": "40100"
     },
     "location": {
         "latitude": 33.8167,

@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "$wmo": "10234",
-        "$icao": "ETGQ",
-        "$usaf": "102340",
-        "$mosmix": "10234"
+        "wmo": "10234",
+        "icao": "ETGQ",
+        "usaf": "102340",
+        "mosmix": "10234"
     },
     "location": {
         "latitude": 53.1333,

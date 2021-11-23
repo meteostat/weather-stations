@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MS",
     "identifiers": {
-        "$icao": "KUOX",
-        "$iata": "UOX",
-        "$wban": "53806",
-        "$usaf": "720541"
+        "icao": "KUOX",
+        "iata": "UOX",
+        "wban": "53806",
+        "usaf": "720541"
     },
     "location": {
         "latitude": 34.3843,

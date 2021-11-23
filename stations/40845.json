@@ -6,8 +6,8 @@
     "country": "IR",
     "region": "BSH",
     "identifiers": {
-        "$wmo": "40845",
-        "$ghcn": "IRM00040845"
+        "wmo": "40845",
+        "ghcn": "IRM00040845"
     },
     "location": {
         "latitude": 29.2667,

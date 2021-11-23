@@ -6,9 +6,9 @@
     "country": "EG",
     "region": "MNY",
     "identifiers": {
-        "$wmo": "62387",
-        "$ghcn": "EGM00062387",
-        "$usaf": "623870"
+        "wmo": "62387",
+        "ghcn": "EGM00062387",
+        "usaf": "623870"
     },
     "location": {
         "latitude": 28.0833,

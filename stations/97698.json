@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "PA",
     "identifiers": {
-        "$wmo": "97698",
-        "$ghcn": "IDM00097698",
-        "$usaf": "976980"
+        "wmo": "97698",
+        "ghcn": "IDM00097698",
+        "usaf": "976980"
     },
     "location": {
         "latitude": -2.3667,

@@ -6,9 +6,9 @@
     "country": "NZ",
     "region": "STL",
     "identifiers": {
-        "$wmo": "93720",
-        "$icao": "NZMF",
-        "$iata": "MFN"
+        "wmo": "93720",
+        "icao": "NZMF",
+        "iata": "MFN"
     },
     "location": {
         "latitude": -44.6667,

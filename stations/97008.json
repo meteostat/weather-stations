@@ -6,11 +6,11 @@
     "country": "ID",
     "region": "SA",
     "identifiers": {
-        "$wmo": "97008",
-        "$icao": "WAMH",
-        "$iata": "NAH",
-        "$ghcn": "IDM00097008",
-        "$usaf": "970080"
+        "wmo": "97008",
+        "icao": "WAMH",
+        "iata": "NAH",
+        "ghcn": "IDM00097008",
+        "usaf": "970080"
     },
     "location": {
         "latitude": 3.5833,

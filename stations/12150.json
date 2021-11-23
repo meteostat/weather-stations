@@ -6,11 +6,11 @@
     "country": "PL",
     "region": "PM",
     "identifiers": {
-        "$wmo": "12150",
-        "$icao": "EPGD",
-        "$iata": "GDN",
-        "$usaf": "121500",
-        "$mosmix": "12150"
+        "wmo": "12150",
+        "icao": "EPGD",
+        "iata": "GDN",
+        "usaf": "121500",
+        "mosmix": "12150"
     },
     "location": {
         "latitude": 54.3833,

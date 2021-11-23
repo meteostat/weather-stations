@@ -6,10 +6,10 @@
     "country": "MX",
     "region": "VER",
     "identifiers": {
-        "$wmo": "76640",
-        "$icao": "MMTX",
-        "$ghcn": "MXM00076640",
-        "$usaf": "766400"
+        "wmo": "76640",
+        "icao": "MMTX",
+        "ghcn": "MXM00076640",
+        "usaf": "766400"
     },
     "location": {
         "latitude": 20.95,

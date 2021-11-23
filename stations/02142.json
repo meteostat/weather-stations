@@ -2,15 +2,15 @@
     "id": "02142",
     "name": {
         "de": "Jokkmokk Flughafen",
-        "sv": "Jokkmokk Flyplats",
-        "en": "Jokkmokk Airport"
+        "en": "Jokkmokk Airport",
+        "sv": "Jokkmokk Flyplats"
     },
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "$wmo": "02142",
-        "$icao": "ESNJ",
-        "$usaf": "021420"
+        "wmo": "02142",
+        "icao": "ESNJ",
+        "usaf": "021420"
     },
     "location": {
         "latitude": 66.6333,

@@ -6,8 +6,8 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "$wmo": "72427",
-        "$ghcn": "USW00003804"
+        "wmo": "72427",
+        "ghcn": "USW00003804"
     },
     "location": {
         "latitude": 36.0231,

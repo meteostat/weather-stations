@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "TAM",
     "identifiers": {
-        "$wmo": "60690",
-        "$ghcn": "AGM00060690"
+        "wmo": "60690",
+        "ghcn": "AGM00060690"
     },
     "location": {
         "latitude": 19.5667,

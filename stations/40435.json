@@ -6,10 +6,10 @@
     "country": "SA",
     "region": "RD",
     "identifiers": {
-        "$wmo": "40435",
-        "$icao": "OEDW",
-        "$ghcn": "SAM00040435",
-        "$usaf": "404350"
+        "wmo": "40435",
+        "icao": "OEDW",
+        "ghcn": "SAM00040435",
+        "usaf": "404350"
     },
     "location": {
         "latitude": 24.5,

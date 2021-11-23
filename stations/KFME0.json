@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MD",
     "identifiers": {
-        "$icao": "KFME",
-        "$iata": "FME",
-        "$wban": "93733",
-        "$usaf": "724065"
+        "icao": "KFME",
+        "iata": "FME",
+        "wban": "93733",
+        "usaf": "724065"
     },
     "location": {
         "latitude": 39.0854,

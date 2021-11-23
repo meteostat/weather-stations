@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$icao": "KBJC",
-        "$iata": "APA",
-        "$wban": "03065",
-        "$usaf": "724699"
+        "icao": "KBJC",
+        "iata": "APA",
+        "wban": "03065",
+        "usaf": "724699"
     },
     "location": {
         "latitude": 39.9088,

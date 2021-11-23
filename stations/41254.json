@@ -6,11 +6,11 @@
     "country": "OM",
     "region": "DA",
     "identifiers": {
-        "$wmo": "41254",
-        "$icao": "OOSQ",
-        "$ghcn": "MU000041254",
-        "$usaf": "412540",
-        "$mosmix": "41254"
+        "wmo": "41254",
+        "icao": "OOSQ",
+        "ghcn": "MU000041254",
+        "usaf": "412540",
+        "mosmix": "41254"
     },
     "location": {
         "latitude": 23.0667,

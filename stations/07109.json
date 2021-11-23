@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "E",
     "identifiers": {
-        "$wmo": "07109",
-        "$icao": "LFRL",
-        "$usaf": "071090"
+        "wmo": "07109",
+        "icao": "LFRL",
+        "usaf": "071090"
     },
     "location": {
         "latitude": 48.2833,

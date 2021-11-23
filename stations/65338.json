@@ -6,10 +6,10 @@
     "country": "BJ",
     "region": "ZO",
     "identifiers": {
-        "$wmo": "65338",
-        "$icao": "DBBC",
-        "$ghcn": "BNM00065338",
-        "$usaf": "653380"
+        "wmo": "65338",
+        "icao": "DBBC",
+        "ghcn": "BNM00065338",
+        "usaf": "653380"
     },
     "location": {
         "latitude": 7.1667,

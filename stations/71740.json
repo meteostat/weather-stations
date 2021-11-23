@@ -6,10 +6,10 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "$wmo": "71740",
-        "$icao": "CYUY",
-        "$iata": "YUY",
-        "$usaf": "717255"
+        "wmo": "71740",
+        "icao": "CYUY",
+        "iata": "YUY",
+        "usaf": "717255"
     },
     "location": {
         "latitude": 48.2167,

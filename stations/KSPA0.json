@@ -6,10 +6,10 @@
     "country": "US",
     "region": "SC",
     "identifiers": {
-        "$icao": "KSPA",
-        "$iata": "SPA",
-        "$wban": "93804",
-        "$usaf": "723126"
+        "icao": "KSPA",
+        "iata": "SPA",
+        "wban": "93804",
+        "usaf": "723126"
     },
     "location": {
         "latitude": 34.9157,

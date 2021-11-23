@@ -2,15 +2,15 @@
     "id": "02169",
     "name": {
         "de": "Heden Flughafen",
-        "sv": "Heden Flyplats",
-        "en": "Heden Airport"
+        "en": "Heden Airport",
+        "sv": "Heden Flyplats"
     },
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "$wmo": "02169",
-        "$icao": "ESPJ",
-        "$usaf": "021690"
+        "wmo": "02169",
+        "icao": "ESPJ",
+        "usaf": "021690"
     },
     "location": {
         "latitude": 65.8667,

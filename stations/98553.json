@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "EAS",
     "identifiers": {
-        "$wmo": "98553",
-        "$icao": "RPVW",
-        "$usaf": "985530"
+        "wmo": "98553",
+        "icao": "RPVW",
+        "usaf": "985530"
     },
     "location": {
         "latitude": 11.6167,

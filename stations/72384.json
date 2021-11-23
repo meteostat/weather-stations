@@ -6,12 +6,12 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$wmo": "72384",
-        "$icao": "KBFL",
-        "$iata": "BFL",
-        "$ghcn": "USW00023155",
-        "$wban": "23155",
-        "$usaf": "723840"
+        "wmo": "72384",
+        "icao": "KBFL",
+        "iata": "BFL",
+        "ghcn": "USW00023155",
+        "wban": "23155",
+        "usaf": "723840"
     },
     "location": {
         "latitude": 35.4333,

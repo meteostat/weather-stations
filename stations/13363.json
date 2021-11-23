@@ -6,8 +6,8 @@
     "country": "RS",
     "region": "PL",
     "identifiers": {
-        "$wmo": "13363",
-        "$ghcn": "MJM00013363"
+        "wmo": "13363",
+        "ghcn": "MJM00013363"
     },
     "location": {
         "latitude": 43.35,

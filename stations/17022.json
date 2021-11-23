@@ -6,12 +6,12 @@
     "country": "TR",
     "region": "ZON",
     "identifiers": {
-        "$wmo": "17022",
-        "$icao": "LTAS",
-        "$iata": "ONQ",
-        "$ghcn": "TUM00017022",
-        "$usaf": "170220",
-        "$mosmix": "17022"
+        "wmo": "17022",
+        "icao": "LTAS",
+        "iata": "ONQ",
+        "ghcn": "TUM00017022",
+        "usaf": "170220",
+        "mosmix": "17022"
     },
     "location": {
         "latitude": 41.45,

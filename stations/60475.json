@@ -6,12 +6,12 @@
     "country": "DZ",
     "region": "TEB",
     "identifiers": {
-        "$wmo": "60475",
-        "$icao": "DABS",
-        "$iata": "TEE",
-        "$ghcn": "AGM00060475",
-        "$usaf": "604750",
-        "$mosmix": "60475"
+        "wmo": "60475",
+        "icao": "DABS",
+        "iata": "TEE",
+        "ghcn": "AGM00060475",
+        "usaf": "604750",
+        "mosmix": "60475"
     },
     "location": {
         "latitude": 35.4833,

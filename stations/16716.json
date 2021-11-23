@@ -6,11 +6,11 @@
     "country": "GR",
     "region": null,
     "identifiers": {
-        "$wmo": "16716",
-        "$icao": "LGAT",
-        "$ghcn": "GR000016716",
-        "$usaf": "167160",
-        "$mosmix": "16716"
+        "wmo": "16716",
+        "icao": "LGAT",
+        "ghcn": "GR000016716",
+        "usaf": "167160",
+        "mosmix": "16716"
     },
     "location": {
         "latitude": 37.9,

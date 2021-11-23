@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WI",
     "identifiers": {
-        "$icao": "KRZN",
-        "$wban": "04972",
-        "$usaf": "722183"
+        "icao": "KRZN",
+        "wban": "04972",
+        "usaf": "722183"
     },
     "location": {
         "latitude": 45.8227,

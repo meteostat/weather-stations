@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AZ",
     "identifiers": {
-        "$icao": "KNYL",
-        "$wban": "03145",
-        "$usaf": "699604"
+        "icao": "KNYL",
+        "wban": "03145",
+        "usaf": "699604"
     },
     "location": {
         "latitude": 32.6566,

@@ -6,8 +6,8 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "$wmo": "10845",
-        "$icao": "EDSD"
+        "wmo": "10845",
+        "icao": "EDSD"
     },
     "location": {
         "latitude": 48.4333,

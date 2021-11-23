@@ -6,9 +6,9 @@
     "country": "US",
     "region": "AR",
     "identifiers": {
-        "$icao": "KFLP",
-        "$wban": "03918",
-        "$usaf": "723447"
+        "icao": "KFLP",
+        "wban": "03918",
+        "usaf": "723447"
     },
     "location": {
         "latitude": 36.2909,

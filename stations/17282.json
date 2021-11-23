@@ -6,11 +6,11 @@
     "country": "TR",
     "region": "SII",
     "identifiers": {
-        "$wmo": "17282",
-        "$icao": "LTCJ",
-        "$iata": "BAL",
-        "$ghcn": "TUM00017282",
-        "$usaf": "172820"
+        "wmo": "17282",
+        "icao": "LTCJ",
+        "iata": "BAL",
+        "ghcn": "TUM00017282",
+        "usaf": "172820"
     },
     "location": {
         "latitude": 37.8667,

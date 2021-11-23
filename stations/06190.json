@@ -6,12 +6,12 @@
     "country": "DK",
     "region": "HS",
     "identifiers": {
-        "$wmo": "06190",
-        "$icao": "EKRN",
-        "$iata": "RNN",
-        "$ghcn": "DAM00006190",
-        "$usaf": "061900",
-        "$mosmix": "06190"
+        "wmo": "06190",
+        "icao": "EKRN",
+        "iata": "RNN",
+        "ghcn": "DAM00006190",
+        "usaf": "061900",
+        "mosmix": "06190"
     },
     "location": {
         "latitude": 55.0667,

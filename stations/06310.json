@@ -6,10 +6,10 @@
     "country": "NL",
     "region": "ZE",
     "identifiers": {
-        "$wmo": "06310",
-        "$ghcn": "NLM00006310",
-        "$usaf": "063100",
-        "$mosmix": "06310"
+        "wmo": "06310",
+        "ghcn": "NLM00006310",
+        "usaf": "063100",
+        "mosmix": "06310"
     },
     "location": {
         "latitude": 51.45,

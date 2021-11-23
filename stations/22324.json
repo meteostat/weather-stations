@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "MUR",
     "identifiers": {
-        "$wmo": "22324",
-        "$ghcn": "RSM00022324"
+        "wmo": "22324",
+        "ghcn": "RSM00022324"
     },
     "location": {
         "latitude": 66.6833,

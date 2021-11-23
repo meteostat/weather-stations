@@ -6,11 +6,11 @@
     "country": "CN",
     "region": "SX",
     "identifiers": {
-        "$wmo": "53772",
-        "$icao": "ZBYN",
-        "$iata": "TYN",
-        "$ghcn": "CHM00053772",
-        "$usaf": "537720"
+        "wmo": "53772",
+        "icao": "ZBYN",
+        "iata": "TYN",
+        "ghcn": "CHM00053772",
+        "usaf": "537720"
     },
     "location": {
         "latitude": 37.7833,

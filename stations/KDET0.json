@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$icao": "KDET",
-        "$iata": "DET",
-        "$wban": "14822",
-        "$usaf": "725375"
+        "icao": "KDET",
+        "iata": "DET",
+        "wban": "14822",
+        "usaf": "725375"
     },
     "location": {
         "latitude": 42.4092,

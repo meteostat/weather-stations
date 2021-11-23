@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "PV",
     "identifiers": {
-        "$wmo": "08029",
-        "$icao": "LESO",
-        "$iata": "EAS",
-        "$ghcn": "SPE00120134",
-        "$usaf": "080290",
-        "$mosmix": "08029"
+        "wmo": "08029",
+        "icao": "LESO",
+        "iata": "EAS",
+        "ghcn": "SPE00120134",
+        "usaf": "080290",
+        "mosmix": "08029"
     },
     "location": {
         "latitude": 43.35,

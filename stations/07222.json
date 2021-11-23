@@ -6,12 +6,12 @@
     "country": "FR",
     "region": "R",
     "identifiers": {
-        "$wmo": "07222",
-        "$icao": "LFRS",
-        "$iata": "NTE",
-        "$ghcn": "FRM00007222",
-        "$usaf": "072220",
-        "$mosmix": "07222"
+        "wmo": "07222",
+        "icao": "LFRS",
+        "iata": "NTE",
+        "ghcn": "FRM00007222",
+        "usaf": "072220",
+        "mosmix": "07222"
     },
     "location": {
         "latitude": 47.1667,

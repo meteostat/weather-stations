@@ -6,11 +6,11 @@
     "country": "IR",
     "region": "GIL",
     "identifiers": {
-        "$wmo": "40719",
-        "$icao": "OIGG",
-        "$iata": "RAS",
-        "$usaf": "407190",
-        "$mosmix": "40719"
+        "wmo": "40719",
+        "icao": "OIGG",
+        "iata": "RAS",
+        "usaf": "407190",
+        "mosmix": "40719"
     },
     "location": {
         "latitude": 37.2,

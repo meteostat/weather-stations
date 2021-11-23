@@ -6,9 +6,9 @@
     "country": "US",
     "region": "RI",
     "identifiers": {
-        "$icao": "KOQU",
-        "$wban": "54752",
-        "$usaf": "725074"
+        "icao": "KOQU",
+        "wban": "54752",
+        "usaf": "725074"
     },
     "location": {
         "latitude": 41.5971,

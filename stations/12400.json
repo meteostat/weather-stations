@@ -6,11 +6,11 @@
     "country": "PL",
     "region": "LU",
     "identifiers": {
-        "$wmo": "12400",
-        "$icao": "EPZG",
-        "$iata": "IEG",
-        "$usaf": "123120",
-        "$mosmix": "12400"
+        "wmo": "12400",
+        "icao": "EPZG",
+        "iata": "IEG",
+        "usaf": "123120",
+        "mosmix": "12400"
     },
     "location": {
         "latitude": 51.9333,

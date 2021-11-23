@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "BEC",
     "identifiers": {
-        "$wmo": "60602",
-        "$ghcn": "AGM00060602"
+        "wmo": "60602",
+        "ghcn": "AGM00060602"
     },
     "location": {
         "latitude": 30.1333,

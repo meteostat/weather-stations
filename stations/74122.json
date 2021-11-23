@@ -6,10 +6,10 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "$wmo": "74122",
-        "$icao": "CYBA",
-        "$iata": "YBA",
-        "$wban": "25112"
+        "wmo": "74122",
+        "icao": "CYBA",
+        "iata": "YBA",
+        "wban": "25112"
     },
     "location": {
         "latitude": 51.1833,

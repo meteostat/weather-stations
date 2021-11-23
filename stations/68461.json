@@ -6,11 +6,11 @@
     "country": "ZA",
     "region": "FS",
     "identifiers": {
-        "$wmo": "68461",
-        "$icao": "FABM",
-        "$ghcn": "SFM00068461",
-        "$usaf": "684610",
-        "$mosmix": "68461"
+        "wmo": "68461",
+        "icao": "FABM",
+        "ghcn": "SFM00068461",
+        "usaf": "684610",
+        "mosmix": "68461"
     },
     "location": {
         "latitude": -28.25,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "MI",
     "identifiers": {
-        "$icao": "KPLN",
-        "$iata": "PLN",
-        "$wban": "14841",
-        "$usaf": "727347"
+        "icao": "KPLN",
+        "iata": "PLN",
+        "wban": "14841",
+        "usaf": "727347"
     },
     "location": {
         "latitude": 45.5709,

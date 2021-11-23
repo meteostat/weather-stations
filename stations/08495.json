@@ -6,12 +6,12 @@
     "country": "GI",
     "region": null,
     "identifiers": {
-        "$wmo": "08495",
-        "$icao": "LXGB",
-        "$iata": "GIB",
-        "$ghcn": "GIM00008495",
-        "$usaf": "084950",
-        "$mosmix": "08495"
+        "wmo": "08495",
+        "icao": "LXGB",
+        "iata": "GIB",
+        "ghcn": "GIM00008495",
+        "usaf": "084950",
+        "mosmix": "08495"
     },
     "location": {
         "latitude": 36.15,

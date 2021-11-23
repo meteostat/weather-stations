@@ -6,10 +6,10 @@
     "country": "RO",
     "region": "CS",
     "identifiers": {
-        "$wmo": "15292",
-        "$icao": "LRCS",
-        "$ghcn": "ROE00108890",
-        "$usaf": "152920"
+        "wmo": "15292",
+        "icao": "LRCS",
+        "ghcn": "ROE00108890",
+        "usaf": "152920"
     },
     "location": {
         "latitude": 45.4167,

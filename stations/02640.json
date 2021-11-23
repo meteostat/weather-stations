@@ -2,14 +2,14 @@
     "id": "02640",
     "name": {
         "de": "Vaxjo Hov Flughafen",
-        "sv": "Vaxjo Hov Flygplats",
-        "en": "Vaxjo Hov Airport"
+        "en": "Vaxjo Hov Airport",
+        "sv": "Vaxjo Hov Flygplats"
     },
     "country": "SE",
     "region": "G",
     "identifiers": {
-        "$wmo": "02640",
-        "$icao": "ESFU"
+        "wmo": "02640",
+        "icao": "ESFU"
     },
     "location": {
         "latitude": 56.8667,

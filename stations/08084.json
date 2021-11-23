@@ -6,10 +6,10 @@
     "country": "ES",
     "region": "LO",
     "identifiers": {
-        "$wmo": "08084",
-        "$icao": "LELO",
-        "$ghcn": "SPE00120188",
-        "$usaf": "080840"
+        "wmo": "08084",
+        "icao": "LELO",
+        "ghcn": "SPE00120188",
+        "usaf": "080840"
     },
     "location": {
         "latitude": 42.45,

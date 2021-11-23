@@ -6,10 +6,10 @@
     "country": "NL",
     "region": "ZH",
     "identifiers": {
-        "$wmo": "06210",
-        "$icao": "EHVB",
-        "$usaf": "062100",
-        "$mosmix": "06210"
+        "wmo": "06210",
+        "icao": "EHVB",
+        "usaf": "062100",
+        "mosmix": "06210"
     },
     "location": {
         "latitude": 52.1833,

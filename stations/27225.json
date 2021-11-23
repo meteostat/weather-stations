@@ -6,8 +6,8 @@
     "country": "RU",
     "region": "YAR",
     "identifiers": {
-        "$wmo": "27225",
-        "$ghcn": "RSM00027225"
+        "wmo": "27225",
+        "ghcn": "RSM00027225"
     },
     "location": {
         "latitude": 58.1,

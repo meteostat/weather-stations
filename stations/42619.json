@@ -6,10 +6,10 @@
     "country": "IN",
     "region": "AS",
     "identifiers": {
-        "$wmo": "42619",
-        "$iata": "IXS",
-        "$ghcn": "IN003010600",
-        "$usaf": "426190"
+        "wmo": "42619",
+        "iata": "IXS",
+        "ghcn": "IN003010600",
+        "usaf": "426190"
     },
     "location": {
         "latitude": 24.75,

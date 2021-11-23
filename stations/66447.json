@@ -6,8 +6,8 @@
     "country": "AO",
     "region": "CCU",
     "identifiers": {
-        "$wmo": "66447",
-        "$ghcn": "AO000066447"
+        "wmo": "66447",
+        "ghcn": "AO000066447"
     },
     "location": {
         "latitude": -15.8333,

@@ -6,12 +6,12 @@
     "country": "SD",
     "region": "KRT",
     "identifiers": {
-        "$wmo": "62721",
-        "$icao": "HSSS",
-        "$iata": "KRT",
-        "$ghcn": "SU000062721",
-        "$usaf": "627210",
-        "$mosmix": "62721"
+        "wmo": "62721",
+        "icao": "HSSS",
+        "iata": "KRT",
+        "ghcn": "SU000062721",
+        "usaf": "627210",
+        "mosmix": "62721"
     },
     "location": {
         "latitude": 15.6,

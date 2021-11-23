@@ -6,12 +6,12 @@
     "country": "MA",
     "region": "CO",
     "identifiers": {
-        "$wmo": "60156",
-        "$icao": "GMMN",
-        "$iata": "CMN",
-        "$ghcn": "MO000060156",
-        "$usaf": "601560",
-        "$mosmix": "60156"
+        "wmo": "60156",
+        "icao": "GMMN",
+        "iata": "CMN",
+        "ghcn": "MO000060156",
+        "usaf": "601560",
+        "mosmix": "60156"
     },
     "location": {
         "latitude": 33.3667,

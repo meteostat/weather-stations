@@ -6,11 +6,11 @@
     "country": "ZW",
     "region": "MD",
     "identifiers": {
-        "$wmo": "67867",
-        "$icao": "FVTL",
-        "$iata": "GWE",
-        "$ghcn": "ZI000067867",
-        "$usaf": "678670"
+        "wmo": "67867",
+        "icao": "FVTL",
+        "iata": "GWE",
+        "ghcn": "ZI000067867",
+        "usaf": "678670"
     },
     "location": {
         "latitude": -19.45,

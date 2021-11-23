@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "KRD",
     "identifiers": {
-        "$wmo": "40727",
-        "$icao": "OITS",
-        "$usaf": "407270"
+        "wmo": "40727",
+        "icao": "OITS",
+        "usaf": "407270"
     },
     "location": {
         "latitude": 36.25,

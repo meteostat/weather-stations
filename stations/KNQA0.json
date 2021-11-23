@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "$icao": "KNQA",
-        "$iata": "NQA",
-        "$wban": "93839",
-        "$usaf": "723284"
+        "icao": "KNQA",
+        "iata": "NQA",
+        "wban": "93839",
+        "usaf": "723284"
     },
     "location": {
         "latitude": 35.3567,

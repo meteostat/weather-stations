@@ -6,9 +6,9 @@
     "country": "FJ",
     "region": "EA",
     "identifiers": {
-        "$wmo": "91699",
-        "$ghcn": "FJM00091699",
-        "$usaf": "916990"
+        "wmo": "91699",
+        "ghcn": "FJM00091699",
+        "usaf": "916990"
     },
     "location": {
         "latitude": -20.6667,

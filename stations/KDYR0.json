@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TN",
     "identifiers": {
-        "$icao": "KDYR",
-        "$wban": "03809",
-        "$usaf": "723347"
+        "icao": "KDYR",
+        "wban": "03809",
+        "usaf": "723347"
     },
     "location": {
         "latitude": 35.998,

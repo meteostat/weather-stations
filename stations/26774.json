@@ -6,8 +6,8 @@
     "country": "BY",
     "region": "MA",
     "identifiers": {
-        "$wmo": "26774",
-        "$ghcn": "BOM00026774"
+        "wmo": "26774",
+        "ghcn": "BOM00026774"
     },
     "location": {
         "latitude": 54.3,

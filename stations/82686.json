@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "CE",
     "identifiers": {
-        "$wmo": "82686",
-        "$iata": "IGZ",
-        "$ghcn": "BR038217420"
+        "wmo": "82686",
+        "iata": "IGZ",
+        "ghcn": "BR038217420"
     },
     "location": {
         "latitude": -6.3667,

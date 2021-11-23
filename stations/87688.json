@@ -6,11 +6,11 @@
     "country": "AR",
     "region": "B",
     "identifiers": {
-        "$wmo": "87688",
-        "$icao": "SAZH",
-        "$iata": "OYO",
-        "$ghcn": "ARM00087688",
-        "$usaf": "876880"
+        "wmo": "87688",
+        "icao": "SAZH",
+        "iata": "OYO",
+        "ghcn": "ARM00087688",
+        "usaf": "876880"
     },
     "location": {
         "latitude": -38.3333,

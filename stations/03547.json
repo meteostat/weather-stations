@@ -6,9 +6,9 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "$wmo": "03547",
-        "$icao": "EGBC",
-        "$usaf": "035471"
+        "wmo": "03547",
+        "icao": "EGBC",
+        "usaf": "035471"
     },
     "location": {
         "latitude": 52.45,

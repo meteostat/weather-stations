@@ -6,12 +6,12 @@
     "country": "US",
     "region": "GA",
     "identifiers": {
-        "$wmo": "72213",
-        "$icao": "KAYS",
-        "$iata": "AYS",
-        "$ghcn": "USW00013861",
-        "$wban": "13861",
-        "$usaf": "722130"
+        "wmo": "72213",
+        "icao": "KAYS",
+        "iata": "AYS",
+        "ghcn": "USW00013861",
+        "wban": "13861",
+        "usaf": "722130"
     },
     "location": {
         "latitude": 31.25,

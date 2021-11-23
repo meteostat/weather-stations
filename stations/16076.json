@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "LM",
     "identifiers": {
-        "$wmo": "16076",
-        "$icao": "LIME",
-        "$iata": "BGY",
-        "$usaf": "160760",
-        "$mosmix": "16076"
+        "wmo": "16076",
+        "icao": "LIME",
+        "iata": "BGY",
+        "usaf": "160760",
+        "mosmix": "16076"
     },
     "location": {
         "latitude": 45.6667,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "$icao": "PHSF",
-        "$iata": "BSF",
-        "$wban": "21508",
-        "$usaf": "911977"
+        "icao": "PHSF",
+        "iata": "BSF",
+        "wban": "21508",
+        "usaf": "911977"
     },
     "location": {
         "latitude": 19.76,

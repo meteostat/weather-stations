@@ -6,10 +6,10 @@
     "country": "NE",
     "region": "TH",
     "identifiers": {
-        "$wmo": "61075",
-        "$icao": "DRRB",
-        "$ghcn": "NG000001075",
-        "$usaf": "610750"
+        "wmo": "61075",
+        "icao": "DRRB",
+        "ghcn": "NG000001075",
+        "usaf": "610750"
     },
     "location": {
         "latitude": 13.8,

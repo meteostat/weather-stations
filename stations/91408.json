@@ -6,11 +6,11 @@
     "country": "PW",
     "region": "PW",
     "identifiers": {
-        "$wmo": "91408",
-        "$icao": "PTRO",
-        "$iata": "ROR",
-        "$ghcn": "PSW00040309",
-        "$wban": "40310"
+        "wmo": "91408",
+        "icao": "PTRO",
+        "iata": "ROR",
+        "ghcn": "PSW00040309",
+        "wban": "40310"
     },
     "location": {
         "latitude": 7.3667,

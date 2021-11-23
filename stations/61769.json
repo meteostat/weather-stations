@@ -6,9 +6,9 @@
     "country": "GW",
     "region": "BL",
     "identifiers": {
-        "$wmo": "61769",
-        "$icao": "GGBO",
-        "$ghcn": "PUM00061769"
+        "wmo": "61769",
+        "icao": "GGBO",
+        "ghcn": "PUM00061769"
     },
     "location": {
         "latitude": 11.5833,

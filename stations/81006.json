@@ -6,10 +6,10 @@
     "country": "GY",
     "region": "UT",
     "identifiers": {
-        "$wmo": "81006",
-        "$icao": "SYLT",
-        "$iata": "LTM",
-        "$usaf": "810060"
+        "wmo": "81006",
+        "icao": "SYLT",
+        "iata": "LTM",
+        "usaf": "810060"
     },
     "location": {
         "latitude": 3.3667,

@@ -6,11 +6,11 @@
     "country": "DM",
     "region": "AN",
     "identifiers": {
-        "$wmo": "78906",
-        "$icao": "TDCF",
-        "$iata": "DCF",
-        "$wban": "00403",
-        "$usaf": "789060"
+        "wmo": "78906",
+        "icao": "TDCF",
+        "iata": "DCF",
+        "wban": "00403",
+        "usaf": "789060"
     },
     "location": {
         "latitude": 15.5333,

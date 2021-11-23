@@ -6,12 +6,12 @@
     "country": "CU",
     "region": "GU",
     "identifiers": {
-        "$wmo": "78367",
-        "$icao": "MUGM",
-        "$iata": "NBW",
-        "$ghcn": "CUW00011706",
-        "$wban": "11706",
-        "$usaf": "783670"
+        "wmo": "78367",
+        "icao": "MUGM",
+        "iata": "NBW",
+        "ghcn": "CUW00011706",
+        "wban": "11706",
+        "usaf": "783670"
     },
     "location": {
         "latitude": 19.9167,

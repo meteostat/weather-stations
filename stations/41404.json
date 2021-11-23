@@ -6,11 +6,11 @@
     "country": "YE",
     "region": "SN",
     "identifiers": {
-        "$wmo": "41404",
-        "$icao": "OYSN",
-        "$iata": "SAH",
-        "$usaf": "414040",
-        "$mosmix": "41404"
+        "wmo": "41404",
+        "icao": "OYSN",
+        "iata": "SAH",
+        "usaf": "414040",
+        "mosmix": "41404"
     },
     "location": {
         "latitude": 15.5167,

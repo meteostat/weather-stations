@@ -6,10 +6,10 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$wmo": "72011",
-        "$icao": "KAQO",
-        "$wban": "53983",
-        "$usaf": "720110"
+        "wmo": "72011",
+        "icao": "KAQO",
+        "wban": "53983",
+        "usaf": "720110"
     },
     "location": {
         "latitude": 30.7845,

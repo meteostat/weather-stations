@@ -6,10 +6,10 @@
     "country": "ML",
     "region": "MP",
     "identifiers": {
-        "$wmo": "61240",
-        "$icao": "GAHB",
-        "$ghcn": "MLM00061240",
-        "$usaf": "612400"
+        "wmo": "61240",
+        "icao": "GAHB",
+        "ghcn": "MLM00061240",
+        "usaf": "612400"
     },
     "location": {
         "latitude": 15.3333,

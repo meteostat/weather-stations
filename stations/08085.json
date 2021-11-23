@@ -6,11 +6,11 @@
     "country": "ES",
     "region": "NA",
     "identifiers": {
-        "$wmo": "08085",
-        "$icao": "LEPP",
-        "$iata": "PNA",
-        "$ghcn": "SPE00120359",
-        "$usaf": "080850"
+        "wmo": "08085",
+        "icao": "LEPP",
+        "iata": "PNA",
+        "ghcn": "SPE00120359",
+        "usaf": "080850"
     },
     "location": {
         "latitude": 42.7667,

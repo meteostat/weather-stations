@@ -6,12 +6,12 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "$national": "04280",
-        "$wmo": "10765",
-        "$icao": "ETHR",
-        "$ghcn": "GMM00010765",
-        "$usaf": "107650",
-        "$mosmix": "10765"
+        "national": "04280",
+        "wmo": "10765",
+        "icao": "ETHR",
+        "ghcn": "GMM00010765",
+        "usaf": "107650",
+        "mosmix": "10765"
     },
     "location": {
         "latitude": 49.2167,

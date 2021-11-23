@@ -6,12 +6,12 @@
     "country": "MZ",
     "region": "MP",
     "identifiers": {
-        "$wmo": "67341",
-        "$icao": "FQMA",
-        "$iata": "MPM",
-        "$ghcn": "MZM00067341",
-        "$usaf": "673410",
-        "$mosmix": "67341"
+        "wmo": "67341",
+        "icao": "FQMA",
+        "iata": "MPM",
+        "ghcn": "MZM00067341",
+        "usaf": "673410",
+        "mosmix": "67341"
     },
     "location": {
         "latitude": -25.9167,

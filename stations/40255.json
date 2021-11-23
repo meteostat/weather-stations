@@ -6,10 +6,10 @@
     "country": "JO",
     "region": "IR",
     "identifiers": {
-        "$wmo": "40255",
-        "$icao": "OJBD",
-        "$usaf": "402550",
-        "$mosmix": "40255"
+        "wmo": "40255",
+        "icao": "OJBD",
+        "usaf": "402550",
+        "mosmix": "40255"
     },
     "location": {
         "latitude": 32.55,

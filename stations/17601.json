@@ -6,11 +6,11 @@
     "country": "CY",
     "region": "LI",
     "identifiers": {
-        "$wmo": "17601",
-        "$icao": "LCRA",
-        "$iata": "AKT",
-        "$usaf": "176010",
-        "$mosmix": "17601"
+        "wmo": "17601",
+        "icao": "LCRA",
+        "iata": "AKT",
+        "usaf": "176010",
+        "mosmix": "17601"
     },
     "location": {
         "latitude": 34.5833,

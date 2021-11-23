@@ -6,10 +6,10 @@
     "country": "RU",
     "region": "SA",
     "identifiers": {
-        "$wmo": "24125",
-        "$icao": "UERO",
-        "$ghcn": "RSM00024125",
-        "$mosmix": "24125"
+        "wmo": "24125",
+        "icao": "UERO",
+        "ghcn": "RSM00024125",
+        "mosmix": "24125"
     },
     "location": {
         "latitude": 68.5,

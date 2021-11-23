@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$icao": "KJYR",
-        "$wban": "14989",
-        "$usaf": "725512"
+        "icao": "KJYR",
+        "wban": "14989",
+        "usaf": "725512"
     },
     "location": {
         "latitude": 40.8964,

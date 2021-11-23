@@ -6,8 +6,8 @@
     "country": "IN",
     "region": "KA",
     "identifiers": {
-        "$wmo": "43299",
-        "$ghcn": "IN009142400"
+        "wmo": "43299",
+        "ghcn": "IN009142400"
     },
     "location": {
         "latitude": 12.95,

@@ -6,9 +6,9 @@
     "country": "LT",
     "region": null,
     "identifiers": {
-        "$wmo": "26509",
-        "$ghcn": "LH000026509",
-        "$mosmix": "26509"
+        "wmo": "26509",
+        "ghcn": "LH000026509",
+        "mosmix": "26509"
     },
     "location": {
         "latitude": 55.7333,

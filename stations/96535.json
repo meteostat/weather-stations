@@ -6,9 +6,9 @@
     "country": "ID",
     "region": "KB",
     "identifiers": {
-        "$wmo": "96535",
-        "$ghcn": "IDM00096535",
-        "$usaf": "965350"
+        "wmo": "96535",
+        "ghcn": "IDM00096535",
+        "usaf": "965350"
     },
     "location": {
         "latitude": -1.7,

@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "AKT",
     "identifiers": {
-        "$wmo": "35437",
-        "$ghcn": "KZ000035437",
-        "$usaf": "354370"
+        "wmo": "35437",
+        "ghcn": "KZ000035437",
+        "usaf": "354370"
     },
     "location": {
         "latitude": 48.8167,

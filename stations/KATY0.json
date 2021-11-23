@@ -6,10 +6,10 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "$icao": "KATY",
-        "$iata": "ATY",
-        "$wban": "14946",
-        "$usaf": "726546"
+        "icao": "KATY",
+        "iata": "ATY",
+        "wban": "14946",
+        "usaf": "726546"
     },
     "location": {
         "latitude": 44.914,

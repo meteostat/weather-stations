@@ -6,10 +6,10 @@
     "country": "CF",
     "region": "UK",
     "identifiers": {
-        "$wmo": "64660",
-        "$icao": "FEFM",
-        "$ghcn": "CT000004660",
-        "$usaf": "646600"
+        "wmo": "64660",
+        "icao": "FEFM",
+        "ghcn": "CT000004660",
+        "usaf": "646600"
     },
     "location": {
         "latitude": 5.85,

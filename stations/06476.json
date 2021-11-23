@@ -6,10 +6,10 @@
     "country": "BE",
     "region": "WLX",
     "identifiers": {
-        "$wmo": "06476",
-        "$icao": "EBSU",
-        "$usaf": "064760",
-        "$mosmix": "06476"
+        "wmo": "06476",
+        "icao": "EBSU",
+        "usaf": "064760",
+        "mosmix": "06476"
     },
     "location": {
         "latitude": 50.0333,

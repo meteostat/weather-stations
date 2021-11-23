@@ -6,11 +6,11 @@
     "country": "NG",
     "region": "BN",
     "identifiers": {
-        "$wmo": "65271",
-        "$icao": "DNMK",
-        "$iata": "MDI",
-        "$ghcn": "NIM00065271",
-        "$usaf": "652710"
+        "wmo": "65271",
+        "icao": "DNMK",
+        "iata": "MDI",
+        "ghcn": "NIM00065271",
+        "usaf": "652710"
     },
     "location": {
         "latitude": 7.6833,

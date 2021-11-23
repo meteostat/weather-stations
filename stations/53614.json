@@ -6,11 +6,11 @@
     "country": "CN",
     "region": "NX",
     "identifiers": {
-        "$wmo": "53614",
-        "$icao": "ZLIC",
-        "$iata": "INC",
-        "$ghcn": "CHM00053614",
-        "$usaf": "536140"
+        "wmo": "53614",
+        "icao": "ZLIC",
+        "iata": "INC",
+        "ghcn": "CHM00053614",
+        "usaf": "536140"
     },
     "location": {
         "latitude": 38.4833,

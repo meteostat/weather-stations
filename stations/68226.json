@@ -6,10 +6,10 @@
     "country": "BW",
     "region": "KG",
     "identifiers": {
-        "$wmo": "68226",
-        "$icao": "FBTE",
-        "$ghcn": "BC000068226",
-        "$usaf": "682260"
+        "wmo": "68226",
+        "icao": "FBTE",
+        "ghcn": "BC000068226",
+        "usaf": "682260"
     },
     "location": {
         "latitude": -24.0167,

@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KCEC",
-        "$iata": "CEC",
-        "$wban": "24286",
-        "$usaf": "725946"
+        "icao": "KCEC",
+        "iata": "CEC",
+        "wban": "24286",
+        "usaf": "725946"
     },
     "location": {
         "latitude": 41.7802,

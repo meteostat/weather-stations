@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "AP",
     "identifiers": {
-        "$wmo": "82017",
-        "$icao": "SBOI",
-        "$iata": "OYK",
-        "$usaf": "820170"
+        "wmo": "82017",
+        "icao": "SBOI",
+        "iata": "OYK",
+        "usaf": "820170"
     },
     "location": {
         "latitude": 3.8333,

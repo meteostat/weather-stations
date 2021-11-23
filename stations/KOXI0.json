@@ -6,9 +6,9 @@
     "country": "US",
     "region": "IN",
     "identifiers": {
-        "$icao": "KOXI",
-        "$wban": "00187",
-        "$usaf": "720593"
+        "icao": "KOXI",
+        "wban": "00187",
+        "usaf": "720593"
     },
     "location": {
         "latitude": 41.3302,

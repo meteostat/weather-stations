@@ -6,9 +6,9 @@
     "country": "US",
     "region": "LA",
     "identifiers": {
-        "$wmo": "72233",
-        "$icao": "KLIX",
-        "$ghcn": "USW00053865"
+        "wmo": "72233",
+        "icao": "KLIX",
+        "ghcn": "USW00053865"
     },
     "location": {
         "latitude": 30.3333,

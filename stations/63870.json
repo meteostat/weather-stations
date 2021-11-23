@@ -6,12 +6,12 @@
     "country": "TZ",
     "region": "ZU",
     "identifiers": {
-        "$wmo": "63870",
-        "$icao": "HTZA",
-        "$iata": "ZNZ",
-        "$ghcn": "TZM00063870",
-        "$usaf": "638700",
-        "$mosmix": "63870"
+        "wmo": "63870",
+        "icao": "HTZA",
+        "iata": "ZNZ",
+        "ghcn": "TZM00063870",
+        "usaf": "638700",
+        "mosmix": "63870"
     },
     "location": {
         "latitude": -6.2167,

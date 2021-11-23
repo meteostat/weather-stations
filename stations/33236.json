@@ -6,8 +6,8 @@
     "country": "UA",
     "region": "CH",
     "identifiers": {
-        "$wmo": "33236",
-        "$ghcn": "UPM00033236"
+        "wmo": "33236",
+        "ghcn": "UPM00033236"
     },
     "location": {
         "latitude": 50.95,

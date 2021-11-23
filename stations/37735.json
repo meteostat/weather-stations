@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "SMX",
     "identifiers": {
-        "$wmo": "37735",
-        "$ghcn": "AJ000037735"
+        "wmo": "37735",
+        "ghcn": "AJ000037735"
     },
     "location": {
         "latitude": 40.7167,

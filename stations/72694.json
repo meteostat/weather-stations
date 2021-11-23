@@ -6,12 +6,12 @@
     "country": "US",
     "region": "OR",
     "identifiers": {
-        "$wmo": "72694",
-        "$icao": "KSLE",
-        "$iata": "SLE",
-        "$ghcn": "USW00024232",
-        "$wban": "24232",
-        "$usaf": "726940"
+        "wmo": "72694",
+        "icao": "KSLE",
+        "iata": "SLE",
+        "ghcn": "USW00024232",
+        "wban": "24232",
+        "usaf": "726940"
     },
     "location": {
         "latitude": 44.9,

@@ -6,8 +6,8 @@
     "country": "PY",
     "region": "MI",
     "identifiers": {
-        "$wmo": "86260",
-        "$ghcn": "PAM00086260"
+        "wmo": "86260",
+        "ghcn": "PAM00086260"
     },
     "location": {
         "latitude": -26.6667,

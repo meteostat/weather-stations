@@ -6,12 +6,12 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "$wmo": "72577",
-        "$icao": "KJAC",
-        "$iata": "JAC",
-        "$ghcn": "USW00004138",
-        "$wban": "24166",
-        "$usaf": "725776"
+        "wmo": "72577",
+        "icao": "KJAC",
+        "iata": "JAC",
+        "ghcn": "USW00004138",
+        "wban": "24166",
+        "usaf": "725776"
     },
     "location": {
         "latitude": 43.6073,

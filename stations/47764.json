@@ -6,11 +6,11 @@
     "country": "JP",
     "region": "YC",
     "identifiers": {
-        "$wmo": "47764",
-        "$icao": "RJOI",
-        "$ghcn": "JAW00043324",
-        "$wban": "43324",
-        "$usaf": "477641"
+        "wmo": "47764",
+        "icao": "RJOI",
+        "ghcn": "JAW00043324",
+        "wban": "43324",
+        "usaf": "477641"
     },
     "location": {
         "latitude": 34.15,

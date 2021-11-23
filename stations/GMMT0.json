@@ -6,9 +6,9 @@
     "country": "MA",
     "region": "CBL",
     "identifiers": {
-        "$icao": "GMMT",
-        "$iata": "CAS",
-        "$usaf": "601465"
+        "icao": "GMMT",
+        "iata": "CAS",
+        "usaf": "601465"
     },
     "location": {
         "latitude": 33.5949,

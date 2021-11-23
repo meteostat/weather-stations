@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "WP",
     "identifiers": {
-        "$wmo": "12418",
-        "$icao": "EPLS",
-        "$mosmix": "12418"
+        "wmo": "12418",
+        "icao": "EPLS",
+        "mosmix": "12418"
     },
     "location": {
         "latitude": 51.8333,

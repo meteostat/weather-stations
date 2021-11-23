@@ -6,12 +6,12 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "$wmo": "72465",
-        "$icao": "KGLD",
-        "$iata": "GLD",
-        "$ghcn": "USW00023065",
-        "$wban": "23065",
-        "$usaf": "724650"
+        "wmo": "72465",
+        "icao": "KGLD",
+        "iata": "GLD",
+        "ghcn": "USW00023065",
+        "wban": "23065",
+        "usaf": "724650"
     },
     "location": {
         "latitude": 39.3667,

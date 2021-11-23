@@ -6,11 +6,11 @@
     "country": "SN",
     "region": "TA",
     "identifiers": {
-        "$wmo": "61699",
-        "$icao": "GOTK",
-        "$iata": "KGG",
-        "$ghcn": "SGM00061699",
-        "$usaf": "616990"
+        "wmo": "61699",
+        "icao": "GOTK",
+        "iata": "KGG",
+        "ghcn": "SGM00061699",
+        "usaf": "616990"
     },
     "location": {
         "latitude": 12.5667,

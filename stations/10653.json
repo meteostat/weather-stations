@@ -6,10 +6,10 @@
     "country": "DE",
     "region": "BY",
     "identifiers": {
-        "$wmo": "10653",
-        "$icao": "ETEU",
-        "$iata": "GHF",
-        "$usaf": "106530"
+        "wmo": "10653",
+        "icao": "ETEU",
+        "iata": "GHF",
+        "usaf": "106530"
     },
     "location": {
         "latitude": 49.65,

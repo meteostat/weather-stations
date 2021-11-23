@@ -6,11 +6,11 @@
     "country": "IR",
     "region": "MZD",
     "identifiers": {
-        "$wmo": "40738",
-        "$icao": "OING",
-        "$iata": "GBT",
-        "$ghcn": "IRM00040738",
-        "$usaf": "407380"
+        "wmo": "40738",
+        "icao": "OING",
+        "iata": "GBT",
+        "ghcn": "IRM00040738",
+        "usaf": "407380"
     },
     "location": {
         "latitude": 36.8167,

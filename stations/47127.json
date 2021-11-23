@@ -6,12 +6,12 @@
     "country": "KR",
     "region": "HN",
     "identifiers": {
-        "$wmo": "47127",
-        "$icao": "RKSG",
-        "$ghcn": "KSW00043216",
-        "$wban": "43216",
-        "$usaf": "471270",
-        "$mosmix": "47127"
+        "wmo": "47127",
+        "icao": "RKSG",
+        "ghcn": "KSW00043216",
+        "wban": "43216",
+        "usaf": "471270",
+        "mosmix": "47127"
     },
     "location": {
         "latitude": 36.9333,

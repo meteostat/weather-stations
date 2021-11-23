@@ -6,10 +6,10 @@
     "country": "CO",
     "region": "CAQ",
     "identifiers": {
-        "$wmo": "80318",
-        "$icao": "SKSV",
-        "$iata": "SVI",
-        "$usaf": "800011"
+        "wmo": "80318",
+        "icao": "SKSV",
+        "iata": "SVI",
+        "usaf": "800011"
     },
     "location": {
         "latitude": 2.15,

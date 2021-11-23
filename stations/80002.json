@@ -6,11 +6,11 @@
     "country": "CO",
     "region": "SAP",
     "identifiers": {
-        "$wmo": "80002",
-        "$icao": "SKPV",
-        "$iata": "PVA",
-        "$ghcn": "COM00080002",
-        "$usaf": "800020"
+        "wmo": "80002",
+        "icao": "SKPV",
+        "iata": "PVA",
+        "ghcn": "COM00080002",
+        "usaf": "800020"
     },
     "location": {
         "latitude": 13.3667,

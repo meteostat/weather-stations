@@ -2,16 +2,16 @@
     "id": "01107",
     "name": {
         "de": "Rost Flugplatz",
-        "no": "Rost Flyplass",
-        "en": "Rost Airfield"
+        "en": "Rost Airfield",
+        "no": "Rost Flyplass"
     },
     "country": "NO",
     "region": null,
     "identifiers": {
-        "$wmo": "01107",
-        "$icao": "ENRS",
-        "$iata": "RET",
-        "$usaf": "011070"
+        "wmo": "01107",
+        "icao": "ENRS",
+        "iata": "RET",
+        "usaf": "011070"
     },
     "location": {
         "latitude": 67.5167,

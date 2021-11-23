@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "QUE",
     "identifiers": {
-        "$wmo": "76625",
-        "$icao": "MMQT",
-        "$iata": "QRO",
-        "$ghcn": "MXM00076625",
-        "$usaf": "766250"
+        "wmo": "76625",
+        "icao": "MMQT",
+        "iata": "QRO",
+        "ghcn": "MXM00076625",
+        "usaf": "766250"
     },
     "location": {
         "latitude": 20.6,

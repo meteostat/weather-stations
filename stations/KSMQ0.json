@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NJ",
     "identifiers": {
-        "$icao": "KSMQ",
-        "$wban": "54785",
-        "$usaf": "722247"
+        "icao": "KSMQ",
+        "wban": "54785",
+        "usaf": "722247"
     },
     "location": {
         "latitude": 40.626,

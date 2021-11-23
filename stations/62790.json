@@ -6,11 +6,11 @@
     "country": "SD",
     "region": "SF",
     "identifiers": {
-        "$wmo": "62790",
-        "$icao": "HSNL",
-        "$iata": "UYL",
-        "$ghcn": "SU000062790",
-        "$mosmix": "62790"
+        "wmo": "62790",
+        "icao": "HSNL",
+        "iata": "UYL",
+        "ghcn": "SU000062790",
+        "mosmix": "62790"
     },
     "location": {
         "latitude": 12.05,

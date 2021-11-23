@@ -6,12 +6,12 @@
     "country": "IN",
     "region": "AP",
     "identifiers": {
-        "$wmo": "43128",
-        "$icao": "VOHY",
-        "$iata": "BPM",
-        "$ghcn": "IN001080500",
-        "$usaf": "431280",
-        "$mosmix": "43128"
+        "wmo": "43128",
+        "icao": "VOHY",
+        "iata": "BPM",
+        "ghcn": "IN001080500",
+        "usaf": "431280",
+        "mosmix": "43128"
     },
     "location": {
         "latitude": 17.45,

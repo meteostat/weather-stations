@@ -6,11 +6,11 @@
     "country": "DE",
     "region": "SH",
     "identifiers": {
-        "$wmo": "10018",
-        "$icao": "EDXW",
-        "$iata": "GWT",
-        "$usaf": "100180",
-        "$mosmix": "10018"
+        "wmo": "10018",
+        "icao": "EDXW",
+        "iata": "GWT",
+        "usaf": "100180",
+        "mosmix": "10018"
     },
     "location": {
         "latitude": 54.9167,

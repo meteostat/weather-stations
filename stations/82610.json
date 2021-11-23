@@ -6,9 +6,9 @@
     "country": "BR",
     "region": "AM",
     "identifiers": {
-        "$wmo": "82610",
-        "$usaf": "826100",
-        "$mosmix": "82610"
+        "wmo": "82610",
+        "usaf": "826100",
+        "mosmix": "82610"
     },
     "location": {
         "latitude": -6.6667,

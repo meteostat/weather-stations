@@ -6,12 +6,12 @@
     "country": "US",
     "region": "IL",
     "identifiers": {
-        "$wmo": "72532",
-        "$icao": "KPIA",
-        "$iata": "PIA",
-        "$ghcn": "USW00014842",
-        "$wban": "14842",
-        "$usaf": "725320"
+        "wmo": "72532",
+        "icao": "KPIA",
+        "iata": "PIA",
+        "ghcn": "USW00014842",
+        "wban": "14842",
+        "usaf": "725320"
     },
     "location": {
         "latitude": 40.6667,

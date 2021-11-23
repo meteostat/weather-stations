@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "AR",
     "identifiers": {
-        "$icao": "SCPC",
-        "$iata": "ZPC",
-        "$usaf": "857571"
+        "icao": "SCPC",
+        "iata": "ZPC",
+        "usaf": "857571"
     },
     "location": {
         "latitude": -39.2914,

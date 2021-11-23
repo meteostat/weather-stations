@@ -6,11 +6,11 @@
     "country": "DZ",
     "region": "BIS",
     "identifiers": {
-        "$wmo": "60525",
-        "$icao": "DAUB",
-        "$iata": "BSK",
-        "$ghcn": "AGE00147718",
-        "$usaf": "605250"
+        "wmo": "60525",
+        "icao": "DAUB",
+        "iata": "BSK",
+        "ghcn": "AGE00147718",
+        "usaf": "605250"
     },
     "location": {
         "latitude": 34.8,

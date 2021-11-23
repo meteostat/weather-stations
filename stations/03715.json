@@ -6,11 +6,11 @@
     "country": "GB",
     "region": "WLS",
     "identifiers": {
-        "$wmo": "03715",
-        "$icao": "EGFF",
-        "$iata": "CWL",
-        "$usaf": "037150",
-        "$mosmix": "03715"
+        "wmo": "03715",
+        "icao": "EGFF",
+        "iata": "CWL",
+        "usaf": "037150",
+        "mosmix": "03715"
     },
     "location": {
         "latitude": 51.4,

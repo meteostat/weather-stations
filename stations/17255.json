@@ -6,9 +6,9 @@
     "country": "TR",
     "region": "KAH",
     "identifiers": {
-        "$wmo": "17255",
-        "$ghcn": "TUM00017255",
-        "$mosmix": "17255"
+        "wmo": "17255",
+        "ghcn": "TUM00017255",
+        "mosmix": "17255"
     },
     "location": {
         "latitude": 37.6,

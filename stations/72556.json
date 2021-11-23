@@ -6,12 +6,12 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$wmo": "72556",
-        "$icao": "KOFK",
-        "$iata": "OFK",
-        "$ghcn": "USW00014941",
-        "$wban": "14941",
-        "$usaf": "725560"
+        "wmo": "72556",
+        "icao": "KOFK",
+        "iata": "OFK",
+        "ghcn": "USW00014941",
+        "wban": "14941",
+        "usaf": "725560"
     },
     "location": {
         "latitude": 41.9833,

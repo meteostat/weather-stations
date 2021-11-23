@@ -6,9 +6,9 @@
     "country": "CL",
     "region": "AT",
     "identifiers": {
-        "$wmo": "85459",
-        "$icao": "SCAT",
-        "$usaf": "854595"
+        "wmo": "85459",
+        "icao": "SCAT",
+        "usaf": "854595"
     },
     "location": {
         "latitude": -27.25,

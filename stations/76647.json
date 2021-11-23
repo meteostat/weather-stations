@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "YUC",
     "identifiers": {
-        "$wmo": "76647",
-        "$ghcn": "MXM00076647",
-        "$usaf": "766470"
+        "wmo": "76647",
+        "ghcn": "MXM00076647",
+        "usaf": "766470"
     },
     "location": {
         "latitude": 20.7,

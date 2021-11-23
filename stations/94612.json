@@ -6,10 +6,10 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "$wmo": "94612",
-        "$icao": "YPEA",
-        "$ghcn": "ASN00009053",
-        "$usaf": "946120"
+        "wmo": "94612",
+        "icao": "YPEA",
+        "ghcn": "ASN00009053",
+        "usaf": "946120"
     },
     "location": {
         "latitude": -31.6667,

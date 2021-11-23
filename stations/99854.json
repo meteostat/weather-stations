@@ -6,9 +6,9 @@
     "country": "FR",
     "region": "A",
     "identifiers": {
-        "$wmo": "99854",
-        "$icao": "EQAE",
-        "$usaf": "998540"
+        "wmo": "99854",
+        "icao": "EQAE",
+        "usaf": "998540"
     },
     "location": {
         "latitude": 48.55,

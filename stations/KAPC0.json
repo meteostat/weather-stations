@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KAPC",
-        "$iata": "APC",
-        "$wban": "93227",
-        "$usaf": "724955"
+        "icao": "KAPC",
+        "iata": "APC",
+        "wban": "93227",
+        "usaf": "724955"
     },
     "location": {
         "latitude": 38.2132,

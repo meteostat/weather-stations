@@ -6,9 +6,9 @@
     "country": "SR",
     "region": "SI",
     "identifiers": {
-        "$wmo": "81209",
-        "$icao": "SMST",
-        "$iata": "SMZ"
+        "wmo": "81209",
+        "icao": "SMST",
+        "iata": "SMZ"
     },
     "location": {
         "latitude": 4.35,

@@ -2,17 +2,17 @@
     "id": "02049",
     "name": {
         "de": "Gallivare Flughafen",
-        "sv": "Gallivare Flygplats",
-        "en": "Gallivare Airport"
+        "en": "Gallivare Airport",
+        "sv": "Gallivare Flygplats"
     },
     "country": "SE",
     "region": "BD",
     "identifiers": {
-        "$wmo": "02049",
-        "$icao": "ESNG",
-        "$iata": "GEV",
-        "$usaf": "020490",
-        "$mosmix": "02049"
+        "wmo": "02049",
+        "icao": "ESNG",
+        "iata": "GEV",
+        "usaf": "020490",
+        "mosmix": "02049"
     },
     "location": {
         "latitude": 67.15,

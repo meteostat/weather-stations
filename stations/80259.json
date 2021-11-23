@@ -6,12 +6,12 @@
     "country": "CO",
     "region": "VDC",
     "identifiers": {
-        "$wmo": "80259",
-        "$icao": "SKCL",
-        "$iata": "CLO",
-        "$ghcn": "CO000080259",
-        "$usaf": "802590",
-        "$mosmix": "80259"
+        "wmo": "80259",
+        "icao": "SKCL",
+        "iata": "CLO",
+        "ghcn": "CO000080259",
+        "usaf": "802590",
+        "mosmix": "80259"
     },
     "location": {
         "latitude": 3.55,

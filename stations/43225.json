@@ -6,9 +6,9 @@
     "country": "IN",
     "region": "KA",
     "identifiers": {
-        "$wmo": "43225",
-        "$ghcn": "IN009120100",
-        "$usaf": "432250"
+        "wmo": "43225",
+        "ghcn": "IN009120100",
+        "usaf": "432250"
     },
     "location": {
         "latitude": 14.7833,

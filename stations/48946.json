@@ -6,11 +6,11 @@
     "country": "LA",
     "region": "NF",
     "identifiers": {
-        "$wmo": "48946",
-        "$icao": "VLTK",
-        "$iata": "THK",
-        "$ghcn": "LAM00048946",
-        "$usaf": "489460"
+        "wmo": "48946",
+        "icao": "VLTK",
+        "iata": "THK",
+        "ghcn": "LAM00048946",
+        "usaf": "489460"
     },
     "location": {
         "latitude": 17.3833,

@@ -6,8 +6,8 @@
     "country": "BD",
     "region": "CG",
     "identifiers": {
-        "$wmo": "41943",
-        "$ghcn": "BGM00041943"
+        "wmo": "41943",
+        "ghcn": "BGM00041943"
     },
     "location": {
         "latitude": 23.0333,

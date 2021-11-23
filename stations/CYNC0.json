@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "$icao": "CYNC",
-        "$iata": "YNC",
-        "$usaf": "718436"
+        "icao": "CYNC",
+        "iata": "YNC",
+        "usaf": "718436"
     },
     "location": {
         "latitude": 53.0167,

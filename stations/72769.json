@@ -6,12 +6,12 @@
     "country": "US",
     "region": "MT",
     "identifiers": {
-        "$wmo": "72769",
-        "$icao": "KCTB",
-        "$iata": "CTB",
-        "$ghcn": "USW00024137",
-        "$wban": "24137",
-        "$usaf": "727690"
+        "wmo": "72769",
+        "icao": "KCTB",
+        "iata": "CTB",
+        "ghcn": "USW00024137",
+        "wban": "24137",
+        "usaf": "727690"
     },
     "location": {
         "latitude": 48.6084,

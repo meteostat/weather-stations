@@ -6,12 +6,12 @@
     "country": "MX",
     "region": "GRO",
     "identifiers": {
-        "$wmo": "76805",
-        "$icao": "MMAA",
-        "$iata": "ACA",
-        "$ghcn": "MXM00076805",
-        "$usaf": "768056",
-        "$mosmix": "76805"
+        "wmo": "76805",
+        "icao": "MMAA",
+        "iata": "ACA",
+        "ghcn": "MXM00076805",
+        "usaf": "768056",
+        "mosmix": "76805"
     },
     "location": {
         "latitude": 16.8333,

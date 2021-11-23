@@ -6,8 +6,8 @@
     "country": "IN",
     "region": "BR",
     "identifiers": {
-        "$wmo": "42795",
-        "$ghcn": "IN004170200"
+        "wmo": "42795",
+        "ghcn": "IN004170200"
     },
     "location": {
         "latitude": 22.55,

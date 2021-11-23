@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "BC",
     "identifiers": {
-        "$icao": "CYDC",
-        "$ghcn": "CA004019073",
-        "$usaf": "718864"
+        "icao": "CYDC",
+        "ghcn": "CA004019073",
+        "usaf": "718864"
     },
     "location": {
         "latitude": 49.4667,

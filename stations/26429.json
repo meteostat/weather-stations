@@ -6,9 +6,9 @@
     "country": "LV",
     "region": "BAU",
     "identifiers": {
-        "$wmo": "26429",
-        "$ghcn": "LG000026429",
-        "$mosmix": "26429"
+        "wmo": "26429",
+        "ghcn": "LG000026429",
+        "mosmix": "26429"
     },
     "location": {
         "latitude": 56.4,

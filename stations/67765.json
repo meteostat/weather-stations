@@ -6,10 +6,10 @@
     "country": "ZW",
     "region": "MW",
     "identifiers": {
-        "$wmo": "67765",
-        "$icao": "FVKA",
-        "$ghcn": "ZI000067765",
-        "$usaf": "677650"
+        "wmo": "67765",
+        "icao": "FVKA",
+        "ghcn": "ZI000067765",
+        "usaf": "677650"
     },
     "location": {
         "latitude": -16.8333,

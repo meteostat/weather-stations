@@ -6,9 +6,9 @@
     "country": "DK",
     "region": "SL",
     "identifiers": {
-        "$wmo": "06150",
-        "$icao": "EKAV",
-        "$usaf": "061245"
+        "wmo": "06150",
+        "icao": "EKAV",
+        "usaf": "061245"
     },
     "location": {
         "latitude": 55.0833,

@@ -6,9 +6,9 @@
     "country": "GH",
     "region": "VO",
     "identifiers": {
-        "$wmo": "65437",
-        "$ghcn": "GHM00065437",
-        "$usaf": "654370"
+        "wmo": "65437",
+        "ghcn": "GHM00065437",
+        "usaf": "654370"
     },
     "location": {
         "latitude": 7.8167,

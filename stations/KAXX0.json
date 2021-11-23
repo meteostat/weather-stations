@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$icao": "KAXX",
-        "$wban": "00137",
-        "$usaf": "720411"
+        "icao": "KAXX",
+        "wban": "00137",
+        "usaf": "720411"
     },
     "location": {
         "latitude": 36.422,

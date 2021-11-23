@@ -6,11 +6,11 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAFS",
-        "$iata": "NIB",
-        "$ghcn": "CA001054503",
-        "$wban": "00104",
-        "$usaf": "702625"
+        "icao": "PAFS",
+        "iata": "NIB",
+        "ghcn": "CA001054503",
+        "wban": "00104",
+        "usaf": "702625"
     },
     "location": {
         "latitude": 54.2553,

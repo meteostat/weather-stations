@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "$icao": "KFWZ",
-        "$wban": "00342",
-        "$usaf": "720971"
+        "icao": "KFWZ",
+        "wban": "00342",
+        "usaf": "720971"
     },
     "location": {
         "latitude": 42.5167,

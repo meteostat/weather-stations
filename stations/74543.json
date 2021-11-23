@@ -6,10 +6,10 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "$wmo": "74543",
-        "$icao": "KPTT",
-        "$wban": "93978",
-        "$usaf": "745430"
+        "wmo": "74543",
+        "icao": "KPTT",
+        "wban": "93978",
+        "usaf": "745430"
     },
     "location": {
         "latitude": 37.7,

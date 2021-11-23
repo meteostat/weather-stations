@@ -6,11 +6,11 @@
     "country": "UG",
     "region": "RR",
     "identifiers": {
-        "$wmo": "63702",
-        "$icao": "HUMA",
-        "$iata": "MBQ",
-        "$ghcn": "UG000063702",
-        "$usaf": "637020"
+        "wmo": "63702",
+        "icao": "HUMA",
+        "iata": "MBQ",
+        "ghcn": "UG000063702",
+        "usaf": "637020"
     },
     "location": {
         "latitude": -0.6167,

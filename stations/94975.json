@@ -6,12 +6,12 @@
     "country": "AU",
     "region": "TAS",
     "identifiers": {
-        "$wmo": "94975",
-        "$icao": "YMHB",
-        "$iata": "HBA",
-        "$ghcn": "ASN00094008",
-        "$usaf": "949750",
-        "$mosmix": "94975"
+        "wmo": "94975",
+        "icao": "YMHB",
+        "iata": "HBA",
+        "ghcn": "ASN00094008",
+        "usaf": "949750",
+        "mosmix": "94975"
     },
     "location": {
         "latitude": -42.8333,

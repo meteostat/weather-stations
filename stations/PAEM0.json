@@ -6,10 +6,10 @@
     "country": "US",
     "region": "AK",
     "identifiers": {
-        "$icao": "PAEM",
-        "$iata": "EMK",
-        "$wban": "26650",
-        "$usaf": "702084"
+        "icao": "PAEM",
+        "iata": "EMK",
+        "wban": "26650",
+        "usaf": "702084"
     },
     "location": {
         "latitude": 62.7861,

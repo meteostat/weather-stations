@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "NT",
     "identifiers": {
-        "$icao": "CWJP",
-        "$ghcn": "CA003062239",
-        "$usaf": "711670"
+        "icao": "CWJP",
+        "ghcn": "CA003062239",
+        "usaf": "711670"
     },
     "location": {
         "latitude": 61.6667,

@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "TO",
     "identifiers": {
-        "$wmo": "83235",
-        "$iata": "TGX",
-        "$ghcn": "BRM00083235",
-        "$usaf": "832350"
+        "wmo": "83235",
+        "iata": "TGX",
+        "ghcn": "BRM00083235",
+        "usaf": "832350"
     },
     "location": {
         "latitude": -12.4,

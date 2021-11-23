@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NV",
     "identifiers": {
-        "$icao": "KBVU",
-        "$wban": "00269",
-        "$usaf": "720741"
+        "icao": "KBVU",
+        "wban": "00269",
+        "usaf": "720741"
     },
     "location": {
         "latitude": 35.9475,

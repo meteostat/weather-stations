@@ -6,9 +6,9 @@
     "country": "PL",
     "region": "KR",
     "identifiers": {
-        "$wmo": "12510",
-        "$usaf": "125100",
-        "$mosmix": "12510"
+        "wmo": "12510",
+        "usaf": "125100",
+        "mosmix": "12510"
     },
     "location": {
         "latitude": 50.7333,

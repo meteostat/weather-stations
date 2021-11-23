@@ -6,11 +6,11 @@
     "country": "MX",
     "region": "SON",
     "identifiers": {
-        "$wmo": "76160",
-        "$icao": "MMHO",
-        "$iata": "HMO",
-        "$ghcn": "MXM00076160",
-        "$usaf": "761600"
+        "wmo": "76160",
+        "icao": "MMHO",
+        "iata": "HMO",
+        "ghcn": "MXM00076160",
+        "usaf": "761600"
     },
     "location": {
         "latitude": 29.0667,

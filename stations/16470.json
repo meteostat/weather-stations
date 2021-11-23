@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "SC",
     "identifiers": {
-        "$wmo": "16470",
-        "$icao": "LICG",
-        "$iata": "PNL",
-        "$usaf": "164700"
+        "wmo": "16470",
+        "icao": "LICG",
+        "iata": "PNL",
+        "usaf": "164700"
     },
     "location": {
         "latitude": 36.8167,

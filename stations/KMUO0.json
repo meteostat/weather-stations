@@ -6,10 +6,10 @@
     "country": "US",
     "region": "ID",
     "identifiers": {
-        "$icao": "KMUO",
-        "$iata": "MUO",
-        "$wban": "24106",
-        "$usaf": "726815"
+        "icao": "KMUO",
+        "iata": "MUO",
+        "wban": "24106",
+        "usaf": "726815"
     },
     "location": {
         "latitude": 43.0436,

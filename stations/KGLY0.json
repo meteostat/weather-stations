@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MO",
     "identifiers": {
-        "$icao": "KGLY",
-        "$wban": "00222",
-        "$usaf": "720636"
+        "icao": "KGLY",
+        "wban": "00222",
+        "usaf": "720636"
     },
     "location": {
         "latitude": 38.3566,

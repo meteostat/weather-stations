@@ -6,10 +6,10 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$icao": "KCNM",
-        "$iata": "CNM",
-        "$wban": "93033",
-        "$usaf": "722687"
+        "icao": "KCNM",
+        "iata": "CNM",
+        "wban": "93033",
+        "usaf": "722687"
     },
     "location": {
         "latitude": 32.3375,

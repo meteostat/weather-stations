@@ -6,9 +6,9 @@
     "country": "MX",
     "region": "CHH",
     "identifiers": {
-        "$wmo": "76220",
-        "$ghcn": "MX000008142",
-        "$usaf": "762200"
+        "wmo": "76220",
+        "ghcn": "MX000008142",
+        "usaf": "762200"
     },
     "location": {
         "latitude": 28.95,

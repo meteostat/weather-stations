@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "MH",
     "identifiers": {
-        "$wmo": "16191",
-        "$icao": "LIPY",
-        "$iata": "AOI",
-        "$usaf": "161910",
-        "$mosmix": "16191"
+        "wmo": "16191",
+        "icao": "LIPY",
+        "iata": "AOI",
+        "usaf": "161910",
+        "mosmix": "16191"
     },
     "location": {
         "latitude": 43.6167,

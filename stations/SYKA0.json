@@ -6,9 +6,9 @@
     "country": "GY",
     "region": "PT",
     "identifiers": {
-        "$icao": "SYKA",
-        "$iata": "KAI",
-        "$usaf": "810800"
+        "icao": "SYKA",
+        "iata": "KAI",
+        "usaf": "810800"
     },
     "location": {
         "latitude": 5.1778,

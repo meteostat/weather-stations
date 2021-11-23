@@ -6,12 +6,12 @@
     "country": "CO",
     "region": "ATL",
     "identifiers": {
-        "$wmo": "80028",
-        "$icao": "SKBQ",
-        "$iata": "BAQ",
-        "$ghcn": "COM00080028",
-        "$usaf": "800280",
-        "$mosmix": "80028"
+        "wmo": "80028",
+        "icao": "SKBQ",
+        "iata": "BAQ",
+        "ghcn": "COM00080028",
+        "usaf": "800280",
+        "mosmix": "80028"
     },
     "location": {
         "latitude": 10.8833,

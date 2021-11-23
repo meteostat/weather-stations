@@ -6,11 +6,11 @@
     "country": "RO",
     "region": "B",
     "identifiers": {
-        "$wmo": "15421",
-        "$icao": "LROP",
-        "$iata": "OTP",
-        "$usaf": "154210",
-        "$mosmix": "15421"
+        "wmo": "15421",
+        "icao": "LROP",
+        "iata": "OTP",
+        "usaf": "154210",
+        "mosmix": "15421"
     },
     "location": {
         "latitude": 44.55,

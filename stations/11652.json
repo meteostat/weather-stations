@@ -6,11 +6,11 @@
     "country": "CZ",
     "region": "PA",
     "identifiers": {
-        "$wmo": "11652",
-        "$icao": "LKPD",
-        "$iata": "PED",
-        "$usaf": "116520",
-        "$mosmix": "11652"
+        "wmo": "11652",
+        "icao": "LKPD",
+        "iata": "PED",
+        "usaf": "116520",
+        "mosmix": "11652"
     },
     "location": {
         "latitude": 50.0167,

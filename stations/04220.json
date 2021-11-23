@@ -6,10 +6,10 @@
     "country": "GL",
     "region": null,
     "identifiers": {
-        "$wmo": "04220",
-        "$icao": "BGEM",
-        "$ghcn": "GLM00004220",
-        "$usaf": "042200"
+        "wmo": "04220",
+        "icao": "BGEM",
+        "ghcn": "GLM00004220",
+        "usaf": "042200"
     },
     "location": {
         "latitude": 68.7,

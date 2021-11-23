@@ -6,11 +6,11 @@
     "country": "UY",
     "region": "AR",
     "identifiers": {
-        "$wmo": "86330",
-        "$icao": "SUAG",
-        "$iata": "ATI",
-        "$ghcn": "UY000086330",
-        "$usaf": "863300"
+        "wmo": "86330",
+        "icao": "SUAG",
+        "iata": "ATI",
+        "ghcn": "UY000086330",
+        "usaf": "863300"
     },
     "location": {
         "latitude": -30.3833,

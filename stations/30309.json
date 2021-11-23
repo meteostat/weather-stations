@@ -6,12 +6,12 @@
     "country": "RU",
     "region": "IRK",
     "identifiers": {
-        "$wmo": "30309",
-        "$icao": "UIBB",
-        "$iata": "BTK",
-        "$ghcn": "RSM00030309",
-        "$usaf": "303090",
-        "$mosmix": "30309"
+        "wmo": "30309",
+        "icao": "UIBB",
+        "iata": "BTK",
+        "ghcn": "RSM00030309",
+        "usaf": "303090",
+        "mosmix": "30309"
     },
     "location": {
         "latitude": 56.2833,

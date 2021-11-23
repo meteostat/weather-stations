@@ -6,11 +6,11 @@
     "country": "GN",
     "region": "KNK",
     "identifiers": {
-        "$wmo": "61829",
-        "$icao": "GUXD",
-        "$iata": "KNN",
-        "$ghcn": "GV000001829",
-        "$usaf": "618290"
+        "wmo": "61829",
+        "icao": "GUXD",
+        "iata": "KNN",
+        "ghcn": "GV000001829",
+        "usaf": "618290"
     },
     "location": {
         "latitude": 10.3833,

@@ -6,9 +6,9 @@
     "country": "JP",
     "region": null,
     "identifiers": {
-        "$icao": "RORT",
-        "$iata": "TRA",
-        "$usaf": "479275"
+        "icao": "RORT",
+        "iata": "TRA",
+        "usaf": "479275"
     },
     "location": {
         "latitude": 24.65,

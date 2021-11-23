@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "FUZ",
     "identifiers": {
-        "$wmo": "37907",
-        "$ghcn": "AJ000037907"
+        "wmo": "37907",
+        "ghcn": "AJ000037907"
     },
     "location": {
         "latitude": 39.6,

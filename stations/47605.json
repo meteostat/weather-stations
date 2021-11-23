@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "IS",
     "identifiers": {
-        "$wmo": "47605",
-        "$iata": "KZJ",
-        "$ghcn": "JA000047605"
+        "wmo": "47605",
+        "iata": "KZJ",
+        "ghcn": "JA000047605"
     },
     "location": {
         "latitude": 36.5833,

@@ -6,10 +6,10 @@
     "country": "GB",
     "region": "ENG",
     "identifiers": {
-        "$wmo": "03658",
-        "$icao": "EGUB",
-        "$iata": "BEX",
-        "$usaf": "036580"
+        "wmo": "03658",
+        "icao": "EGUB",
+        "iata": "BEX",
+        "usaf": "036580"
     },
     "location": {
         "latitude": 51.6167,

@@ -6,9 +6,9 @@
     "country": "JP",
     "region": "NI",
     "identifiers": {
-        "$wmo": "47700",
-        "$icao": "RJSD",
-        "$iata": "SDS"
+        "wmo": "47700",
+        "icao": "RJSD",
+        "iata": "SDS"
     },
     "location": {
         "latitude": 38.05,

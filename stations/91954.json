@@ -6,11 +6,11 @@
     "country": "PF",
     "region": "IC",
     "identifiers": {
-        "$wmo": "91954",
-        "$icao": "NTAT",
-        "$iata": "TUB",
-        "$ghcn": "FP000091954",
-        "$usaf": "919540"
+        "wmo": "91954",
+        "icao": "NTAT",
+        "iata": "TUB",
+        "ghcn": "FP000091954",
+        "usaf": "919540"
     },
     "location": {
         "latitude": -23.35,

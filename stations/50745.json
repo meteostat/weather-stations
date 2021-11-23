@@ -6,11 +6,11 @@
     "country": "CN",
     "region": "HL",
     "identifiers": {
-        "$wmo": "50745",
-        "$icao": "ZYQQ",
-        "$iata": "NDG",
-        "$ghcn": "CHM00050745",
-        "$usaf": "507450"
+        "wmo": "50745",
+        "icao": "ZYQQ",
+        "iata": "NDG",
+        "ghcn": "CHM00050745",
+        "usaf": "507450"
     },
     "location": {
         "latitude": 47.3833,

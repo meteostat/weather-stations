@@ -6,8 +6,8 @@
     "country": "MA",
     "region": "MKN",
     "identifiers": {
-        "$wmo": "60195",
-        "$ghcn": "MO000060195"
+        "wmo": "60195",
+        "ghcn": "MO000060195"
     },
     "location": {
         "latitude": 32.6833,

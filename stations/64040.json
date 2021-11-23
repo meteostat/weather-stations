@@ -6,9 +6,9 @@
     "country": "CD",
     "region": "OR",
     "identifiers": {
-        "$wmo": "64040",
-        "$icao": "FZIA",
-        "$usaf": "640400"
+        "wmo": "64040",
+        "icao": "FZIA",
+        "usaf": "640400"
     },
     "location": {
         "latitude": 0.5167,

@@ -6,8 +6,8 @@
     "country": "JP",
     "region": "HG",
     "identifiers": {
-        "$wmo": "47776",
-        "$ghcn": "JA000047776"
+        "wmo": "47776",
+        "ghcn": "JA000047776"
     },
     "location": {
         "latitude": 34.3333,

@@ -6,8 +6,8 @@
     "country": "AF",
     "region": "PAR",
     "identifiers": {
-        "$icao": "OAIX",
-        "$iata": "OAI"
+        "icao": "OAIX",
+        "iata": "OAI"
     },
     "location": {
         "latitude": 34.95,

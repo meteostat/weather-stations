@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "AMU",
     "identifiers": {
-        "$wmo": "30499",
-        "$iata": "TYD",
-        "$ghcn": "RSM00030499"
+        "wmo": "30499",
+        "iata": "TYD",
+        "ghcn": "RSM00030499"
     },
     "location": {
         "latitude": 55.1833,

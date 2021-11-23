@@ -6,11 +6,11 @@
     "country": "AR",
     "region": "S",
     "identifiers": {
-        "$wmo": "87257",
-        "$icao": "SANW",
-        "$iata": "CRR",
-        "$ghcn": "AR000087257",
-        "$usaf": "872570"
+        "wmo": "87257",
+        "icao": "SANW",
+        "iata": "CRR",
+        "ghcn": "AR000087257",
+        "usaf": "872570"
     },
     "location": {
         "latitude": -29.8833,

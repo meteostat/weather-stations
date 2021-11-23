@@ -1,15 +1,15 @@
 {
     "id": "01015",
     "name": {
-        "no": "Hekkingen Fyr",
-        "en": "Hekkingen Lighthouse"
+        "en": "Hekkingen Lighthouse",
+        "no": "Hekkingen Fyr"
     },
     "country": "NO",
     "region": "TR",
     "identifiers": {
-        "$wmo": "01015",
-        "$ghcn": "NOE00134886",
-        "$usaf": "010150"
+        "wmo": "01015",
+        "ghcn": "NOE00134886",
+        "usaf": "010150"
     },
     "location": {
         "latitude": 69.6,

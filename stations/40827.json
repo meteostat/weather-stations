@@ -6,9 +6,9 @@
     "country": "IR",
     "region": "KJ",
     "identifiers": {
-        "$wmo": "40827",
-        "$ghcn": "IRM00040827",
-        "$usaf": "408270"
+        "wmo": "40827",
+        "ghcn": "IRM00040827",
+        "usaf": "408270"
     },
     "location": {
         "latitude": 31.5333,

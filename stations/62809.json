@@ -6,8 +6,8 @@
     "country": "SD",
     "region": "SK",
     "identifiers": {
-        "$wmo": "62809",
-        "$ghcn": "SUM00062809"
+        "wmo": "62809",
+        "ghcn": "SUM00062809"
     },
     "location": {
         "latitude": 11.3333,

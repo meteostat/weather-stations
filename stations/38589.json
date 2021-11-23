@@ -6,8 +6,8 @@
     "country": "UZ",
     "region": "SI",
     "identifiers": {
-        "$wmo": "38589",
-        "$ghcn": "TI000038589"
+        "wmo": "38589",
+        "ghcn": "TI000038589"
     },
     "location": {
         "latitude": 40.2167,

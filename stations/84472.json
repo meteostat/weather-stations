@@ -6,11 +6,11 @@
     "country": "PE",
     "region": "CJ",
     "identifiers": {
-        "$wmo": "84472",
-        "$icao": "SPJR",
-        "$iata": "CJA",
-        "$ghcn": "PEM00084472",
-        "$usaf": "844720"
+        "wmo": "84472",
+        "icao": "SPJR",
+        "iata": "CJA",
+        "ghcn": "PEM00084472",
+        "usaf": "844720"
     },
     "location": {
         "latitude": -7.1333,

@@ -6,11 +6,11 @@
     "country": "SA",
     "region": "AS",
     "identifiers": {
-        "$wmo": "41112",
-        "$icao": "OEAB",
-        "$iata": "AHB",
-        "$ghcn": "SAM00041112",
-        "$usaf": "411120"
+        "wmo": "41112",
+        "icao": "OEAB",
+        "iata": "AHB",
+        "ghcn": "SAM00041112",
+        "usaf": "411120"
     },
     "location": {
         "latitude": 18.2333,

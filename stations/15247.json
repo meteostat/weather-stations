@@ -6,12 +6,12 @@
     "country": "RO",
     "region": "SI",
     "identifiers": {
-        "$wmo": "15247",
-        "$icao": "LRTR",
-        "$iata": "TSR",
-        "$ghcn": "ROM00015247",
-        "$usaf": "152470",
-        "$mosmix": "15247"
+        "wmo": "15247",
+        "icao": "LRTR",
+        "iata": "TSR",
+        "ghcn": "ROM00015247",
+        "usaf": "152470",
+        "mosmix": "15247"
     },
     "location": {
         "latitude": 45.7667,

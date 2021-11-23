@@ -6,10 +6,10 @@
     "country": "FR",
     "region": "R",
     "identifiers": {
-        "$wmo": "07217",
-        "$icao": "LFRZ",
-        "$iata": "SNR",
-        "$usaf": "072170"
+        "wmo": "07217",
+        "icao": "LFRZ",
+        "iata": "SNR",
+        "usaf": "072170"
     },
     "location": {
         "latitude": 47.3167,

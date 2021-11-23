@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "SBA",
     "identifiers": {
-        "$wmo": "60520",
-        "$ghcn": "AGM00060520"
+        "wmo": "60520",
+        "ghcn": "AGM00060520"
     },
     "location": {
         "latitude": 35.1833,

@@ -6,12 +6,12 @@
     "country": "US",
     "region": "SD",
     "identifiers": {
-        "$wmo": "72654",
-        "$icao": "KHON",
-        "$iata": "HON",
-        "$ghcn": "USW00014936",
-        "$wban": "14936",
-        "$usaf": "726540"
+        "wmo": "72654",
+        "icao": "KHON",
+        "iata": "HON",
+        "ghcn": "USW00014936",
+        "wban": "14936",
+        "usaf": "726540"
     },
     "location": {
         "latitude": 44.3833,

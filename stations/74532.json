@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$wmo": "74532",
-        "$ghcn": "USW00093010",
-        "$wban": "93010"
+        "wmo": "74532",
+        "ghcn": "USW00093010",
+        "wban": "93010"
     },
     "location": {
         "latitude": 39.1833,

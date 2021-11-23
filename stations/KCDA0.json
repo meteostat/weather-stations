@@ -6,9 +6,9 @@
     "country": "US",
     "region": "VT",
     "identifiers": {
-        "$icao": "KCDA",
-        "$wban": "00151",
-        "$usaf": "720492"
+        "icao": "KCDA",
+        "wban": "00151",
+        "usaf": "720492"
     },
     "location": {
         "latitude": 44.5691,

@@ -6,9 +6,9 @@
     "country": "US",
     "region": "TX",
     "identifiers": {
-        "$icao": "KOZA",
-        "$wban": "00239",
-        "$usaf": "720659"
+        "icao": "KOZA",
+        "wban": "00239",
+        "usaf": "720659"
     },
     "location": {
         "latitude": 30.7353,

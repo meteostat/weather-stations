@@ -6,12 +6,12 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "$wmo": "91066",
-        "$icao": "PMDY",
-        "$iata": "MDY",
-        "$ghcn": "MQW00022701",
-        "$wban": "22701",
-        "$usaf": "910660"
+        "wmo": "91066",
+        "icao": "PMDY",
+        "iata": "MDY",
+        "ghcn": "MQW00022701",
+        "wban": "22701",
+        "usaf": "910660"
     },
     "location": {
         "latitude": 28.2167,

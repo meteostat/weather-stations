@@ -6,9 +6,9 @@
     "country": "TN",
     "region": "TA",
     "identifiers": {
-        "$wmo": "60775",
-        "$icao": "DTTD",
-        "$usaf": "607750"
+        "wmo": "60775",
+        "icao": "DTTD",
+        "usaf": "607750"
     },
     "location": {
         "latitude": 32.3167,

@@ -6,11 +6,11 @@
     "country": "NO",
     "region": null,
     "identifiers": {
-        "$wmo": "01001",
-        "$icao": "ENJA",
-        "$ghcn": "JNM00001001",
-        "$usaf": "010010",
-        "$mosmix": "01001"
+        "wmo": "01001",
+        "icao": "ENJA",
+        "ghcn": "JNM00001001",
+        "usaf": "010010",
+        "mosmix": "01001"
     },
     "location": {
         "latitude": 70.9333,

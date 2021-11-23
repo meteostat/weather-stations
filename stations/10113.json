@@ -6,12 +6,12 @@
     "country": "DE",
     "region": "NI",
     "identifiers": {
-        "$national": "03631",
-        "$wmo": "10113",
-        "$icao": "EDWY",
-        "$iata": "NRD",
-        "$ghcn": "GME00121102",
-        "$mosmix": "10113"
+        "national": "03631",
+        "wmo": "10113",
+        "icao": "EDWY",
+        "iata": "NRD",
+        "ghcn": "GME00121102",
+        "mosmix": "10113"
     },
     "location": {
         "latitude": 53.7167,

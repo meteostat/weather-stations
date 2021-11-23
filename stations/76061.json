@@ -6,10 +6,10 @@
     "country": "MX",
     "region": "SON",
     "identifiers": {
-        "$wmo": "76061",
-        "$iata": "PPE",
-        "$ghcn": "MXM00076061",
-        "$usaf": "760610"
+        "wmo": "76061",
+        "iata": "PPE",
+        "ghcn": "MXM00076061",
+        "usaf": "760610"
     },
     "location": {
         "latitude": 31.3,

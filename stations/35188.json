@@ -6,9 +6,9 @@
     "country": "KZ",
     "region": "AS",
     "identifiers": {
-        "$wmo": "35188",
-        "$ghcn": "KZ000035188",
-        "$mosmix": "35188"
+        "wmo": "35188",
+        "ghcn": "KZ000035188",
+        "mosmix": "35188"
     },
     "location": {
         "latitude": 51.1333,

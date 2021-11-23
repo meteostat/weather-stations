@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "$icao": "KEMM",
-        "$wban": "24165",
-        "$usaf": "720517"
+        "icao": "KEMM",
+        "wban": "24165",
+        "usaf": "720517"
     },
     "location": {
         "latitude": 41.8241,

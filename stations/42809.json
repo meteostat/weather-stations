@@ -6,12 +6,12 @@
     "country": "IN",
     "region": "WB",
     "identifiers": {
-        "$wmo": "42809",
-        "$icao": "VECC",
-        "$iata": "CCU",
-        "$ghcn": "IN024141500",
-        "$usaf": "428090",
-        "$mosmix": "42809"
+        "wmo": "42809",
+        "icao": "VECC",
+        "iata": "CCU",
+        "ghcn": "IN024141500",
+        "usaf": "428090",
+        "mosmix": "42809"
     },
     "location": {
         "latitude": 22.65,

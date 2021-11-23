@@ -6,9 +6,9 @@
     "country": "MA",
     "region": "TH",
     "identifiers": {
-        "$wmo": "60127",
-        "$icao": "GMFZ",
-        "$usaf": "601270"
+        "wmo": "60127",
+        "icao": "GMFZ",
+        "usaf": "601270"
     },
     "location": {
         "latitude": 34.2167,

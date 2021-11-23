@@ -6,10 +6,10 @@
     "country": "GR",
     "region": "LI",
     "identifiers": {
-        "$wmo": "16614",
-        "$icao": "LGKA",
-        "$iata": "KSO",
-        "$usaf": "166140"
+        "wmo": "16614",
+        "icao": "LGKA",
+        "iata": "KSO",
+        "usaf": "166140"
     },
     "location": {
         "latitude": 40.45,

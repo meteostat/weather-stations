@@ -6,8 +6,8 @@
     "country": "DZ",
     "region": "MSI",
     "identifiers": {
-        "$wmo": "60467",
-        "$ghcn": "AGM00060467"
+        "wmo": "60467",
+        "ghcn": "AGM00060467"
     },
     "location": {
         "latitude": 35.6667,

@@ -6,9 +6,9 @@
     "country": "MM",
     "region": "KN",
     "identifiers": {
-        "$wmo": "48099",
-        "$icao": "VBPA",
-        "$usaf": "480990"
+        "wmo": "48099",
+        "icao": "VBPA",
+        "usaf": "480990"
     },
     "location": {
         "latitude": 16.75,

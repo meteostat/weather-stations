@@ -6,12 +6,12 @@
     "country": "DZ",
     "region": "BMD",
     "identifiers": {
-        "$wmo": "60390",
-        "$icao": "DAAG",
-        "$iata": "ALG",
-        "$ghcn": "AG000060390",
-        "$usaf": "603900",
-        "$mosmix": "60390"
+        "wmo": "60390",
+        "icao": "DAAG",
+        "iata": "ALG",
+        "ghcn": "AG000060390",
+        "usaf": "603900",
+        "mosmix": "60390"
     },
     "location": {
         "latitude": 36.7167,

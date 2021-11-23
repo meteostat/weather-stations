@@ -6,10 +6,10 @@
     "country": "IT",
     "region": "SA",
     "identifiers": {
-        "$wmo": "16310",
-        "$icao": "LIQK",
-        "$ghcn": "ITM00016310",
-        "$usaf": "163100"
+        "wmo": "16310",
+        "icao": "LIQK",
+        "ghcn": "ITM00016310",
+        "usaf": "163100"
     },
     "location": {
         "latitude": 40.0167,

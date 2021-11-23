@@ -6,12 +6,12 @@
     "country": "IN",
     "region": "UP",
     "identifiers": {
-        "$wmo": "42369",
-        "$icao": "VILK",
-        "$iata": "LKO",
-        "$ghcn": "IN023351400",
-        "$usaf": "423690",
-        "$mosmix": "42369"
+        "wmo": "42369",
+        "icao": "VILK",
+        "iata": "LKO",
+        "ghcn": "IN023351400",
+        "usaf": "423690",
+        "mosmix": "42369"
     },
     "location": {
         "latitude": 26.75,

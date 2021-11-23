@@ -6,9 +6,9 @@
     "country": "US",
     "region": "MA",
     "identifiers": {
-        "$wmo": "74492",
-        "$ghcn": "USW00014753",
-        "$wban": "14753"
+        "wmo": "74492",
+        "ghcn": "USW00014753",
+        "wban": "14753"
     },
     "location": {
         "latitude": 42.2167,

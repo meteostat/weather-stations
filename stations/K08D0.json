@@ -6,9 +6,9 @@
     "country": "US",
     "region": "ND",
     "identifiers": {
-        "$icao": "K08D",
-        "$wban": "00300",
-        "$usaf": "720909"
+        "icao": "K08D",
+        "wban": "00300",
+        "usaf": "720909"
     },
     "location": {
         "latitude": 48.3008,

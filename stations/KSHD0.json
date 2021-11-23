@@ -6,10 +6,10 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "$icao": "KSHD",
-        "$iata": "SHD",
-        "$wban": "93760",
-        "$usaf": "724105"
+        "icao": "KSHD",
+        "iata": "SHD",
+        "wban": "93760",
+        "usaf": "724105"
     },
     "location": {
         "latitude": 38.2638,

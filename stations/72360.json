@@ -6,11 +6,11 @@
     "country": "US",
     "region": "NM",
     "identifiers": {
-        "$wmo": "72360",
-        "$icao": "KCAO",
-        "$ghcn": "USW00023051",
-        "$wban": "23051",
-        "$usaf": "723600"
+        "wmo": "72360",
+        "icao": "KCAO",
+        "ghcn": "USW00023051",
+        "wban": "23051",
+        "usaf": "723600"
     },
     "location": {
         "latitude": 36.45,

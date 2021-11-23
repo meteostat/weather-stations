@@ -6,11 +6,11 @@
     "country": "NP",
     "region": "GA",
     "identifiers": {
-        "$wmo": "44434",
-        "$icao": "VNPK",
-        "$iata": "PKR",
-        "$usaf": "444340",
-        "$mosmix": "44434"
+        "wmo": "44434",
+        "icao": "VNPK",
+        "iata": "PKR",
+        "usaf": "444340",
+        "mosmix": "44434"
     },
     "location": {
         "latitude": 28.2167,

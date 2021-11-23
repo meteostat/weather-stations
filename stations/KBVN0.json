@@ -6,9 +6,9 @@
     "country": "US",
     "region": "NE",
     "identifiers": {
-        "$icao": "KBVN",
-        "$wban": "54921",
-        "$usaf": "723441"
+        "icao": "KBVN",
+        "wban": "54921",
+        "usaf": "723441"
     },
     "location": {
         "latitude": 41.7286,

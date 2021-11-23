@@ -6,10 +6,10 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "$icao": "KMWH",
-        "$iata": "MWH",
-        "$wban": "24110",
-        "$usaf": "727827"
+        "icao": "KMWH",
+        "iata": "MWH",
+        "wban": "24110",
+        "usaf": "727827"
     },
     "location": {
         "latitude": 47.2086,

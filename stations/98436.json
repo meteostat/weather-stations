@@ -6,9 +6,9 @@
     "country": "PH",
     "region": "BTG",
     "identifiers": {
-        "$wmo": "98436",
-        "$icao": "RPUL",
-        "$usaf": "984360"
+        "wmo": "98436",
+        "icao": "RPUL",
+        "usaf": "984360"
     },
     "location": {
         "latitude": 13.95,

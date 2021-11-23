@@ -6,9 +6,9 @@
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "$wmo": "94778",
-        "$iata": "GLI",
-        "$ghcn": "ASN00056011"
+        "wmo": "94778",
+        "iata": "GLI",
+        "ghcn": "ASN00056011"
     },
     "location": {
         "latitude": -29.7333,

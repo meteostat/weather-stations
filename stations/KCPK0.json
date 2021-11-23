@@ -6,9 +6,9 @@
     "country": "US",
     "region": "VA",
     "identifiers": {
-        "$icao": "KCPK",
-        "$wban": "03701",
-        "$usaf": "724006"
+        "icao": "KCPK",
+        "wban": "03701",
+        "usaf": "724006"
     },
     "location": {
         "latitude": 36.6656,

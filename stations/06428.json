@@ -6,9 +6,9 @@
     "country": "BE",
     "region": "VOV",
     "identifiers": {
-        "$wmo": "06428",
-        "$icao": "EBMT",
-        "$usaf": "064280"
+        "wmo": "06428",
+        "icao": "EBMT",
+        "usaf": "064280"
     },
     "location": {
         "latitude": 50.9333,

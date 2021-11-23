@@ -6,10 +6,10 @@
     "country": "CU",
     "region": "PD",
     "identifiers": {
-        "$icao": "MUSJ",
-        "$iata": "SNJ",
-        "$wban": "12857",
-        "$usaf": "783134"
+        "icao": "MUSJ",
+        "iata": "SNJ",
+        "wban": "12857",
+        "usaf": "783134"
     },
     "location": {
         "latitude": 22.1,

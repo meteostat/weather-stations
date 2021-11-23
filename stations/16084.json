@@ -6,11 +6,11 @@
     "country": "IT",
     "region": "ER",
     "identifiers": {
-        "$wmo": "16084",
-        "$icao": "LIMS",
-        "$iata": "QPZ",
-        "$usaf": "160840",
-        "$mosmix": "16084"
+        "wmo": "16084",
+        "icao": "LIMS",
+        "iata": "QPZ",
+        "usaf": "160840",
+        "mosmix": "16084"
     },
     "location": {
         "latitude": 44.9167,

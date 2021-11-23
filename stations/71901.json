@@ -6,9 +6,9 @@
     "country": "CA",
     "region": "QC",
     "identifiers": {
-        "$wmo": "71901",
-        "$icao": "CWTB",
-        "$usaf": "719010"
+        "wmo": "71901",
+        "icao": "CWTB",
+        "usaf": "719010"
     },
     "location": {
         "latitude": 55.3333,

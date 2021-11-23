@@ -6,9 +6,9 @@
     "country": "IT",
     "region": "PU",
     "identifiers": {
-        "$wmo": "16312",
-        "$icao": "LIBV",
-        "$usaf": "163120"
+        "wmo": "16312",
+        "icao": "LIBV",
+        "usaf": "163120"
     },
     "location": {
         "latitude": 40.7667,

@@ -6,12 +6,12 @@
     "country": "ES",
     "region": "CN",
     "identifiers": {
-        "$wmo": "60030",
-        "$icao": "GCLP",
-        "$iata": "LPA",
-        "$ghcn": "SPE00120215",
-        "$usaf": "600300",
-        "$mosmix": "60030"
+        "wmo": "60030",
+        "icao": "GCLP",
+        "iata": "LPA",
+        "ghcn": "SPE00120215",
+        "usaf": "600300",
+        "mosmix": "60030"
     },
     "location": {
         "latitude": 27.9333,

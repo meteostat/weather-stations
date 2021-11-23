@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "SP",
     "identifiers": {
-        "$wmo": "83671",
-        "$icao": "SBYS",
-        "$iata": "QPS",
-        "$ghcn": "BR00C4-0630",
-        "$usaf": "836710"
+        "wmo": "83671",
+        "icao": "SBYS",
+        "iata": "QPS",
+        "ghcn": "BR00C4-0630",
+        "usaf": "836710"
     },
     "location": {
         "latitude": -21.9833,

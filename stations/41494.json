@@ -6,10 +6,10 @@
     "country": "YE",
     "region": "HD",
     "identifiers": {
-        "$wmo": "41494",
-        "$icao": "OYSQ",
-        "$iata": "SCT",
-        "$mosmix": "41494"
+        "wmo": "41494",
+        "icao": "OYSQ",
+        "iata": "SCT",
+        "mosmix": "41494"
     },
     "location": {
         "latitude": 12.6333,

@@ -6,11 +6,11 @@
     "country": "GE",
     "region": "TB",
     "identifiers": {
-        "$wmo": "37549",
-        "$icao": "UGGG",
-        "$ghcn": "GG000037545",
-        "$usaf": "375490",
-        "$mosmix": "37549"
+        "wmo": "37549",
+        "icao": "UGGG",
+        "ghcn": "GG000037545",
+        "usaf": "375490",
+        "mosmix": "37549"
     },
     "location": {
         "latitude": 41.6833,

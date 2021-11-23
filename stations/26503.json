@@ -6,8 +6,8 @@
     "country": "LV",
     "region": "LPR",
     "identifiers": {
-        "$wmo": "26503",
-        "$ghcn": "LG000026503"
+        "wmo": "26503",
+        "ghcn": "LG000026503"
     },
     "location": {
         "latitude": 56.1619,

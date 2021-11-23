@@ -6,11 +6,11 @@
     "country": "DZ",
     "region": "JIJ",
     "identifiers": {
-        "$wmo": "60351",
-        "$icao": "DAAV",
-        "$iata": "GJL",
-        "$ghcn": "AGM00060351",
-        "$usaf": "603510"
+        "wmo": "60351",
+        "icao": "DAAV",
+        "iata": "GJL",
+        "ghcn": "AGM00060351",
+        "usaf": "603510"
     },
     "location": {
         "latitude": 36.8833,

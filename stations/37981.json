@@ -6,8 +6,8 @@
     "country": "AZ",
     "region": "YAR",
     "identifiers": {
-        "$wmo": "37981",
-        "$ghcn": "AJ000037981"
+        "wmo": "37981",
+        "ghcn": "AJ000037981"
     },
     "location": {
         "latitude": 38.9,

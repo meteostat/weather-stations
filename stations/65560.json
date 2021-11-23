@@ -6,11 +6,11 @@
     "country": "CI",
     "region": "DAL",
     "identifiers": {
-        "$wmo": "65560",
-        "$icao": "DIDL",
-        "$iata": "DJO",
-        "$ghcn": "IVM00065560",
-        "$usaf": "655600"
+        "wmo": "65560",
+        "icao": "DIDL",
+        "iata": "DJO",
+        "ghcn": "IVM00065560",
+        "usaf": "655600"
     },
     "location": {
         "latitude": 6.8667,

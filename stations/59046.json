@@ -6,8 +6,8 @@
     "country": "CN",
     "region": "GX",
     "identifiers": {
-        "$wmo": "59046",
-        "$mosmix": "59046"
+        "wmo": "59046",
+        "mosmix": "59046"
     },
     "location": {
         "latitude": 24.35,

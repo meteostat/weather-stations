@@ -6,11 +6,11 @@
     "country": "IN",
     "region": "CH",
     "identifiers": {
-        "$wmo": "42105",
-        "$icao": "VICG",
-        "$iata": "IXC",
-        "$ghcn": "IN006011400",
-        "$usaf": "427052"
+        "wmo": "42105",
+        "icao": "VICG",
+        "iata": "IXC",
+        "ghcn": "IN006011400",
+        "usaf": "427052"
     },
     "location": {
         "latitude": 30.7333,

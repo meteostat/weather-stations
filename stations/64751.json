@@ -6,10 +6,10 @@
     "country": "TD",
     "region": "BA",
     "identifiers": {
-        "$wmo": "64751",
-        "$icao": "FTTI",
-        "$iata": "ATV",
-        "$ghcn": "CD000064751"
+        "wmo": "64751",
+        "icao": "FTTI",
+        "iata": "ATV",
+        "ghcn": "CD000064751"
     },
     "location": {
         "latitude": 13.2167,

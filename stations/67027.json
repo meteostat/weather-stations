@@ -6,12 +6,12 @@
     "country": "MG",
     "region": "M",
     "identifiers": {
-        "$wmo": "67027",
-        "$icao": "FMNM",
-        "$iata": "MJN",
-        "$ghcn": "MAM00067027",
-        "$usaf": "670270",
-        "$mosmix": "67027"
+        "wmo": "67027",
+        "icao": "FMNM",
+        "iata": "MJN",
+        "ghcn": "MAM00067027",
+        "usaf": "670270",
+        "mosmix": "67027"
     },
     "location": {
         "latitude": -15.6667,

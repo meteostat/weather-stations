@@ -6,10 +6,10 @@
     "country": "PH",
     "region": "MDR",
     "identifiers": {
-        "$wmo": "98431",
-        "$icao": "RPUK",
-        "$usaf": "984310",
-        "$mosmix": "98431"
+        "wmo": "98431",
+        "icao": "RPUK",
+        "usaf": "984310",
+        "mosmix": "98431"
     },
     "location": {
         "latitude": 13.4167,

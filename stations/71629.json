@@ -6,10 +6,10 @@
     "country": "CA",
     "region": "ON",
     "identifiers": {
-        "$icao": "CYPQ",
-        "$iata": "YPQ",
-        "$ghcn": "CA002402051",
-        "$usaf": "714360"
+        "icao": "CYPQ",
+        "iata": "YPQ",
+        "ghcn": "CA002402051",
+        "usaf": "714360"
     },
     "location": {
         "latitude": 44.2333,

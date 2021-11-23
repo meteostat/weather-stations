@@ -6,11 +6,11 @@
     "country": "US",
     "region": "WY",
     "identifiers": {
-        "$wmo": "72569",
-        "$icao": "KCPR",
-        "$ghcn": "USW00024089",
-        "$wban": "24089",
-        "$usaf": "725690"
+        "wmo": "72569",
+        "icao": "KCPR",
+        "ghcn": "USW00024089",
+        "wban": "24089",
+        "usaf": "725690"
     },
     "location": {
         "latitude": 42.9,

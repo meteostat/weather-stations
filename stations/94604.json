@@ -6,11 +6,11 @@
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "$wmo": "94604",
-        "$icao": "YBUN",
-        "$iata": "BUY",
-        "$ghcn": "ASN00009965",
-        "$mosmix": "94604"
+        "wmo": "94604",
+        "icao": "YBUN",
+        "iata": "BUY",
+        "ghcn": "ASN00009965",
+        "mosmix": "94604"
     },
     "location": {
         "latitude": -33.3,

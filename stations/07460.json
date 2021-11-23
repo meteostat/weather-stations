@@ -6,12 +6,12 @@
     "country": "FR",
     "region": "C",
     "identifiers": {
-        "$wmo": "07460",
-        "$icao": "LFLC",
-        "$iata": "CFE",
-        "$ghcn": "FRM00007460",
-        "$usaf": "074600",
-        "$mosmix": "07460"
+        "wmo": "07460",
+        "icao": "LFLC",
+        "iata": "CFE",
+        "ghcn": "FRM00007460",
+        "usaf": "074600",
+        "mosmix": "07460"
     },
     "location": {
         "latitude": 45.7833,

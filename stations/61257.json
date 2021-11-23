@@ -6,10 +6,10 @@
     "country": "ML",
     "region": "KY",
     "identifiers": {
-        "$wmo": "61257",
-        "$icao": "GAKY",
-        "$iata": "KYS",
-        "$ghcn": "MLM00061257"
+        "wmo": "61257",
+        "icao": "GAKY",
+        "iata": "KYS",
+        "ghcn": "MLM00061257"
     },
     "location": {
         "latitude": 14.4333,

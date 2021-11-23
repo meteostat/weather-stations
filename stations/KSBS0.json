@@ -6,10 +6,10 @@
     "country": "US",
     "region": "CO",
     "identifiers": {
-        "$icao": "KSBS",
-        "$iata": "SBS",
-        "$wban": "94033",
-        "$usaf": "724678"
+        "icao": "KSBS",
+        "iata": "SBS",
+        "wban": "94033",
+        "usaf": "724678"
     },
     "location": {
         "latitude": 40.5162,

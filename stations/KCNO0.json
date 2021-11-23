@@ -6,9 +6,9 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$icao": "KCNO",
-        "$wban": "03179",
-        "$usaf": "722899"
+        "icao": "KCNO",
+        "wban": "03179",
+        "usaf": "722899"
     },
     "location": {
         "latitude": 33.9748,

@@ -6,10 +6,10 @@
     "country": "BR",
     "region": "TO",
     "identifiers": {
-        "$wmo": "83063",
-        "$icao": "SBPN",
-        "$iata": "PNB",
-        "$usaf": "830630"
+        "wmo": "83063",
+        "icao": "SBPN",
+        "iata": "PNB",
+        "usaf": "830630"
     },
     "location": {
         "latitude": -10.7,

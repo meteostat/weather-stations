@@ -6,9 +6,9 @@
     "country": "RU",
     "region": "TYU",
     "identifiers": {
-        "$icao": "USTR",
-        "$iata": "TJM",
-        "$usaf": "232204"
+        "icao": "USTR",
+        "iata": "TJM",
+        "usaf": "232204"
     },
     "location": {
         "latitude": 57.1667,

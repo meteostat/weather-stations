@@ -6,8 +6,8 @@
     "country": "TR",
     "region": "NIG",
     "identifiers": {
-        "$wmo": "17250",
-        "$ghcn": "TUM00017250"
+        "wmo": "17250",
+        "ghcn": "TUM00017250"
     },
     "location": {
         "latitude": 37.9667,

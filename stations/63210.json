@@ -6,10 +6,10 @@
     "country": "SO",
     "region": "BR",
     "identifiers": {
-        "$wmo": "63210",
-        "$icao": "HCMF",
-        "$iata": "BSA",
-        "$usaf": "632100"
+        "wmo": "63210",
+        "icao": "HCMF",
+        "iata": "BSA",
+        "usaf": "632100"
     },
     "location": {
         "latitude": 11.2833,

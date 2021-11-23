@@ -6,9 +6,9 @@
     "country": "US",
     "region": "HI",
     "identifiers": {
-        "$icao": "PHHN",
-        "$iata": "HNM",
-        "$usaf": "911907"
+        "icao": "PHHN",
+        "iata": "HNM",
+        "usaf": "911907"
     },
     "location": {
         "latitude": 20.7956,

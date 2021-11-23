@@ -6,9 +6,9 @@
     "country": "US",
     "region": "WA",
     "identifiers": {
-        "$icao": "KPSC",
-        "$wban": "24163",
-        "$usaf": "727845"
+        "icao": "KPSC",
+        "wban": "24163",
+        "usaf": "727845"
     },
     "location": {
         "latitude": 46.2647,

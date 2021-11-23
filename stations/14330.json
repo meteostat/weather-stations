@@ -6,9 +6,9 @@
     "country": "HR",
     "region": "LS",
     "identifiers": {
-        "$wmo": "14330",
-        "$usaf": "143300",
-        "$mosmix": "14330"
+        "wmo": "14330",
+        "usaf": "143300",
+        "mosmix": "14330"
     },
     "location": {
         "latitude": 44.55,

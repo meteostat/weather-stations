@@ -6,10 +6,10 @@
     "country": "AO",
     "region": "CCU",
     "identifiers": {
-        "$wmo": "66410",
-        "$icao": "FNME",
-        "$iata": "SPP",
-        "$ghcn": "AO000066410"
+        "wmo": "66410",
+        "icao": "FNME",
+        "iata": "SPP",
+        "ghcn": "AO000066410"
     },
     "location": {
         "latitude": -14.65,

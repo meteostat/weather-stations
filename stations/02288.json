@@ -6,8 +6,8 @@
     "country": "SE",
     "region": "VB",
     "identifiers": {
-        "$wmo": "02288",
-        "$ghcn": "SW000002288"
+        "wmo": "02288",
+        "ghcn": "SW000002288"
     },
     "location": {
         "latitude": 63.6,

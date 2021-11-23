@@ -6,9 +6,9 @@
     "country": "EE",
     "region": "HI",
     "identifiers": {
-        "$wmo": "26115",
-        "$ghcn": "EN000026115",
-        "$mosmix": "26115"
+        "wmo": "26115",
+        "ghcn": "EN000026115",
+        "mosmix": "26115"
     },
     "location": {
         "latitude": 58.9167,

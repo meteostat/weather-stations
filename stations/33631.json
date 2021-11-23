@@ -6,10 +6,10 @@
     "country": "UA",
     "region": "ZK",
     "identifiers": {
-        "$wmo": "33631",
-        "$icao": "UKLU",
-        "$iata": "UDJ",
-        "$ghcn": "UPM00033631"
+        "wmo": "33631",
+        "icao": "UKLU",
+        "iata": "UDJ",
+        "ghcn": "UPM00033631"
     },
     "location": {
         "latitude": 48.6333,

@@ -6,12 +6,12 @@
     "country": "PT",
     "region": "AZ",
     "identifiers": {
-        "$wmo": "08515",
-        "$icao": "LPAZ",
-        "$iata": "SMA",
-        "$ghcn": "POM00008515",
-        "$usaf": "085150",
-        "$mosmix": "08515"
+        "wmo": "08515",
+        "icao": "LPAZ",
+        "iata": "SMA",
+        "ghcn": "POM00008515",
+        "usaf": "085150",
+        "mosmix": "08515"
     },
     "location": {
         "latitude": 36.9667,

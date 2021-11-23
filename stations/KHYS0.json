@@ -6,10 +6,10 @@
     "country": "US",
     "region": "KS",
     "identifiers": {
-        "$icao": "KHYS",
-        "$iata": "HYS",
-        "$wban": "03968",
-        "$usaf": "724518"
+        "icao": "KHYS",
+        "iata": "HYS",
+        "wban": "03968",
+        "usaf": "724518"
     },
     "location": {
         "latitude": 38.8422,

@@ -6,8 +6,8 @@
     "country": "KP",
     "region": "HAB",
     "identifiers": {
-        "$wmo": "47008",
-        "$mosmix": "47008"
+        "wmo": "47008",
+        "mosmix": "47008"
     },
     "location": {
         "latitude": 41.7833,

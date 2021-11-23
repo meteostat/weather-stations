@@ -6,12 +6,12 @@
     "country": "CM",
     "region": "LIT",
     "identifiers": {
-        "$wmo": "64910",
-        "$icao": "FKKD",
-        "$iata": "DLA",
-        "$ghcn": "CM000004910",
-        "$usaf": "649100",
-        "$mosmix": "64910"
+        "wmo": "64910",
+        "icao": "FKKD",
+        "iata": "DLA",
+        "ghcn": "CM000004910",
+        "usaf": "649100",
+        "mosmix": "64910"
     },
     "location": {
         "latitude": 4,

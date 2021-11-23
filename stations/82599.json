@@ -6,11 +6,11 @@
     "country": "BR",
     "region": "RN",
     "identifiers": {
-        "$wmo": "82599",
-        "$icao": "SBNT",
-        "$iata": "NAT",
-        "$usaf": "825990",
-        "$mosmix": "82599"
+        "wmo": "82599",
+        "icao": "SBNT",
+        "iata": "NAT",
+        "usaf": "825990",
+        "mosmix": "82599"
     },
     "location": {
         "latitude": -5.9167,

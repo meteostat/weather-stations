@@ -6,9 +6,9 @@
     "country": "SO",
     "region": "BR",
     "identifiers": {
-        "$wmo": "63220",
-        "$icao": "HCMS",
-        "$iata": "CMS"
+        "wmo": "63220",
+        "icao": "HCMS",
+        "iata": "CMS"
     },
     "location": {
         "latitude": 10.3,

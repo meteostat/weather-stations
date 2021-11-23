@@ -6,10 +6,10 @@
     "country": "GR",
     "region": "LI",
     "identifiers": {
-        "$wmo": "16710",
-        "$icao": "LGTP",
-        "$usaf": "167100",
-        "$mosmix": "16710"
+        "wmo": "16710",
+        "icao": "LGTP",
+        "usaf": "167100",
+        "mosmix": "16710"
     },
     "location": {
         "latitude": 37.5333,

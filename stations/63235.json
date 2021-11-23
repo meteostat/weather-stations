@@ -6,9 +6,9 @@
     "country": "SO",
     "region": "MU",
     "identifiers": {
-        "$wmo": "63235",
-        "$icao": "HCMO",
-        "$iata": "CMO"
+        "wmo": "63235",
+        "icao": "HCMO",
+        "iata": "CMO"
     },
     "location": {
         "latitude": 5.3333,

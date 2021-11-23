@@ -6,10 +6,10 @@
     "country": "AF",
     "region": "BDS",
     "identifiers": {
-        "$wmo": "40900",
-        "$icao": "OADZ",
-        "$iata": "DAZ",
-        "$usaf": "409000"
+        "wmo": "40900",
+        "icao": "OADZ",
+        "iata": "DAZ",
+        "usaf": "409000"
     },
     "location": {
         "latitude": 38.4333,

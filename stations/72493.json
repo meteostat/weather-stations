@@ -6,13 +6,13 @@
     "country": "US",
     "region": "CA",
     "identifiers": {
-        "$wmo": "72493",
-        "$icao": "KOAK",
-        "$iata": "OAK",
-        "$ghcn": "USW00023230",
-        "$wban": "23230",
-        "$usaf": "724930",
-        "$mosmix": "72493"
+        "wmo": "72493",
+        "icao": "KOAK",
+        "iata": "OAK",
+        "ghcn": "USW00023230",
+        "wban": "23230",
+        "usaf": "724930",
+        "mosmix": "72493"
     },
     "location": {
         "latitude": 37.7167,
