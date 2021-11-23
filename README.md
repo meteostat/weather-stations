@@ -15,7 +15,7 @@ The `stations` directory contains one JSON file per weather station. The files a
 
 ### Properties
 
-Each weather station must provide the following properties. Missing values are defined as `null`. The following properties are mandatory and must be present in a station file. Optional properties are prefixed with a `$` sign (e.g. `identifiers.$icao`).
+Each weather station must provide the following properties. Missing values are defined as `null`. The following properties are mandatory and must be present in a station file. Additional properties, like all entries under `identifiers`, are optional and should only be included if set.
 
 * `id`: Meteostat ID (_String_)
 * `name`: Name in different languages (_Object_)
@@ -34,7 +34,6 @@ Each weather station must provide the following properties. Missing values are d
 * Names of weather stations are capitalized.
 * Use short and descriptive names for a weather station.
 * Many weather stations are located at aerodromes. When naming weather stations please refer to aerodromes, which involve air cargo or passengers, as *airports* and use the term *airfield* if they don't.
-* Prefix optional properties with a `$` sign.
 
 ## Contributing
 
