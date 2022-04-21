@@ -27,44 +27,50 @@ for index, row in inventory.iterrows():
 
     if row['state'] in US_STATES:
 
-        # Get elevation
-        lat = float(row['latitude'])
-        lon = float(row['longitude'])
-        details = json.loads(urlopen(
-            f"https://api.weather.gov/stations/{row['station_id']}/observations/latest"
-        ).read().decode("utf-8"))
-        elevation = details["properties"]["elevation"]["value"]
+        try:
 
-        # Collect meta data
-        data = {
-            'name': {
-                'en': row['station_name']
-            },
-            'country': 'US',
-            'region': row['state'],
-            'identifiers': {
-                'national': str(row['station_id']),
-                'icao': str(row['station_id']) if len(str(row['station_id'])) == 4 else None,
-            },
-            'location': {
-                'latitude': lat,
-                'longitude': lon,
-                'elevation': None if elevation == None else int(elevation)
+            # Get elevation
+            lat = float(row['latitude'])
+            lon = float(row['longitude'])
+            details = json.loads(urlopen(
+                f"https://api.weather.gov/stations/{row['station_id']}/observations/latest"
+            ).read().decode("utf-8"))
+            elevation = details["properties"]["elevation"]["value"]
+
+            # Collect meta data
+            data = {
+                'name': {
+                    'en': row['station_name']
+                },
+                'country': 'US',
+                'region': row['state'],
+                'identifiers': {
+                    'icao': str(row['station_id']) if len(str(row['station_id'])) == 4 else None,
+                },
+                'location': {
+                    'latitude': lat,
+                    'longitude': lon,
+                    'elevation': None if elevation == None else int(elevation)
+                }
             }
-        }
 
-        # Get potential duplicate
-        duplicate = find_duplicate(data, stations)
+            # Get potential duplicate
+            duplicate = find_duplicate(data, stations)
 
-        # Clean data
-        del data['identifiers']['icao']
+            # Peform basic quality check
+            if duplicate and get_distance(lat, lon, duplicate['latitude'], duplicate['longitude']) <= 5000 and abs(elevation - duplicate['elevation']) <= 25:
+                if data['identifiers']['icao']:
+                    update({
+                        'id': duplicate['id'],
+                        'identifiers': {
+                            'icao': data['identifiers']['icao']
+                        }
+                    })
 
-        # Peform basic quality check
-        if duplicate and get_distance(lat, lon, duplicate['latitude'], duplicate['longitude']) <= 5000 and abs(elevation - duplicate['elevation']) <= 25:
-            del data['name']['en']
-            data['id'] = duplicate['id']
-            update(data)
-        else:
-            data['id'] = generate_uid()
-            create(data)
-            exit()
+            elif duplicate is None:
+                data['id'] = generate_uid()
+                create(data)
+
+        except BaseException:
+
+            pass

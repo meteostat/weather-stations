@@ -37,10 +37,10 @@ def find_duplicate(station: dict, stations = Stations()):
         return df[df['icao'] == icao].reset_index().to_dict('records')[0]
 
     # Last, check for proximity
-    stations = stations.nearby(lat, lon, 3000)
+    stations = stations.nearby(lat, lon, 10000)
     if stations.count() > 0:
         result = stations.fetch(1).reset_index().to_dict('records')[0]
-        return result if abs(result['elevation'] - station['location']['elevation']) <= 10 else None
+        return result if abs(result['elevation'] - station['location']['elevation']) <= 50 else None
 
     # No duplicates
     return None
