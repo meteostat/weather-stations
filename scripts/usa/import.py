@@ -57,11 +57,11 @@ for index, row in inventory.iterrows():
         duplicate = find_duplicate(data, stations)
 
         # Clean data
-        del data['name']['en']
         del data['identifiers']['icao']
 
         # Peform basic quality check
         if duplicate and get_distance(lat, lon, duplicate['latitude'], duplicate['longitude']) <= 5000 and abs(elevation - duplicate['elevation']) <= 25:
+            del data['name']['en']
             data['id'] = duplicate['id']
             update(data)
         else:
