@@ -4,6 +4,7 @@ Import national weather stations from NOAA (weather.gov)
 
 from urllib.request import urlopen
 import json
+from string import capwords
 import pandas as pd
 from meteostat import Stations
 from stations import find_duplicate, generate_uid, create, update, get_distance
@@ -40,7 +41,7 @@ for index, row in inventory.iterrows():
             # Collect meta data
             data = {
                 'name': {
-                    'en': row['station_name']
+                    'en': capwords(row['station_name'])
                 },
                 'country': 'US',
                 'region': row['state'],
@@ -58,7 +59,7 @@ for index, row in inventory.iterrows():
             duplicate = find_duplicate(data, stations)
 
             # Peform basic quality check
-            if duplicate and get_distance(lat, lon, duplicate['latitude'], duplicate['longitude']) <= 5000 and abs(elevation - duplicate['elevation']) <= 25:
+            if duplicate and get_distance(lat, lon, duplicate['latitude'], duplicate['longitude']) <= 1000 and abs(elevation - duplicate['elevation']) <= 25:
                 if data['identifiers']['icao']:
                     update({
                         'id': duplicate['id'],
