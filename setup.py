@@ -5,7 +5,7 @@ The code is licensed under the MIT license.
 """
 
 from os import path
-from setuptools import setup, find_packages
+from setuptools import setup
 
 # Content of the README file
 here = path.abspath(path.dirname(__file__))

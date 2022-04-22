@@ -18,7 +18,11 @@ def find_timezone(data: dict) -> dict:
 
     if data and data["timezone"] is None:
 
-        url: str = f'http://api.timezonedb.com/v2.1/get-time-zone?key={API_KEY}&format=json&by=position&lat={data["location"]["latitude"]}&lng={data["location"]["longitude"]}'
+        url: str = (
+            "http://api.timezonedb.com/v2.1/get-time-zone"
+            + f"?key={API_KEY}&format=json&by=position"
+            + f'&lat={data["location"]["latitude"]}&lng={data["location"]["longitude"]}'
+        )
 
         with urllib.request.urlopen(url) as response:
             tzdata = json.loads(response.read().decode())
