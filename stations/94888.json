@@ -1,17 +1,18 @@
 {
     "id": "94888",
     "name": {
-        "en": "Dartmouth Reservoir"
+        "en": "Lake Dartmouth"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94888",
-        "ghcn": "ASN00082076"
+        "ghcn": "ASN00082076",
+        "national": "94888"
     },
     "location": {
-        "latitude": -36.5353,
-        "longitude": 147.4983,
+        "latitude": -36.5,
+        "longitude": 147.5,
         "elevation": 365
     },
     "timezone": "Australia/Melbourne"

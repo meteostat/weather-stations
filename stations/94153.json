@@ -1,7 +1,7 @@
 {
     "id": "94153",
     "name": {
-        "en": "Groote Eylandt Airport / Angurugu"
+        "en": "Groote Eylandt Airport"
     },
     "country": "AU",
     "region": "NT",
@@ -10,11 +10,12 @@
         "icao": "YGTE",
         "iata": "GTE",
         "ghcn": "ASN00014518",
-        "usaf": "941530"
+        "usaf": "941530",
+        "national": "94153"
     },
     "location": {
-        "latitude": -13.9747,
-        "longitude": 136.4631,
+        "latitude": -14.0,
+        "longitude": 136.5,
         "elevation": 17
     },
     "timezone": "Australia/Darwin"

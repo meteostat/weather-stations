@@ -1,17 +1,18 @@
 {
     "id": "95779",
     "name": {
-        "en": "Nelson Bay (Nelson Head) / Shoal Bay"
+        "en": "Nelson Bay"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95779",
-        "ghcn": "ASN00061054"
+        "ghcn": "ASN00061054",
+        "national": "95779"
     },
     "location": {
-        "latitude": -32.7103,
-        "longitude": 152.1611,
+        "latitude": -32.7,
+        "longitude": 152.2,
         "elevation": 25
     },
     "timezone": "Australia/Sydney"

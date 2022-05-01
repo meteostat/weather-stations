@@ -1,17 +1,18 @@
 {
     "id": "95757",
     "name": {
-        "en": "Lucas Heights Aws / Engadine"
+        "en": "Lucas Heights (ANSTO)"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95757",
-        "ghcn": "ASN00066023"
+        "ghcn": "ASN00066023",
+        "national": "95757"
     },
     "location": {
-        "latitude": -34.05,
-        "longitude": 150.9833,
+        "latitude": -34.1,
+        "longitude": 151.0,
         "elevation": 140
     },
     "timezone": "Australia/Sydney"

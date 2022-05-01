@@ -1,7 +1,7 @@
 {
     "id": "95677",
     "name": {
-        "en": "Parafield Airport"
+        "en": "Parafield"
     },
     "country": "AU",
     "region": "SA",
@@ -9,11 +9,12 @@
         "wmo": "95677",
         "icao": "YPPF",
         "ghcn": "ASN00023013",
-        "usaf": "956770"
+        "usaf": "956770",
+        "national": "95677"
     },
     "location": {
-        "latitude": -34.7833,
-        "longitude": 138.6333,
+        "latitude": -34.8,
+        "longitude": 138.6,
         "elevation": 17
     },
     "timezone": "Australia/Adelaide"

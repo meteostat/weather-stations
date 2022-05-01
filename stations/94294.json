@@ -1,7 +1,7 @@
 {
     "id": "94294",
     "name": {
-        "en": "Townsville Amo"
+        "en": "Townsville"
     },
     "country": "AU",
     "region": "QLD",
@@ -11,11 +11,12 @@
         "iata": "TSV",
         "ghcn": "ASN00032040",
         "usaf": "942940",
-        "mosmix": "94294"
+        "mosmix": "94294",
+        "national": "94294"
     },
     "location": {
-        "latitude": -19.25,
-        "longitude": 146.75,
+        "latitude": -19.2,
+        "longitude": 146.8,
         "elevation": 6
     },
     "timezone": "Australia/Brisbane"

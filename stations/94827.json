@@ -1,17 +1,18 @@
 {
     "id": "94827",
     "name": {
-        "en": "Nhill Composite"
+        "en": "Nhill Aerodrome"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94827",
-        "ghcn": "ASN00078015"
+        "ghcn": "ASN00078015",
+        "national": "94827"
     },
     "location": {
-        "latitude": -36.3333,
-        "longitude": 141.6333,
+        "latitude": -36.3,
+        "longitude": 141.6,
         "elevation": 133
     },
     "timezone": "Australia/Melbourne"

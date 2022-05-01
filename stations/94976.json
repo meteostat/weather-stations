@@ -1,17 +1,18 @@
 {
     "id": "94976",
     "name": {
-        "en": "Lake Saint Clair National Park"
+        "en": "Lake St Clair"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
         "wmo": "94976",
-        "ghcn": "ASN00096071"
+        "ghcn": "ASN00096071",
+        "national": "94976"
     },
     "location": {
-        "latitude": -42.1167,
-        "longitude": 146.1667,
+        "latitude": -42.1,
+        "longitude": 146.2,
         "elevation": 750
     },
     "timezone": "Australia/Hobart"

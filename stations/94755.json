@@ -1,7 +1,7 @@
 {
     "id": "94755",
     "name": {
-        "en": "Camden Airport"
+        "en": "Camden"
     },
     "country": "AU",
     "region": "NSW",
@@ -10,11 +10,12 @@
         "icao": "YSCN",
         "iata": "CDU",
         "ghcn": "ASN00068192",
-        "usaf": "947550"
+        "usaf": "947550",
+        "national": "94755"
     },
     "location": {
-        "latitude": -34.0333,
-        "longitude": 150.6833,
+        "latitude": -34.0,
+        "longitude": 150.7,
         "elevation": 70
     },
     "timezone": "Australia/Sydney"

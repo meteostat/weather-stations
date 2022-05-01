@@ -1,17 +1,18 @@
 {
     "id": "95959",
     "name": {
-        "en": "Liawenee Aws / Miena"
+        "en": "Liawenee"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
         "wmo": "95959",
-        "ghcn": "ASN00096033"
+        "ghcn": "ASN00096033",
+        "national": "95959"
     },
     "location": {
-        "latitude": -41.8997,
-        "longitude": 146.6694,
+        "latitude": -41.9,
+        "longitude": 146.7,
         "elevation": 1057
     },
     "timezone": "Australia/Hobart"

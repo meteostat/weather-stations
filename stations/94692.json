@@ -1,17 +1,18 @@
 {
     "id": "94692",
     "name": {
-        "en": "Lake Victoria Storage / Cal Lal"
+        "en": "Lake Victoria"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94692",
-        "ghcn": "ASN00047016"
+        "ghcn": "ASN00047016",
+        "national": "94692"
     },
     "location": {
-        "latitude": -34.0397,
-        "longitude": 141.2653,
+        "latitude": -34.0,
+        "longitude": 141.3,
         "elevation": 26
     },
     "timezone": "Australia/Sydney"

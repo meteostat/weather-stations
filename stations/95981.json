@@ -1,17 +1,18 @@
 {
     "id": "95981",
     "name": {
-        "en": "St Helens Aerodrome / Stieglitz"
+        "en": "St Helens"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
         "wmo": "95981",
-        "ghcn": "ASN00092120"
+        "ghcn": "ASN00092120",
+        "national": "95981"
     },
     "location": {
-        "latitude": -41.3381,
-        "longitude": 148.2792,
+        "latitude": -41.3,
+        "longitude": 148.3,
         "elevation": 48
     },
     "timezone": "Australia/Hobart"

@@ -1,17 +1,18 @@
 {
     "id": "94386",
     "name": {
-        "en": "Heron Island Aws"
+        "en": "Heron Island"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94386",
-        "ghcn": "ASN00039122"
+        "ghcn": "ASN00039122",
+        "national": "94386"
     },
     "location": {
-        "latitude": -23.4333,
-        "longitude": 151.9167,
+        "latitude": -23.4,
+        "longitude": 151.9,
         "elevation": 8
     },
     "timezone": "Australia/Brisbane"

@@ -1,17 +1,18 @@
 {
     "id": "94116",
     "name": {
-        "en": "Dum In Mirrie Aws"
+        "en": "Dum In Mirrie"
     },
     "country": "AU",
     "region": null,
     "identifiers": {
         "wmo": "94116",
-        "ghcn": "ASN00014277"
+        "ghcn": "ASN00014277",
+        "national": "94116"
     },
     "location": {
-        "latitude": -12.6333,
-        "longitude": 130.3667,
+        "latitude": -12.6,
+        "longitude": 130.4,
         "elevation": 4
     },
     "timezone": "Australia/Darwin"

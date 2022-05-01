@@ -8,11 +8,12 @@
     "identifiers": {
         "wmo": "94306",
         "iata": "RDE",
-        "ghcn": "ASN00005008"
+        "ghcn": "ASN00005008",
+        "national": "94306"
     },
     "location": {
-        "latitude": -21.1833,
-        "longitude": 115.9667,
+        "latitude": -21.2,
+        "longitude": 116.0,
         "elevation": 11
     },
     "timezone": "Australia/Perth"

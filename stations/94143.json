@@ -1,17 +1,18 @@
 {
     "id": "94143",
     "name": {
-        "en": "Bulman Aws"
+        "en": "Bulman"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
         "wmo": "94143",
-        "ghcn": "ASN00014627"
+        "ghcn": "ASN00014627",
+        "national": "94143"
     },
     "location": {
-        "latitude": -13.6714,
-        "longitude": 134.3414,
+        "latitude": -13.7,
+        "longitude": 134.3,
         "elevation": 103
     },
     "timezone": "Australia/Darwin"

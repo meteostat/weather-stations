@@ -1,17 +1,18 @@
 {
     "id": "95705",
     "name": {
-        "en": "Yanco Agricultural Institute"
+        "en": "Yanco"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95705",
-        "ghcn": "ASN00074037"
+        "ghcn": "ASN00074037",
+        "national": "95705"
     },
     "location": {
-        "latitude": -34.6222,
-        "longitude": 146.4328,
+        "latitude": -34.6,
+        "longitude": 146.4,
         "elevation": 164
     },
     "timezone": "Australia/Sydney"

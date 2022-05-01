@@ -1,9 +1,9 @@
 {
     "id": "96996",
     "name": {
-        "en": "Cocos Island Airport"
+        "en": "Cocos Island"
     },
-    "country": "CX",
+    "country": "AU",
     "region": "CC",
     "identifiers": {
         "wmo": "96996",
@@ -11,11 +11,12 @@
         "iata": "CCK",
         "ghcn": "CK000096996",
         "usaf": "969960",
-        "mosmix": "96996"
+        "mosmix": "96996",
+        "national": "96996"
     },
     "location": {
-        "latitude": -12.1833,
-        "longitude": 96.8167,
+        "latitude": -12.2,
+        "longitude": 96.8,
         "elevation": 3
     },
     "timezone": "Indian/Cocos"

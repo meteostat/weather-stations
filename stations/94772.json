@@ -1,17 +1,18 @@
 {
     "id": "94772",
     "name": {
-        "en": "Guyra Hospital"
+        "en": "Guyra"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94772",
-        "ghcn": "ASN00056229"
+        "ghcn": "ASN00056229",
+        "national": "94772"
     },
     "location": {
-        "latitude": -30.2125,
-        "longitude": 151.6786,
+        "latitude": -30.2,
+        "longitude": 151.7,
         "elevation": 1329
     },
     "timezone": "Australia/Sydney"

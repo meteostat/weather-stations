@@ -1,17 +1,18 @@
 {
     "id": "95687",
     "name": {
-        "en": "Renmark Aerodrome"
+        "en": "Renmark Airport"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "95687",
-        "ghcn": "ASN00024048"
+        "ghcn": "ASN00024048",
+        "national": "95687"
     },
     "location": {
         "latitude": -34.2,
-        "longitude": 140.6667,
+        "longitude": 140.7,
         "elevation": 35
     },
     "timezone": "Australia/Adelaide"

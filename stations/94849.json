@@ -8,11 +8,12 @@
     "identifiers": {
         "wmo": "94849",
         "iata": "MBH",
-        "ghcn": "ASN00088043"
+        "ghcn": "ASN00088043",
+        "national": "94849"
     },
     "location": {
-        "latitude": -37.05,
-        "longitude": 143.7333,
+        "latitude": -37.1,
+        "longitude": 143.7,
         "elevation": 249
     },
     "timezone": "Australia/Melbourne"

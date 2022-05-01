@@ -1,17 +1,18 @@
 {
     "id": "95533",
     "name": {
-        "en": "Texas Post Office"
+        "en": "Texas"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95533",
-        "ghcn": "ASN00041100"
+        "ghcn": "ASN00041100",
+        "national": "95533"
     },
     "location": {
-        "latitude": -28.85,
-        "longitude": 151.1667,
+        "latitude": -28.9,
+        "longitude": 151.2,
         "elevation": 284
     },
     "timezone": "Australia/Brisbane"

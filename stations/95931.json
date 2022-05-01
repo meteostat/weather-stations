@@ -1,17 +1,18 @@
 {
     "id": "95931",
     "name": {
-        "en": "Bega Aws"
+        "en": "Bega"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95931",
-        "ghcn": "ASN00069139"
+        "ghcn": "ASN00069139",
+        "national": "95931"
     },
     "location": {
-        "latitude": -36.6667,
-        "longitude": 149.8167,
+        "latitude": -36.7,
+        "longitude": 149.8,
         "elevation": 41
     },
     "timezone": "Australia/Sydney"

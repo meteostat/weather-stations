@@ -8,11 +8,12 @@
     "identifiers": {
         "wmo": "94852",
         "icao": "YBLT",
-        "ghcn": "ASN00089002"
+        "ghcn": "ASN00089002",
+        "national": "94852"
     },
     "location": {
-        "latitude": -37.5167,
-        "longitude": 143.7667,
+        "latitude": -37.5,
+        "longitude": 143.8,
         "elevation": 441
     },
     "timezone": "Australia/Melbourne"

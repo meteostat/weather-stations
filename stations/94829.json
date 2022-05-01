@@ -1,17 +1,18 @@
 {
     "id": "94829",
     "name": {
-        "en": "Hamilton Airport"
+        "en": "Hamilton"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94829",
-        "ghcn": "ASN00090173"
+        "ghcn": "ASN00090173",
+        "national": "94829"
     },
     "location": {
-        "latitude": -37.6333,
-        "longitude": 142.05,
+        "latitude": -37.6,
+        "longitude": 142.1,
         "elevation": 245
     },
     "timezone": "Australia/Melbourne"

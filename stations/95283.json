@@ -1,17 +1,18 @@
 {
     "id": "95283",
     "name": {
-        "en": "Cooktown Airport"
+        "en": "Cooktown"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95283",
-        "ghcn": "ASN00031209"
+        "ghcn": "ASN00031209",
+        "national": "95283"
     },
     "location": {
-        "latitude": -15.4461,
-        "longitude": 145.1861,
+        "latitude": -15.4,
+        "longitude": 145.2,
         "elevation": 8
     },
     "timezone": "Australia/Brisbane"

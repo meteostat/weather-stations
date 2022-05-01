@@ -1,17 +1,18 @@
 {
     "id": "95292",
     "name": {
-        "en": "South Johnstone Stn"
+        "en": "South Johnstone"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95292",
-        "ghcn": "ASN00032037"
+        "ghcn": "ASN00032037",
+        "national": "95292"
     },
     "location": {
-        "latitude": -17.6053,
-        "longitude": 145.9972,
+        "latitude": -17.6,
+        "longitude": 146.0,
         "elevation": 18
     },
     "timezone": "Australia/Brisbane"

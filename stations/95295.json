@@ -1,17 +1,18 @@
 {
     "id": "95295",
     "name": {
-        "en": "Ayr Dpi Research Station"
+        "en": "Ayr"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95295",
-        "ghcn": "ASN00033002"
+        "ghcn": "ASN00033002",
+        "national": "95295"
     },
     "location": {
-        "latitude": -19.6167,
-        "longitude": 146.3833,
+        "latitude": -19.6,
+        "longitude": 147.4,
         "elevation": 12
     },
     "timezone": "Australia/Brisbane"

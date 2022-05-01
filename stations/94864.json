@@ -1,7 +1,7 @@
 {
     "id": "94864",
     "name": {
-        "en": "Goldstream Aws"
+        "en": "Coldstream"
     },
     "country": "AU",
     "region": "VIC",
@@ -10,10 +10,11 @@
         "icao": "YMEN",
         "iata": "MEB",
         "ghcn": "ASN00086383",
-        "usaf": "948640"
+        "usaf": "948640",
+        "national": "94864"
     },
     "location": {
-        "latitude": -37.7333,
+        "latitude": -37.7,
         "longitude": 145.4,
         "elevation": 76
     },

@@ -1,18 +1,19 @@
 {
     "id": "89611",
     "name": {
-        "en": "Casey"
+        "en": "Casey*"
     },
-    "country": "AQ",
+    "country": "AU",
     "region": null,
     "identifiers": {
         "wmo": "89611",
         "ghcn": "AYM00089611",
-        "mosmix": "89611"
+        "mosmix": "89611",
+        "national": "89611"
     },
     "location": {
-        "latitude": -66.2833,
-        "longitude": 110.5167,
+        "latitude": -66.3,
+        "longitude": 110.5,
         "elevation": 40
     },
     "timezone": "Antarctica/Davis"

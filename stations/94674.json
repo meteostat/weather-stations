@@ -1,7 +1,7 @@
 {
     "id": "94674",
     "name": {
-        "en": "Leigh Creek Airport"
+        "en": "Leigh Creek"
     },
     "country": "AU",
     "region": "SA",
@@ -10,11 +10,12 @@
         "icao": "YPLC",
         "iata": "PLO",
         "ghcn": "ASN00017110",
-        "usaf": "946740"
+        "usaf": "946740",
+        "national": "94674"
     },
     "location": {
-        "latitude": -30.5833,
-        "longitude": 138.4167,
+        "latitude": -30.6,
+        "longitude": 138.4,
         "elevation": 261
     },
     "timezone": "Australia/Adelaide"

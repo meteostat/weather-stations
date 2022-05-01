@@ -7,11 +7,12 @@
     "region": "SA",
     "identifiers": {
         "wmo": "94657",
-        "ghcn": "ASN00018044"
+        "ghcn": "ASN00018044",
+        "national": "94657"
     },
     "location": {
-        "latitude": -33.1167,
-        "longitude": 135.55,
+        "latitude": -33.1,
+        "longitude": 135.6,
         "elevation": 58
     },
     "timezone": "Australia/Adelaide"

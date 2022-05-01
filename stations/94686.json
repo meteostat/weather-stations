@@ -1,17 +1,18 @@
 {
     "id": "94686",
     "name": {
-        "en": "Kirra"
+        "en": "Fowlers Gap"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94686",
-        "ghcn": "ASN00046128"
+        "ghcn": "ASN00046128",
+        "national": "94686"
     },
     "location": {
-        "latitude": -35.7667,
-        "longitude": 140.8833,
+        "latitude": -31.1,
+        "longitude": 141.7,
         "elevation": 155
     },
     "timezone": "Australia/Sydney"

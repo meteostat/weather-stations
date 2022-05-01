@@ -7,11 +7,12 @@
     "region": "QLD",
     "identifiers": {
         "wmo": "94360",
-        "ghcn": "ASN00033013"
+        "ghcn": "ASN00033013",
+        "national": "94360"
     },
     "location": {
-        "latitude": -20.55,
-        "longitude": 147.8333,
+        "latitude": -20.6,
+        "longitude": 147.8,
         "elevation": 187
     },
     "timezone": "Australia/Brisbane"

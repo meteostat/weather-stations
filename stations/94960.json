@@ -1,7 +1,7 @@
 {
     "id": "94960",
     "name": {
-        "en": "Devonport East"
+        "en": "Tunnack"
     },
     "country": "AU",
     "region": "TAS",
@@ -10,11 +10,12 @@
         "icao": "YMDV",
         "iata": "DPO",
         "ghcn": "ASN00094195",
-        "usaf": "949600"
+        "usaf": "949600",
+        "national": "94960"
     },
     "location": {
-        "latitude": -41.1667,
-        "longitude": 146.3667,
+        "latitude": -42.5,
+        "longitude": 147.5,
         "elevation": 47
     },
     "timezone": "Australia/Hobart"

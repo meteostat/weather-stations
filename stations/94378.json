@@ -1,17 +1,18 @@
 {
     "id": "94378",
     "name": {
-        "en": "Rundle Island Aws"
+        "en": "Rundle Island"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94378",
-        "ghcn": "ASN00039322"
+        "ghcn": "ASN00039322",
+        "national": "94378"
     },
     "location": {
-        "latitude": -23.5333,
-        "longitude": 151.2833,
+        "latitude": -23.5,
+        "longitude": 151.3,
         "elevation": 20
     },
     "timezone": "Australia/Brisbane"

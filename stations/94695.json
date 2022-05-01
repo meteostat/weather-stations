@@ -1,17 +1,18 @@
 {
     "id": "94695",
     "name": {
-        "en": "Wilcannia"
+        "en": "Wilcannia Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "wmo": "94695",
-        "ghcn": "ASN00046043"
+        "wmo": "95695",
+        "ghcn": "ASN00046043",
+        "national": "95695"
     },
     "location": {
-        "latitude": -31.55,
-        "longitude": 143.3667,
+        "latitude": -31.5,
+        "longitude": 143.4,
         "elevation": 76
     },
     "timezone": "Australia/Sydney"

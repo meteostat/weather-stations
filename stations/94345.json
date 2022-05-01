@@ -1,17 +1,18 @@
 {
     "id": "94345",
     "name": {
-        "en": "Isisford Post Office"
+        "en": "Isisford"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94345",
-        "ghcn": "ASN00036026"
+        "ghcn": "ASN00036026",
+        "national": "94345"
     },
     "location": {
-        "latitude": -24.2667,
-        "longitude": 144.4333,
+        "latitude": -24.3,
+        "longitude": 144.4,
         "elevation": 205
     },
     "timezone": "Australia/Brisbane"

@@ -1,18 +1,19 @@
 {
     "id": "94125",
     "name": {
-        "en": "Batchelor Aws"
+        "en": "Batchelor"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
         "wmo": "94125",
         "ghcn": "ASN00014272",
-        "wban": "81304"
+        "wban": "81304",
+        "national": "94125"
     },
     "location": {
-        "latitude": -13.05,
-        "longitude": 131.0167,
+        "latitude": -13.1,
+        "longitude": 131.0,
         "elevation": 104
     },
     "timezone": "Australia/Darwin"

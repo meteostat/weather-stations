@@ -1,18 +1,19 @@
 {
     "id": "94691",
     "name": {
-        "en": "Broken Hill Aws"
+        "en": "Broken Hill Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94691",
         "ghcn": "ASN00047048",
-        "mosmix": "94691"
+        "mosmix": "94691",
+        "national": "94691"
     },
     "location": {
-        "latitude": -32,
-        "longitude": 141.4667,
+        "latitude": -32.0,
+        "longitude": 141.5,
         "elevation": 281
     },
     "timezone": "Australia/Sydney"

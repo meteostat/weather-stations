@@ -1,17 +1,18 @@
 {
     "id": "95659",
     "name": {
-        "en": "Roxby Downs"
+        "en": "Minlaton Airport"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "95659",
-        "ghcn": "ASN00022031"
+        "ghcn": "ASN00022031",
+        "national": "95659"
     },
     "location": {
-        "latitude": -30.45,
-        "longitude": 136.8667,
+        "latitude": -34.7,
+        "longitude": 137.5,
         "elevation": 98
     },
     "timezone": "Australia/Adelaide"

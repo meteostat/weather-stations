@@ -1,17 +1,18 @@
 {
     "id": "95612",
     "name": {
-        "en": "Gingin Aero"
+        "en": "Gingin Airport"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95612",
-        "ghcn": "ASN00009178"
+        "ghcn": "ASN00009178",
+        "national": "95612"
     },
     "location": {
-        "latitude": -31.4628,
-        "longitude": 115.8642,
+        "latitude": -31.5,
+        "longitude": 115.9,
         "elevation": 74
     },
     "timezone": "Australia/Perth"

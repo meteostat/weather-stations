@@ -1,7 +1,7 @@
 {
     "id": "94568",
     "name": {
-        "en": "Amberley Aerodrome"
+        "en": "Amberley"
     },
     "country": "AU",
     "region": "QLD",
@@ -9,11 +9,12 @@
         "wmo": "94568",
         "icao": "YBAM",
         "ghcn": "ASN00040004",
-        "usaf": "945680"
+        "usaf": "945680",
+        "national": "94568"
     },
     "location": {
-        "latitude": -27.6333,
-        "longitude": 152.7167,
+        "latitude": -27.6,
+        "longitude": 152.7,
         "elevation": 27
     },
     "timezone": "Australia/Brisbane"

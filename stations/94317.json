@@ -1,16 +1,17 @@
 {
     "id": "94317",
     "name": {
-        "en": "Newman Aerodrome"
+        "en": "Newman Airport"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94317",
-        "ghcn": "ASN00007176"
+        "ghcn": "ASN00007176",
+        "national": "94317"
     },
     "location": {
-        "latitude": -23.4167,
+        "latitude": -23.4,
         "longitude": 119.8,
         "elevation": 524
     },

@@ -1,17 +1,18 @@
 {
     "id": "94934",
     "name": {
-        "en": "Green Cape Aws"
+        "en": "Green Cape"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94934",
-        "ghcn": "ASN00069137"
+        "ghcn": "ASN00069137",
+        "national": "94934"
     },
     "location": {
-        "latitude": -37.25,
-        "longitude": 150.0333,
+        "latitude": -37.3,
+        "longitude": 150.1,
         "elevation": 19
     },
     "timezone": "Australia/Sydney"

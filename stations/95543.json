@@ -1,17 +1,18 @@
 {
     "id": "95543",
     "name": {
-        "en": "Gayndah Airport"
+        "en": "Gayndah"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95543",
-        "ghcn": "ASN00039066"
+        "ghcn": "ASN00039066",
+        "national": "95543"
     },
     "location": {
-        "latitude": -25.6167,
-        "longitude": 151.6156,
+        "latitude": -25.6,
+        "longitude": 151.6,
         "elevation": 113
     },
     "timezone": "Australia/Brisbane"

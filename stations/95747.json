@@ -1,17 +1,18 @@
 {
     "id": "95747",
     "name": {
-        "en": "Munureundi Gap Aws / Ardglen"
+        "en": "Murrurundi Gap"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95747",
-        "ghcn": "ASN00061392"
+        "ghcn": "ASN00061392",
+        "national": "95747"
     },
     "location": {
-        "latitude": -31.7417,
-        "longitude": 150.7936,
+        "latitude": -31.7,
+        "longitude": 150.8,
         "elevation": 729
     },
     "timezone": "Australia/Sydney"

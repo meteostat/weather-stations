@@ -1,18 +1,19 @@
 {
     "id": "95661",
     "name": {
-        "en": "Port Lincoln Aerodrome Aws"
+        "en": "Port Lincoln Airport"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "95661",
         "iata": "PLO",
-        "ghcn": "ASN00018192"
+        "ghcn": "ASN00018192",
+        "national": "95661"
     },
     "location": {
         "latitude": -34.6,
-        "longitude": 135.8667,
+        "longitude": 135.9,
         "elevation": 6
     },
     "timezone": "Australia/Adelaide"

@@ -1,7 +1,7 @@
 {
     "id": "94341",
     "name": {
-        "en": "Richmond Airport"
+        "en": "Richmond"
     },
     "country": "AU",
     "region": "QLD",
@@ -10,11 +10,12 @@
         "icao": "YRMD",
         "iata": "RCM",
         "ghcn": "ASN00030161",
-        "usaf": "943410"
+        "usaf": "943410",
+        "national": "94341"
     },
     "location": {
-        "latitude": -20.7017,
-        "longitude": 143.1167,
+        "latitude": -20.7,
+        "longitude": 143.1,
         "elevation": 206
     },
     "timezone": "Australia/Brisbane"

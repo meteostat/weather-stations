@@ -1,18 +1,19 @@
 {
     "id": "94715",
     "name": {
-        "en": "Walgett"
+        "en": "Forbes"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94715",
         "iata": "WGE",
-        "ghcn": "ASN00065103"
+        "ghcn": "ASN00065103",
+        "national": "94715"
     },
     "location": {
-        "latitude": -30.0167,
-        "longitude": 148.1167,
+        "latitude": -33.4,
+        "longitude": 147.9,
         "elevation": 133
     },
     "timezone": "Australia/Sydney"

@@ -1,17 +1,18 @@
 {
     "id": "94556",
     "name": {
-        "en": "Tenterfield Derby Street"
+        "en": "Tenterfield"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94556",
-        "ghcn": "ASN00056032"
+        "ghcn": "ASN00056032",
+        "national": "94556"
     },
     "location": {
-        "latitude": -29.05,
-        "longitude": 152.0167,
+        "latitude": -29.0,
+        "longitude": 152.0,
         "elevation": 860
     },
     "timezone": "Australia/Sydney"

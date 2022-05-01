@@ -1,18 +1,19 @@
 {
     "id": "94266",
     "name": {
-        "en": "Normanton Site 8"
+        "en": "Normanton"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94266",
         "ghcn": "ASN00029063",
-        "wban": "81411"
+        "wban": "81411",
+        "national": "94266"
     },
     "location": {
-        "latitude": -17.7167,
-        "longitude": 141.1333,
+        "latitude": -17.7,
+        "longitude": 141.1,
         "elevation": 9
     },
     "timezone": "Australia/Brisbane"

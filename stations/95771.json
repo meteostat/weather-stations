@@ -1,7 +1,7 @@
 {
     "id": "95771",
     "name": {
-        "en": "Cessnock Airport Aws"
+        "en": "Cessnock Airport"
     },
     "country": "AU",
     "region": "NSW",
@@ -9,11 +9,12 @@
         "wmo": "95771",
         "icao": "YCNK",
         "iata": "CES",
-        "ghcn": "ASN00061260"
+        "ghcn": "ASN00061260",
+        "national": "95771"
     },
     "location": {
         "latitude": -32.8,
-        "longitude": 151.3333,
+        "longitude": 151.3,
         "elevation": 64
     },
     "timezone": "Australia/Sydney"

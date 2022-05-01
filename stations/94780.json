@@ -1,17 +1,18 @@
 {
     "id": "94780",
     "name": {
-        "en": "Little Bay (The Coast Golf Club) / La Perouse"
+        "en": "Little Bay"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94780",
-        "ghcn": "ASN00066051"
+        "ghcn": "ASN00066051",
+        "national": "94780"
     },
     "location": {
-        "latitude": -33.9828,
-        "longitude": 151.2503,
+        "latitude": -34.0,
+        "longitude": 151.3,
         "elevation": 22
     },
     "timezone": "Australia/Sydney"

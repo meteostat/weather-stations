@@ -1,17 +1,18 @@
 {
     "id": "94938",
     "name": {
-        "en": "Ulladulla Aws"
+        "en": "Ulladulla"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94938",
-        "ghcn": "ASN00069138"
+        "ghcn": "ASN00069138",
+        "national": "94938"
     },
     "location": {
-        "latitude": -35.35,
-        "longitude": 150.4833,
+        "latitude": -35.4,
+        "longitude": 150.5,
         "elevation": 36
     },
     "timezone": "Australia/Sydney"

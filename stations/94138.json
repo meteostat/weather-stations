@@ -1,17 +1,18 @@
 {
     "id": "94138",
     "name": {
-        "en": "Gunbalunya"
+        "en": "Oenpelli Airport"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
-        "wmo": "94138",
-        "ghcn": "ASN00014042"
+        "wmo": "94110",
+        "ghcn": "ASN00014042",
+        "national": "94110"
     },
     "location": {
-        "latitude": -12.3167,
-        "longitude": 133.05,
+        "latitude": -12.3,
+        "longitude": 133.0,
         "elevation": 7
     },
     "timezone": "Australia/Darwin"

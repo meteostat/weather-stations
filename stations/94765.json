@@ -1,7 +1,7 @@
 {
     "id": "94765",
     "name": {
-        "en": "Bankstown Airport Aws"
+        "en": "Bankstown"
     },
     "country": "AU",
     "region": "NSW",
@@ -9,11 +9,12 @@
         "wmo": "94765",
         "icao": "YSBK",
         "ghcn": "ASN00066137",
-        "usaf": "947650"
+        "usaf": "947650",
+        "national": "94765"
     },
     "location": {
-        "latitude": -33.9167,
-        "longitude": 150.9833,
+        "latitude": -33.9,
+        "longitude": 151.0,
         "elevation": 9
     },
     "timezone": "Australia/Sydney"

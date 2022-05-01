@@ -1,17 +1,18 @@
 {
     "id": "95984",
     "name": {
-        "en": "Orford"
+        "en": "Spring Bay"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
-        "wmo": "95984",
-        "ghcn": "ASN00092027"
+        "wmo": "95987",
+        "ghcn": "ASN00092027",
+        "national": "95987"
     },
     "location": {
-        "latitude": -42.55,
-        "longitude": 147.8667,
+        "latitude": -42.5,
+        "longitude": 147.9,
         "elevation": 15
     },
     "timezone": "Australia/Hobart"

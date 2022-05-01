@@ -1,16 +1,17 @@
 {
     "id": "94710",
     "name": {
-        "en": "Cobar Airport Aws"
+        "en": "Cobar Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94710",
-        "ghcn": "ASN00048237"
+        "ghcn": "ASN00048237",
+        "national": "94710"
     },
     "location": {
-        "latitude": -31.55,
+        "latitude": -31.5,
         "longitude": 145.8,
         "elevation": 217
     },

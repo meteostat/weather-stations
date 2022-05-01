@@ -1,17 +1,18 @@
 {
     "id": "94787",
     "name": {
-        "en": "Port Macquarie"
+        "en": "Port Macquarie Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "wmo": "94787",
-        "iata": "PTR"
+        "wmo": "94799",
+        "iata": "PTR",
+        "national": "94799"
     },
     "location": {
-        "latitude": -31.4333,
-        "longitude": 152.9167,
+        "latitude": -31.4,
+        "longitude": 152.9,
         "elevation": 7
     },
     "timezone": "Australia/Sydney"

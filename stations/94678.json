@@ -1,17 +1,18 @@
 {
     "id": "94678",
     "name": {
-        "en": "Williamstown Mount Crawford Aws"
+        "en": "Mount Crawford"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "94678",
-        "ghcn": "ASN00023878"
+        "ghcn": "ASN00023878",
+        "national": "94678"
     },
     "location": {
-        "latitude": -34.7333,
-        "longitude": 138.9333,
+        "latitude": -34.7,
+        "longitude": 138.9,
         "elevation": 515
     },
     "timezone": "Australia/Adelaide"

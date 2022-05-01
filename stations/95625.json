@@ -1,17 +1,18 @@
 {
     "id": "95625",
     "name": {
-        "en": "Cunderdin Airfield"
+        "en": "Cunderdin Airport"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95625",
-        "ghcn": "ASN00010286"
+        "ghcn": "ASN00010286",
+        "national": "95625"
     },
     "location": {
-        "latitude": -31.6219,
-        "longitude": 117.2217,
+        "latitude": -31.6,
+        "longitude": 117.2,
         "elevation": 213
     },
     "timezone": "Australia/Perth"

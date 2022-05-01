@@ -1,17 +1,18 @@
 {
     "id": "95541",
     "name": {
-        "en": "Inverell Raglan St"
+        "en": "Inverell"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95541",
-        "ghcn": "ASN00056242"
+        "ghcn": "ASN00056242",
+        "national": "95541"
     },
     "location": {
-        "latitude": -29.7833,
-        "longitude": 151.1167,
+        "latitude": -29.8,
+        "longitude": 151.1,
         "elevation": 582
     },
     "timezone": "Australia/Sydney"

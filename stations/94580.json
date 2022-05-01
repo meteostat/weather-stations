@@ -1,17 +1,18 @@
 {
     "id": "94580",
     "name": {
-        "en": "Gold Coast Seaway Aws"
+        "en": "Gold Coast Seaway"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94580",
-        "ghcn": "ASN00040764"
+        "ghcn": "ASN00040764",
+        "national": "94580"
     },
     "location": {
-        "latitude": -27.9333,
-        "longitude": 153.4333,
+        "latitude": -27.9,
+        "longitude": 153.4,
         "elevation": 2
     },
     "timezone": "Australia/Brisbane"

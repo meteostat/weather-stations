@@ -1,17 +1,18 @@
 {
     "id": "95758",
     "name": {
-        "en": "Scone Airport Aws"
+        "en": "Scone Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95758",
-        "ghcn": "ASN00061363"
+        "ghcn": "ASN00061363",
+        "national": "95758"
     },
     "location": {
-        "latitude": -32.0333,
-        "longitude": 150.8333,
+        "latitude": -32.0,
+        "longitude": 150.8,
         "elevation": 227
     },
     "timezone": "Australia/Sydney"

@@ -1,17 +1,18 @@
 {
     "id": "94712",
     "name": {
-        "en": "Young Aws"
+        "en": "Young"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94712",
-        "ghcn": "ASN00073138"
+        "ghcn": "ASN00073138",
+        "national": "94712"
     },
     "location": {
-        "latitude": -34.25,
-        "longitude": 148.2333,
+        "latitude": -34.2,
+        "longitude": 148.2,
         "elevation": 380
     },
     "timezone": "Australia/Sydney"

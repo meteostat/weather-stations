@@ -1,17 +1,18 @@
 {
     "id": "94836",
     "name": {
-        "en": "Stawell Aerodrome / Illawarra"
+        "en": "Stawell"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94836",
-        "ghcn": "ASN00079105"
+        "ghcn": "ASN00079105",
+        "national": "94836"
     },
     "location": {
-        "latitude": -37.0719,
-        "longitude": 142.74,
+        "latitude": -37.1,
+        "longitude": 142.7,
         "elevation": 246
     },
     "timezone": "Australia/Melbourne"

@@ -1,16 +1,17 @@
 {
     "id": "94366",
     "name": {
-        "en": "Bowen Airport"
+        "en": "Bowen Airport AWS"
     },
     "country": "AU",
     "region": "QL",
     "identifiers": {
-        "wmo": "94366",
-        "ghcn": "ASN00033257"
+        "wmo": "94383",
+        "ghcn": "ASN00033257",
+        "national": "94383"
     },
     "location": {
-        "latitude": -20.0167,
+        "latitude": -20.0,
         "longitude": 148.2,
         "elevation": 8
     },

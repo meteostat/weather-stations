@@ -1,17 +1,18 @@
 {
     "id": "94930",
     "name": {
-        "en": "Mt Nowa Nowa"
+        "en": "Mount Nowa Nowa"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94930",
-        "ghcn": "ASN00084144"
+        "ghcn": "ASN00084144",
+        "national": "94930"
     },
     "location": {
-        "latitude": -37.6925,
-        "longitude": 148.0908,
+        "latitude": -37.7,
+        "longitude": 148.1,
         "elevation": 350
     },
     "timezone": "Australia/Melbourne"

@@ -1,17 +1,18 @@
 {
     "id": "95646",
     "name": {
-        "en": "Forrest Aws"
+        "en": "Forrest"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95646",
-        "ghcn": "ASN00011052"
+        "ghcn": "ASN00011052",
+        "national": "95646"
     },
     "location": {
-        "latitude": -30.8333,
-        "longitude": 128.1167,
+        "latitude": -30.8,
+        "longitude": 128.1,
         "elevation": 156
     },
     "timezone": "Australia/Perth"

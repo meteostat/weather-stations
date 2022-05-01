@@ -1,17 +1,18 @@
 {
     "id": "94323",
     "name": {
-        "en": "Watarrka Kings Canyon"
+        "en": "Watarrka"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
         "wmo": "94323",
-        "ghcn": "ASN00015652"
+        "ghcn": "ASN00015652",
+        "national": "94323"
     },
     "location": {
-        "latitude": -24.2833,
-        "longitude": 131.5333,
+        "latitude": -24.3,
+        "longitude": 131.5,
         "elevation": 614
     },
     "timezone": "Australia/Darwin"

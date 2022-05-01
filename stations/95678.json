@@ -1,16 +1,17 @@
 {
     "id": "95678",
     "name": {
-        "en": "Mount Lofty Aws"
+        "en": "Mount Lofty"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "95678",
-        "ghcn": "ASN00023842"
+        "ghcn": "ASN00023842",
+        "national": "95678"
     },
     "location": {
-        "latitude": -34.9667,
+        "latitude": -35.0,
         "longitude": 138.7,
         "elevation": 730
     },

@@ -1,7 +1,7 @@
 {
     "id": "94302",
     "name": {
-        "en": "Learmonth Airport"
+        "en": "Learmonth"
     },
     "country": "AU",
     "region": "WA",
@@ -10,11 +10,12 @@
         "icao": "YPLM",
         "iata": "LEA",
         "ghcn": "ASN00005007",
-        "usaf": "943020"
+        "usaf": "943020",
+        "national": "94302"
     },
     "location": {
-        "latitude": -22.2333,
-        "longitude": 114.0833,
+        "latitude": -22.2,
+        "longitude": 114.1,
         "elevation": 5
     },
     "timezone": "Australia/Perth"

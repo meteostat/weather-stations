@@ -1,17 +1,18 @@
 {
     "id": "94860",
     "name": {
-        "en": "Kilmore Gap Aws"
+        "en": "Kilmore Gap"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94860",
-        "ghcn": "ASN00088162"
+        "ghcn": "ASN00088162",
+        "national": "94860"
     },
     "location": {
-        "latitude": -37.3833,
-        "longitude": 144.9667,
+        "latitude": -37.4,
+        "longitude": 145.0,
         "elevation": 528
     },
     "timezone": "Australia/Melbourne"

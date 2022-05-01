@@ -1,17 +1,18 @@
 {
     "id": "94749",
     "name": {
-        "en": "Bellambi Aws"
+        "en": "Bellambi"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94749",
-        "ghcn": "ASN00068228"
+        "ghcn": "ASN00068228",
+        "national": "94749"
     },
     "location": {
-        "latitude": -34.3833,
-        "longitude": 150.9333,
+        "latitude": -34.4,
+        "longitude": 150.9,
         "elevation": 10
     },
     "timezone": "Australia/Sydney"

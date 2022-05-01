@@ -1,17 +1,18 @@
 {
     "id": "94837",
     "name": {
-        "en": "Warrnambool Airport Ndb / Mailors Flat"
+        "en": "Warrnambool"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94837",
-        "ghcn": "ASN00090186"
+        "ghcn": "ASN00090186",
+        "national": "94837"
     },
     "location": {
-        "latitude": -38.2867,
-        "longitude": 142.4522,
+        "latitude": -38.3,
+        "longitude": 142.5,
         "elevation": 74
     },
     "timezone": "Australia/Melbourne"

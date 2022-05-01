@@ -1,17 +1,18 @@
 {
     "id": "95647",
     "name": {
-        "en": "North Walpole"
+        "en": "Walpole North"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95647",
-        "ghcn": "ASN00009998"
+        "ghcn": "ASN00009998",
+        "national": "95647"
     },
     "location": {
-        "latitude": -34.9469,
-        "longitude": 116.7222,
+        "latitude": -34.9,
+        "longitude": 116.7,
         "elevation": 73
     },
     "timezone": "Australia/Perth"

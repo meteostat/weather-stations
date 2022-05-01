@@ -1,17 +1,18 @@
 {
     "id": "95604",
     "name": {
-        "en": "Gosnells City"
+        "en": "Gosnells"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95604",
-        "ghcn": "ASN00009106"
+        "ghcn": "ASN00009106",
+        "national": "95604"
     },
     "location": {
-        "latitude": -32.05,
-        "longitude": 115.9833,
+        "latitude": -32.0,
+        "longitude": 116.0,
         "elevation": 10
     },
     "timezone": "Australia/Perth"

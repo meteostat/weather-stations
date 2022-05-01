@@ -1,17 +1,18 @@
 {
     "id": "95692",
     "name": {
-        "en": "Pooncarie Telecentr"
+        "en": "Pooncarie"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "95692",
-        "ghcn": "ASN00047029"
+        "ghcn": "ASN00047029",
+        "national": "95692"
     },
     "location": {
-        "latitude": -33.3856,
-        "longitude": 142.5697,
+        "latitude": -33.4,
+        "longitude": 142.6,
         "elevation": 53
     },
     "timezone": "Australia/Melbourne"

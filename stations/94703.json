@@ -1,18 +1,19 @@
 {
     "id": "94703",
     "name": {
-        "en": "Bourke Post Office"
+        "en": "Bourke"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94703",
         "iata": "BRK",
-        "ghcn": "ASN00048245"
+        "ghcn": "ASN00048245",
+        "national": "94703"
     },
     "location": {
-        "latitude": -30.0833,
-        "longitude": 145.9333,
+        "latitude": -30.0,
+        "longitude": 146.0,
         "elevation": 106
     },
     "timezone": "Australia/Sydney"

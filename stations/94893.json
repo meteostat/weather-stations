@@ -1,17 +1,18 @@
 {
     "id": "94893",
     "name": {
-        "en": "Wilsons Promontory Light"
+        "en": "Wilsons Promontory"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94893",
-        "ghcn": "ASN00085096"
+        "ghcn": "ASN00085096",
+        "national": "94893"
     },
     "location": {
-        "latitude": -39.1167,
-        "longitude": 146.4167,
+        "latitude": -39.1,
+        "longitude": 146.4,
         "elevation": 89
     },
     "timezone": "Australia/Melbourne"

@@ -1,17 +1,18 @@
 {
     "id": "95286",
     "name": {
-        "en": "Chewko"
+        "en": "Mareeba"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95286",
-        "ghcn": "ASN00031210"
+        "ghcn": "ASN00031210",
+        "national": "95286"
     },
     "location": {
-        "latitude": -17.0672,
-        "longitude": 145.4283,
+        "latitude": -17.1,
+        "longitude": 145.4,
         "elevation": 476
     },
     "timezone": "Australia/Brisbane"

@@ -1,17 +1,18 @@
 {
     "id": "95635",
     "name": {
-        "en": "Ravensthorpe Hopetoun Aws"
+        "en": "Hopetoun North"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95635",
-        "ghcn": "ASN00009961"
+        "ghcn": "ASN00009961",
+        "national": "95635"
     },
     "location": {
-        "latitude": -33.9306,
-        "longitude": 120.1283,
+        "latitude": -33.9,
+        "longitude": 120.1,
         "elevation": 26
     },
     "timezone": "Australia/Perth"

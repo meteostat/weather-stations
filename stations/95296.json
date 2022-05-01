@@ -1,17 +1,18 @@
 {
     "id": "95296",
     "name": {
-        "en": "Lihou Reef / Alva"
+        "en": "Alva Beach"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95296",
-        "ghcn": "ASN00033295"
+        "ghcn": "ASN00033295",
+        "national": "95296"
     },
     "location": {
-        "latitude": -19.4569,
-        "longitude": 147.4833,
+        "latitude": -19.5,
+        "longitude": 147.5,
         "elevation": 8
     },
     "timezone": "Australia/Brisbane"

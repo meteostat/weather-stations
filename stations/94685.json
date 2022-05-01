@@ -1,17 +1,18 @@
 {
     "id": "94685",
     "name": {
-        "en": "Cadell"
+        "en": "Kadina"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "94685",
-        "ghcn": "ASN00022050"
+        "ghcn": "ASN00022050",
+        "national": "94685"
     },
     "location": {
-        "latitude": -34.05,
-        "longitude": 139.75,
+        "latitude": -34.0,
+        "longitude": 137.7,
         "elevation": 16
     },
     "timezone": "Australia/Adelaide"

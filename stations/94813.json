@@ -1,17 +1,18 @@
 {
     "id": "94813",
     "name": {
-        "en": "Cape Jaffa Aws"
+        "en": "Cape Jaffa"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "94813",
-        "ghcn": "ASN00026095"
+        "ghcn": "ASN00026095",
+        "national": "94813"
     },
     "location": {
-        "latitude": -36.9667,
-        "longitude": 139.7167,
+        "latitude": -37.0,
+        "longitude": 139.7,
         "elevation": 17
     },
     "timezone": "Australia/Adelaide"

@@ -1,17 +1,18 @@
 {
     "id": "94905",
     "name": {
-        "en": "Mt Hotham Airport / Rundells"
+        "en": "Mount Hotham Airport"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94905",
-        "ghcn": "ASN00083055"
+        "ghcn": "ASN00083055",
+        "national": "94905"
     },
     "location": {
-        "latitude": -37.0492,
-        "longitude": 147.3347,
+        "latitude": -37.0,
+        "longitude": 147.3,
         "elevation": 1298
     },
     "timezone": "Australia/Melbourne"

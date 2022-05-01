@@ -1,7 +1,7 @@
 {
     "id": "94300",
     "name": {
-        "en": "Carnarvon Airport"
+        "en": "Carnarvon"
     },
     "country": "AU",
     "region": "WA",
@@ -10,11 +10,12 @@
         "icao": "YCAR",
         "iata": "CVQ",
         "ghcn": "ASN00006011",
-        "mosmix": "94300"
+        "mosmix": "94300",
+        "national": "94300"
     },
     "location": {
-        "latitude": -24.8667,
-        "longitude": 113.6667,
+        "latitude": -24.9,
+        "longitude": 113.7,
         "elevation": 4
     },
     "timezone": "Australia/Perth"

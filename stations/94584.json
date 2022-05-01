@@ -1,17 +1,18 @@
 {
     "id": "94584",
     "name": {
-        "en": "Double Island Point Ligh"
+        "en": "Double Island Point"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94584",
-        "ghcn": "ASN00040068"
+        "ghcn": "ASN00040068",
+        "national": "94584"
     },
     "location": {
-        "latitude": -25.9333,
-        "longitude": 153.1833,
+        "latitude": -25.9,
+        "longitude": 153.2,
         "elevation": 94
     },
     "timezone": "Australia/Brisbane"

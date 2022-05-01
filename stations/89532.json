@@ -3,17 +3,18 @@
     "name": {
         "en": "Syowa"
     },
-    "country": "AQ",
+    "country": "AU",
     "region": null,
     "identifiers": {
         "wmo": "89532",
         "ghcn": "AYM00089532",
         "wban": "76301",
-        "mosmix": "89532"
+        "mosmix": "89532",
+        "national": "89532"
     },
     "location": {
-        "latitude": -69,
-        "longitude": 39.5833,
+        "latitude": -69.0,
+        "longitude": 39.6,
         "elevation": 18
     },
     "timezone": "Antarctica/Syowa"

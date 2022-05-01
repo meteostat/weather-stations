@@ -1,17 +1,18 @@
 {
     "id": "95839",
     "name": {
-        "en": "Horsham Aerodrome"
+        "en": "Horsham"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "95839",
-        "ghcn": "ASN00079100"
+        "ghcn": "ASN00079100",
+        "national": "95839"
     },
     "location": {
-        "latitude": -36.6697,
-        "longitude": 142.1731,
+        "latitude": -36.7,
+        "longitude": 142.2,
         "elevation": 136
     },
     "timezone": "Australia/Melbourne"

@@ -1,17 +1,18 @@
 {
     "id": "95831",
     "name": {
-        "en": "Walpeup Research"
+        "en": "Walpeup"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "95831",
-        "ghcn": "ASN00076064"
+        "ghcn": "ASN00076064",
+        "national": "95831"
     },
     "location": {
-        "latitude": -35.12,
-        "longitude": 142.0039,
+        "latitude": -35.1,
+        "longitude": 142.0,
         "elevation": 105
     },
     "timezone": "Australia/Melbourne"

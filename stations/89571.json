@@ -1,17 +1,18 @@
 {
     "id": "89571",
     "name": {
-        "en": "Davis"
+        "en": "Davis*"
     },
-    "country": "AQ",
+    "country": "AU",
     "region": null,
     "identifiers": {
         "wmo": "89571",
-        "ghcn": "AYM00089571"
+        "ghcn": "AYM00089571",
+        "national": "89571"
     },
     "location": {
-        "latitude": -68.5833,
-        "longitude": 77.9667,
+        "latitude": -68.6,
+        "longitude": 78.0,
         "elevation": 18
     },
     "timezone": "Antarctica/Davis"

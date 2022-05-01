@@ -10,11 +10,12 @@
         "icao": "YDGV",
         "iata": "GOV",
         "ghcn": "ASN00014508",
-        "usaf": "941500"
+        "usaf": "941500",
+        "national": "94150"
     },
     "location": {
-        "latitude": -12.2667,
-        "longitude": 136.8167,
+        "latitude": -12.3,
+        "longitude": 136.8,
         "elevation": 52
     },
     "timezone": "Australia/Darwin"

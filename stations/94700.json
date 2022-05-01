@@ -1,17 +1,18 @@
 {
     "id": "94700",
     "name": {
-        "en": "Hillston Airport"
+        "en": "Hillston"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94700",
-        "ghcn": "ASN00075032"
+        "ghcn": "ASN00075032",
+        "national": "94700"
     },
     "location": {
-        "latitude": -33.4833,
-        "longitude": 145.5167,
+        "latitude": -33.5,
+        "longitude": 145.5,
         "elevation": 123
     },
     "timezone": "Australia/Sydney"

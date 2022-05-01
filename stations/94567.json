@@ -8,11 +8,12 @@
     "identifiers": {
         "wmo": "94567",
         "iata": "MBH",
-        "ghcn": "ASN00040126"
+        "ghcn": "ASN00040126",
+        "national": "94567"
     },
     "location": {
-        "latitude": -25.5333,
-        "longitude": 152.6667,
+        "latitude": -25.5,
+        "longitude": 152.7,
         "elevation": 11
     },
     "timezone": "Australia/Brisbane"

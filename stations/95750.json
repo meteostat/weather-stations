@@ -1,17 +1,18 @@
 {
     "id": "95750",
     "name": {
-        "en": "Liverpool"
+        "en": "Holsworthy"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "wmo": "95750",
-        "ghcn": "ASN00067020"
+        "wmo": "95761",
+        "ghcn": "ASN00067020",
+        "national": "95761"
     },
     "location": {
-        "latitude": -33.9167,
-        "longitude": 150.9167,
+        "latitude": -34.0,
+        "longitude": 150.9,
         "elevation": 21
     },
     "timezone": "Australia/Sydney"

@@ -9,11 +9,12 @@
         "wmo": "94773",
         "icao": "YARM",
         "iata": "ARM",
-        "ghcn": "ASN00056037"
+        "ghcn": "ASN00056037",
+        "national": "94773"
     },
     "location": {
-        "latitude": -30.5167,
-        "longitude": 151.65,
+        "latitude": -30.5,
+        "longitude": 151.7,
         "elevation": 980
     },
     "timezone": "Australia/Sydney"

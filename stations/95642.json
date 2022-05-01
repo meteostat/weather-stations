@@ -1,17 +1,18 @@
 {
     "id": "95642",
     "name": {
-        "en": "Norseman Aero"
+        "en": "Norseman Airport"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95642",
-        "ghcn": "ASN00012009"
+        "ghcn": "ASN00012009",
+        "national": "95642"
     },
     "location": {
-        "latitude": -32.2147,
-        "longitude": 121.7547,
+        "latitude": -32.2,
+        "longitude": 121.8,
         "elevation": 263
     },
     "timezone": "Australia/Perth"

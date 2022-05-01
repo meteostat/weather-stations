@@ -9,11 +9,12 @@
         "wmo": "94260",
         "icao": "YBKT",
         "iata": "BUC",
-        "ghcn": "ASN00029077"
+        "ghcn": "ASN00029077",
+        "national": "94260"
     },
     "location": {
-        "latitude": -17.7483,
-        "longitude": 139.5356,
+        "latitude": -17.7,
+        "longitude": 139.5,
         "elevation": 6
     },
     "timezone": "Australia/Brisbane"

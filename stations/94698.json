@@ -1,17 +1,18 @@
 {
     "id": "94698",
     "name": {
-        "en": "Hay Miller Street"
+        "en": "Hay Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "wmo": "94698",
-        "ghcn": "ASN00075031"
+        "wmo": "94702",
+        "ghcn": "ASN00075031",
+        "national": "94702"
     },
     "location": {
-        "latitude": -34.5167,
-        "longitude": 144.85,
+        "latitude": -34.5,
+        "longitude": 144.8,
         "elevation": 93
     },
     "timezone": "Australia/Sydney"

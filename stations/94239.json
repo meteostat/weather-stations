@@ -1,17 +1,18 @@
 {
     "id": "94239",
     "name": {
-        "en": "McArthur River"
+        "en": "McArthur River Mine"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
         "wmo": "94239",
-        "ghcn": "ASN00014704"
+        "ghcn": "ASN00014704",
+        "national": "94239"
     },
     "location": {
-        "latitude": -16.4333,
-        "longitude": 136.0833,
+        "latitude": -16.4,
+        "longitude": 136.1,
         "elevation": 41
     },
     "timezone": "Australia/Darwin"

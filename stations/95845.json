@@ -1,17 +1,18 @@
 {
     "id": "95845",
     "name": {
-        "en": "Mt Gellibrand / Ricketts Marsh"
+        "en": "Mount Gellibrand"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "95845",
-        "ghcn": "ASN00090035"
+        "ghcn": "ASN00090035",
+        "national": "95845"
     },
     "location": {
-        "latitude": -38.2333,
-        "longitude": 143.7925,
+        "latitude": -38.2,
+        "longitude": 143.8,
         "elevation": 261
     },
     "timezone": "Australia/Melbourne"

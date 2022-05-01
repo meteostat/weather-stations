@@ -1,17 +1,18 @@
 {
     "id": "94308",
     "name": {
-        "en": "Dampier"
+        "en": "Roebourne Airport"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94308",
-        "ghcn": "ASN00004090"
+        "ghcn": "ASN00004090",
+        "national": "94308"
     },
     "location": {
-        "latitude": -20.7167,
-        "longitude": 116.7333,
+        "latitude": -20.8,
+        "longitude": 117.2,
         "elevation": 12
     },
     "timezone": "Australia/Perth"

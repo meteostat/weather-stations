@@ -1,17 +1,18 @@
 {
     "id": "95205",
     "name": {
-        "en": "Derby Aerodrome Aws"
+        "en": "Derby"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95205",
-        "ghcn": "ASN00003032"
+        "ghcn": "ASN00003032",
+        "national": "95205"
     },
     "location": {
-        "latitude": -17.3667,
-        "longitude": 123.6667,
+        "latitude": -17.4,
+        "longitude": 123.7,
         "elevation": 7
     },
     "timezone": "Australia/Perth"

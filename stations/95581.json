@@ -1,17 +1,18 @@
 {
     "id": "95581",
     "name": {
-        "en": "Longan City"
+        "en": "Logan City"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95581",
-        "ghcn": "ASN00040854"
+        "ghcn": "ASN00040854",
+        "national": "95581"
     },
     "location": {
         "latitude": -27.7,
-        "longitude": 153.1833,
+        "longitude": 153.2,
         "elevation": 10
     },
     "timezone": "Australia/Brisbane"

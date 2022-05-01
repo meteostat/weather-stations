@@ -7,11 +7,12 @@
     "region": "NT",
     "identifiers": {
         "wmo": "94231",
-        "ghcn": "ASN00014829"
+        "ghcn": "ASN00014829",
+        "national": "94231"
     },
     "location": {
-        "latitude": -18.3325,
-        "longitude": 130.6358,
+        "latitude": -18.3,
+        "longitude": 130.6,
         "elevation": 318
     },
     "timezone": "Australia/Darwin"

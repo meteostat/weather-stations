@@ -1,17 +1,18 @@
 {
     "id": "95369",
     "name": {
-        "en": "St Lawrence / Saint Lawrence"
+        "en": "St Lawrence"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95369",
-        "ghcn": "ASN00033210"
+        "ghcn": "ASN00033210",
+        "national": "95369"
     },
     "location": {
-        "latitude": -22.3472,
-        "longitude": 149.5242,
+        "latitude": -22.3,
+        "longitude": 149.5,
         "elevation": 9
     },
     "timezone": "Australia/Brisbane"

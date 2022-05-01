@@ -1,17 +1,18 @@
 {
     "id": "94921",
     "name": {
-        "en": "Cooma Airport Aws"
+        "en": "Cooma Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94921",
-        "ghcn": "ASN00070217"
+        "ghcn": "ASN00070217",
+        "national": "94921"
     },
     "location": {
         "latitude": -36.3,
-        "longitude": 148.9667,
+        "longitude": 149.0,
         "elevation": 947
     },
     "timezone": "Australia/Sydney"

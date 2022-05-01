@@ -1,17 +1,18 @@
 {
     "id": "94363",
     "name": {
-        "en": "Emerald Airport"
+        "en": "Emerald"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94363",
-        "ghcn": "ASN00035264"
+        "ghcn": "ASN00035264",
+        "national": "94363"
     },
     "location": {
-        "latitude": -23.5667,
-        "longitude": 148.1667,
+        "latitude": -23.6,
+        "longitude": 148.2,
         "elevation": 190
     },
     "timezone": "Australia/Brisbane"

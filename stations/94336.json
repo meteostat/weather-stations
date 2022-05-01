@@ -1,17 +1,18 @@
 {
     "id": "94336",
     "name": {
-        "en": "Phosphate Hill Airport / Dajarra"
+        "en": "The Monument"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94336",
-        "ghcn": "ASN00037034"
+        "ghcn": "ASN00037034",
+        "national": "94336"
     },
     "location": {
-        "latitude": -21.8125,
-        "longitude": 139.9267,
+        "latitude": -21.8,
+        "longitude": 139.9,
         "elevation": 280
     },
     "timezone": "Australia/Brisbane"

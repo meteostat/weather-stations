@@ -1,7 +1,7 @@
 {
     "id": "94387",
     "name": {
-        "en": "Bundaberg Aerodrome"
+        "en": "Bundaberg"
     },
     "country": "AU",
     "region": "QLD",
@@ -10,11 +10,12 @@
         "icao": "YBUD",
         "iata": "BDB",
         "ghcn": "ASN00039128",
-        "mosmix": "94387"
+        "mosmix": "94387",
+        "national": "94387"
     },
     "location": {
         "latitude": -24.9,
-        "longitude": 152.3167,
+        "longitude": 152.3,
         "elevation": 33
     },
     "timezone": "Australia/Brisbane"

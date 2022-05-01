@@ -1,17 +1,18 @@
 {
     "id": "94444",
     "name": {
-        "en": "Sandstone Cashmere Downs"
+        "en": "Bulga Downs"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94444",
-        "ghcn": "ASN00012239"
+        "ghcn": "ASN00012239",
+        "national": "94444"
     },
     "location": {
-        "latitude": -28.9667,
-        "longitude": 119.5667,
+        "latitude": -28.5,
+        "longitude": 119.7,
         "elevation": 450
     },
     "timezone": "Australia/Perth"

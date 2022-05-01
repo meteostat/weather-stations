@@ -1,17 +1,18 @@
 {
     "id": "94450",
     "name": {
-        "en": "Leonora Aero"
+        "en": "Leonora Airport"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94450",
-        "ghcn": "ASN00012241"
+        "ghcn": "ASN00012241",
+        "national": "94450"
     },
     "location": {
-        "latitude": -28.8789,
-        "longitude": 121.3186,
+        "latitude": -28.9,
+        "longitude": 121.3,
         "elevation": 371
     },
     "timezone": "Australia/Perth"

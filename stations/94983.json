@@ -1,17 +1,18 @@
 {
     "id": "94983",
     "name": {
-        "en": "Eddystone Point Lighthouse"
+        "en": "Larapuna (Eddystone Point)"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
         "wmo": "94983",
-        "ghcn": "ASN00092045"
+        "ghcn": "ASN00092045",
+        "national": "94983"
     },
     "location": {
-        "latitude": -40.9833,
-        "longitude": 148.3333,
+        "latitude": -41.0,
+        "longitude": 148.3,
         "elevation": 13
     },
     "timezone": "Australia/Hobart"

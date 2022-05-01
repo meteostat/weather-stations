@@ -1,17 +1,18 @@
 {
     "id": "94204",
     "name": {
-        "en": "Curtin Aws"
+        "en": "Curtin"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94204",
-        "ghcn": "ASN00003080"
+        "ghcn": "ASN00003080",
+        "national": "94204"
     },
     "location": {
-        "latitude": -17.5833,
-        "longitude": 123.8333,
+        "latitude": -17.6,
+        "longitude": 123.8,
         "elevation": 91
     },
     "timezone": "Australia/Perth"

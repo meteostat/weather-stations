@@ -1,7 +1,7 @@
 {
     "id": "94870",
     "name": {
-        "en": "Moorabbin Airport Aws"
+        "en": "Moorabbin Airport"
     },
     "country": "AU",
     "region": "VIC",
@@ -10,10 +10,11 @@
         "icao": "YMMB",
         "iata": "MBW",
         "ghcn": "ASN00086077",
-        "usaf": "948700"
+        "usaf": "948700",
+        "national": "94870"
     },
     "location": {
-        "latitude": -37.9667,
+        "latitude": -38.0,
         "longitude": 145.1,
         "elevation": 13
     },

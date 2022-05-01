@@ -1,17 +1,18 @@
 {
     "id": "94878",
     "name": {
-        "en": "Hunters Hill Aws"
+        "en": "Hunters Hill"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94878",
-        "ghcn": "ASN00082139"
+        "ghcn": "ASN00082139",
+        "national": "94878"
     },
     "location": {
-        "latitude": -36.2167,
-        "longitude": 147.5333,
+        "latitude": -36.2,
+        "longitude": 147.5,
         "elevation": 981
     },
     "timezone": "Australia/Melbourne"

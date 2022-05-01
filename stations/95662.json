@@ -1,17 +1,18 @@
 {
     "id": "95662",
     "name": {
-        "en": "Minnipa Dpi"
+        "en": "Minnipa RS"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "95662",
-        "ghcn": "ASN00018195"
+        "ghcn": "ASN00018195",
+        "national": "95662"
     },
     "location": {
-        "latitude": -32.8428,
-        "longitude": 135.1514,
+        "latitude": -32.8,
+        "longitude": 135.2,
         "elevation": 165
     },
     "timezone": "Australia/Adelaide"

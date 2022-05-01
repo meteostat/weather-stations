@@ -1,18 +1,19 @@
 {
     "id": "95762",
     "name": {
-        "en": "Tamworth Airport Aws"
+        "en": "Tamworth Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95762",
         "iata": "TMW",
-        "ghcn": "ASN00055325"
+        "ghcn": "ASN00055325",
+        "national": "95762"
     },
     "location": {
-        "latitude": -31.0667,
-        "longitude": 150.8333,
+        "latitude": -31.1,
+        "longitude": 150.8,
         "elevation": 407
     },
     "timezone": "Australia/Sydney"

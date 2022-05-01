@@ -1,7 +1,7 @@
 {
     "id": "95351",
     "name": {
-        "en": "Blackall Airport"
+        "en": "Blackall"
     },
     "country": "AU",
     "region": "QLD",
@@ -9,11 +9,12 @@
         "wmo": "95351",
         "icao": "YBCK",
         "iata": "BKQ",
-        "ghcn": "ASN00036034"
+        "ghcn": "ASN00036034",
+        "national": "95351"
     },
     "location": {
-        "latitude": -24.4303,
-        "longitude": 145.4306,
+        "latitude": -24.4,
+        "longitude": 145.4,
         "elevation": 283
     },
     "timezone": "Australia/Brisbane"

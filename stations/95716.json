@@ -1,17 +1,18 @@
 {
     "id": "95716",
     "name": {
-        "en": "Goulburn Airport Aws"
+        "en": "Goulburn Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95716",
-        "ghcn": "ASN00070330"
+        "ghcn": "ASN00070330",
+        "national": "95716"
     },
     "location": {
         "latitude": -34.8,
-        "longitude": 149.7167,
+        "longitude": 149.7,
         "elevation": 652
     },
     "timezone": "Australia/Sydney"

@@ -1,17 +1,18 @@
 {
     "id": "95827",
     "name": {
-        "en": "Telangatuk"
+        "en": "Kanagulk"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "95827",
-        "ghcn": "ASN00079097"
+        "ghcn": "ASN00079097",
+        "national": "95827"
     },
     "location": {
-        "latitude": -37.1169,
-        "longitude": 141.8031,
+        "latitude": -37.1,
+        "longitude": 141.8,
         "elevation": 189
     },
     "timezone": "Australia/Melbourne"

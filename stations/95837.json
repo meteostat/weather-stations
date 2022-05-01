@@ -1,17 +1,18 @@
 {
     "id": "95837",
     "name": {
-        "en": "Rutherglen Research / Lilliput"
+        "en": "Rutherglen"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "95837",
-        "ghcn": "ASN00082039"
+        "ghcn": "ASN00082039",
+        "national": "95837"
     },
     "location": {
-        "latitude": -36.1047,
-        "longitude": 146.5094,
+        "latitude": -36.1,
+        "longitude": 146.5,
         "elevation": 175
     },
     "timezone": "Australia/Melbourne"

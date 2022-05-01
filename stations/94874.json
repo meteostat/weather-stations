@@ -1,17 +1,18 @@
 {
     "id": "94874",
     "name": {
-        "en": "Mangalore Airport"
+        "en": "Puckapunyal-Lyon Hill (Defence)"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
-        "wmo": "94874",
-        "ghcn": "ASN00088109"
+        "wmo": "94858",
+        "ghcn": "ASN00088109",
+        "national": "94858"
     },
     "location": {
-        "latitude": -36.8833,
-        "longitude": 145.1833,
+        "latitude": -36.9,
+        "longitude": 145.1,
         "elevation": 142
     },
     "timezone": "Australia/Melbourne"

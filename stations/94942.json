@@ -1,17 +1,18 @@
 {
     "id": "94942",
     "name": {
-        "en": "Nerriga Composite"
+        "en": "Nerriga"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "wmo": "94942",
-        "ghcn": "ASN00069049"
+        "wmo": "94943",
+        "ghcn": "ASN00069049",
+        "national": "94943"
     },
     "location": {
-        "latitude": -35.1164,
-        "longitude": 150.0847,
+        "latitude": -35.1,
+        "longitude": 150.1,
         "elevation": 630
     },
     "timezone": "Australia/Sydney"

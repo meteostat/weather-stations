@@ -1,17 +1,18 @@
 {
     "id": "94261",
     "name": {
-        "en": "Century Mine / Lilydale"
+        "en": "Century Mine"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94261",
-        "ghcn": "ASN00029167"
+        "ghcn": "ASN00029167",
+        "national": "94261"
     },
     "location": {
-        "latitude": -18.7569,
-        "longitude": 138.7056,
+        "latitude": -18.8,
+        "longitude": 138.7,
         "elevation": 127
     },
     "timezone": "Australia/Brisbane"

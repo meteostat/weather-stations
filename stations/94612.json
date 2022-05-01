@@ -1,7 +1,7 @@
 {
     "id": "94612",
     "name": {
-        "en": "Bullsbrook Pearce Amo"
+        "en": "Pearce"
     },
     "country": "AU",
     "region": "WA",
@@ -9,11 +9,12 @@
         "wmo": "94612",
         "icao": "YPEA",
         "ghcn": "ASN00009053",
-        "usaf": "946120"
+        "usaf": "946120",
+        "national": "94612"
     },
     "location": {
-        "latitude": -31.6667,
-        "longitude": 116.0167,
+        "latitude": -31.7,
+        "longitude": 116.0,
         "elevation": 45
     },
     "timezone": "Australia/Perth"

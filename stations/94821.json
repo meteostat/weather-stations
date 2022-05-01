@@ -1,7 +1,7 @@
 {
     "id": "94821",
     "name": {
-        "en": "Mount Gambier Aerodrome"
+        "en": "Mount Gambier"
     },
     "country": "AU",
     "region": "SA",
@@ -10,11 +10,12 @@
         "icao": "YMMG",
         "iata": "MGB",
         "ghcn": "ASN00026020",
-        "usaf": "948210"
+        "usaf": "948210",
+        "national": "94821"
     },
     "location": {
-        "latitude": -37.7333,
-        "longitude": 140.7833,
+        "latitude": -37.7,
+        "longitude": 140.8,
         "elevation": 65
     },
     "timezone": "Australia/Adelaide"

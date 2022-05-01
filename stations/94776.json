@@ -1,7 +1,7 @@
 {
     "id": "94776",
     "name": {
-        "en": "Williamtown Aerodrome"
+        "en": "Williamtown"
     },
     "country": "AU",
     "region": "NSW",
@@ -9,11 +9,12 @@
         "wmo": "94776",
         "icao": "YSWM",
         "ghcn": "ASN00061078",
-        "wban": "83508"
+        "wban": "83508",
+        "national": "94776"
     },
     "location": {
-        "latitude": -32.7833,
-        "longitude": 151.8167,
+        "latitude": -32.8,
+        "longitude": 151.8,
         "elevation": 9
     },
     "timezone": "Australia/Sydney"

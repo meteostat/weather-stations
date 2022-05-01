@@ -1,17 +1,18 @@
 {
     "id": "94566",
     "name": {
-        "en": "Gympie Forestry"
+        "en": "Gympie"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94566",
-        "ghcn": "ASN00040093"
+        "ghcn": "ASN00040093",
+        "national": "94566"
     },
     "location": {
-        "latitude": -26.15,
-        "longitude": 152.6333,
+        "latitude": -26.2,
+        "longitude": 152.6,
         "elevation": 100
     },
     "timezone": "Australia/Brisbane"

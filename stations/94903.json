@@ -1,17 +1,18 @@
 {
     "id": "94903",
     "name": {
-        "en": "Falls Creek Aws"
+        "en": "Falls Creek"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94903",
-        "ghcn": "ASN00083084"
+        "ghcn": "ASN00083084",
+        "national": "94903"
     },
     "location": {
-        "latitude": -36.8667,
-        "longitude": 147.2667,
+        "latitude": -36.9,
+        "longitude": 147.3,
         "elevation": 1767
     },
     "timezone": "Australia/Melbourne"

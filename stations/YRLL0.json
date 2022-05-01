@@ -1,17 +1,19 @@
 {
     "id": "YRLL0",
     "name": {
-        "en": "Rolleston"
+        "en": "Rolleston Airport"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "icao": "YRLL",
-        "usaf": "943960"
+        "usaf": "943960",
+        "wmo": "94396",
+        "national": "94396"
     },
     "location": {
-        "latitude": -24.4617,
-        "longitude": 148.632,
+        "latitude": -24.5,
+        "longitude": 148.6,
         "elevation": 223
     },
     "timezone": "Australia/Brisbane"

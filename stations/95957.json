@@ -1,18 +1,19 @@
 {
     "id": "95957",
     "name": {
-        "en": "Wynyard Airport Aws"
+        "en": "Wynyard"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
         "wmo": "95957",
         "iata": "WNY",
-        "ghcn": "ASN00091107"
+        "ghcn": "ASN00091107",
+        "national": "95957"
     },
     "location": {
-        "latitude": -40.9833,
-        "longitude": 145.7167,
+        "latitude": -41.0,
+        "longitude": 145.7,
         "elevation": 19
     },
     "timezone": "Australia/Hobart"

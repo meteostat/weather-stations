@@ -1,17 +1,18 @@
 {
     "id": "95740",
     "name": {
-        "en": "Gunnedah Airport Aw"
+        "en": "Gunnedah Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95740",
-        "ghcn": "ASN00055202"
+        "ghcn": "ASN00055202",
+        "national": "95740"
     },
     "location": {
-        "latitude": -30.9536,
-        "longitude": 150.2494,
+        "latitude": -31.0,
+        "longitude": 150.2,
         "elevation": 263
     },
     "timezone": "Australia/Sydney"

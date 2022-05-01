@@ -1,17 +1,18 @@
 {
     "id": "95867",
     "name": {
-        "en": "Scoresby Research Institute / Boronia"
+        "en": "Scoresby"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "95867",
-        "ghcn": "ASN00086104"
+        "ghcn": "ASN00086104",
+        "national": "95867"
     },
     "location": {
-        "latitude": -37.8711,
-        "longitude": 145.2561,
+        "latitude": -37.9,
+        "longitude": 145.3,
         "elevation": 80
     },
     "timezone": "Australia/Melbourne"

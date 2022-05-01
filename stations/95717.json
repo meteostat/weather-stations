@@ -1,17 +1,18 @@
 {
     "id": "95717",
     "name": {
-        "en": "Parkes Airport / Goobang"
+        "en": "Parkes Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95717",
-        "ghcn": "ASN00065068"
+        "ghcn": "ASN00065068",
+        "national": "95717"
     },
     "location": {
-        "latitude": -33.1281,
-        "longitude": 148.2428,
+        "latitude": -33.1,
+        "longitude": 148.2,
         "elevation": 326
     },
     "timezone": "Australia/Sydney"

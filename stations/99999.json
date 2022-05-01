@@ -1,19 +1,20 @@
 {
     "id": "99999",
     "name": {
-        "en": "Baker"
+        "en": "PORTABLE NPWS NSW02"
     },
-    "country": "US",
+    "country": "AU",
     "region": "CA",
     "identifiers": {
         "wmo": "99999",
         "icao": "K0O2",
         "ghcn": "FR000007354",
-        "wban": "03134"
+        "wban": "03134",
+        "national": "99999"
     },
     "location": {
-        "latitude": 35.2863,
-        "longitude": -116.0814,
+        "latitude": -33.1,
+        "longitude": 150.1,
         "elevation": 281
     },
     "timezone": "America/Los_Angeles"

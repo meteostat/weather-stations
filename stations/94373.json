@@ -1,17 +1,18 @@
 {
     "id": "94373",
     "name": {
-        "en": "Yeppoon Aws"
+        "en": "Yeppoon"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94373",
-        "ghcn": "ASN00033294"
+        "ghcn": "ASN00033294",
+        "national": "94373"
     },
     "location": {
-        "latitude": -23.1333,
-        "longitude": 151.75,
+        "latitude": -23.1,
+        "longitude": 150.8,
         "elevation": 6
     },
     "timezone": "Australia/Brisbane"

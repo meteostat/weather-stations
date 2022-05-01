@@ -1,17 +1,18 @@
 {
     "id": "94730",
     "name": {
-        "en": "Bathurst Agricult. Res Station"
+        "en": "Bathurst"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94730",
-        "ghcn": "ASN00063005"
+        "ghcn": "ASN00063005",
+        "national": "94730"
     },
     "location": {
-        "latitude": -33.4333,
-        "longitude": 149.5667,
+        "latitude": -33.4,
+        "longitude": 149.6,
         "elevation": 713
     },
     "timezone": "Australia/Sydney"

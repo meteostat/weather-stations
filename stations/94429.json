@@ -1,17 +1,18 @@
 {
     "id": "94429",
     "name": {
-        "en": "Mount Magnet Aero"
+        "en": "Mount Magnet Airport"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94429",
-        "ghcn": "ASN00007600"
+        "ghcn": "ASN00007600",
+        "national": "94429"
     },
     "location": {
-        "latitude": -28.1156,
-        "longitude": 117.8425,
+        "latitude": -28.1,
+        "longitude": 117.8,
         "elevation": 411
     },
     "timezone": "Australia/Perth"

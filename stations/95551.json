@@ -1,17 +1,18 @@
 {
     "id": "95551",
     "name": {
-        "en": "Toowoomba Airport / Willowburn"
+        "en": "Toowoomba"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95551",
-        "ghcn": "ASN00041529"
+        "ghcn": "ASN00041529",
+        "national": "95551"
     },
     "location": {
-        "latitude": -27.5425,
-        "longitude": 151.9133,
+        "latitude": -27.5,
+        "longitude": 151.9,
         "elevation": 636
     },
     "timezone": "Australia/Brisbane"

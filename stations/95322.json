@@ -1,17 +1,18 @@
 {
     "id": "95322",
     "name": {
-        "en": "Rabbit Flat / Tanami"
+        "en": "Rabbit Flat"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
         "wmo": "95322",
-        "ghcn": "ASN00015548"
+        "ghcn": "ASN00015548",
+        "national": "95322"
     },
     "location": {
-        "latitude": -20.1825,
-        "longitude": 130.0147,
+        "latitude": -20.2,
+        "longitude": 130.0,
         "elevation": 340
     },
     "timezone": "Australia/Darwin"

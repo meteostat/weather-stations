@@ -1,17 +1,18 @@
 {
     "id": "95967",
     "name": {
-        "en": "Cape Bruny (Cape Bruny) / Hythe"
+        "en": "Cape Bruny AWS"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
         "wmo": "95967",
-        "ghcn": "ASN00094198"
+        "ghcn": "ASN00094198",
+        "national": "95967"
     },
     "location": {
-        "latitude": -43.4886,
-        "longitude": 147.1444,
+        "latitude": -43.5,
+        "longitude": 147.1,
         "elevation": 60
     },
     "timezone": "Australia/Hobart"

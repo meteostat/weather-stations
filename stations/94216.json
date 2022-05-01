@@ -1,7 +1,7 @@
 {
     "id": "94216",
     "name": {
-        "en": "Kununurra Kununurra Aws"
+        "en": "Kununurra Airport"
     },
     "country": "AU",
     "region": "WA",
@@ -10,10 +10,11 @@
         "icao": "YPKU",
         "iata": "KNX",
         "ghcn": "ASN00002056",
-        "usaf": "942160"
+        "usaf": "942160",
+        "national": "94216"
     },
     "location": {
-        "latitude": -15.7667,
+        "latitude": -15.8,
         "longitude": 128.7,
         "elevation": 44
     },

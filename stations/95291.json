@@ -1,17 +1,18 @@
 {
     "id": "95291",
     "name": {
-        "en": "Ingham Composite"
+        "en": "Ingham"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "95291",
-        "ghcn": "ASN00032078"
+        "ghcn": "ASN00032078",
+        "national": "95291"
     },
     "location": {
-        "latitude": -18.6333,
-        "longitude": 146.1667,
+        "latitude": -18.6,
+        "longitude": 146.2,
         "elevation": 16
     },
     "timezone": "Australia/Brisbane"

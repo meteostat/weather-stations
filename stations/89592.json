@@ -3,16 +3,17 @@
     "name": {
         "en": "Mirnyj"
     },
-    "country": "AQ",
+    "country": "AU",
     "region": null,
     "identifiers": {
         "wmo": "89592",
         "ghcn": "AYM00089592",
-        "mosmix": "89592"
+        "mosmix": "89592",
+        "national": "89592"
     },
     "location": {
-        "latitude": -66.55,
-        "longitude": 93.0167,
+        "latitude": -66.5,
+        "longitude": 93.0,
         "elevation": 30
     },
     "timezone": "Antarctica/Mawson"

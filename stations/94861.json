@@ -7,11 +7,12 @@
     "region": "VIC",
     "identifiers": {
         "wmo": "94861",
-        "ghcn": "ASN00080015"
+        "ghcn": "ASN00080015",
+        "national": "94861"
     },
     "location": {
-        "latitude": -36.15,
-        "longitude": 144.75,
+        "latitude": -36.2,
+        "longitude": 144.8,
         "elevation": 96
     },
     "timezone": "Australia/Melbourne"

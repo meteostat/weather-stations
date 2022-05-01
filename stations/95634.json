@@ -1,17 +1,18 @@
 {
     "id": "95634",
     "name": {
-        "en": "Southern Cross Airfield"
+        "en": "Southern Cross Airport"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95634",
-        "ghcn": "ASN00012320"
+        "ghcn": "ASN00012320",
+        "national": "95634"
     },
     "location": {
-        "latitude": -31.2353,
-        "longitude": 119.3564,
+        "latitude": -31.2,
+        "longitude": 119.4,
         "elevation": 355
     },
     "timezone": "Australia/Perth"

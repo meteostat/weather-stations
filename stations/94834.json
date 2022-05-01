@@ -9,11 +9,12 @@
         "wmo": "94834",
         "icao": "YARA",
         "iata": "ARY",
-        "ghcn": "ASN00089085"
+        "ghcn": "ASN00089085",
+        "national": "94834"
     },
     "location": {
-        "latitude": -37.2833,
-        "longitude": 142.9833,
+        "latitude": -37.3,
+        "longitude": 143.0,
         "elevation": 295
     },
     "timezone": "Australia/Melbourne"

@@ -7,11 +7,12 @@
     "region": "WA",
     "identifiers": {
         "wmo": "94417",
-        "ghcn": "ASN00008296"
+        "ghcn": "ASN00008296",
+        "national": "94417"
     },
     "location": {
-        "latitude": -29.2039,
-        "longitude": 116.0247,
+        "latitude": -29.2,
+        "longitude": 116.0,
         "elevation": 270
     },
     "timezone": "Australia/Perth"

@@ -1,17 +1,18 @@
 {
     "id": "94148",
     "name": {
-        "en": "Ngukurr"
+        "en": "Ngukurr AWS"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
-        "wmo": "94148",
-        "ghcn": "ASN00014609"
+        "wmo": "94106",
+        "ghcn": "ASN00014609",
+        "national": "94106"
     },
     "location": {
-        "latitude": -14.7294,
-        "longitude": 134.7275,
+        "latitude": -14.7,
+        "longitude": 134.7,
         "elevation": 34
     },
     "timezone": "Australia/Darwin"

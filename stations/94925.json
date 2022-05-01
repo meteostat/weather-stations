@@ -1,17 +1,18 @@
 {
     "id": "94925",
     "name": {
-        "en": "Tuggeranong Isabella Plains / Macarthur"
+        "en": "Tuggeranong"
     },
     "country": "AU",
     "region": "ACT",
     "identifiers": {
         "wmo": "94925",
-        "ghcn": "ASN00070339"
+        "ghcn": "ASN00070339",
+        "national": "94925"
     },
     "location": {
-        "latitude": -35.4183,
-        "longitude": 149.0936,
+        "latitude": -35.4,
+        "longitude": 149.1,
         "elevation": 587
     },
     "timezone": "Australia/Sydney"

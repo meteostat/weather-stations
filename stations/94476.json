@@ -1,17 +1,18 @@
 {
     "id": "94476",
     "name": {
-        "en": "Oodnadatta Airport"
+        "en": "Oodnadatta"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "94476",
-        "ghcn": "ASN00017043"
+        "ghcn": "ASN00017043",
+        "national": "94476"
     },
     "location": {
-        "latitude": -27.5833,
-        "longitude": 135.45,
+        "latitude": -27.6,
+        "longitude": 135.4,
         "elevation": 118
     },
     "timezone": "Australia/Adelaide"

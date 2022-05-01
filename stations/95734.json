@@ -1,17 +1,18 @@
 {
     "id": "95734",
     "name": {
-        "en": "Narrabri Airport Aws"
+        "en": "Narrabri"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95734",
-        "ghcn": "ASN00054038"
+        "ghcn": "ASN00054038",
+        "national": "95734"
     },
     "location": {
-        "latitude": -30.3153,
-        "longitude": 149.8303,
+        "latitude": -30.3,
+        "longitude": 149.8,
         "elevation": 240
     },
     "timezone": "Australia/Sydney"

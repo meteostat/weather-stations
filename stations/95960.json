@@ -1,18 +1,19 @@
 {
     "id": "95960",
     "name": {
-        "en": "Devonport Airport Aws"
+        "en": "Devonport Airport"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
         "wmo": "95960",
         "iata": "DPO",
-        "ghcn": "ASN00091126"
+        "ghcn": "ASN00091126",
+        "national": "95960"
     },
     "location": {
-        "latitude": -41.1667,
-        "longitude": 146.4167,
+        "latitude": -41.2,
+        "longitude": 146.4,
         "elevation": 10
     },
     "timezone": "Australia/Hobart"

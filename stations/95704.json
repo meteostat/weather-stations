@@ -1,18 +1,19 @@
 {
     "id": "95704",
     "name": {
-        "en": "Griffith Airport"
+        "en": "Griffith"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95704",
         "iata": "GFF",
-        "ghcn": "ASN00075041"
+        "ghcn": "ASN00075041",
+        "national": "95704"
     },
     "location": {
-        "latitude": -34.25,
-        "longitude": 146.0667,
+        "latitude": -34.2,
+        "longitude": 146.1,
         "elevation": 135
     },
     "timezone": "Australia/Sydney"

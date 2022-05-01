@@ -1,17 +1,18 @@
 {
     "id": "95766",
     "name": {
-        "en": "Sydney Harbour / Wedding Cake West"
+        "en": "Sydney Harbour"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95766",
-        "ghcn": "ASN00066196"
+        "ghcn": "ASN00066196",
+        "national": "95766"
     },
     "location": {
-        "latitude": -33.8414,
-        "longitude": 151.2633,
+        "latitude": -33.8,
+        "longitude": 151.3,
         "elevation": 6
     },
     "timezone": "Australia/Sydney"

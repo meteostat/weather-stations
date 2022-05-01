@@ -1,17 +1,18 @@
 {
     "id": "94757",
     "name": {
-        "en": "Campbell Town (mount Annan) / Mount Annan"
+        "en": "Campbelltown"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94757",
-        "ghcn": "ASN00068257"
+        "ghcn": "ASN00068257",
+        "national": "94757"
     },
     "location": {
-        "latitude": -34.0614,
-        "longitude": 150.7736,
+        "latitude": -34.1,
+        "longitude": 150.8,
         "elevation": 112
     },
     "timezone": "Australia/Sydney"

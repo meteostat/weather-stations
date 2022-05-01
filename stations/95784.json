@@ -1,17 +1,18 @@
 {
     "id": "95784",
     "name": {
-        "en": "Taree Airport / Cundletown"
+        "en": "Taree Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95784",
-        "ghcn": "ASN00060141"
+        "ghcn": "ASN00060141",
+        "national": "95784"
     },
     "location": {
-        "latitude": -31.8897,
-        "longitude": 152.5119,
+        "latitude": -31.9,
+        "longitude": 152.5,
         "elevation": 12
     },
     "timezone": "Australia/Sydney"

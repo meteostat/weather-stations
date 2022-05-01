@@ -8,11 +8,12 @@
     "identifiers": {
         "wmo": "94714",
         "iata": "CMD",
-        "ghcn": "ASN00073142"
+        "ghcn": "ASN00073142",
+        "national": "94714"
     },
     "location": {
-        "latitude": -34.6333,
-        "longitude": 148.0167,
+        "latitude": -34.6,
+        "longitude": 148.0,
         "elevation": 318
     },
     "timezone": "Australia/Sydney"

@@ -7,11 +7,12 @@
     "region": "NSW",
     "identifiers": {
         "wmo": "94789",
-        "ghcn": "ASN00059140"
+        "ghcn": "ASN00059140",
+        "national": "94789"
     },
     "location": {
-        "latitude": -30.3442,
-        "longitude": 152.7186,
+        "latitude": -30.3,
+        "longitude": 152.7,
         "elevation": 746
     },
     "timezone": "Australia/Sydney"

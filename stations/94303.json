@@ -1,17 +1,18 @@
 {
     "id": "94303",
     "name": {
-        "en": "Thevenard Island Aws"
+        "en": "Thevenard Island"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94303",
-        "ghcn": "ASN00005084"
+        "ghcn": "ASN00005084",
+        "national": "94303"
     },
     "location": {
-        "latitude": -21.45,
-        "longitude": 115.0167,
+        "latitude": -21.5,
+        "longitude": 115.0,
         "elevation": 5
     },
     "timezone": "Australia/Perth"

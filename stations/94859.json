@@ -1,17 +1,18 @@
 {
     "id": "94859",
     "name": {
-        "en": "Redesdale Aws"
+        "en": "Redesdale"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94859",
-        "ghcn": "ASN00088051"
+        "ghcn": "ASN00088051",
+        "national": "94859"
     },
     "location": {
-        "latitude": -37.0167,
-        "longitude": 144.5167,
+        "latitude": -37.0,
+        "longitude": 144.5,
         "elevation": 290
     },
     "timezone": "Australia/Melbourne"

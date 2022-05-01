@@ -1,16 +1,17 @@
 {
     "id": "94186",
     "name": {
-        "en": "Lockhart River Airport"
+        "en": "Lockhart River"
     },
     "country": "AU",
     "region": "QL",
     "identifiers": {
         "wmo": "94186",
-        "ghcn": "ASN00028008"
+        "ghcn": "ASN00028008",
+        "national": "94186"
     },
     "location": {
-        "latitude": -12.7833,
+        "latitude": -12.8,
         "longitude": 143.3,
         "elevation": 24
     },

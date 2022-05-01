@@ -6,13 +6,14 @@
     "country": "AU",
     "region": "QLD",
     "identifiers": {
-        "wmo": "94488",
+        "wmo": "94489",
         "iata": "WNR",
-        "ghcn": "ASN00038024"
+        "ghcn": "ASN00038024",
+        "national": "94489"
     },
     "location": {
-        "latitude": -25.4167,
-        "longitude": 142.65,
+        "latitude": -25.4,
+        "longitude": 142.7,
         "elevation": 126
     },
     "timezone": "Australia/Brisbane"

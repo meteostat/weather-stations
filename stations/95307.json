@@ -1,17 +1,18 @@
 {
     "id": "95307",
     "name": {
-        "en": "Karratha Aerodrome Aws"
+        "en": "Karratha"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95307",
-        "ghcn": "ASN00004083"
+        "ghcn": "ASN00004083",
+        "national": "95307"
     },
     "location": {
-        "latitude": -20.7167,
-        "longitude": 116.7667,
+        "latitude": -20.7,
+        "longitude": 116.8,
         "elevation": 9
     },
     "timezone": "Australia/Perth"

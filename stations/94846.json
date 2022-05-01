@@ -1,16 +1,17 @@
 {
     "id": "94846",
     "name": {
-        "en": "Aireys Inlet Aws"
+        "en": "Aireys Inlet"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94846",
-        "ghcn": "ASN00090180"
+        "ghcn": "ASN00090180",
+        "national": "94846"
     },
     "location": {
-        "latitude": -38.45,
+        "latitude": -38.5,
         "longitude": 144.1,
         "elevation": 95
     },

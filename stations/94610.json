@@ -1,7 +1,7 @@
 {
     "id": "94610",
     "name": {
-        "en": "Belmont Perth Airport"
+        "en": "Perth Airport"
     },
     "country": "AU",
     "region": "WA",
@@ -10,11 +10,12 @@
         "icao": "YPPH",
         "iata": "PER",
         "ghcn": "ASN00009021",
-        "usaf": "946100"
+        "usaf": "946100",
+        "national": "94610"
     },
     "location": {
-        "latitude": -31.9333,
-        "longitude": 115.95,
+        "latitude": -31.9,
+        "longitude": 116.0,
         "elevation": 20
     },
     "timezone": "Australia/Perth"

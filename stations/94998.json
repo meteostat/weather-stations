@@ -1,7 +1,7 @@
 {
     "id": "94998",
     "name": {
-        "en": "Macquarie Island"
+        "en": "Macquarie Island*"
     },
     "country": "AU",
     "region": "TAS",
@@ -10,11 +10,12 @@
         "icao": "YMMQ",
         "ghcn": "ASM00094998",
         "usaf": "949980",
-        "mosmix": "94998"
+        "mosmix": "94998",
+        "national": "94998"
     },
     "location": {
-        "latitude": -54.4833,
-        "longitude": 158.95,
+        "latitude": -54.5,
+        "longitude": 158.9,
         "elevation": 6
     },
     "timezone": "Australia/Hobart"

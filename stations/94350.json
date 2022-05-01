@@ -9,11 +9,12 @@
         "wmo": "94350",
         "icao": "YBAR",
         "iata": "BCI",
-        "ghcn": "ASN00036007"
+        "ghcn": "ASN00036007",
+        "national": "94350"
     },
     "location": {
-        "latitude": -23.55,
-        "longitude": 145.2833,
+        "latitude": -23.6,
+        "longitude": 145.3,
         "elevation": 267
     },
     "timezone": "Australia/Brisbane"

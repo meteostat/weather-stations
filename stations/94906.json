@@ -1,17 +1,18 @@
 {
     "id": "94906",
     "name": {
-        "en": "Mount Hotham Aws"
+        "en": "Mount Hotham"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94906",
-        "ghcn": "ASN00083085"
+        "ghcn": "ASN00083085",
+        "national": "94906"
     },
     "location": {
-        "latitude": -36.9667,
-        "longitude": 147.1167,
+        "latitude": -37.0,
+        "longitude": 147.1,
         "elevation": 1849
     },
     "timezone": "Australia/Melbourne"

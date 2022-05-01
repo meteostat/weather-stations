@@ -1,20 +1,21 @@
 {
     "id": "94907",
     "name": {
-        "en": "East Sale Aerodrome"
+        "en": "East Sale Airport"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
-        "wmo": "94907",
+        "wmo": "95907",
         "icao": "YMES",
         "iata": "SXE",
         "ghcn": "ASN00085072",
-        "usaf": "949070"
+        "usaf": "949070",
+        "national": "95907"
     },
     "location": {
         "latitude": -38.1,
-        "longitude": 147.1333,
+        "longitude": 147.1,
         "elevation": 5
     },
     "timezone": "Australia/Melbourne"

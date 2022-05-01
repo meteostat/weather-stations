@@ -1,17 +1,18 @@
 {
     "id": "94182",
     "name": {
-        "en": "Coconut Island Aws"
+        "en": "Coconut Island"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94182",
-        "ghcn": "ASN00027054"
+        "ghcn": "ASN00027054",
+        "national": "94182"
     },
     "location": {
-        "latitude": -10.05,
-        "longitude": 143.05,
+        "latitude": -10.1,
+        "longitude": 143.1,
         "elevation": 9
     },
     "timezone": "Australia/Brisbane"

@@ -1,18 +1,19 @@
 {
     "id": "95607",
     "name": {
-        "en": "Ludlow"
+        "en": "Garden Island"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95607",
         "icao": "YGAD",
-        "ghcn": "ASN00009256"
+        "ghcn": "ASN00009256",
+        "national": "95607"
     },
     "location": {
-        "latitude": -33.6,
-        "longitude": 115.4667,
+        "latitude": -32.2,
+        "longitude": 115.7,
         "elevation": 15
     },
     "timezone": "Australia/Perth"

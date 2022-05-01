@@ -1,17 +1,18 @@
 {
     "id": "94922",
     "name": {
-        "en": "Tindbinbilla Nature Res"
+        "en": "ACT PCS2"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
-        "wmo": "94922",
-        "ghcn": "ASN00070310"
+        "wmo": "99146",
+        "ghcn": "ASN00070310",
+        "national": "99146"
     },
     "location": {
-        "latitude": -35.45,
-        "longitude": 148.9333,
+        "latitude": -35.4,
+        "longitude": 149.0,
         "elevation": 743
     },
     "timezone": "Australia/Sydney"

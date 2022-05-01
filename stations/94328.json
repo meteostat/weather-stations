@@ -1,17 +1,18 @@
 {
     "id": "94328",
     "name": {
-        "en": "Territory Grape Farm Ti Tree"
+        "en": "Territory Grape Farm"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
         "wmo": "94328",
-        "ghcn": "ASN00015643"
+        "ghcn": "ASN00015643",
+        "national": "94328"
     },
     "location": {
-        "latitude": -22.45,
-        "longitude": 133.6333,
+        "latitude": -22.5,
+        "longitude": 133.6,
         "elevation": 623
     },
     "timezone": "Australia/Darwin"

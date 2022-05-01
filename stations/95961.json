@@ -1,16 +1,17 @@
 {
     "id": "95961",
     "name": {
-        "en": "Low Rocky Point Aws"
+        "en": "Low Rocky Point"
     },
     "country": "AU",
     "region": "TS",
     "identifiers": {
         "wmo": "95961",
-        "ghcn": "ASN00097080"
+        "ghcn": "ASN00097080",
+        "national": "95961"
     },
     "location": {
-        "latitude": -42.9833,
+        "latitude": -43.0,
         "longitude": 145.5,
         "elevation": 34
     },

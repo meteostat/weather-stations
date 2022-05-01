@@ -1,17 +1,18 @@
 {
     "id": "95937",
     "name": {
-        "en": "Moruya Airport / Moruya Heads"
+        "en": "Moruya Airport"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95937",
-        "ghcn": "ASN00069148"
+        "ghcn": "ASN00069148",
+        "national": "95937"
     },
     "location": {
-        "latitude": -35.9003,
-        "longitude": 150.1436,
+        "latitude": -35.9,
+        "longitude": 150.1,
         "elevation": 4
     },
     "timezone": "Australia/Sydney"

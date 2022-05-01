@@ -1,7 +1,7 @@
 {
     "id": "94365",
     "name": {
-        "en": "Proserpine Airport"
+        "en": "Proserpine"
     },
     "country": "AU",
     "region": "QL",
@@ -9,11 +9,12 @@
         "wmo": "94365",
         "icao": "YBPN",
         "ghcn": "ASN00033247",
-        "usaf": "943650"
+        "usaf": "943650",
+        "national": "94365"
     },
     "location": {
-        "latitude": -20.4833,
-        "longitude": 148.5333,
+        "latitude": -20.5,
+        "longitude": 148.6,
         "elevation": 25
     },
     "timezone": "Australia/Brisbane"

@@ -1,17 +1,18 @@
 {
     "id": "95874",
     "name": {
-        "en": "Viewbank (Arpnsa) / Lower Plenty"
+        "en": "Viewbank"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "95874",
-        "ghcn": "ASN00086068"
+        "ghcn": "ASN00086068",
+        "national": "95874"
     },
     "location": {
-        "latitude": -37.7408,
-        "longitude": 145.0972,
+        "latitude": -37.7,
+        "longitude": 145.1,
         "elevation": 66
     },
     "timezone": "Australia/Melbourne"

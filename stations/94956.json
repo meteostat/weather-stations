@@ -1,17 +1,18 @@
 {
     "id": "94956",
     "name": {
-        "en": "Strahan Airport Aws"
+        "en": "Strahan"
     },
     "country": "AU",
     "region": "TS",
     "identifiers": {
         "wmo": "94956",
-        "ghcn": "ASN00097072"
+        "ghcn": "ASN00097072",
+        "national": "94956"
     },
     "location": {
-        "latitude": -42.15,
-        "longitude": 145.2833,
+        "latitude": -42.2,
+        "longitude": 145.3,
         "elevation": 20
     },
     "timezone": "Australia/Hobart"

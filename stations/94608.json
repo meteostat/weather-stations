@@ -1,18 +1,19 @@
 {
     "id": "94608",
     "name": {
-        "en": "Mount Lawley Perth Metro Aws"
+        "en": "Perth"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94608",
         "ghcn": "ASN00009225",
-        "mosmix": "94608"
+        "mosmix": "94608",
+        "national": "94608"
     },
     "location": {
-        "latitude": -31.9167,
-        "longitude": 115.8667,
+        "latitude": -31.9,
+        "longitude": 115.9,
         "elevation": 25
     },
     "timezone": "Australia/Perth"

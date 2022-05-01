@@ -9,11 +9,12 @@
         "wmo": "94884",
         "icao": "YBLA",
         "iata": "BLN",
-        "ghcn": "ASN00082170"
+        "ghcn": "ASN00082170",
+        "national": "94884"
     },
     "location": {
-        "latitude": -36.55,
-        "longitude": 145.9833,
+        "latitude": -36.6,
+        "longitude": 146.0,
         "elevation": 169
     },
     "timezone": "Australia/Melbourne"

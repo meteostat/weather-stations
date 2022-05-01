@@ -1,17 +1,18 @@
 {
     "id": "95774",
     "name": {
-        "en": "Mangrove Mountain Aws Bloodtree Road"
+        "en": "Mangrove Mountain"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95774",
-        "ghcn": "ASN00061375"
+        "ghcn": "ASN00061375",
+        "national": "95774"
     },
     "location": {
-        "latitude": -33.2833,
-        "longitude": 151.2167,
+        "latitude": -33.3,
+        "longitude": 151.2,
         "elevation": 305
     },
     "timezone": "Australia/Sydney"

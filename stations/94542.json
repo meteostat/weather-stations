@@ -1,18 +1,19 @@
 {
     "id": "94542",
     "name": {
-        "en": "Dalby Airport"
+        "en": "Dalby"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94542",
         "iata": "DBY",
-        "ghcn": "ASN00041522"
+        "ghcn": "ASN00041522",
+        "national": "94542"
     },
     "location": {
-        "latitude": -27.15,
-        "longitude": 151.2667,
+        "latitude": -27.2,
+        "longitude": 151.3,
         "elevation": 347
     },
     "timezone": "Australia/Brisbane"

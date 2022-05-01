@@ -1,17 +1,18 @@
 {
     "id": "94497",
     "name": {
-        "en": "Wanaaring Post Office"
+        "en": "Wanaaring"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94497",
-        "ghcn": "ASN00048079"
+        "ghcn": "ASN00048079",
+        "national": "94497"
     },
     "location": {
         "latitude": -29.7,
-        "longitude": 144.15,
+        "longitude": 144.1,
         "elevation": 108
     },
     "timezone": "Australia/Sydney"

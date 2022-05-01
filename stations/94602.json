@@ -1,16 +1,17 @@
 {
     "id": "94602",
     "name": {
-        "en": "Rottnest Island Aws"
+        "en": "Rottnest Island"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94602",
-        "ghcn": "ASN00009193"
+        "ghcn": "ASN00009193",
+        "national": "94602"
     },
     "location": {
-        "latitude": -32,
+        "latitude": -32.0,
         "longitude": 115.5,
         "elevation": 43
     },

@@ -1,17 +1,18 @@
 {
     "id": "95765",
     "name": {
-        "en": "Homebush"
+        "en": "Sydney Olympic Park"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "95765",
-        "ghcn": "ASN00066195"
+        "ghcn": "ASN00066195",
+        "national": "95765"
     },
     "location": {
-        "latitude": -33.85,
-        "longitude": 151.05,
+        "latitude": -33.8,
+        "longitude": 151.1,
         "elevation": 28
     },
     "timezone": "Australia/Sydney"

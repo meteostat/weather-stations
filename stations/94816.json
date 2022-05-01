@@ -1,17 +1,18 @@
 {
     "id": "94816",
     "name": {
-        "en": "Keith Post Office"
+        "en": "Keith"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "94816",
-        "ghcn": "ASN00025507"
+        "ghcn": "ASN00025507",
+        "national": "94816"
     },
     "location": {
-        "latitude": -36.0833,
-        "longitude": 140.35,
+        "latitude": -36.1,
+        "longitude": 140.4,
         "elevation": 29
     },
     "timezone": "Australia/Adelaide"

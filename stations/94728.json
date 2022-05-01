@@ -1,17 +1,18 @@
 {
     "id": "94728",
     "name": {
-        "en": "Coonabarabran Namoi Street"
+        "en": "Coonabarabran"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94728",
-        "ghcn": "ASN00064008"
+        "ghcn": "ASN00064008",
+        "national": "94728"
     },
     "location": {
-        "latitude": -31.2667,
-        "longitude": 149.2667,
+        "latitude": -31.3,
+        "longitude": 149.3,
         "elevation": 505
     },
     "timezone": "Australia/Sydney"

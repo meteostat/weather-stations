@@ -1,7 +1,7 @@
 {
     "id": "94552",
     "name": {
-        "en": "Oakey Aerodrome"
+        "en": "Oakey"
     },
     "country": "AU",
     "region": "QLD",
@@ -10,11 +10,12 @@
         "icao": "YBOK",
         "iata": "OKY",
         "ghcn": "ASN00041359",
-        "usaf": "945520"
+        "usaf": "945520",
+        "national": "94552"
     },
     "location": {
-        "latitude": -27.4167,
-        "longitude": 151.7333,
+        "latitude": -27.4,
+        "longitude": 151.7,
         "elevation": 407
     },
     "timezone": "Australia/Brisbane"

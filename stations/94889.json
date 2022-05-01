@@ -1,16 +1,17 @@
 {
     "id": "94889",
     "name": {
-        "en": "Wangaratta Aerodrome"
+        "en": "Wangaratta"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94889",
-        "ghcn": "ASN00082138"
+        "ghcn": "ASN00082138",
+        "national": "94889"
     },
     "location": {
-        "latitude": -36.4167,
+        "latitude": -36.4,
         "longitude": 146.3,
         "elevation": 154
     },

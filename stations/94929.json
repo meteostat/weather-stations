@@ -1,17 +1,18 @@
 {
     "id": "94929",
     "name": {
-        "en": "Bombala Aws"
+        "en": "Bombala AWS"
     },
     "country": "AU",
     "region": "NSW",
     "identifiers": {
         "wmo": "94929",
-        "ghcn": "ASN00070328"
+        "ghcn": "ASN00070328",
+        "national": "94929"
     },
     "location": {
-        "latitude": -37,
-        "longitude": 149.2167,
+        "latitude": -37.0,
+        "longitude": 149.2,
         "elevation": 761
     },
     "timezone": "Australia/Sydney"

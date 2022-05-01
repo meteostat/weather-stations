@@ -1,17 +1,18 @@
 {
     "id": "94422",
     "name": {
-        "en": "Murchison Murchison Shire"
+        "en": "Murchison"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94422",
-        "ghcn": "ASN00006099"
+        "ghcn": "ASN00006099",
+        "national": "94422"
     },
     "location": {
-        "latitude": -26.8833,
-        "longitude": 115.95,
+        "latitude": -26.9,
+        "longitude": 116.0,
         "elevation": 288
     },
     "timezone": "Australia/Perth"

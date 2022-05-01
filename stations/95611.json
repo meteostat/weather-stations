@@ -1,17 +1,18 @@
 {
     "id": "95611",
     "name": {
-        "en": "Mettler"
+        "en": "Busselton Airport"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "95611",
-        "ghcn": "ASN00009603"
+        "ghcn": "ASN00009603",
+        "national": "95611"
     },
     "location": {
-        "latitude": -34.6,
-        "longitude": 118.5333,
+        "latitude": -33.7,
+        "longitude": 115.4,
         "elevation": 107
     },
     "timezone": "Australia/Perth"

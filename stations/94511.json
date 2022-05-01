@@ -1,18 +1,19 @@
 {
     "id": "94511",
     "name": {
-        "en": "Injune Post Office"
+        "en": "Injune"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94511",
         "iata": "INJ",
-        "ghcn": "ASN00043015"
+        "ghcn": "ASN00043015",
+        "national": "94511"
     },
     "location": {
-        "latitude": -25.85,
-        "longitude": 148.5667,
+        "latitude": -25.8,
+        "longitude": 148.6,
         "elevation": 390
     },
     "timezone": "Australia/Brisbane"

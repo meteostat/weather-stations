@@ -1,17 +1,18 @@
 {
     "id": "95658",
     "name": {
-        "en": "Olympic Dam Aerodrome / Roxby Downs"
+        "en": "Roxby Downs"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "95658",
-        "ghcn": "ASN00016096"
+        "ghcn": "ASN00016096",
+        "national": "95658"
     },
     "location": {
-        "latitude": -30.4828,
-        "longitude": 136.8772,
+        "latitude": -30.5,
+        "longitude": 136.9,
         "elevation": 105
     },
     "timezone": "Australia/Adelaide"

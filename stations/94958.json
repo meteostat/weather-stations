@@ -1,17 +1,18 @@
 {
     "id": "94958",
     "name": {
-        "en": "Burnie"
+        "en": "Burnie Port"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
-        "wmo": "94958",
-        "ghcn": "ASN00091009"
+        "wmo": "95963",
+        "ghcn": "ASN00091009",
+        "national": "95963"
     },
     "location": {
-        "latitude": -41.0667,
-        "longitude": 145.9333,
+        "latitude": -41.0,
+        "longitude": 145.9,
         "elevation": 10
     },
     "timezone": "Australia/Hobart"

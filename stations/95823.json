@@ -1,17 +1,18 @@
 {
     "id": "95823",
     "name": {
-        "en": "Padthaway South / Keppoch"
+        "en": "Padthaway"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "95823",
-        "ghcn": "ASN00026100"
+        "ghcn": "ASN00026100",
+        "national": "95823"
     },
     "location": {
-        "latitude": -36.6539,
-        "longitude": 140.5211,
+        "latitude": -36.7,
+        "longitude": 140.5,
         "elevation": 37
     },
     "timezone": "Australia/Adelaide"

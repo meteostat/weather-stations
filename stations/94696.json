@@ -9,11 +9,12 @@
         "wmo": "94696",
         "icao": "YBRN",
         "iata": "BZD",
-        "ghcn": "ASN00049002"
+        "ghcn": "ASN00049002",
+        "national": "94696"
     },
     "location": {
-        "latitude": -34.6333,
-        "longitude": 143.55,
+        "latitude": -34.6,
+        "longitude": 143.6,
         "elevation": 61
     },
     "timezone": "Australia/Sydney"

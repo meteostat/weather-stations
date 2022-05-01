@@ -1,17 +1,18 @@
 {
     "id": "94830",
     "name": {
-        "en": "Port Fairy Aws"
+        "en": "Port Fairy"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94830",
-        "ghcn": "ASN00090175"
+        "ghcn": "ASN00090175",
+        "national": "94830"
     },
     "location": {
         "latitude": -38.4,
-        "longitude": 142.2333,
+        "longitude": 142.2,
         "elevation": 10
     },
     "timezone": "Australia/Melbourne"

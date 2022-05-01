@@ -1,17 +1,18 @@
 {
     "id": "94234",
     "name": {
-        "en": "Daly Waters Aws"
+        "en": "Daly Waters"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
         "wmo": "94234",
-        "ghcn": "ASN00014626"
+        "ghcn": "ASN00014626",
+        "national": "94234"
     },
     "location": {
-        "latitude": -16.2636,
-        "longitude": 133.3783,
+        "latitude": -16.3,
+        "longitude": 133.4,
         "elevation": 210
     },
     "timezone": "Australia/Darwin"

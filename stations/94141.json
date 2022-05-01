@@ -1,17 +1,18 @@
 {
     "id": "94141",
     "name": {
-        "en": "Central Arnhem Plat / Jabiru"
+        "en": "Central Arnhem Plateau"
     },
     "country": "AU",
     "region": "NT",
     "identifiers": {
         "wmo": "94141",
-        "ghcn": "ASN00014909"
+        "ghcn": "ASN00014909",
+        "national": "94141"
     },
     "location": {
-        "latitude": -13.3275,
-        "longitude": 133.0861,
+        "latitude": -13.3,
+        "longitude": 133.1,
         "elevation": 416
     },
     "timezone": "Australia/Darwin"

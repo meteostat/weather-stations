@@ -1,7 +1,7 @@
 {
     "id": "94592",
     "name": {
-        "en": "Coolangatta Airport Aws"
+        "en": "Coolangatta"
     },
     "country": "AU",
     "region": "QLD",
@@ -10,10 +10,11 @@
         "icao": "YBCG",
         "iata": "OOL",
         "ghcn": "ASN00040717",
-        "usaf": "945920"
+        "usaf": "945920",
+        "national": "94592"
     },
     "location": {
-        "latitude": -28.1667,
+        "latitude": -28.2,
         "longitude": 153.5,
         "elevation": 6
     },

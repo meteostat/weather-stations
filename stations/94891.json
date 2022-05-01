@@ -1,17 +1,18 @@
 {
     "id": "94891",
     "name": {
-        "en": "Latrobe Valley Airport"
+        "en": "Latrobe Valley"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94891",
-        "ghcn": "ASN00085280"
+        "ghcn": "ASN00085280",
+        "national": "94891"
     },
     "location": {
         "latitude": -38.2,
-        "longitude": 146.4667,
+        "longitude": 146.5,
         "elevation": 56
     },
     "timezone": "Australia/Melbourne"

@@ -1,17 +1,18 @@
 {
     "id": "94405",
     "name": {
-        "en": "Abrolhos Island North Island Aws"
+        "en": "North Island"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94405",
-        "ghcn": "ASN00008290"
+        "ghcn": "ASN00008290",
+        "national": "94405"
     },
     "location": {
         "latitude": -28.3,
-        "longitude": 113.5833,
+        "longitude": 113.6,
         "elevation": 10
     },
     "timezone": "Australia/Perth"

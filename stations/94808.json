@@ -1,17 +1,18 @@
 {
     "id": "94808",
     "name": {
-        "en": "Noarlunga / Hackham"
+        "en": "Noarlunga"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "94808",
-        "ghcn": "ASN00023885"
+        "ghcn": "ASN00023885",
+        "national": "94808"
     },
     "location": {
-        "latitude": -35.1586,
-        "longitude": 138.5058,
+        "latitude": -35.2,
+        "longitude": 138.5,
         "elevation": 55
     },
     "timezone": "Australia/Adelaide"

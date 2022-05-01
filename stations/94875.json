@@ -1,17 +1,18 @@
 {
     "id": "94875",
     "name": {
-        "en": "Shepparton Airport / Orrvale"
+        "en": "Shepparton"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94875",
-        "ghcn": "ASN00081125"
+        "ghcn": "ASN00081125",
+        "national": "94875"
     },
     "location": {
-        "latitude": -36.4289,
-        "longitude": 145.3947,
+        "latitude": -36.4,
+        "longitude": 145.4,
         "elevation": 114
     },
     "timezone": "Australia/Melbourne"

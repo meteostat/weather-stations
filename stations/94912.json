@@ -1,7 +1,7 @@
 {
     "id": "94912",
     "name": {
-        "en": "Bairnsdale Airport"
+        "en": "Bairnsdale"
     },
     "country": "AU",
     "region": "VIC",
@@ -9,11 +9,12 @@
         "wmo": "94912",
         "icao": "YBNS",
         "iata": "BSJ",
-        "ghcn": "ASN00085279"
+        "ghcn": "ASN00085279",
+        "national": "94912"
     },
     "location": {
-        "latitude": -37.8833,
-        "longitude": 147.55,
+        "latitude": -37.9,
+        "longitude": 147.6,
         "elevation": 50
     },
     "timezone": "Australia/Melbourne"

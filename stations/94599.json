@@ -1,17 +1,18 @@
 {
     "id": "94599",
     "name": {
-        "en": "Cape Byron Aws / Byron Bay"
+        "en": "Cape Byron"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "wmo": "94599",
-        "ghcn": "ASN00058216"
+        "ghcn": "ASN00058216",
+        "national": "94599"
     },
     "location": {
-        "latitude": -28.64,
-        "longitude": 153.6358,
+        "latitude": -28.6,
+        "longitude": 153.6,
         "elevation": 95
     },
     "timezone": "Australia/Brisbane"

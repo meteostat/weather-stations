@@ -1,7 +1,7 @@
 {
     "id": "94957",
     "name": {
-        "en": "Wynyard West"
+        "en": "Ouse"
     },
     "country": "AU",
     "region": "TAS",
@@ -10,11 +10,12 @@
         "icao": "YMWY",
         "iata": "WNY",
         "ghcn": "ASN00095048",
-        "usaf": "949570"
+        "usaf": "949570",
+        "national": "94957"
     },
     "location": {
-        "latitude": -40.9833,
-        "longitude": 145.7167,
+        "latitude": -42.5,
+        "longitude": 146.7,
         "elevation": 11
     },
     "timezone": "Australia/Hobart"

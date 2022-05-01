@@ -1,16 +1,17 @@
 {
     "id": "94211",
     "name": {
-        "en": "Mount Barnett Mount Elizabeth"
+        "en": "Mount Elizabeth"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
         "wmo": "94211",
-        "ghcn": "ASN00001018"
+        "ghcn": "ASN00001018",
+        "national": "94211"
     },
     "location": {
-        "latitude": -16.4167,
+        "latitude": -16.4,
         "longitude": 126.1,
         "elevation": 550
     },

@@ -1,17 +1,18 @@
 {
     "id": "94987",
     "name": {
-        "en": "Friendly Beaches / Bicheno"
+        "en": "Friendly Beaches"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
         "wmo": "94987",
-        "ghcn": "ASN00092114"
+        "ghcn": "ASN00092114",
+        "national": "94987"
     },
     "location": {
-        "latitude": -41.9953,
-        "longitude": 148.2794,
+        "latitude": -42.0,
+        "longitude": 148.3,
         "elevation": 55
     },
     "timezone": "Australia/Hobart"

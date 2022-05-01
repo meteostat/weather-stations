@@ -10,11 +10,12 @@
         "icao": "YBGL",
         "iata": "GDS",
         "ghcn": "ASN00039123",
-        "usaf": "943800"
+        "usaf": "943800",
+        "national": "94380"
     },
     "location": {
-        "latitude": -23.85,
-        "longitude": 151.25,
+        "latitude": -23.9,
+        "longitude": 151.3,
         "elevation": 75
     },
     "timezone": "Australia/Brisbane"

@@ -1,17 +1,18 @@
 {
     "id": "95956",
     "name": {
-        "en": "Luncheon Hill / Trowutta"
+        "en": "Luncheon Hill"
     },
     "country": "AU",
     "region": "TAS",
     "identifiers": {
         "wmo": "95956",
-        "ghcn": "ASN00091259"
+        "ghcn": "ASN00091259",
+        "national": "95956"
     },
     "location": {
-        "latitude": -41.1492,
-        "longitude": 145.1517,
+        "latitude": -41.1,
+        "longitude": 145.2,
         "elevation": 344
     },
     "timezone": "Australia/Hobart"

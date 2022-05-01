@@ -1,17 +1,18 @@
 {
     "id": "95671",
     "name": {
-        "en": "Roseworthy Ag College / Wasleys"
+        "en": "Roseworthy"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "95671",
-        "ghcn": "ASN00023122"
+        "ghcn": "ASN00023122",
+        "national": "95671"
     },
     "location": {
-        "latitude": -34.5106,
-        "longitude": 138.6764,
+        "latitude": -34.5,
+        "longitude": 138.7,
         "elevation": 65
     },
     "timezone": "Australia/Adelaide"

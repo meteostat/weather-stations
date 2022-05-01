@@ -1,17 +1,18 @@
 {
     "id": "94913",
     "name": {
-        "en": "Gelantipy Aws"
+        "en": "Gelantipy"
     },
     "country": "AU",
     "region": "VIC",
     "identifiers": {
         "wmo": "94913",
-        "ghcn": "ASN00084142"
+        "ghcn": "ASN00084142",
+        "national": "94913"
     },
     "location": {
-        "latitude": -37.2167,
-        "longitude": 148.2667,
+        "latitude": -37.2,
+        "longitude": 148.3,
         "elevation": 760
     },
     "timezone": "Australia/Melbourne"

@@ -1,17 +1,18 @@
 {
     "id": "94814",
     "name": {
-        "en": "Strathalbyn Racecourse"
+        "en": "Strathalbyn"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "wmo": "94814",
-        "ghcn": "ASN00024580"
+        "ghcn": "ASN00024580",
+        "national": "94814"
     },
     "location": {
-        "latitude": -35.2836,
-        "longitude": 138.8933,
+        "latitude": -35.3,
+        "longitude": 138.9,
         "elevation": 58
     },
     "timezone": "Australia/Adelaide"
