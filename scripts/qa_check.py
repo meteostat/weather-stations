@@ -11,11 +11,14 @@ def qa_check(data: dict) -> dict:
     """
 
     if data and (
-        data["country"] == 'AU' and
-        data["identifiers"]["national"] is not None
+        len(data["id"]) != 5
+        or data["location"]["latitude"] < -90
+        or data["location"]["longitude"] < -180
+        or data["location"]["latitude"] > 90
+        or data["location"]["longitude"] > 180
     ):
-        data["identifiers"].pop("national")
-        stations.update(data)
+
+        stations.delete(data["id"])
 
 
 stations.apply(qa_check)
