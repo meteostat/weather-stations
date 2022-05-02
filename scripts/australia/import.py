@@ -57,7 +57,7 @@ for station in inventory[248:]:
         # Get elevation
         elevation = json.loads(
             request.urlopen(
-                'https://api.open-elevation.com/api/v1/lookup?'
+                "https://api.open-elevation.com/api/v1/lookup?"
                 + f'locations={meta["lat"]},{meta["lon"]}'
             )
             .read()
