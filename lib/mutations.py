@@ -16,15 +16,16 @@ def create(data: dict) -> None:
     """
 
     # Get file path
-    file = stations_path + os.sep + data['id'] + '.json'
+    file = stations_path + os.sep + data["id"] + ".json"
 
     # Merge with template
     data = merge_dicts(data, station_template)
 
     # Write into file
-    with open(file, 'w') as f:
+    with open(file, "w") as f:
         f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
         f.close()
+
 
 def update(data: dict) -> None:
     """
@@ -32,27 +33,29 @@ def update(data: dict) -> None:
     """
 
     # Get file path
-    file = stations_path + os.sep + data['id'] + '.json'
+    file = stations_path + os.sep + data["id"] + ".json"
 
     # Read file and parse JSON
-    with open(file, 'r') as f:
+    with open(file, "r") as f:
         state: dict = json.load(f)
 
     # Deep merge
     data = merge_dicts(data, state)
 
     # Write into file
-    with open(file, 'w') as f:
+    with open(file, "w") as f:
         f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
         f.close()
+
 
 def delete(station: str) -> None:
     """
     Delete a weather station
     """
 
-    file = stations_path + os.sep + station + '.json'
+    file = stations_path + os.sep + station + ".json"
     os.remove(file)
+
 
 def apply(function, threads=12) -> None:
     """
@@ -61,7 +64,7 @@ def apply(function, threads=12) -> None:
 
     def _update(file: str) -> None:
         # Read file and parse JSON
-        with open(file, 'r') as f:
+        with open(file, "r") as f:
             data: dict = json.load(f)
 
         # Apply your logic
@@ -69,7 +72,7 @@ def apply(function, threads=12) -> None:
 
         # Persist changes
         if data:
-            with open(file, 'w') as f:
+            with open(file, "w") as f:
                 f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
                 f.close()
 
@@ -78,7 +81,7 @@ def apply(function, threads=12) -> None:
 
     # Go through all files
     for dirpath, dirnames, filenames in os.walk(stations_path):
-        for filename in [f for f in filenames if f.endswith('.json')]:
+        for filename in [f for f in filenames if f.endswith(".json")]:
             # Write station data
             files.append(os.path.join(dirpath, filename))
 

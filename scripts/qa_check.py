@@ -2,7 +2,6 @@
 Perform basic QA check
 """
 
-import os
 import stations
 
 
@@ -12,12 +11,10 @@ def qa_check(data: dict, file_path: str) -> dict:
     """
 
     # Get ID from file name
-    STATION_ID = file_path[-10:-5]
+    station_id = file_path[-10:-5]
     # Make sure IDs are aligned
-    if data and (
-        data['id'] != STATION_ID
-    ):
-        data['id'] = STATION_ID
+    if data and (data["id"] != station_id):
+        data["id"] = station_id
         return data
 
     if data and (
