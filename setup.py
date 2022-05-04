@@ -15,7 +15,7 @@ with open(path.join(here, "README.md")) as f:
 # Setup
 setup(
     name="meteostat-stations",
-    version="0.0.2",
+    version="0.0.3",
     author="Meteostat",
     author_email="info@meteostat.net",
     description="A list of public weather stations everyone can edit and share.",

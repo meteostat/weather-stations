@@ -1,12 +1,12 @@
 {
     "id": "94203",
     "name": {
-        "en": "Broome Airport"
+        "en": "Broome Port"
     },
     "country": "AU",
     "region": "WA",
     "identifiers": {
-        "wmo": "94203",
+        "wmo": "95202",
         "icao": "YBRM",
         "iata": "BME",
         "ghcn": "ASN00003003",
@@ -14,8 +14,8 @@
         "mosmix": "94203"
     },
     "location": {
-        "latitude": -17.95,
-        "longitude": 122.2167,
+        "latitude": -18.0,
+        "longitude": 122.2,
         "elevation": 17
     },
     "timezone": "Australia/Perth"

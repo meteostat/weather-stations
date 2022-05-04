@@ -1,18 +1,19 @@
 {
     "id": "YMRB0",
     "name": {
-        "en": "Moranbah"
+        "en": "Moranbah Airport"
     },
     "country": "AU",
     "region": "QLD",
     "identifiers": {
         "icao": "YMRB",
         "iata": "MOV",
-        "usaf": "943970"
+        "usaf": "943970",
+        "wmo": "94397"
     },
     "location": {
-        "latitude": -22.0578,
-        "longitude": 148.077,
+        "latitude": -22.1,
+        "longitude": 148.1,
         "elevation": 235
     },
     "timezone": "Australia/Brisbane"

@@ -1,17 +1,18 @@
 {
     "id": "YCMM0",
     "name": {
-        "en": "Cummins Town"
+        "en": "Cummins Airport"
     },
     "country": "AU",
     "region": "SA",
     "identifiers": {
         "icao": "YCMM",
-        "usaf": "956630"
+        "usaf": "956630",
+        "wmo": "95663"
     },
     "location": {
-        "latitude": -34.2583,
-        "longitude": 135.708,
+        "latitude": -34.3,
+        "longitude": 135.7,
         "elevation": 56
     },
     "timezone": "Australia/Adelaide"
