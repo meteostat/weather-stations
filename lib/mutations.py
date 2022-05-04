@@ -65,7 +65,7 @@ def apply(function, threads=12) -> None:
             data: dict = json.load(f)
 
         # Apply your logic
-        data = function(data)
+        data = function(data, file)
 
         # Persist changes
         if data:

@@ -11,7 +11,7 @@ import stations
 API_KEY = ""
 
 
-def find_timezone(data: dict) -> dict:
+def find_timezone(data: dict, _) -> dict:
     """
     Find time zone for weather station
     """
