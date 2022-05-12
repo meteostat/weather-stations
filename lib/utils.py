@@ -13,22 +13,27 @@ def create_station_dict(data: dict) -> dict:
     """
 
     result = {
-        'id': data.get("id", None),
-        'name': data.get("name", {
-            'en': None
-        }),
-        'country': data.get("country", None),
-        'region': data.get("region", None),
-        'identifiers': data.get("identifiers", {}),
-        'location': {
-            'latitude': data["location"].get("latitude", None) if "location" in data else None,
-            'longitude': data["location"].get("longitude", None) if "location" in data else None,
-            'elevation': data["location"].get("elevation", None) if "location" in data else None
+        "id": data.get("id", None),
+        "name": data.get("name", {"en": None}),
+        "country": data.get("country", None),
+        "region": data.get("region", None),
+        "identifiers": data.get("identifiers", {}),
+        "location": {
+            "latitude": data["location"].get("latitude", None)
+            if "location" in data
+            else None,
+            "longitude": data["location"].get("longitude", None)
+            if "location" in data
+            else None,
+            "elevation": data["location"].get("elevation", None)
+            if "location" in data
+            else None,
         },
-        'timezone': data.get("timezone", None)
+        "timezone": data.get("timezone", None),
     }
 
     return result
+
 
 def merge_dicts(source: dict, destination: dict) -> None:
     """
@@ -45,6 +50,7 @@ def merge_dicts(source: dict, destination: dict) -> None:
         else:
             destination[key] = value
 
+
 def get_distance(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     """
     Calculate distance between weather station and geo point
@@ -60,8 +66,7 @@ def get_distance(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     dlon = lon2 - lon1
 
     # Calculate distance
-    arch = np.sin(dlat / 2)**2 + np.cos(lat1) * \
-        np.cos(lat2) * np.sin(dlon / 2)**2
+    arch = np.sin(dlat / 2) ** 2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlon / 2) ** 2
     arch_sin = 2 * np.arcsin(np.sqrt(arch))
 
     return radius * arch_sin
