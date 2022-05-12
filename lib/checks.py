@@ -5,7 +5,7 @@ The code is licensed under the MIT license.
 """
 
 from meteostat import Stations
-from stations import merge_dicts, station_template
+from stations import create_station_dict
 
 def find_duplicate(station: dict, stations = Stations()):
     """
@@ -13,7 +13,7 @@ def find_duplicate(station: dict, stations = Stations()):
     """
 
     # Merge station data with template
-    station = merge_dicts(station, station_template)
+    station = create_station_dict(station)
 
     # Get all weather df
     df = stations.fetch()

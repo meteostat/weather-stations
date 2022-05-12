@@ -7,7 +7,7 @@ The code is licensed under the MIT license.
 import os
 import json
 from multiprocessing.pool import ThreadPool
-from stations import stations_path, create_station_dict, merge_dicts, station_template
+from stations import stations_path, create_station_dict, merge_dicts
 
 
 def create(data: dict) -> None:

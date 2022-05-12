@@ -48,9 +48,7 @@ for station in inventory:
                     else capwords(station["name"])
                 },
                 "country": station["countryCode"],
-                "identifiers": {
-                    "national": station["id"]
-                },
+                "identifiers": {"national": station["id"]},
                 "location": {
                     "latitude": round(station["geometry"]["coordinates"][1], 3),
                     "longitude": round(station["geometry"]["coordinates"][0], 3),

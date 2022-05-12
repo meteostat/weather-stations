@@ -8,7 +8,7 @@ The code is licensed under the MIT license.
 import os
 
 __appname__ = 'stations'
-__version__ = '0.0.2'
+__version__ = '0.0.4'
 
 # Path of the weather stations directory
 stations_path: str = os.path.expanduser(
