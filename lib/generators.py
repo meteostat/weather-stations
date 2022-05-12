@@ -8,6 +8,7 @@ import random
 import string
 from urllib import request, error
 
+
 def generate_uid(private: bool = False) -> str:
     """
     Generate a unique station identifier
@@ -15,14 +16,17 @@ def generate_uid(private: bool = False) -> str:
 
     while True:
 
-        id = x = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(5))
+        uid = "".join(
+            random.choice(string.ascii_uppercase + string.digits) for _ in range(5)
+        )
 
         if private:
-            id = '$' + id[1:]
+            uid = "$" + uid[1:]
 
-        url = f'https://github.com/meteostat/weather-df/blob/master/df/{id}.json'
+        url = f"https://github.com/meteostat/weather-stations/blob/master/stations/{uid}.json"
 
         try:
-            response = request.urlopen(url)
+            # pylint: disable=consider-using-with
+            request.urlopen(url)
         except error.HTTPError:
-            return id
+            return uid

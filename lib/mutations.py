@@ -7,7 +7,7 @@ The code is licensed under the MIT license.
 import os
 import json
 from multiprocessing.pool import ThreadPool
-from stations import stations_path, merge_dicts, station_template
+from stations import stations_path, create_station_dict, merge_dicts
 
 
 def create(data: dict) -> None:
@@ -19,7 +19,7 @@ def create(data: dict) -> None:
     file = stations_path + os.sep + data["id"] + ".json"
 
     # Merge with template
-    data = merge_dicts(data, station_template)
+    data = create_station_dict(data)
 
     # Write into file
     with open(file, "w") as f:
@@ -40,11 +40,11 @@ def update(data: dict) -> None:
         state: dict = json.load(f)
 
     # Deep merge
-    data = merge_dicts(data, state)
+    merge_dicts(data, state)
 
     # Write into file
     with open(file, "w") as f:
-        f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
+        f.write(json.dumps(state, indent=4, default=str, ensure_ascii=False))
         f.close()
 
 
