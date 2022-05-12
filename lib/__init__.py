@@ -14,8 +14,7 @@ __version__ = '0.0.2'
 stations_path: str = os.path.expanduser(
     "~") + os.sep + 'Meteostat' + os.sep + 'weather-stations' + os.sep + 'stations'
 
-from .utils import merge_dicts, get_distance
-from .templates import station_template
+from .utils import create_station_dict, merge_dicts, get_distance
 from .generators import generate_uid
 from .checks import find_duplicate
 from .mutations import create, update, delete, apply
