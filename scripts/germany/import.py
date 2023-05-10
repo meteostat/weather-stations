@@ -10,8 +10,28 @@ from string import capwords
 from meteostat import Stations
 from stations import find_duplicate, generate_uid, create, update, get_distance
 
-# Path of the CSV file
-CSV_FILE = (
+# Map Bundesland string to ISO code
+REGION_CODES = {
+    'Baden-Württemberg': 'BW',
+    'Bayern': 'BY',
+ 'Berlin': 'BE',
+ 'Brandenburg': 'BB',
+ 'Bremen': 'HB',
+ 'Hamburg': 'HH',
+ 'Hessen': 'HE',
+ 'Mecklenburg-Vorpommern': 'MV',
+ 'Niedersachsen': 'NI',
+ 'Nordrhein-Westfalen': 'NW',
+ 'Rheinland-Pfalz':	'RP',
+ 'Saarland': 'SL',
+ 'Sachsen': 'SN',
+ 'Sachsen-Anhalt': 'ST',
+ 'Schleswig-Holstein': 'SH',
+ 'Thüringen': 'TH'
+}
+
+# Path of the JSON file
+JSON_FILE = (
     os.path.expanduser("~")
     + os.sep
     + "Meteostat"
@@ -20,20 +40,17 @@ CSV_FILE = (
     + os.sep
     + "scripts"
     + os.sep
-    + "canada"
+    + "germany"
     + os.sep
-    + "stations.csv"
+    + "stations_not_in_mstat.json"
 )
 
-CSV_FILE = "C:\\Users\\SIDDHARTH-PC\\Desktop\\tmp\\weather-stations\\scripts\\germany\\stations_not_in_mstat.json"
 # Create Stations instance
 stations = Stations()
 
-# inventory = pd.read_csv(CSV_FILE, header=0 , encoding='utf-8', dtype={'Stations_id':'object'})
-inventory = pd.read_json(CSV_FILE, dtype={'Stations_id':'object'})
-nu =0
-upd =0
-dupes = []
+inventory = pd.read_json(JSON_FILE, dtype={'Stations_id':'object'})
+new_stations_count =0 # Number of new stations
+dupes = [] # List of duplicates
 for index, row in inventory.iterrows():
     try:
         data = {
@@ -41,21 +58,15 @@ for index, row in inventory.iterrows():
                 "en": capwords(row["Stationsname"])
             },
             "country": "DE",
+            "region": REGION_CODES[row["Bundesland"]] if row["Bundesland"] in REGION_CODES.keys() else None,
             "identifiers": {"national": row["Stations_id"]},
             "location": {
                 "latitude": row["geoBreite"],
                 "longitude": row["geoLaenge"],
                 "elevation": row["Stationshoehe"],
             },
+            "timezone": "Europe/Berlin"
         }
-
-        # # Add WMO identifier
-        # if "wmoId" in row:
-        #     data["identifiers"]["wmo"] = (
-        #         f"0{str(row['wmoId'])}"
-        #         if len(str(row["wmoId"])) == 4
-        #         else str(row["wmoId"])
-        #     )
 
         # Get potential duplicate
         duplicate = find_duplicate(data, stations)
@@ -66,25 +77,18 @@ for index, row in inventory.iterrows():
                 'new_entry': json.dumps(data),
                 'dupe': {'id': duplicate['id'], 'name': duplicate['name'], 'lat': duplicate['latitude'], 'long': duplicate['longitude']}
             })
-            update(
-                {
-                    "id": duplicate["id"],
-                    "identifiers": {"national": data["identifiers"]["national"]},
-                }
-            )
-            upd += 1 
         else:
             data["id"] = generate_uid()
             create(data)
-            nu += 1
+            new_stations_count += 1
 
     except BaseException as e:
         print(traceback.format_exc())
         print(e)
         break
-print(f"Created {nu} new stations")
-print(f"Updated {upd} existing stations")
-print(len(dupes))
-# print(dupes)
+print(f"Created {new_stations_count} new stations")
+print(f"Detected {len(dupes)} potential duplicates")
+
+# Persist duplicates for future reference
 with open('duplicate_stations.json', "w+") as dupe_file:
     json.dump(dupes, dupe_file)
