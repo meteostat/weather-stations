@@ -49,6 +49,7 @@ JSON_FILE = (
 stations = Stations()
 
 inventory = pd.read_json(JSON_FILE, dtype={'Stations_id': 'object'})
+# pylint: disable=invalid-name
 new_stations_count = 0  # Number of new stations
 dupes = []  # List of duplicates
 
@@ -92,9 +93,9 @@ for index, row in inventory.iterrows():
             create(data)
             new_stations_count += 1
 
-    except BaseException as e:
+    except BaseException as error:
         print(traceback.format_exc())
-        print(e)
+        print(error)
         break
 
 
