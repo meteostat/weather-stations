@@ -1,7 +1,6 @@
 [MESSAGES CONTROL]
 
-disable=print-statement,
-        no-name-in-module,
+disable=no-name-in-module,
         unused-variable,
         import-error,
         too-many-return-statements,

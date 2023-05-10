@@ -22,7 +22,7 @@ def create(data: dict) -> None:
     data = create_station_dict(data)
 
     # Write into file
-    with open(file, "w") as f:
+    with open(file, "w", encoding="utf-8") as f:
         f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
         f.close()
 
@@ -36,14 +36,14 @@ def update(data: dict) -> None:
     file = stations_path + os.sep + data["id"] + ".json"
 
     # Read file and parse JSON
-    with open(file, "r") as f:
+    with open(file, "r", encoding="utf-8") as f:
         state: dict = json.load(f)
 
     # Deep merge
     merge_dicts(data, state)
 
     # Write into file
-    with open(file, "w") as f:
+    with open(file, "w", encoding="utf-8") as f:
         f.write(json.dumps(state, indent=4, default=str, ensure_ascii=False))
         f.close()
 
@@ -64,7 +64,7 @@ def apply(function, threads=12) -> None:
 
     def _update(file: str) -> None:
         # Read file and parse JSON
-        with open(file, "r") as f:
+        with open(file, "r", encoding="utf-8") as f:
             data: dict = json.load(f)
 
         # Apply your logic
@@ -72,8 +72,13 @@ def apply(function, threads=12) -> None:
 
         # Persist changes
         if data:
-            with open(file, "w") as f:
-                f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
+            with open(file, "w", encoding="utf-8") as f:
+                f.write(
+                    json.dumps(
+                        data,
+                        indent=4,
+                        default=str,
+                        ensure_ascii=False))
                 f.close()
 
     # List of files
