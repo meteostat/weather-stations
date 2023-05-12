@@ -41,7 +41,7 @@ stations = Stations()
 
 # returns JSON object as
 # a dictionary
-with open(JSON_FILE) as file:
+with open(JSON_FILE, encoding="utf-8") as file:
     inventory = json.load(file)
 
 for station in inventory[248:]:
@@ -55,14 +55,13 @@ for station in inventory[248:]:
         with request.urlopen(req) as raw:
             meta = json.loads(raw.read().decode())["observations"]["data"][0]
         # Get elevation
-        elevation = json.loads(
-            request.urlopen(
-                "https://api.open-elevation.com/api/v1/lookup?"
-                + f'locations={meta["lat"]},{meta["lon"]}'
-            )
-            .read()
-            .decode("utf-8")
-        )["results"][0]["elevation"]
+        with request.urlopen(
+            "https://api.open-elevation.com/api/v1/lookup?" +
+            f'locations={meta["lat"]},{meta["lon"]}'
+        ) as raw:
+            elevation = json.loads(
+                raw.read().decode("utf-8")
+            )["results"][0]["elevation"]
         # Collect meta data
         data = {
             "name": {"en": meta["name"]},

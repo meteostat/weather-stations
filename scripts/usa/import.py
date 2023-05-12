@@ -81,13 +81,12 @@ for index, row in inventory.iterrows():
             # Get elevation
             lat = float(row["latitude"])
             lon = float(row["longitude"])
-            details = json.loads(
-                urlopen(
-                    f"https://api.weather.gov/stations/{row['station_id']}/observations/latest"
+            with urlopen(
+                f"https://api.weather.gov/stations/{row['station_id']}/observations/latest"
+            ) as conn:
+                details = json.loads(
+                    conn.read().decode("utf-8")
                 )
-                .read()
-                .decode("utf-8")
-            )
             elevation = details["properties"]["elevation"]["value"]
 
             # Collect meta data

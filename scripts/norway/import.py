@@ -29,7 +29,7 @@ stations = Stations()
 
 # returns JSON object as
 # a dictionary
-with open(JSON_FILE) as file:
+with open(JSON_FILE, encoding="utf-8") as file:
     inventory = json.load(file)
 
 for station in inventory:
