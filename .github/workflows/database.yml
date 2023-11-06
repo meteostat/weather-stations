@@ -1,0 +1,33 @@
+name: Sync Database
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install Python Packages # add pip install -r requirements.txt after refactoring
+        run: |
+          python -m pip install --upgrade pip
+      - name: Execute Script
+        run: python database.py
+      - name: Commit Files
+        run: |
+          git config --local user.email "info@meteostat.net"
+          git config --local user.name "Meteostat"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "Sync Database [skip ci]" --allow-empty)
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
