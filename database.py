@@ -39,9 +39,9 @@ for dirpath, dirnames, filenames in os.walk(STATIONS_PATH):
             )
         )
         # Insert into stations_name
-        [cursor.execute("""INSERT INTO `stations_name` VALUES (?, ?, ?)""", (data['id'], key, value)) for key, value in data['name'].items()]
+        [cursor.execute("""INSERT INTO `names` VALUES (?, ?, ?)""", (data['id'], key, value)) for key, value in data['name'].items()]
         # Insert into stations_identifiers
-        [cursor.execute("""INSERT INTO `stations_identifiers` VALUES (?, ?, ?)""", (data['id'], key, value)) for key, value in data['identifiers'].items()]
+        [cursor.execute("""INSERT INTO `identifiers` VALUES (?, ?, ?)""", (data['id'], key, value)) for key, value in data['identifiers'].items()]
 
 # Commit changes to database     
 conn.commit() 
