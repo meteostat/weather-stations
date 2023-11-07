@@ -8,16 +8,16 @@ CREATE TABLE `stations` (
   `timezone` varchar(30) DEFAULT NULL
 );
 
-CREATE TABLE `stations_name` (
+CREATE TABLE `names` (
   `station` char(5) NOT NULL,
   `language` char(2) NOT NULL,
   `name` varchar(255) NOT NULL,
   PRIMARY KEY (`station`, `language`)
 );
    
-CREATE TABLE `stations_identifiers` (
+CREATE TABLE `identifiers` (
   `station` char(5) NOT NULL,
   `key` varchar(255) NOT NULL,
-  `region` varchar(255) NOT NULL,
+  `value` varchar(255) NOT NULL,
   PRIMARY KEY (`station`, `key`)
 );

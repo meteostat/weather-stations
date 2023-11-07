@@ -22,8 +22,8 @@ jobs:
         run: python database.py
       - name: Commit Files
         run: |
-          git config --local user.email "info@meteostat.net"
-          git config --local user.name "Meteostat"
+          git config --local user.email "$GIT_EMAIL"
+          git config --local user.name "$GIT_USER"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "Sync Database [skip ci]" --allow-empty)
       - name: Push Changes
