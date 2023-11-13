@@ -6,7 +6,7 @@ import pandas as pd
 
 STATIONS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "stations"))
 QUERY_TABLES_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "tables.sql"))
-QUERY_LOCATIONS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "location.sql"))
+QUERY_LOCATIONS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "locations.sql"))
 DATABASE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "stations.db"))
 LOCATIONS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "locations.csv.gz"))
 
