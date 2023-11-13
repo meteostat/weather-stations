@@ -1,0 +1,1 @@
+SELECT `id`, `latitude`, `longitude` FROM `stations`
