@@ -1,0 +1,22 @@
+name: Sync Mirror
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    if: github.event.head_commit.message == 'Sync Database'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Sync files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          exclude: |
+            *!(.json|.csv.gz)

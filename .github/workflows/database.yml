@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: env.GITHUB_ACTIONS != 'true'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -26,7 +27,7 @@ jobs:
           git config --local user.email "${{ vars.GIT_EMAIL }}"
           git config --local user.name "${{ vars.GIT_USER }}"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Sync Database [skip ci]" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Sync Database" --allow-empty)
       - name: Push Changes
         uses: ad-m/github-push-action@v0.6.0
         with:
