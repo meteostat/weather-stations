@@ -4,11 +4,12 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'stations/*.json'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: env.GITHUB_ACTIONS != 'true'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
