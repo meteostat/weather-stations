@@ -55,7 +55,7 @@ conn.commit()
 
 # Extract locations
 with open(QUERY_LOCATIONS_PATH, "r", encoding="utf-8") as f:
-    df = pd.read_sql(f.read(), conn)
+    df = pd.read_sql(f.read(), conn, index_col='id')
     df.to_csv(LOCATIONS_PATH, compression='gzip', header=True)
 
 # Close connection 
