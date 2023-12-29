@@ -47,8 +47,11 @@ jobs:
             **/*.py
             **/*.sql
             .github
+            .github/**
             lib
+            lib/**
             scripts
+            scripts/**
             .pylintrc
             README.md
             requirements.txt
