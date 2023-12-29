@@ -1,1 +1,1 @@
-SELECT `id`, `latitude`, `longitude` FROM `stations`
+SELECT `id`, `latitude`, `longitude`, `elevation` FROM `stations`
