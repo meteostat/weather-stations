@@ -40,3 +40,15 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
+          state-name: .sync
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/*.py
+            **/*.sql
+            .github
+            lib
+            scripts
+            .pylintrc
+            README.md
+            requirements.txt
