@@ -8,7 +8,8 @@ disable=no-name-in-module,
         no-else-return,
         too-many-boolean-expressions,
         inconsistent-return-statements,
-        broad-except
+        broad-except,
+        expression-not-assigned
 
 [BASIC]
 

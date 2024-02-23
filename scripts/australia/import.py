@@ -56,12 +56,12 @@ for station in inventory[248:]:
             meta = json.loads(raw.read().decode())["observations"]["data"][0]
         # Get elevation
         with request.urlopen(
-            "https://api.open-elevation.com/api/v1/lookup?" +
-            f'locations={meta["lat"]},{meta["lon"]}'
+            "https://api.open-elevation.com/api/v1/lookup?"
+            + f'locations={meta["lat"]},{meta["lon"]}'
         ) as raw:
-            elevation = json.loads(
-                raw.read().decode("utf-8")
-            )["results"][0]["elevation"]
+            elevation = json.loads(raw.read().decode("utf-8"))["results"][0][
+                "elevation"
+            ]
         # Collect meta data
         data = {
             "name": {"en": meta["name"]},
