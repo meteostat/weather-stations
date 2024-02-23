@@ -34,24 +34,11 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
-      - name: Mirror files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      - name: Upload stations.db
+        uses: bayssmekanique/action-simple-file-upload@v2
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USER }}
+          user: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
-          state-name: .sync
-          exclude: |
-            **/.git*
-            **/.git*/**
-            **/*.py
-            **/*.sql
-            .github
-            .github/**
-            lib
-            lib/**
-            scripts
-            scripts/**
-            .pylintrc
-            README.md
-            requirements.txt
+          host: ${{ secrets.FTP_SERVER }}
+          src: stations.db
+          dest: stations.db

@@ -1,22 +1,15 @@
 import os
 import json
 import sqlite3
-import pandas as pd
 
 
 STATIONS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "stations"))
 QUERY_TABLES_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "tables.sql"))
-QUERY_LOCATIONS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "locations.sql"))
 DATABASE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "stations.db"))
-LOCATIONS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "locations.csv.gz"))
 
 # Purge DB file
 if os.path.exists(DATABASE_PATH):
     os.remove(DATABASE_PATH)
-
-# Purge locations file
-if os.path.exists(LOCATIONS_PATH):
-    os.remove(LOCATIONS_PATH)
 
 # Connect to SQLite 
 conn = sqlite3.connect(DATABASE_PATH)
@@ -32,6 +25,9 @@ for dirpath, dirnames, filenames in os.walk(STATIONS_PATH):
         # Read file and parse JSON
         with open(os.path.join(dirpath, filename), "r", encoding="utf-8") as f:
             data: dict = json.load(f)
+        # Skip inactive stations
+        if data.get('active', False) == False:
+            continue
         # Insert into stations
         cursor.execute(
             """INSERT INTO `stations` VALUES (?, ?, ?, ?, ?, ?, ?)""",
@@ -52,11 +48,6 @@ for dirpath, dirnames, filenames in os.walk(STATIONS_PATH):
 
 # Commit changes to database     
 conn.commit()
-
-# Extract locations
-with open(QUERY_LOCATIONS_PATH, "r", encoding="utf-8") as f:
-    df = pd.read_sql(f.read(), conn, index_col='id')
-    df.to_csv(LOCATIONS_PATH, compression='gzip', header=True)
 
 # Close connection 
 conn.close()
