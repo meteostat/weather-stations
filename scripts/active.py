@@ -31,7 +31,7 @@ def set_active(data: dict, _) -> dict:
         not_found = list(map(check_status, urls))
 
         items = list(data.items())
-        items.insert(1, ("active", False if all(not_found) else True))
+        items.insert(1, ("active", not all(not_found)))
 
         return dict(items)
 
