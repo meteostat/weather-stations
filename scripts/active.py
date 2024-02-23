@@ -7,6 +7,9 @@ import stations
 
 
 def check_status(url):
+    """
+    Check if HTTP status code equals 404
+    """
     try:
         response = requests.head(url)
         return response.status_code == 404
@@ -16,9 +19,8 @@ def check_status(url):
 
 def set_active(data: dict, _) -> dict:
     """
-    Find time zone for weather station
+    Update active flag
     """
-
     if data:
 
         urls = [

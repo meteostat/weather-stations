@@ -1,3 +1,6 @@
+"""
+Convert JSON files to SQLite
+"""
 import os
 import json
 import sqlite3
