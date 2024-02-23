@@ -5,6 +5,7 @@ Set active flag
 import requests
 import stations
 
+
 def check_status(url):
     try:
         response = requests.head(url)
@@ -28,8 +29,9 @@ def set_active(data: dict, _) -> dict:
         not_found = list(map(check_status, urls))
 
         items = list(data.items())
-        items.insert(1, ('active', False if all(not_found) else True))
+        items.insert(1, ("active", False if all(not_found) else True))
 
         return dict(items)
+
 
 stations.apply(set_active, threads=1)

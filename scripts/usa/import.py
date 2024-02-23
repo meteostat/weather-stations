@@ -84,9 +84,7 @@ for index, row in inventory.iterrows():
             with urlopen(
                 f"https://api.weather.gov/stations/{row['station_id']}/observations/latest"
             ) as conn:
-                details = json.loads(
-                    conn.read().decode("utf-8")
-                )
+                details = json.loads(conn.read().decode("utf-8"))
             elevation = details["properties"]["elevation"]["value"]
 
             # Collect meta data
@@ -95,9 +93,11 @@ for index, row in inventory.iterrows():
                 "country": "US",
                 "region": row["state"],
                 "identifiers": {
-                    "icao": str(row["station_id"])
-                    if len(str(row["station_id"])) == 4
-                    else None,
+                    "icao": (
+                        str(row["station_id"])
+                        if len(str(row["station_id"])) == 4
+                        else None
+                    ),
                 },
                 "location": {
                     "latitude": lat,

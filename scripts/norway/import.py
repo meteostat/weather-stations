@@ -43,9 +43,11 @@ for station in inventory:
         ):
             data = {
                 "name": {
-                    "en": capwords(station["shortName"])
-                    if "shortName" in station
-                    else capwords(station["name"])
+                    "en": (
+                        capwords(station["shortName"])
+                        if "shortName" in station
+                        else capwords(station["name"])
+                    )
                 },
                 "country": station["countryCode"],
                 "identifiers": {"national": station["id"]},

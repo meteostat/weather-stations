@@ -84,8 +84,7 @@ inventory = pd.read_csv(
 # Process all stations
 for index, row in inventory.iterrows():
 
-    if not pd.isna(row["last_year"]) and int(
-            row["last_year"]) >= MIN_LAST_YEAR:
+    if not pd.isna(row["last_year"]) and int(row["last_year"]) >= MIN_LAST_YEAR:
 
         # Collect meta data
         data = {
@@ -99,9 +98,9 @@ for index, row in inventory.iterrows():
             "location": {
                 "latitude": float(row["latitude"]),
                 "longitude": float(row["longitude"]),
-                "elevation": None
-                if pd.isna(row["elevation"])
-                else int(round(row["elevation"])),
+                "elevation": (
+                    None if pd.isna(row["elevation"]) else int(round(row["elevation"]))
+                ),
             },
         }
 
