@@ -1,16 +1,16 @@
 """
 Convert JSON files to SQLite
 """
+
 import os
 import json
 import sqlite3
 
 
-STATIONS_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "stations"))
-QUERY_TABLES_PATH = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), "tables.sql")
-)
-DATABASE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "stations.db"))
+ROOT_PATH = os.path.dirname(__file__)
+STATIONS_PATH = os.path.abspath(os.path.join(ROOT_PATH, "stations"))
+QUERY_TABLES_PATH = os.path.abspath(os.path.join(ROOT_PATH, "tables.sql"))
+DATABASE_PATH = os.path.abspath(os.path.join(ROOT_PATH, "stations.db"))
 
 # Purge DB file
 if os.path.exists(DATABASE_PATH):
