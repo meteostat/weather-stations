@@ -6,11 +6,14 @@ import os
 import json
 import sqlite3
 
+import pandas as pd
+
 
 ROOT_PATH = os.path.dirname(__file__)
 STATIONS_PATH = os.path.abspath(os.path.join(ROOT_PATH, "stations"))
 QUERY_TABLES_PATH = os.path.abspath(os.path.join(ROOT_PATH, "tables.sql"))
 DATABASE_PATH = os.path.abspath(os.path.join(ROOT_PATH, "stations.db"))
+LOCATIONS_PATH = os.path.abspath(os.path.join(ROOT_PATH, "locations.csv.gz"))
 
 # Purge DB file
 if os.path.exists(DATABASE_PATH):
@@ -61,6 +64,11 @@ for dirpath, dirnames, filenames in os.walk(STATIONS_PATH):
             )
             for key, value in data["identifiers"].items()
         ]
+
+
+# Extract locations
+df = pd.read_sql('SELECT `id`, `latitude`, `longitude`, `elevation` FROM `stations`', conn, index_col='id')
+df.to_csv(LOCATIONS_PATH, compression='gzip', header=True)
 
 # Commit changes to database
 conn.commit()

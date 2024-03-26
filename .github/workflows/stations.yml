@@ -21,9 +21,20 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install -r requirements.txt
+          python -m pip install pandas
       - name: Create stations.db
         run: python database.py
+      - name: Commit Files
+        run: |
+          git config --local user.email "${{ vars.GIT_EMAIL }}"
+          git config --local user.name "${{ vars.GIT_USER }}"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "Sync stations" --allow-empty)
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
       - name: Upload stations.db
         uses: bayssmekanique/action-simple-file-upload@v2
         with:

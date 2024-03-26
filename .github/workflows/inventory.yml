@@ -19,6 +19,17 @@ jobs:
           python -m pip install mysql-to-sqlite3
       - name: Get inventory data
         run: mysql2sqlite -f inventory.db -d ${{ secrets.INVENTORY_DB }} -u ${{ secrets.INVENTORY_USER }} --mysql-password ${{ secrets.INVENTORY_PASSWORD }} -h ${{ secrets.INVENTORY_HOST }}
+      - name: Commit Files
+        run: |
+          git config --local user.email "${{ vars.GIT_EMAIL }}"
+          git config --local user.name "${{ vars.GIT_USER }}"
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "Sync inventory" --allow-empty)
+      - name: Push Changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
       - name: Upload inventory.db
         uses: bayssmekanique/action-simple-file-upload@v2
         with:
