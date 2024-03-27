@@ -15,10 +15,6 @@ QUERY_TABLES_PATH = os.path.abspath(os.path.join(ROOT_PATH, "tables.sql"))
 DATABASE_PATH = os.path.abspath(os.path.join(ROOT_PATH, "stations.db"))
 LOCATIONS_PATH = os.path.abspath(os.path.join(ROOT_PATH, "locations.csv.gz"))
 
-# Purge DB file
-if os.path.exists(DATABASE_PATH):
-    os.remove(DATABASE_PATH)
-
 # Connect to SQLite
 conn = sqlite3.connect(DATABASE_PATH)
 cursor = conn.cursor()
