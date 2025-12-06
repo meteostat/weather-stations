@@ -23,9 +23,9 @@ Each weather station must provide the following properties. Missing values are d
 * `region`: ISO 3166-2 state or region code, e.g. TX for Texas (_String_)
 * `identifiers`: Identifiers (_Object_)
 * `location`: Geographic location (_Object_)
-    * `latitude`: Latitude (_Float_)
-    * `longitude`: Longitude (_Float_)
-    * `elevation`: Elevation in meters (_Integer_)
+  * `latitude`: Latitude (_Float_)
+  * `longitude`: Longitude (_Float_)
+  * `elevation`: Elevation in meters (_Integer_)
 * `timezone`: Time zone (_String_)
 
 ## Formatting
