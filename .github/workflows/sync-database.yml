@@ -1,14 +1,9 @@
-name: Sync stations
+name: Sync station database
 
 on:
   workflow_dispatch:
   schedule:
     - cron:  '0 2 * * 0'
-  push:
-    branches:
-      - master
-    paths:
-      - 'stations/*.json'
 
 jobs:
   sync:

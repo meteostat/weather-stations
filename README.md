@@ -37,7 +37,7 @@ Each weather station must provide the following properties. Missing values are d
 
 ## Contributing
 
-If you want to add a new weather station, update some information or correct an error, please either correct/update the affected file(s) & create a pull request or fill an issue & describe your concern. We will review each request and update the list accordingly. Once your changes are merged into the `master` branch they will be visible in all Meteostat products within a few days.
+If you want to add a new weather station, update some information or correct an error, please either correct/update the affected file(s) & create a pull request or fill an issue & describe your concern. We will review each request and update the list accordingly. Once your changes are merged into the `main` branch they will be visible in all Meteostat products within a few days.
 
 ## Data License
 
