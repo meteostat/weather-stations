@@ -30,6 +30,11 @@ jobs:
         run: mysql2sqlite -f stations.db -d ${{ secrets.INVENTORY_DB }} -u ${{ secrets.INVENTORY_USER }} --mysql-password ${{ secrets.INVENTORY_PASSWORD }} -h ${{ secrets.INVENTORY_HOST }}
       - name: Get station data
         run: python database.py
+      - name: Upload stations database file via FTP
+        run: |
+          curl -T ./stations.db \
+            --user "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}" \
+            "ftp://${{ secrets.FTP_HOST }}/stations.db"
       - name: Commit Files
         run: |
           git config --local user.email "${{ vars.GIT_EMAIL }}"
