@@ -83,29 +83,30 @@ def create_station_dict(data: dict) -> dict:
     """
     Create a station dict from provided data
     """
-    result = {
-        "id": data.get("id", None),
-        "name": data.get("name", {"en": None}),
-        "country": data.get("country", None),
-        "region": data.get("region", None),
-        "identifiers": data.get("identifiers", {}),
-        "location": {
-            "latitude": data["location"].get("latitude", None)
-            if "location" in data
-            else None,
-            "longitude": data["location"].get("longitude", None)
-            if "location" in data
-            else None,
-            "elevation": data["location"].get("elevation", None)
-            if "location" in data
-            else None,
-        },
-        "timezone": data.get("timezone", None),
-    }
+    result = {}
     
-    # Add active flag if present
+    # Add fields in the correct order
+    result["id"] = data.get("id", None)
+    
     if "active" in data:
         result["active"] = data["active"]
+    
+    result["name"] = data.get("name", {"en": None})
+    result["country"] = data.get("country", None)
+    result["region"] = data.get("region", None)
+    result["identifiers"] = data.get("identifiers", {})
+    result["location"] = {
+        "latitude": data["location"].get("latitude", None)
+        if "location" in data
+        else None,
+        "longitude": data["location"].get("longitude", None)
+        if "location" in data
+        else None,
+        "elevation": data["location"].get("elevation", None)
+        if "location" in data
+        else None,
+    }
+    result["timezone"] = data.get("timezone", None)
     
     return result
 
