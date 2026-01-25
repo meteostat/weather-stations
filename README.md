@@ -9,6 +9,87 @@ You can download the list of weather stations, including Meteostat inventory dat
 
 Additional information about the Meteostat bulk data interface is available in the [documentation](https://dev.meteostat.net/bulk).
 
+## Janitor CLI
+
+This repository includes a CLI tool called **Janitor** for managing weather stations. The CLI is built with [Click](https://github.com/pallets/click) and provides several commands to help maintain the weather station directory.
+
+### Installation
+
+```bash
+pip install -e .
+```
+
+### Commands
+
+#### `janitor sync`
+Create a SQLite database from all active stations in the `stations` directory.
+
+```bash
+janitor sync
+janitor sync --output custom.db
+```
+
+#### `janitor check`
+Validate all station files against a strict JSON schema. Use the `-d` flag to delete invalid stations.
+
+```bash
+janitor check           # Validate and report issues
+janitor check -d        # Validate and delete invalid files
+```
+
+#### `janitor active`
+Update the `active` flags based on the latest inventory database from Meteostat. If a station has no inventory data, it will be marked as inactive.
+
+```bash
+janitor active
+```
+
+#### `janitor duplicates`
+Find potential duplicate stations based on shared identifiers or geographic proximity.
+
+```bash
+janitor duplicates              # Default 10km distance
+janitor duplicates -d 5.0       # Custom distance in km
+```
+
+#### `janitor query`
+Execute SQL queries on the stations database.
+
+```bash
+janitor query "SELECT * FROM stations WHERE country='US' LIMIT 10"
+janitor query "SELECT COUNT(*) FROM stations" --format json
+```
+
+#### `janitor import`
+Import or update stations from external data sources.
+
+```bash
+janitor import --source gsa
+```
+
+### Development
+
+The CLI code is located in the `cli/` directory:
+- `cli/janitor/` - Main CLI package
+- `cli/janitor/commands/` - Individual command implementations
+- `cli/janitor/importers/` - Data source importers
+- `cli/tests/` - Test suite
+
+Run tests:
+```bash
+pytest cli/tests/
+```
+
+Lint code:
+```bash
+ruff check cli/
+```
+
+Type check:
+```bash
+mypy cli/janitor --ignore-missing-imports
+```
+
 ## Data Structure
 
 The `stations` directory contains one JSON file per weather station. The files are named after the station's Meteostat ID and hold one JSON object which describes the respective weather station.
