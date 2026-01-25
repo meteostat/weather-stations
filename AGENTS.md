@@ -13,7 +13,7 @@ Update Austrian weather stations from GeoSphere Austria API.
 
 Data Source:
 - API URL: https://dataset.api.hub.geosphere.at/v1/station/historical/klima-v2-1d/metadata
-- Only include stations where is_active = true
+- Only include stations where is_active = true AND type = 'COMBINED'
 
 Station Matching Criteria (ALL must be fulfilled):
 1. For stations with different names:
@@ -54,12 +54,12 @@ REGION_CODES = {
 ```
 
 Steps:
-1. Fetch active stations from GeoSphere Austria API
+1. Fetch active COMBINED type stations from GeoSphere Austria API
 2. Load existing Austrian stations (country = "AT") from the repository
 3. For each GeoSphere station:
    a. Find matching Meteostat station based on criteria above
    b. If match found:
-      - Update name.en from GeoSphere name (use capwords() for capitalization)
+      - Update name.en from GeoSphere name (DO NOT alter casing or format)
       - Update latitude, longitude (rounded to 4 decimal places)
       - Update elevation (rounded to nearest integer)
       - Update region using REGION_CODES mapping
@@ -72,7 +72,7 @@ Steps:
         - active: true
         - country: "AT"
         - timezone: "Europe/Vienna"
-        - All other fields from GeoSphere data
+        - All other fields from GeoSphere data (DO NOT alter name casing)
 
 4. Generate partial_matches.md with:
    - GeoSphere station details
@@ -105,5 +105,6 @@ or simply:
 
 - The script should be idempotent - running it multiple times should not create duplicates
 - All JSON files should use 4-space indentation
-- Station names should be capitalized using Python's capwords() function
+- Station names should be used as-is from GeoSphere (DO NOT alter casing)
+- Only COMBINED type stations should be included
 - The script should be saved in scripts/austria/import.py

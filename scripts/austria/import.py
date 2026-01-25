@@ -6,7 +6,6 @@ import json
 import os
 import random
 import string
-from string import capwords
 from urllib import request, error
 
 import numpy as np
@@ -182,8 +181,9 @@ def fetch_geosphere_stations():
     response = requests.get(API_URL, timeout=30)
     response.raise_for_status()
     data = response.json()
-    # Filter only active stations
-    return [s for s in data['stations'] if s.get('is_active', False)]
+    # Filter only active COMBINED type stations
+    return [s for s in data['stations']
+            if s.get('is_active', False) and s.get('type') == 'COMBINED']
 
 
 def stations_match(geosphere_station, meteostat_station):
@@ -301,7 +301,7 @@ def main():
 
             update_data = {
                 "id": matched_station['id'],
-                "name": {"en": capwords(geosphere_station['name'])},
+                "name": {"en": geosphere_station['name']},
                 "region": REGION_CODES.get(geosphere_station.get('state')),
                 "location": {
                     "latitude": round(geosphere_station['lat'], 4),
@@ -333,7 +333,7 @@ def main():
                 new_station_data = {
                     "id": generate_uid(),
                     "active": True,
-                    "name": {"en": capwords(geosphere_station['name'])},
+                    "name": {"en": geosphere_station['name']},
                     "country": "AT",
                     "region": REGION_CODES.get(geosphere_station.get('state')),
                     "identifiers": {
