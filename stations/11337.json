@@ -2,17 +2,18 @@
     "id": "11337",
     "active": false,
     "name": {
-        "en": "Loferer Alm / Strub"
+        "en": "Loferer Alm"
     },
     "country": "AT",
-    "region": "SZ",
+    "region": "5",
     "identifiers": {
-        "wmo": "11337"
+        "wmo": "11337",
+        "national": "9215"
     },
     "location": {
-        "latitude": 47.5972,
-        "longitude": 12.6453,
-        "elevation": 1624
+        "latitude": 47.5978,
+        "longitude": 12.6461,
+        "elevation": 1619
     },
     "timezone": "Europe/Vienna"
 }

@@ -5,14 +5,15 @@
         "en": "Villacher Alpe"
     },
     "country": "AT",
-    "region": "KA",
+    "region": "2",
     "identifiers": {
-        "wmo": "11265"
+        "wmo": "11265",
+        "national": "20021"
     },
     "location": {
-        "latitude": 46.6028,
-        "longitude": 13.68,
-        "elevation": 2156
+        "latitude": 46.6036,
+        "longitude": 13.6728,
+        "elevation": 2117
     },
     "timezone": "Europe/Vienna"
 }

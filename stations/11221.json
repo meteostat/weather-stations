@@ -2,17 +2,18 @@
     "id": "11221",
     "active": false,
     "name": {
-        "en": "Koeflach / Obergraden"
+        "en": "Köflach"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11221"
+        "wmo": "11221",
+        "national": "16308"
     },
     "location": {
-        "latitude": 47.0697,
-        "longitude": 15.0875,
-        "elevation": 462
+        "latitude": 47.0703,
+        "longitude": 15.0872,
+        "elevation": 465
     },
     "timezone": "Europe/Vienna"
 }

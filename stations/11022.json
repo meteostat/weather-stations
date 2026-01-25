@@ -5,15 +5,16 @@
         "en": "Retz"
     },
     "country": "AT",
-    "region": "NO",
+    "region": "3",
     "identifiers": {
         "wmo": "11022",
-        "mosmix": "11022"
+        "mosmix": "11022",
+        "national": "905"
     },
     "location": {
-        "latitude": 48.7667,
-        "longitude": 15.95,
-        "elevation": 256
+        "latitude": 48.7611,
+        "longitude": 15.9417,
+        "elevation": 320
     },
     "timezone": "Europe/Vienna"
 }

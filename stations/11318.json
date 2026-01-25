@@ -2,17 +2,18 @@
     "id": "11318",
     "active": false,
     "name": {
-        "en": "Brunnenkogel / Mandarfen"
+        "en": "Brunnenkogel"
     },
     "country": "AT",
-    "region": "TR",
+    "region": "7",
     "identifiers": {
-        "wmo": "11318"
+        "wmo": "11318",
+        "national": "17320"
     },
     "location": {
         "latitude": 46.9128,
-        "longitude": 10.8628,
-        "elevation": 3440
+        "longitude": 10.8617,
+        "elevation": 3437
     },
     "timezone": "Europe/Vienna"
 }

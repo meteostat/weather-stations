@@ -2,12 +2,13 @@
     "id": "11111",
     "active": false,
     "name": {
-        "en": "Tannheim / Kienzen"
+        "en": "Tannheim"
     },
     "country": "AT",
-    "region": "TR",
+    "region": "7",
     "identifiers": {
-        "wmo": "11111"
+        "wmo": "11111",
+        "national": "11410"
     },
     "location": {
         "latitude": 47.5003,

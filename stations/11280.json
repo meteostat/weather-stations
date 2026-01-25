@@ -5,14 +5,15 @@
         "en": "Murau"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11280"
+        "wmo": "11280",
+        "national": "15920"
     },
     "location": {
-        "latitude": 47.1167,
-        "longitude": 14.1833,
-        "elevation": 813
+        "latitude": 47.1111,
+        "longitude": 14.1769,
+        "elevation": 816
     },
     "timezone": "Europe/Vienna"
 }

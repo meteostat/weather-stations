@@ -2,17 +2,18 @@
     "id": "11296",
     "active": false,
     "name": {
-        "en": "Leibnitz / Altenmarkt"
+        "en": "Leibnitz-wagna"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11296"
+        "wmo": "11296",
+        "national": "19021"
     },
     "location": {
-        "latitude": 46.7678,
-        "longitude": 15.5539,
-        "elevation": 267
+        "latitude": 46.7674,
+        "longitude": 15.5529,
+        "elevation": 268
     },
     "timezone": "Europe/Vienna"
 }

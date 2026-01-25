@@ -5,14 +5,15 @@
         "en": "Bregenz"
     },
     "country": "AT",
-    "region": "VO",
+    "region": "8",
     "identifiers": {
         "wmo": "11101",
-        "mosmix": "11101"
+        "mosmix": "11101",
+        "national": "11104"
     },
     "location": {
-        "latitude": 47.5,
-        "longitude": 9.7333,
+        "latitude": 47.4992,
+        "longitude": 9.7461,
         "elevation": 424
     },
     "timezone": "Europe/Vienna"

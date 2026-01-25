@@ -5,14 +5,15 @@
         "en": "Dornbirn"
     },
     "country": "AT",
-    "region": "VO",
+    "region": "8",
     "identifiers": {
-        "wmo": "11302"
+        "wmo": "11302",
+        "national": "11114"
     },
     "location": {
-        "latitude": 47.4333,
-        "longitude": 9.7333,
-        "elevation": 410
+        "latitude": 47.4325,
+        "longitude": 9.7256,
+        "elevation": 407
     },
     "timezone": "Europe/Vienna"
 }

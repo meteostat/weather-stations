@@ -5,14 +5,15 @@
         "en": "Pitztaler Gletscher"
     },
     "country": "AT",
-    "region": "TR",
+    "region": "7",
     "identifiers": {
-        "wmo": "11316"
+        "wmo": "11316",
+        "national": "17315"
     },
     "location": {
-        "latitude": 46.9333,
-        "longitude": 10.8833,
-        "elevation": 2850
+        "latitude": 46.9271,
+        "longitude": 10.8791,
+        "elevation": 2864
     },
     "timezone": "Europe/Vienna"
 }

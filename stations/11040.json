@@ -2,18 +2,19 @@
     "id": "11040",
     "active": true,
     "name": {
-        "en": "Wien / Kledering"
+        "en": "Wien Unterlaa"
     },
     "country": "AT",
-    "region": "WI",
+    "region": "9",
     "identifiers": {
         "wmo": "11040",
-        "mosmix": "11040"
+        "mosmix": "11040",
+        "national": "5917"
     },
     "location": {
-        "latitude": 48.1247,
-        "longitude": 16.4192,
-        "elevation": 201
+        "latitude": 48.125,
+        "longitude": 16.4194,
+        "elevation": 200
     },
     "timezone": "Europe/Vienna"
 }

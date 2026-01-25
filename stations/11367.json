@@ -2,17 +2,18 @@
     "id": "11367",
     "active": false,
     "name": {
-        "en": "Baernkopf / Dürnberg"
+        "en": "Bärnkopf"
     },
     "country": "AT",
-    "region": "NO",
+    "region": "3",
     "identifiers": {
-        "wmo": "11367"
+        "wmo": "11367",
+        "national": "3520"
     },
     "location": {
         "latitude": 48.3911,
         "longitude": 15.0028,
-        "elevation": 970
+        "elevation": 969
     },
     "timezone": "Europe/Vienna"
 }

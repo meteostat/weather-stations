@@ -5,15 +5,16 @@
         "en": "Brenner"
     },
     "country": "AT",
-    "region": "TT",
+    "region": "7",
     "identifiers": {
         "wmo": "11128",
-        "mosmix": "11128"
+        "mosmix": "11128",
+        "national": "14802"
     },
     "location": {
-        "latitude": 47,
-        "longitude": 11.5167,
-        "elevation": 1450
+        "latitude": 47.0072,
+        "longitude": 11.5108,
+        "elevation": 1412
     },
     "timezone": "Europe/Vienna"
 }

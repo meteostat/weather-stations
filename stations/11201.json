@@ -2,18 +2,19 @@
     "id": "11201",
     "active": true,
     "name": {
-        "en": "Sillian / Schlittenhaus"
+        "en": "Sillian"
     },
     "country": "AT",
-    "region": "TR",
+    "region": "7",
     "identifiers": {
         "wmo": "11201",
-        "mosmix": "11201"
+        "mosmix": "11201",
+        "national": "19505"
     },
     "location": {
         "latitude": 46.7464,
         "longitude": 12.4236,
-        "elevation": 1087
+        "elevation": 1081
     },
     "timezone": "Europe/Vienna"
 }

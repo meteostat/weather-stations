@@ -2,17 +2,18 @@
     "id": "11228",
     "active": false,
     "name": {
-        "en": "Friesach / Hartmannsdorf"
+        "en": "Friesach"
     },
     "country": "AT",
-    "region": "KA",
+    "region": "2",
     "identifiers": {
-        "wmo": "11228"
+        "wmo": "11228",
+        "national": "18601"
     },
     "location": {
-        "latitude": 46.9589,
+        "latitude": 46.9586,
         "longitude": 14.4058,
-        "elevation": 644
+        "elevation": 640
     },
     "timezone": "Europe/Vienna"
 }

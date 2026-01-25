@@ -5,14 +5,15 @@
         "en": "Krimml"
     },
     "country": "AT",
-    "region": "SZ",
+    "region": "5",
     "identifiers": {
-        "wmo": "11136"
+        "wmo": "11136",
+        "national": "15105"
     },
     "location": {
-        "latitude": 47.2333,
-        "longitude": 12.1833,
-        "elevation": 1000
+        "latitude": 47.2291,
+        "longitude": 12.182,
+        "elevation": 1009
     },
     "timezone": "Europe/Vienna"
 }

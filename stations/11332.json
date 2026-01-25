@@ -2,17 +2,18 @@
     "id": "11332",
     "active": false,
     "name": {
-        "en": "Mistelbach / Rohrmühle"
+        "en": "Mistelbach"
     },
     "country": "AT",
-    "region": "NO",
+    "region": "3",
     "identifiers": {
-        "wmo": "11332"
+        "wmo": "11332",
+        "national": "2430"
     },
     "location": {
         "latitude": 48.5708,
-        "longitude": 16.61,
-        "elevation": 195
+        "longitude": 16.6094,
+        "elevation": 191
     },
     "timezone": "Europe/Vienna"
 }

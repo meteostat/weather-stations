@@ -2,17 +2,18 @@
     "id": "11206",
     "active": false,
     "name": {
-        "en": "Doellach / Hintere Asten"
+        "en": "Döllach"
     },
     "country": "AT",
-    "region": "KA",
+    "region": "2",
     "identifiers": {
-        "wmo": "11206"
+        "wmo": "11206",
+        "national": "18001"
     },
     "location": {
         "latitude": 46.9581,
         "longitude": 12.9025,
-        "elevation": 1078
+        "elevation": 1071
     },
     "timezone": "Europe/Vienna"
 }

@@ -2,18 +2,19 @@
     "id": "11070",
     "active": true,
     "name": {
-        "en": "Krems / Gneixendorf"
+        "en": "Krems"
     },
     "country": "AT",
-    "region": "NO",
+    "region": "3",
     "identifiers": {
         "wmo": "11070",
-        "mosmix": "11070"
+        "mosmix": "11070",
+        "national": "3805"
     },
     "location": {
-        "latitude": 48.4183,
-        "longitude": 15.6214,
-        "elevation": 203
+        "latitude": 48.4186,
+        "longitude": 15.6222,
+        "elevation": 202
     },
     "timezone": "Europe/Vienna"
 }

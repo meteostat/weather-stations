@@ -5,14 +5,15 @@
         "en": "Virgen"
     },
     "country": "AT",
-    "region": "TR",
+    "region": "7",
     "identifiers": {
-        "wmo": "11252"
+        "wmo": "11252",
+        "national": "15210"
     },
     "location": {
-        "latitude": 47,
-        "longitude": 12.45,
-        "elevation": 1198
+        "latitude": 47.0028,
+        "longitude": 12.4559,
+        "elevation": 1212
     },
     "timezone": "Europe/Vienna"
 }

@@ -2,16 +2,17 @@
     "id": "11362",
     "active": false,
     "name": {
-        "en": "Kalwang / Sebastianiberg"
+        "en": "Kalwang"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11362"
+        "wmo": "11362",
+        "national": "13120"
     },
     "location": {
-        "latitude": 47.4214,
-        "longitude": 14.7597,
+        "latitude": 47.4213,
+        "longitude": 14.7596,
         "elevation": 744
     },
     "timezone": "Europe/Vienna"

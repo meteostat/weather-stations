@@ -2,17 +2,18 @@
     "id": "11310",
     "active": false,
     "name": {
-        "en": "Ischgl / Idalpe"
+        "en": "Ischgl-idalpe"
     },
     "country": "AT",
-    "region": "TR",
+    "region": "7",
     "identifiers": {
-        "wmo": "11310"
+        "wmo": "11310",
+        "national": "17005"
     },
     "location": {
-        "latitude": 46.9833,
-        "longitude": 10.3167,
-        "elevation": 2323
+        "latitude": 46.9825,
+        "longitude": 10.3172,
+        "elevation": 2327
     },
     "timezone": "Europe/Vienna"
 }

@@ -5,15 +5,16 @@
         "en": "Sonnblick"
     },
     "country": "AT",
-    "region": "SZ",
+    "region": "5",
     "identifiers": {
         "wmo": "11343",
-        "ghcn": "AUM00011343"
+        "ghcn": "AUM00011343",
+        "national": "15411"
     },
     "location": {
-        "latitude": 47.0544,
-        "longitude": 12.9581,
-        "elevation": 3105
+        "latitude": 47.0542,
+        "longitude": 12.9575,
+        "elevation": 3109
     },
     "timezone": "Europe/Vienna"
 }

@@ -2,17 +2,18 @@
     "id": "11339",
     "active": false,
     "name": {
-        "en": "Hochfilzen / Oberwarming"
+        "en": "Hochflizen"
     },
     "country": "AT",
-    "region": "TR",
+    "region": "7",
     "identifiers": {
-        "wmo": "11339"
+        "wmo": "11339",
+        "national": "12352"
     },
     "location": {
         "latitude": 47.4703,
         "longitude": 12.6211,
-        "elevation": 962
+        "elevation": 960
     },
     "timezone": "Europe/Vienna"
 }
