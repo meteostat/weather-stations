@@ -2,17 +2,18 @@
     "id": "11352",
     "active": false,
     "name": {
-        "en": "Frankenmarkt / Danzenreith"
+        "en": "Frankenmarkt"
     },
     "country": "AT",
-    "region": "OO",
+    "region": "4",
     "identifiers": {
-        "wmo": "11352"
+        "wmo": "11352",
+        "national": "190"
     },
     "location": {
-        "latitude": 47.9919,
-        "longitude": 13.4239,
-        "elevation": 571
+        "latitude": 47.9914,
+        "longitude": 13.4231,
+        "elevation": 565
     },
     "timezone": "Europe/Vienna"
 }

@@ -5,16 +5,17 @@
         "en": "Kremsmünster"
     },
     "country": "AT",
-    "region": "OO",
+    "region": "4",
     "identifiers": {
         "wmo": "11012",
         "ghcn": "AU000005010",
-        "mosmix": "11012"
+        "mosmix": "11012",
+        "national": "204"
     },
     "location": {
-        "latitude": 48.05,
-        "longitude": 14.1333,
-        "elevation": 383
+        "latitude": 48.055,
+        "longitude": 14.1311,
+        "elevation": 382
     },
     "timezone": "Europe/Vienna"
 }

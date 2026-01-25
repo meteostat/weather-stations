@@ -2,17 +2,18 @@
     "id": "11232",
     "active": false,
     "name": {
-        "en": "Feistritz Ob Bleiburg"
+        "en": "Feistritz ob Bleiburg"
     },
     "country": "AT",
-    "region": "KA",
+    "region": "2",
     "identifiers": {
-        "wmo": "11232"
+        "wmo": "11232",
+        "national": "91"
     },
     "location": {
-        "latitude": 46.5667,
-        "longitude": 14.7667,
-        "elevation": 527
+        "latitude": 46.5614,
+        "longitude": 14.765,
+        "elevation": 523
     },
     "timezone": "Europe/Vienna"
 }

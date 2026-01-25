@@ -5,15 +5,16 @@
         "en": "Kleinzicken"
     },
     "country": "AT",
-    "region": "BGLD",
+    "region": "1",
     "identifiers": {
         "wmo": "11192",
-        "mosmix": "11192"
+        "mosmix": "11192",
+        "national": "49"
     },
     "location": {
-        "latitude": 47.2167,
-        "longitude": 16.3333,
-        "elevation": 267
+        "latitude": 47.2075,
+        "longitude": 16.3267,
+        "elevation": 263
     },
     "timezone": "Europe/Vienna"
 }

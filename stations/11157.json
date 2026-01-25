@@ -5,17 +5,18 @@
         "en": "Aigen im Ennstal"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
         "wmo": "11157",
         "icao": "LOXA",
         "usaf": "111570",
-        "mosmix": "11157"
+        "mosmix": "11157",
+        "national": "2"
     },
     "location": {
-        "latitude": 47.5333,
-        "longitude": 14.1333,
-        "elevation": 638
+        "latitude": 47.5328,
+        "longitude": 14.1383,
+        "elevation": 641
     },
     "timezone": "Europe/Vienna"
 }

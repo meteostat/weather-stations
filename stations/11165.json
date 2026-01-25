@@ -5,17 +5,18 @@
         "en": "Zeltweg"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
         "wmo": "11165",
         "icao": "LOXZ",
         "usaf": "111650",
-        "mosmix": "11165"
+        "mosmix": "11165",
+        "national": "115"
     },
     "location": {
-        "latitude": 47.2,
-        "longitude": 14.75,
-        "elevation": 677
+        "latitude": 47.1998,
+        "longitude": 14.7469,
+        "elevation": 678
     },
     "timezone": "Europe/Vienna"
 }

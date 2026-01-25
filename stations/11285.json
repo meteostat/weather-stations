@@ -2,16 +2,17 @@
     "id": "11285",
     "active": false,
     "name": {
-        "en": "Deutschlandsberg / Hörbing"
+        "en": "Deutschlandsberg"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11285"
+        "wmo": "11285",
+        "national": "116"
     },
     "location": {
-        "latitude": 46.8219,
-        "longitude": 15.2281,
+        "latitude": 46.8217,
+        "longitude": 15.2269,
         "elevation": 354
     },
     "timezone": "Europe/Vienna"

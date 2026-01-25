@@ -2,17 +2,18 @@
     "id": "11003",
     "active": false,
     "name": {
-        "en": "Ried Im Innkreis"
+        "en": "Ried im Innkreis"
     },
     "country": "AT",
-    "region": "OO",
+    "region": "4",
     "identifiers": {
-        "wmo": "11003"
+        "wmo": "11003",
+        "national": "141"
     },
     "location": {
-        "latitude": 48.2167,
-        "longitude": 13.4833,
-        "elevation": 435
+        "latitude": 48.2172,
+        "longitude": 13.475,
+        "elevation": 427
     },
     "timezone": "Europe/Vienna"
 }

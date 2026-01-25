@@ -5,14 +5,15 @@
         "en": "Weitensfeld"
     },
     "country": "AT",
-    "region": "KA",
+    "region": "2",
     "identifiers": {
-        "wmo": "11225"
+        "wmo": "11225",
+        "national": "103"
     },
     "location": {
-        "latitude": 46.85,
-        "longitude": 14.2,
-        "elevation": 705
+        "latitude": 46.8492,
+        "longitude": 14.1908,
+        "elevation": 704
     },
     "timezone": "Europe/Vienna"
 }

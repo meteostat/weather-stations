@@ -2,18 +2,19 @@
     "id": "11144",
     "active": true,
     "name": {
-        "en": "Zell Am See"
+        "en": "Zell am See"
     },
     "country": "AT",
-    "region": "SZ",
+    "region": "5",
     "identifiers": {
         "wmo": "11144",
-        "mosmix": "11144"
+        "mosmix": "11144",
+        "national": "113"
     },
     "location": {
-        "latitude": 47.3333,
-        "longitude": 12.8,
-        "elevation": 766
+        "latitude": 47.29,
+        "longitude": 12.7864,
+        "elevation": 754
     },
     "timezone": "Europe/Vienna"
 }

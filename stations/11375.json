@@ -5,14 +5,15 @@
         "en": "Aflenz"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11375"
+        "wmo": "11375",
+        "national": "1"
     },
     "location": {
-        "latitude": 47.55,
-        "longitude": 15.25,
-        "elevation": 784
+        "latitude": 47.5459,
+        "longitude": 15.2407,
+        "elevation": 783
     },
     "timezone": "Europe/Vienna"
 }

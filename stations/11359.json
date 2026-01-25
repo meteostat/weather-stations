@@ -2,17 +2,18 @@
     "id": "11359",
     "active": false,
     "name": {
-        "en": "Groebming / Hofmanning"
+        "en": "Gröbming"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11359"
+        "wmo": "11359",
+        "national": "147"
     },
     "location": {
-        "latitude": 47.4467,
+        "latitude": 47.4468,
         "longitude": 13.9042,
-        "elevation": 765
+        "elevation": 766
     },
     "timezone": "Europe/Vienna"
 }

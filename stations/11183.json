@@ -5,14 +5,15 @@
         "en": "Semmering"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "3",
     "identifiers": {
-        "wmo": "11183"
+        "wmo": "11183",
+        "national": "88"
     },
     "location": {
-        "latitude": 47.6333,
-        "longitude": 15.8167,
-        "elevation": 960
+        "latitude": 47.6332,
+        "longitude": 15.8284,
+        "elevation": 988
     },
     "timezone": "Europe/Vienna"
 }

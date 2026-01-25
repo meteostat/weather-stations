@@ -5,14 +5,15 @@
         "en": "Jauerling"
     },
     "country": "AT",
-    "region": "NO",
+    "region": "3",
     "identifiers": {
-        "wmo": "11024"
+        "wmo": "11024",
+        "national": "193"
     },
     "location": {
-        "latitude": 48.35,
-        "longitude": 15.3667,
-        "elevation": 860
+        "latitude": 48.3345,
+        "longitude": 15.3391,
+        "elevation": 955
     },
     "timezone": "Europe/Vienna"
 }

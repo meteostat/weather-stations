@@ -2,17 +2,18 @@
     "id": "11083",
     "active": false,
     "name": {
-        "en": "Leiser Berge / Klement"
+        "en": "Leiser Berge"
     },
     "country": "AT",
-    "region": "NO",
+    "region": "3",
     "identifiers": {
-        "wmo": "11083"
+        "wmo": "11083",
+        "national": "67"
     },
     "location": {
         "latitude": 48.5589,
         "longitude": 16.3717,
-        "elevation": 457
+        "elevation": 456
     },
     "timezone": "Europe/Vienna"
 }

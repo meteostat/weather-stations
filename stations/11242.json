@@ -2,17 +2,18 @@
     "id": "11242",
     "active": false,
     "name": {
-        "en": "St. Radegund / Göttelsberg"
+        "en": "St.Radegund"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11242"
+        "wmo": "11242",
+        "national": "94"
     },
     "location": {
-        "latitude": 47.1822,
-        "longitude": 15.4908,
-        "elevation": 725
+        "latitude": 47.1821,
+        "longitude": 15.4898,
+        "elevation": 726
     },
     "timezone": "Europe/Vienna"
 }
