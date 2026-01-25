@@ -2,14 +2,15 @@
 Import weather stations from GeoSphere Austria
 """
 
-import os
 import json
+import os
 import random
 import string
-import requests
 from string import capwords
-import numpy as np
 from urllib import request, error
+
+import numpy as np
+import requests
 
 # Map Austrian state names to ISO 3166-2 codes
 REGION_CODES = {
@@ -46,13 +47,14 @@ def generate_uid(private: bool = False) -> str:
         uid = "".join(
             random.choice(string.ascii_uppercase + string.digits) for _ in range(5)
         )
-        
+
         if private:
             uid = "$" + uid[1:]
-        
+
         url = f"https://github.com/meteostat/weather-stations/blob/master/stations/{uid}.json"
-        
+
         try:
+            # pylint: disable=consider-using-with
             request.urlopen(url)
         except error.HTTPError:
             return uid
@@ -64,18 +66,19 @@ def get_distance(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     """
     # Earth radius in meters
     radius = 6371000
-    
+
     # Degrees to radian
     lat1, lon1, lat2, lon2 = map(np.deg2rad, [lat1, lon1, lat2, lon2])
-    
+
     # Deltas
     dlat = lat2 - lat1
     dlon = lon2 - lon1
-    
+
     # Calculate distance
-    arch = np.sin(dlat / 2) ** 2 + np.cos(lat1) * np.cos(lat2) * np.sin(dlon / 2) ** 2
+    arch = (np.sin(dlat / 2) ** 2 + np.cos(lat1) *
+            np.cos(lat2) * np.sin(dlon / 2) ** 2)
     arch_sin = 2 * np.arcsin(np.sqrt(arch))
-    
+
     return radius * arch_sin
 
 
@@ -84,13 +87,13 @@ def create_station_dict(data: dict) -> dict:
     Create a station dict from provided data
     """
     result = {}
-    
+
     # Add fields in the correct order
     result["id"] = data.get("id", None)
-    
+
     if "active" in data:
         result["active"] = data["active"]
-    
+
     result["name"] = data.get("name", {"en": None})
     result["country"] = data.get("country", None)
     result["region"] = data.get("region", None)
@@ -107,7 +110,7 @@ def create_station_dict(data: dict) -> dict:
         else None,
     }
     result["timezone"] = data.get("timezone", None)
-    
+
     return result
 
 
@@ -129,10 +132,10 @@ def create(data: dict) -> None:
     """
     # Get file path
     file = os.path.join(STATIONS_PATH, data["id"] + ".json")
-    
+
     # Merge with template
     data = create_station_dict(data)
-    
+
     # Write into file
     with open(file, "w", encoding="utf-8") as f:
         f.write(json.dumps(data, indent=4, default=str, ensure_ascii=False))
@@ -144,14 +147,14 @@ def update(data: dict) -> None:
     """
     # Get file path
     file = os.path.join(STATIONS_PATH, data["id"] + ".json")
-    
+
     # Read file and parse JSON
     with open(file, "r", encoding="utf-8") as f:
         state: dict = json.load(f)
-    
+
     # Deep merge
     merge_dicts(data, state)
-    
+
     # Write into file
     with open(file, "w", encoding="utf-8") as f:
         f.write(json.dumps(state, indent=4, default=str, ensure_ascii=False))
@@ -189,9 +192,9 @@ def stations_match(geosphere_station, meteostat_station):
     - Maximum distance of 100 meters
     - Maximum elevation difference of 20 meters
     - If names equal: max distance 1000m and max elevation diff 100m
-    
+
     All criteria must be fulfilled for a match.
-    
+
     Returns: (is_match, distance, elevation_diff)
     """
     # Calculate distance
@@ -201,17 +204,17 @@ def stations_match(geosphere_station, meteostat_station):
         meteostat_station['location']['latitude'],
         meteostat_station['location']['longitude']
     )
-    
+
     # Calculate elevation difference
     elevation_diff = abs(
         geosphere_station['altitude'] - meteostat_station['location']['elevation']
     )
-    
+
     # Check if names match (case-insensitive comparison)
     geosphere_name = geosphere_station['name'].lower()
     meteostat_name = meteostat_station['name'].get('en', '').lower()
     names_match = geosphere_name == meteostat_name
-    
+
     # Apply matching criteria
     if names_match:
         # If names match, allow larger tolerances
@@ -219,14 +222,14 @@ def stations_match(geosphere_station, meteostat_station):
     else:
         # Otherwise, use strict criteria
         is_match = distance <= 100 and elevation_diff <= 20
-    
+
     return is_match, distance, elevation_diff
 
 
 def find_match(geosphere_station, meteostat_stations):
     """
     Find a matching Meteostat station for a GeoSphere station
-    
+
     Returns: (matched_station, is_exact, distance, elevation_diff) or (None, False, None, None)
     """
     for meteostat_station in meteostat_stations:
@@ -235,19 +238,19 @@ def find_match(geosphere_station, meteostat_stations):
         )
         if is_match:
             return meteostat_station, True, distance, elevation_diff
-    
+
     return None, False, None, None
 
 
 def find_partial_match(geosphere_station, meteostat_stations):
     """
     Find a partial match (close but doesn't meet all criteria)
-    
+
     Returns: list of (meteostat_station, distance, elevation_diff) tuples
     within reasonable proximity (e.g., distance < 5000m)
     """
     partial_matches = []
-    
+
     for meteostat_station in meteostat_stations:
         distance = get_distance(
             geosphere_station['lat'],
@@ -255,17 +258,17 @@ def find_partial_match(geosphere_station, meteostat_stations):
             meteostat_station['location']['latitude'],
             meteostat_station['location']['longitude']
         )
-        
+
         elevation_diff = abs(
             geosphere_station['altitude'] - meteostat_station['location']['elevation']
         )
-        
+
         # Check if it's a near miss (close but not exact match)
         if distance <= 5000 and elevation_diff <= 200:
             is_match, _, _ = stations_match(geosphere_station, meteostat_station)
             if not is_match:  # Only include if not an exact match
                 partial_matches.append((meteostat_station, distance, elevation_diff))
-    
+
     return partial_matches
 
 
@@ -276,26 +279,26 @@ def main():
     print("Fetching GeoSphere Austria stations...")
     geosphere_stations = fetch_geosphere_stations()
     print(f"Found {len(geosphere_stations)} active stations from GeoSphere Austria")
-    
+
     print("Loading existing Austrian stations from Meteostat...")
     meteostat_stations = load_existing_austrian_stations()
     print(f"Found {len(meteostat_stations)} existing Austrian stations in Meteostat")
-    
+
     updated_count = 0
     created_count = 0
     partial_matches_list = []
     matched_meteostat_ids = set()
-    
+
     for geosphere_station in geosphere_stations:
         # Find matching Meteostat station
         matched_station, is_match, distance, elevation_diff = find_match(
             geosphere_station, meteostat_stations
         )
-        
+
         if is_match and matched_station:
             # Update existing station
             print(f"Updating station {matched_station['id']} - {geosphere_station['name']}")
-            
+
             update_data = {
                 "id": matched_station['id'],
                 "name": {"en": capwords(geosphere_station['name'])},
@@ -309,14 +312,14 @@ def main():
                     "national": str(geosphere_station['id'])
                 }
             }
-            
+
             update(update_data)
             updated_count += 1
             matched_meteostat_ids.add(matched_station['id'])
         else:
             # Check for partial matches
             partial_matches = find_partial_match(geosphere_station, meteostat_stations)
-            
+
             if partial_matches:
                 # Log partial match for manual review
                 partial_matches_list.append({
@@ -326,7 +329,7 @@ def main():
             else:
                 # Create new station
                 print(f"Creating new station for {geosphere_station['name']}")
-                
+
                 new_station_data = {
                     "id": generate_uid(),
                     "active": True,
@@ -343,22 +346,22 @@ def main():
                     },
                     "timezone": "Europe/Vienna"
                 }
-                
+
                 create(new_station_data)
                 created_count += 1
-    
-    print(f"\nSummary:")
+
+    print("\nSummary:")
     print(f"Updated: {updated_count} stations")
     print(f"Created: {created_count} new stations")
     print(f"Partial matches: {len(partial_matches_list)} stations")
-    
+
     # Write partial matches to markdown file
     if partial_matches_list:
         with open(PARTIAL_MATCHES_FILE, 'w', encoding='utf-8') as f:
             f.write("# Partial Matches for Manual Review\n\n")
             f.write("The following GeoSphere Austria stations could not be automatically matched ")
             f.write("but have potential matches in Meteostat that require manual review.\n\n")
-            
+
             for item in partial_matches_list:
                 geosphere = item['geosphere']
                 f.write(f"## GeoSphere Station: {geosphere['name']}\n\n")
@@ -366,15 +369,25 @@ def main():
                 f.write(f"- **State**: {geosphere.get('state', 'N/A')}\n")
                 f.write(f"- **Location**: {geosphere['lat']}, {geosphere['lon']}\n")
                 f.write(f"- **Elevation**: {geosphere['altitude']}m\n\n")
-                
+
                 f.write("### Possible Meteostat Matches:\n\n")
                 for meteostat_station, dist, elev_diff in item['meteostat_matches']:
-                    f.write(f"- **{meteostat_station['id']}** - {meteostat_station['name'].get('en', 'N/A')}\n")
+                    f.write(
+                        f"- **{meteostat_station['id']}** - "
+                        f"{meteostat_station['name'].get('en', 'N/A')}\n"
+                    )
                     f.write(f"  - Distance: {dist:.0f}m\n")
                     f.write(f"  - Elevation difference: {elev_diff:.0f}m\n")
-                    f.write(f"  - Location: {meteostat_station['location']['latitude']}, {meteostat_station['location']['longitude']}\n")
-                    f.write(f"  - Elevation: {meteostat_station['location']['elevation']}m\n\n")
-        
+                    f.write(
+                        f"  - Location: "
+                        f"{meteostat_station['location']['latitude']}, "
+                        f"{meteostat_station['location']['longitude']}\n"
+                    )
+                    f.write(
+                        f"  - Elevation: "
+                        f"{meteostat_station['location']['elevation']}m\n\n"
+                    )
+
         print(f"Partial matches written to {PARTIAL_MATCHES_FILE}")
 
 
