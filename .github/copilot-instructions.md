@@ -50,9 +50,9 @@ Each weather station JSON file must include:
 
 ### Dependencies
 - Python 3.5+
-- Core dependencies: `mysql-to-sqlite3`, `pandas`
-- Package dependencies: `meteostat==1.5.7`
-- Install via: `pip install -r requirements.txt`
+- Development dependencies: `mysql-to-sqlite3`, `pandas`
+- Install development dependencies: `pip install -r requirements.txt`
+- Package dependency (when using as library): `meteostat==1.5.7` (specified in setup.py)
 
 ## Contribution Workflow
 1. Validate JSON structure matches the data format specifications
