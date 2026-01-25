@@ -2,6 +2,36 @@
 
 The following GeoSphere Austria stations could not be automatically matched but have potential matches in Meteostat that require manual review.
 
+## Instructions for Manual Review
+
+For each station listed below:
+
+1. **Research the station online** using:
+   - Google Maps: Search for the station name and coordinates
+   - Wikipedia: Look for information about the weather station
+   - Official sources: Check GeoSphere Austria or other meteorological websites
+   - Satellite imagery: Verify the exact location
+
+2. **Use MCP servers if available** to gather additional context:
+   - GitHub MCP server for repository history
+   - Web search for station information
+   - Any meteorological data sources
+
+3. **Verify the match** by:
+   - Confirming the physical location matches
+   - Checking if the station was relocated
+   - Verifying elevation matches the terrain
+   - Cross-referencing with other station databases
+
+4. **Make a decision**:
+   - If match confirmed: Manually update the Meteostat station
+   - If no match: Keep both stations separate
+   - If uncertain: Flag for further investigation
+
+---
+
+## Stations Requiring Manual Review
+
 ## GeoSphere Station: Amstetten
 
 - **ID**: 4
