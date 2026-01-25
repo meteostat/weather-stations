@@ -1,5 +1,7 @@
 """Duplicates command - Find potential duplicate stations."""
 
+import math
+
 import click
 
 from janitor.database import query_database
@@ -100,8 +102,6 @@ def find_proximity_duplicates(db_path, max_distance_km):
 
 def calculate_distance(lat1, lon1, lat2, lon2):
     """Calculate distance between two points in km using Haversine formula."""
-    import math
-
     # Earth radius in km
     R = 6371.0
 

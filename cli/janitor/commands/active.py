@@ -14,13 +14,26 @@ def download_inventory_db(output_path: Path) -> None:
     url = "http://data.meteostat.net/stations.db"
     click.echo(f"Downloading inventory database from {url}...")
 
-    response = requests.get(url, timeout=60)
-    response.raise_for_status()
+    try:
+        response = requests.get(url, timeout=60)
+        response.raise_for_status()
 
-    with open(output_path, "wb") as f:
-        f.write(response.content)
+        with open(output_path, "wb") as f:
+            f.write(response.content)
 
-    click.echo(f"✓ Downloaded to {output_path}")
+        click.echo(f"✓ Downloaded to {output_path}")
+    except requests.exceptions.Timeout:
+        click.echo(
+            "Error: Request timed out after 60 seconds. Please check your internet connection.",
+            err=True,
+        )
+        raise click.Abort() from None
+    except requests.exceptions.RequestException as e:
+        click.echo(
+            f"Error: Failed to download inventory database: {e}",
+            err=True,
+        )
+        raise click.Abort() from None
 
 
 def get_active_station_ids(db_path: Path) -> set:

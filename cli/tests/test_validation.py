@@ -21,7 +21,7 @@ def test_valid_station():
     }
 
     with tempfile.NamedTemporaryFile(
-        mode="w", suffix=".json", delete=False, dir="/tmp"
+        mode="w", suffix=".json", delete=False
     ) as f:
         # Use TEST1.json as filename
         temp_path = Path(f.name)
@@ -46,7 +46,7 @@ def test_invalid_station_missing_required():
     }
 
     with tempfile.NamedTemporaryFile(
-        mode="w", suffix=".json", delete=False, dir="/tmp"
+        mode="w", suffix=".json", delete=False
     ) as f:
         temp_path = Path(f.name)
         temp_path = temp_path.parent / "TEST2.json"
@@ -75,7 +75,7 @@ def test_invalid_latitude():
     }
 
     with tempfile.NamedTemporaryFile(
-        mode="w", suffix=".json", delete=False, dir="/tmp"
+        mode="w", suffix=".json", delete=False
     ) as f:
         temp_path = Path(f.name)
         temp_path = temp_path.parent / "TEST3.json"
@@ -104,7 +104,7 @@ def test_id_filename_mismatch():
     }
 
     with tempfile.NamedTemporaryFile(
-        mode="w", suffix=".json", delete=False, dir="/tmp"
+        mode="w", suffix=".json", delete=False
     ) as f:
         temp_path = Path(f.name)
         temp_path = temp_path.parent / "TEST4.json"
