@@ -1,0 +1,69 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["id", "active", "name", "country", "identifiers", "location", "timezone"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[A-Z0-9$]{5}$",
+      "description": "Meteostat ID (5 characters)"
+    },
+    "active": {
+      "type": "boolean",
+      "description": "Whether the station is active"
+    },
+    "name": {
+      "type": "object",
+      "required": ["en"],
+      "properties": {
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "country": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO 3166-1 alpha-2 country code"
+    },
+    "region": {
+      "type": ["string", "null"],
+      "description": "ISO 3166-2 state or region code"
+    },
+    "identifiers": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "location": {
+      "type": "object",
+      "required": ["latitude", "longitude", "elevation"],
+      "properties": {
+        "latitude": {
+          "type": "number",
+          "minimum": -90,
+          "maximum": 90
+        },
+        "longitude": {
+          "type": "number",
+          "minimum": -180,
+          "maximum": 180
+        },
+        "elevation": {
+          "type": "integer"
+        }
+      },
+      "additionalProperties": false
+    },
+    "timezone": {
+      "type": "string",
+      "minLength": 1
+    }
+  },
+  "additionalProperties": false
+}

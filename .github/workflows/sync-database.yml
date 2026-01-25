@@ -12,19 +12,20 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install -r requirements.txt
+          pip install -e .
+          pip install mysql-to-sqlite3
       - name: Remove stale DB file
         run: rm -f stations.db
       - name: Get inventory data
         run: mysql2sqlite -f stations.db -d ${{ secrets.INVENTORY_DB }} -u ${{ secrets.INVENTORY_USER }} --mysql-password ${{ secrets.INVENTORY_PASSWORD }} -h ${{ secrets.INVENTORY_HOST }}
       - name: Get station data
-        run: python database.py
+        run: janitor sync
       - name: Upload stations database file via FTP
         run: |
           curl -T ./stations.db \
