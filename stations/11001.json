@@ -5,15 +5,16 @@
         "en": "Wolfsegg"
     },
     "country": "AT",
-    "region": "OO",
+    "region": "4",
     "identifiers": {
         "wmo": "11001",
-        "mosmix": "11001"
+        "mosmix": "11001",
+        "national": "111"
     },
     "location": {
-        "latitude": 48.1,
-        "longitude": 13.6833,
-        "elevation": 634
+        "latitude": 48.1054,
+        "longitude": 13.6709,
+        "elevation": 635
     },
     "timezone": "Europe/Vienna"
 }

@@ -2,18 +2,19 @@
     "id": "11194",
     "active": true,
     "name": {
-        "en": "Neusiedl Am See"
+        "en": "Neusiedl am See"
     },
     "country": "AT",
-    "region": "BGLD",
+    "region": "1",
     "identifiers": {
         "wmo": "11194",
-        "mosmix": "11194"
+        "mosmix": "11194",
+        "national": "65"
     },
     "location": {
-        "latitude": 47.95,
-        "longitude": 16.8667,
-        "elevation": 129
+        "latitude": 47.9492,
+        "longitude": 16.8289,
+        "elevation": 117
     },
     "timezone": "Europe/Vienna"
 }

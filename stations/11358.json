@@ -5,14 +5,15 @@
         "en": "Bad Mitterndorf"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11358"
+        "wmo": "11358",
+        "national": "10"
     },
     "location": {
-        "latitude": 47.55,
-        "longitude": 13.95,
-        "elevation": 804
+        "latitude": 47.5533,
+        "longitude": 13.9347,
+        "elevation": 814
     },
     "timezone": "Europe/Vienna"
 }

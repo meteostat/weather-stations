@@ -5,14 +5,15 @@
         "en": "Bad Aussee"
     },
     "country": "AT",
-    "region": "ST",
+    "region": "6",
     "identifiers": {
-        "wmo": "11356"
+        "wmo": "11356",
+        "national": "5"
     },
     "location": {
-        "latitude": 47.6167,
-        "longitude": 13.7833,
-        "elevation": 665
+        "latitude": 47.6105,
+        "longitude": 13.7584,
+        "elevation": 743
     },
     "timezone": "Europe/Vienna"
 }

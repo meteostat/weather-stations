@@ -5,15 +5,16 @@
         "en": "Amstetten"
     },
     "country": "AT",
-    "region": "NO",
+    "region": "3",
     "identifiers": {
         "wmo": "11018",
-        "mosmix": "11018"
+        "mosmix": "11018",
+        "national": "4"
     },
     "location": {
-        "latitude": 48.1167,
-        "longitude": 14.8667,
-        "elevation": 274
+        "latitude": 48.1089,
+        "longitude": 14.895,
+        "elevation": 266
     },
     "timezone": "Europe/Vienna"
 }

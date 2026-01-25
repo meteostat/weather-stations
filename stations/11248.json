@@ -5,15 +5,16 @@
         "en": "Bad Radkersburg"
     },
     "country": "AT",
-    "region": null,
+    "region": "6",
     "identifiers": {
         "wmo": "11248",
-        "mosmix": "11248"
+        "mosmix": "11248",
+        "national": "11"
     },
     "location": {
-        "latitude": 46.6833,
-        "longitude": 15.9833,
-        "elevation": 208
+        "latitude": 46.6922,
+        "longitude": 15.9933,
+        "elevation": 207
     },
     "timezone": "Europe/Vienna"
 }
