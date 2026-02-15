@@ -83,32 +83,3 @@ def create_database(db_path: Optional[Path] = None) -> Path:
     conn.close()
 
     return db_path
-
-
-def query_database(query_str: str, db_path: Optional[Path] = None) -> list:
-    """
-    Execute a SQL query on the stations database.
-
-    Args:
-        query_str: SQL query to execute
-        db_path: Path to the database file. If None, uses stations.db in repo root.
-
-    Returns:
-        List of rows returned by the query.
-    """
-    if db_path is None:
-        db_path = get_repo_root() / "stations.db"
-
-    if not db_path.exists():
-        raise FileNotFoundError(f"Database not found: {db_path}")
-
-    conn = sqlite3.connect(db_path)
-    conn.row_factory = sqlite3.Row  # Enable column access by name
-    cursor = conn.cursor()
-
-    try:
-        cursor.execute(query_str)
-        results = [dict(row) for row in cursor.fetchall()]
-        return results
-    finally:
-        conn.close()

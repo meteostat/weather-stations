@@ -3,9 +3,9 @@
 import math
 
 import click
+import meteostat as ms
 
-from janitor.database import query_database
-from janitor.utils import get_repo_root
+from janitor.utils import get_station_files, read_station
 
 
 @click.command()
@@ -18,21 +18,13 @@ from janitor.utils import get_repo_root
 )
 def duplicates(distance):
     """List potential duplicate stations based on proximity and identifiers."""
-    db_path = get_repo_root() / "stations.db"
-
-    if not db_path.exists():
-        click.echo(
-            "Database not found. Please run 'janitor sync' first.", err=True
-        )
-        raise click.Abort()
-
     click.echo("Searching for potential duplicates...")
 
     # Find duplicates by identifiers
-    identifier_duplicates = find_identifier_duplicates(db_path)
+    identifier_duplicates = find_identifier_duplicates()
 
     # Find duplicates by proximity
-    proximity_duplicates = find_proximity_duplicates(db_path, distance)
+    proximity_duplicates = find_proximity_duplicates(distance)
 
     # Display results
     if identifier_duplicates:
@@ -57,30 +49,41 @@ def duplicates(distance):
         click.echo("✓ No potential duplicates found!")
 
 
-def find_identifier_duplicates(db_path):
+def find_identifier_duplicates():
     """Find stations sharing the same identifier."""
-    query = """
-        SELECT key, value, GROUP_CONCAT(station) as stations
-        FROM identifiers
-        GROUP BY key, value
-        HAVING COUNT(*) > 1
-        ORDER BY key, value
-    """
-    results = query_database(query, db_path)
+    # Build identifier index from local station files
+    identifier_index = {}  # {(key, value): [station_ids]}
 
+    for file_path in get_station_files():
+        try:
+            data = read_station(file_path)
+            if not data.get("active", False):
+                continue
+            station_id = data["id"]
+            for key, value in data.get("identifiers", {}).items():
+                idx_key = (key, value)
+                if idx_key not in identifier_index:
+                    identifier_index[idx_key] = []
+                identifier_index[idx_key].append(station_id)
+        except Exception:
+            continue
+
+    # Find duplicates
     duplicates = []
-    for row in results:
-        stations = row["stations"].split(",")
-        duplicates.append((row["key"], row["value"], stations))
+    for (key, value), stations in sorted(identifier_index.items()):
+        if len(stations) > 1:
+            duplicates.append((key, value, stations))
 
     return duplicates
 
 
-def find_proximity_duplicates(db_path, max_distance_km):
+def find_proximity_duplicates(max_distance_km):
     """Find stations within specified distance of each other."""
-    # Get all stations
-    query = "SELECT id, latitude, longitude FROM stations"
-    stations = query_database(query, db_path)
+    # Get all stations from Meteostat
+    df = ms.stations.query()
+    df = df.reset_index()
+
+    stations = df[["id", "latitude", "longitude"]].to_dict("records")
 
     duplicates = []
 

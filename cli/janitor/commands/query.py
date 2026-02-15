@@ -1,20 +1,13 @@
-"""Query command - Query the stations database."""
+"""Query command - Execute SQL queries on the stations database."""
 
 import json
 
 import click
-
-from janitor.database import query_database
+import meteostat as ms
 
 
 @click.command()
 @click.argument("query_str")
-@click.option(
-    "--database",
-    "-db",
-    type=click.Path(exists=True),
-    help="Path to database file (default: stations.db in repo root)",
-)
 @click.option(
     "--format",
     "-f",
@@ -22,21 +15,20 @@ from janitor.database import query_database
     default="table",
     help="Output format",
 )
-def query(query_str, database, format):
+def query(query_str, format):
     """Execute a SQL query on the stations database.
 
     Example: janitor query "SELECT * FROM stations LIMIT 10"
     """
-    from pathlib import Path
-
-    db_path = Path(database) if database else None
-
     try:
-        results = query_database(query_str, db_path)
+        df = ms.stations.query(query_str)
 
-        if not results:
+        if df.empty:
             click.echo("No results found.")
             return
+
+        df = df.reset_index()
+        results = df.to_dict("records")
 
         if format == "json":
             click.echo(json.dumps(results, indent=2))

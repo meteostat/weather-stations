@@ -27,7 +27,7 @@ setup(
     package_dir={"stations": "lib"},
     packages=["stations"],
     include_package_data=True,
-    install_requires=["meteostat==1.5.7"],
+    install_requires=["meteostat>=2.0.1"],
     license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",

@@ -4,11 +4,11 @@ Generic Helpers
 The code is licensed under the MIT license.
 """
 
-from meteostat import Stations
+import meteostat as ms
 from stations import create_station_dict
 
 
-def find_duplicate(station: dict, stations=Stations()):
+def find_duplicate(station: dict):
     """
     Check if a (similar) station already exists
     """
@@ -16,8 +16,8 @@ def find_duplicate(station: dict, stations=Stations()):
     # Merge station data with template
     station = create_station_dict(station)
 
-    # Get all weather df
-    df = stations.fetch()
+    # Get all weather stations
+    df = ms.stations.query()
 
     # Get key fields
     wmo = station["identifiers"]["wmo"] if "wmo" in station["identifiers"] else None
@@ -38,9 +38,9 @@ def find_duplicate(station: dict, stations=Stations()):
         return df[df["icao"] == icao].reset_index().to_dict("records")[0]
 
     # Last, check for proximity
-    stations = stations.nearby(lat, lon, 10000)
-    if stations.count() > 0:
-        result = stations.fetch(1).reset_index().to_dict("records")[0]
+    nearby_df = ms.stations.query(lat=lat, lon=lon, radius=10000)
+    if len(nearby_df) > 0:
+        result = nearby_df.head(1).reset_index().to_dict("records")[0]
         return (
             result
             if abs(result["elevation"] - station["location"]["elevation"]) <= 50

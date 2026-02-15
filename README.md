@@ -16,7 +16,7 @@ This repository includes a CLI tool called **Janitor** for managing weather stat
 ### Installation
 
 ```bash
-pip install -e .
+uv tool install janitor --from . --reinstall
 ```
 
 ### Commands
