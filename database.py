@@ -29,9 +29,6 @@ for dirpath, dirnames, filenames in os.walk(STATIONS_PATH):
         # Read file and parse JSON
         with open(os.path.join(dirpath, filename), "r", encoding="utf-8") as f:
             data: dict = json.load(f)
-        # Skip inactive stations
-        if data.get("active", False) is False:
-            continue
         # Insert into stations
         cursor.execute(
             """INSERT INTO `stations` VALUES (?, ?, ?, ?, ?, ?, ?)""",
