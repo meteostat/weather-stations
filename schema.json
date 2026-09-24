@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "object",
-  "required": ["id", "name", "country", "identifiers", "location", "timezone"],
+  "required": ["id", "name", "country", "region", "identifiers", "location", "timezone"],
   "properties": {
     "id": {
       "type": "string",
