@@ -15,7 +15,6 @@ This repository maintains a comprehensive list of public weather stations worldw
 Each weather station JSON file must include:
 
 - `id`: Meteostat ID (String)
-- `active`: Boolean indicating if station is active
 - `name`: Object with names in different languages (at least "en")
 - `country`: ISO 3166-1 alpha-2 country code (String)
 - `region`: ISO 3166-2 state/region code (String or null)
