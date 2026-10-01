@@ -22,9 +22,44 @@ jobs:
       - name: Remove stale DB file
         run: rm -f stations.db
       - name: Get inventory data
-        run: mysql2sqlite -f stations.db -d ${{ secrets.INVENTORY_DB }} -u ${{ secrets.INVENTORY_USER }} --mysql-password ${{ secrets.INVENTORY_PASSWORD }} -h ${{ secrets.INVENTORY_HOST }}
+        run: mysql2sqlite -f stations.db -t inventory -d ${{ secrets.INVENTORY_DB }} -u ${{ secrets.INVENTORY_USER }} --mysql-password ${{ secrets.INVENTORY_PASSWORD }} -h ${{ secrets.INVENTORY_HOST }}
       - name: Get station data
         run: python database.py
+      - name: Prepare station meta data for export
+        run: |
+          python - <<'EOF'
+          import shutil, sqlite3
+          shutil.copy('stations.db', '${{ runner.temp }}/export.db')
+          conn = sqlite3.connect('${{ runner.temp }}/export.db')
+          conn.execute('ALTER TABLE `stations` RENAME TO `stations_import`')
+          conn.execute('ALTER TABLE `names` RENAME TO `stations_names_import`')
+          conn.execute('ALTER TABLE `identifiers` RENAME TO `stations_identifiers_import`')
+          conn.commit()
+          conn.close()
+          EOF
+      - name: Insert station meta data into staging tables
+        env:
+          MYSQL_PWD: ${{ secrets.INVENTORY_PASSWORD }}
+        run: |
+          mysql -h ${{ secrets.INVENTORY_HOST }} -u ${{ secrets.INVENTORY_USER }} ${{ secrets.INVENTORY_DB }} <<'EOF'
+          DROP TABLE IF EXISTS `stations_import`, `stations_names_import`, `stations_identifiers_import`;
+          EOF
+          sqlite3mysql -f ${{ runner.temp }}/export.db -t stations_import stations_names_import stations_identifiers_import -d ${{ secrets.INVENTORY_DB }} -u ${{ secrets.INVENTORY_USER }} --mysql-password ${{ secrets.INVENTORY_PASSWORD }} -h ${{ secrets.INVENTORY_HOST }}
+      - name: Swap staging tables into place
+        env:
+          MYSQL_PWD: ${{ secrets.INVENTORY_PASSWORD }}
+        run: |
+          mysql -h ${{ secrets.INVENTORY_HOST }} -u ${{ secrets.INVENTORY_USER }} ${{ secrets.INVENTORY_DB }} <<'EOF'
+          CREATE TABLE IF NOT EXISTS `stations` LIKE `stations_import`;
+          CREATE TABLE IF NOT EXISTS `stations_names` LIKE `stations_names_import`;
+          CREATE TABLE IF NOT EXISTS `stations_identifiers` LIKE `stations_identifiers_import`;
+          DROP TABLE IF EXISTS `stations_old`, `stations_names_old`, `stations_identifiers_old`;
+          RENAME TABLE
+            `stations` TO `stations_old`, `stations_import` TO `stations`,
+            `stations_names` TO `stations_names_old`, `stations_names_import` TO `stations_names`,
+            `stations_identifiers` TO `stations_identifiers_old`, `stations_identifiers_import` TO `stations_identifiers`;
+          DROP TABLE `stations_old`, `stations_names_old`, `stations_identifiers_old`;
+          EOF
       - name: Upload stations database file via FTP
         run: |
           curl -T ./stations.db \
