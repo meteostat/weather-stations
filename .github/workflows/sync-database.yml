@@ -51,3 +51,12 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+      - name: Import stations into remote database
+        env:
+          WEBHOOK_URL: ${{ vars.STATIONS_IMPORT_URL }}
+          WEBHOOK_USER: ${{ secrets.STATIONS_IMPORT_USER }}
+          WEBHOOK_PASSWORD: ${{ secrets.STATIONS_IMPORT_PASSWORD }}
+        run: |
+          curl --fail-with-body --silent --show-error --max-time 300 -X POST \
+            --user "$WEBHOOK_USER:$WEBHOOK_PASSWORD" \
+            "$WEBHOOK_URL"
