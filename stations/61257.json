@@ -7,14 +7,15 @@
     "region": "1",
     "identifiers": {
         "wmo": "61257",
-        "icao": "GAKY",
+        "icao": "GAKD",
         "iata": "KYS",
-        "ghcn": "MLM00061257"
+        "ghcn": "MLM00061257",
+        "usaf": "612570"
     },
     "location": {
-        "latitude": 14.4333,
-        "longitude": -11.4333,
-        "elevation": 47
+        "latitude": 14.4817,
+        "longitude": -11.4047,
+        "elevation": 48
     },
     "timezone": "Africa/Bamako"
 }
