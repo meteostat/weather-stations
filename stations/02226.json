@@ -1,15 +1,17 @@
 {
     "id": "02226",
     "name": {
-        "de": "Ostersund Froson Flughafen",
-        "en": "Ostersund Froson Airport",
-        "sv": "Ostersund Froson Flygplats"
+        "de": "Åre Östersund Flughafen",
+        "en": "Åre Östersund Airport",
+        "sv": "Åre Östersund Flygplats"
     },
     "country": "SE",
     "region": "Z",
     "identifiers": {
         "wmo": "02226",
-        "icao": "ESPC",
+        "icao": "ESNZ",
+        "iata": "OSD",
+        "usaf": "022260",
         "ghcn": "SWE00100026",
         "mosmix": "02226"
     },
