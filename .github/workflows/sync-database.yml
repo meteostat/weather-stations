@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install "meteostat-cli[contrib]"
+          python -m pip install "meteostat-cli[contrib]>=0.5.0"
       - name: Build stations database
         run: meteo station build --repo . --output ${{ runner.temp }}/stations.db
       - name: Keep inventory data
@@ -40,6 +40,14 @@ jobs:
             --user "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}" \
             -Q "-RNFR stations.db.tmp" -Q "-RNTO stations.db" \
             "ftp://${{ secrets.FTP_HOST }}/stations.db.tmp"
+      - name: Build stations Parquet file
+        run: meteo station build --repo . --format parquet --output ${{ runner.temp }}/stations.parquet
+      - name: Upload stations Parquet file via FTP
+        run: |
+          curl -T ${{ runner.temp }}/stations.parquet \
+            --user "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}" \
+            -Q "-RNFR stations.parquet.tmp" -Q "-RNTO stations.parquet" \
+            "ftp://${{ secrets.FTP_HOST }}/stations.parquet.tmp"
       - name: Commit Files
         run: |
           git config --local user.email "${{ vars.GIT_EMAIL }}"
