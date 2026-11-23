@@ -27,7 +27,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install "meteostat-cli[contrib]"
+          python -m pip install "meteostat-cli[contrib]>=0.5.0"
       - name: Build stations database
         run: meteo station build --repo . --output ${{ runner.temp }}/stations.db
       - name: Keep inventory data
@@ -40,41 +40,8 @@ jobs:
             --user "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}" \
             -Q "-RNFR stations.db.tmp" -Q "-RNTO stations.db" \
             "ftp://${{ secrets.FTP_HOST }}/stations.db.tmp"
-      - name: Install DuckDB
-        run: |
-          curl -fsSL https://install.duckdb.org | bash
-          echo "$HOME/.duckdb/cli/latest" >> "$GITHUB_PATH"
       - name: Build stations Parquet file
-        run: |
-          duckdb <<SQL
-          INSTALL sqlite;
-          LOAD sqlite;
-          ATTACH 'stations.db' AS db (TYPE sqlite, READ_ONLY);
-          COPY (
-            SELECT
-              s.id,
-              e.name,
-              n.names,
-              s.country,
-              s.region,
-              s.latitude::DOUBLE AS latitude,
-              s.longitude::DOUBLE AS longitude,
-              s.elevation::SMALLINT AS elevation,
-              s.timezone,
-              i.identifiers
-            FROM db.stations s
-            LEFT JOIN db.names e ON e.station = s.id AND e.language = 'en'
-            LEFT JOIN (
-              SELECT station, MAP(list(language ORDER BY language), list(name ORDER BY language)) AS names
-              FROM db.names WHERE language <> 'en' GROUP BY station
-            ) n ON n.station = s.id
-            LEFT JOIN (
-              SELECT station, MAP(list(key ORDER BY key), list(value ORDER BY key)) AS identifiers
-              FROM db.identifiers GROUP BY station
-            ) i ON i.station = s.id
-            ORDER BY s.id
-          ) TO '${{ runner.temp }}/stations.parquet' (FORMAT parquet, COMPRESSION zstd, ROW_GROUP_SIZE 1000000);
-          SQL
+        run: meteo station build --repo . --format parquet --output ${{ runner.temp }}/stations.parquet
       - name: Upload stations Parquet file via FTP
         run: |
           curl -T ${{ runner.temp }}/stations.parquet \
