@@ -20,21 +20,74 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.12'
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install mysql-to-sqlite3
+          python -m pip install mysql-to-sqlite3 pyarrow
       - name: Remove stale inventory data
         run: python -c "import sqlite3; c = sqlite3.connect('stations.db'); c.execute('DROP TABLE IF EXISTS inventory'); c.commit()"
       - name: Get inventory data
         run: mysql2sqlite -f stations.db -t inventory -d ${{ secrets.INVENTORY_DB }} -u ${{ secrets.INVENTORY_USER }} --mysql-password ${{ secrets.INVENTORY_PASSWORD }} -h ${{ secrets.INVENTORY_HOST }}
+      - name: Build inventory Parquet file
+        run: |
+          python - "${{ runner.temp }}/inventory.parquet" <<'PY'
+          import sqlite3
+          import sys
+          from datetime import date
+
+          import pyarrow as pa
+          import pyarrow.parquet as pq
+
+          rows = sqlite3.connect("stations.db").execute(
+              'SELECT station, provider, parameter, start, "end", completeness '
+              "FROM inventory ORDER BY station, provider, parameter"
+          ).fetchall()
+          schema = pa.schema([
+              pa.field("station", pa.string(), nullable=False),
+              pa.field("provider", pa.string(), nullable=False),
+              pa.field("parameter", pa.string(), nullable=False),
+              pa.field("start", pa.date32()),
+              pa.field("end", pa.date32()),
+              pa.field("completeness", pa.uint8()),
+          ])
+
+
+          def day(value):
+              return date.fromisoformat(value) if value else None
+
+
+          table = pa.Table.from_pylist(
+              [
+                  dict(zip(schema.names, (st, pr, pa_, day(s), day(e), c)))
+                  for st, pr, pa_, s, e, c in rows
+              ],
+              schema=schema,
+          )
+          # Sorted by station, so row group statistics let readers skip most
+          # of the file when they only need a few stations.
+          pq.write_table(
+              table,
+              sys.argv[1],
+              compression="zstd",
+              compression_level=19,
+              use_dictionary=["provider", "parameter"],
+              row_group_size=16384,
+          )
+          print(f"Wrote {table.num_rows} inventory rows")
+          PY
       - name: Upload stations database file via FTP
         run: |
           curl -T ./stations.db \
             --user "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}" \
             -Q "-RNFR stations.db.tmp" -Q "-RNTO stations.db" \
             "ftp://${{ secrets.FTP_HOST }}/stations.db.tmp"
+      - name: Upload inventory Parquet file via FTP
+        run: |
+          curl -T ${{ runner.temp }}/inventory.parquet \
+            --user "${{ secrets.FTP_USER }}:${{ secrets.FTP_PASSWORD }}" \
+            -Q "-RNFR inventory.parquet.tmp" -Q "-RNTO inventory.parquet" \
+            "ftp://${{ secrets.FTP_HOST }}/inventory.parquet.tmp"
       - name: Commit Files
         run: |
           git config --local user.email "${{ vars.GIT_EMAIL }}"

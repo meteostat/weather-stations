@@ -14,6 +14,15 @@ The station metadata is also available as a [**SQLite database**](https://data.m
 SELECT id, latitude, longitude FROM 'https://data.meteostat.net/stations.parquet';
 ```
 
+Inventory data is published as a separate [**Parquet file**](https://data.meteostat.net/inventory.parquet) with one row per station, provider and parameter. It provides the columns `station`, `provider`, `parameter`, `start`, `end` (dates) and `completeness` (percent). The file is sorted by station, so readers only download the parts they need when filtering by station:
+
+```sql
+-- DuckDB
+SELECT provider, parameter, start, "end", completeness
+FROM 'https://data.meteostat.net/inventory.parquet'
+WHERE station = '10637';
+```
+
 Additional information about the Meteostat bulk data interface is available in the [documentation](https://dev.meteostat.net/bulk).
 
 ## Data Structure
