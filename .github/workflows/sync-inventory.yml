@@ -34,7 +34,6 @@ jobs:
           python - "${{ runner.temp }}/inventory.parquet" <<'PY'
           import sqlite3
           import sys
-          from datetime import date
 
           import pyarrow as pa
           import pyarrow.parquet as pq
@@ -51,19 +50,16 @@ jobs:
               pa.field("end", pa.date32()),
               pa.field("completeness", pa.uint8()),
           ])
-
-
-          def day(value):
-              return date.fromisoformat(value) if value else None
-
-
-          table = pa.Table.from_pylist(
-              [
-                  dict(zip(schema.names, (st, pr, pa_, day(s), day(e), c)))
-                  for st, pr, pa_, s, e, c in rows
-              ],
-              schema=schema,
-          )
+          # Build the table column by column; dates arrive as ISO strings from
+          # SQLite and are parsed by Arrow when casting to date32.
+          columns = zip(*rows) if rows else [[]] * len(schema)
+          arrays = [
+              pa.array(values, pa.string()).cast(field.type)
+              if field.type == pa.date32()
+              else pa.array(values, field.type)
+              for field, values in zip(schema, columns)
+          ]
+          table = pa.Table.from_arrays(arrays, schema=schema)
           # Sorted by station, so row group statistics let readers skip most
           # of the file when they only need a few stations.
           pq.write_table(
