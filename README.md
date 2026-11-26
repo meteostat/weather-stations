@@ -7,11 +7,22 @@ You can download the list of weather stations, including Meteostat inventory dat
 * [**Full dump**](https://bulk.meteostat.net/v2/stations/full.json.gz) with all weather stations
 * [**Lite dump**](https://bulk.meteostat.net/v2/stations/lite.json.gz) with active weather stations only
 
-The station metadata is also available as a [**SQLite database**](https://data.meteostat.net/stations.db) and as a [**Parquet file**](https://data.meteostat.net/stations.parquet). The Parquet file holds one row per station with the columns `id`, `name` (English), `names` (map of other languages), `country`, `region`, `latitude`, `longitude`, `elevation`, `timezone` and `identifiers` (map of identifier keys to values, e.g. `identifiers['icao']`). Parquet readers can fetch only the columns they need via HTTP range requests:
+The station metadata is also available as a [**SQLite database**](https://data.meteostat.net/stations.db) and as a [**Parquet file**](https://data.meteostat.net/stations.parquet).
+The Parquet file holds one row per station with the columns `id`, `name` (English), `names` (map of other languages), `country`, `region`, `latitude`, `longitude`, `elevation`, `timezone` and `identifiers` (map of identifier keys to values, e.g. `identifiers['icao']`).
+Parquet readers can fetch only the columns they need via HTTP range requests:
 
 ```sql
 -- DuckDB
 SELECT id, latitude, longitude FROM 'https://data.meteostat.net/stations.parquet';
+```
+
+Inventory data is published as a separate [**Parquet file**](https://data.meteostat.net/inventory.parquet) with one row per station, provider and parameter. It provides the columns `station`, `provider`, `parameter`, `start`, `end` (dates) and `completeness` (percent). The file is sorted by station, so readers only download the parts they need when filtering by station:
+
+```sql
+-- DuckDB
+SELECT provider, parameter, start, "end", completeness
+FROM 'https://data.meteostat.net/inventory.parquet'
+WHERE station = '10637';
 ```
 
 Additional information about the Meteostat bulk data interface is available in the [documentation](https://dev.meteostat.net/bulk).
